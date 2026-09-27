@@ -3,4 +3,4 @@
 - `hkt48/` — glossary, cast index, stage templates, and curated source notes for HKT48 subtitling
 - `skills/` — reusable workflow guides (Japanese-audio→English ASS pipeline; idol-show talk-segment finder)
 
-Completed deliverables will later live under `subs/[year]/[type]/`. Media is not stored in git.
+Published stage ASS files live under `shows/stages/[year]/` at the repo root. Other completed deliverables will use `subs/[type]/[year]/` (year optional when a type has no yearly split). Media is not stored in git.
