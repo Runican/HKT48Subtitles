@@ -1,0 +1,322 @@
+{
+  "updated": "2026-09-26T00:18:41+02:00",
+  "members": [
+    {
+      "id": "yasui-hina",
+      "en_full": "Yasui Hina",
+      "ja": "安井妃奈",
+      "nicks": [
+        "Hina-tan",
+        "ひなたん",
+        "ひな"
+      ],
+      "team": "KIV",
+      "gen": "6th",
+      "lookalikes": [
+        {
+          "name": "Aoki Hinako",
+          "ja": "青木日菜子",
+          "why": "ASR often emits 青木ひなた / Hinako for Hina-tan"
+        }
+      ],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/116"
+    },
+    {
+      "id": "aoki-hinako",
+      "en_full": "Aoki Hinako",
+      "ja": "青木日菜子",
+      "nicks": [
+        "Hina",
+        "ひな"
+      ],
+      "team": "kenkyuusei",
+      "gen": "7th",
+      "lookalikes": [
+        {
+          "name": "Yasui Hina",
+          "ja": "安井妃奈",
+          "why": "ASR trap when speaker is Team KIV Hina-tan"
+        }
+      ],
+      "shows": [],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/118"
+    },
+    {
+      "id": "yoshida-mei",
+      "en_full": "Yoshida Mei",
+      "ja": "吉田めい",
+      "nicks": [
+        "Mei-mei",
+        "めいめい"
+      ],
+      "team": "kenkyuusei",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://sp.hkt48.jp/qhkt48_profile?id=132"
+    },
+    {
+      "id": "ishii-ayane",
+      "en_full": "Ishii Ayane",
+      "ja": "石井彩音",
+      "nicks": [
+        "Aa-tan",
+        "あーたん"
+      ],
+      "team": "kenkyuusei",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://akb48-blog.net/hkt48member-7kisei/",
+      "note": "Catchphrase あやねいろ / Ayane iro — never Ayane-ira."
+    },
+    {
+      "id": "ishikawa-amiyu",
+      "en_full": "Ishikawa Amiyu",
+      "ja": "石川歩実優",
+      "nicks": [
+        "Amiyun",
+        "あみゆん"
+      ],
+      "team": "kenkyuusei",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/120",
+      "note": "Official 石川歩実優 (not 彩友). Shiritori intro: 小悪魔→真心→ロングヘア→あみゆん; 福岡のラッキーガールは→あみゆん."
+    },
+    {
+      "id": "nakano-minami",
+      "en_full": "Nakano Minami",
+      "ja": "中野南実",
+      "nicks": [
+        "Mii-na",
+        "みーな",
+        "ミナミ"
+      ],
+      "team": "kenkyuusei",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/127",
+      "note": "Mic gag: crowd answers south / south-facing / southwest — not Minami-no-ki mash."
+    },
+    {
+      "id": "morisaki-saaya",
+      "en_full": "Morisaki Saaya",
+      "ja": "森﨑冴彩",
+      "nicks": [
+        "Saa-chan",
+        "さあや",
+        "さーちゃん"
+      ],
+      "team": "KIV",
+      "gen": "6th",
+      "lookalikes": [],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/115",
+      "note": "Official 森﨑冴彩. Catch: published （熊本だけんよろしくね）; live Saka Agari this LOD uses 逆上がり公演よろしくね — see saaya-catchcopy / q-20260926-002."
+    },
+    {
+      "id": "tanaka-iori",
+      "en_full": "Tanaka Iori",
+      "ja": "田中伊桜莉",
+      "nicks": [
+        "Iori",
+        "いおり",
+        "Ii-ko",
+        "いーこ"
+      ],
+      "team": "KIV",
+      "gen": "5th",
+      "lookalikes": [],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/88",
+      "note": "Official nick いおり; stage/MC also uses Ii-ko. Birthday Aug 31 = Vegetable Day + cucumber gag (not blood type)."
+    },
+    {
+      "id": "fujino-kokoha",
+      "en_full": "Fujino Kokoha",
+      "ja": "藤野心葉",
+      "nicks": [
+        "Kokoha",
+        "ここは"
+      ],
+      "team": "H",
+      "gen": "6th",
+      "lookalikes": [
+        {
+          "name": "Eguchi Kokoha",
+          "ja": "江口心々華",
+          "why": "Same given-name reading; Eguchi nick is ここちゃん not ここは. ASR 藤子≈藤野."
+        }
+      ],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/112",
+      "note": "Intro catch ここはどこ？私は誰？せーの→ここは！ See kokoha-catchcopy / q-20260926-001. Reject Koko-heart."
+    },
+    {
+      "id": "eguchi-kokoha",
+      "en_full": "Eguchi Kokoha",
+      "ja": "江口心々華",
+      "nicks": [
+        "Koko-chan",
+        "ここちゃん"
+      ],
+      "team": "KIV",
+      "gen": "6th",
+      "lookalikes": [
+        {
+          "name": "Fujino Kokoha",
+          "ja": "藤野心葉",
+          "why": "Do not map spoken ここは to Eguchi"
+        }
+      ],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/104"
+    },
+    {
+      "id": "kitagawa-hiiro",
+      "en_full": "Kitagawa Hiiro",
+      "ja": "北川陽彩",
+      "nicks": [
+        "Hiiro",
+        "ひいろ"
+      ],
+      "team": "H",
+      "gen": "6th",
+      "lookalikes": [],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/108",
+      "note": "ASR ピーロ → ひいろ."
+    },
+    {
+      "id": "matsunaga-yui",
+      "en_full": "Matsunaga Yui",
+      "ja": "松永悠良",
+      "nicks": [
+        "Yui-pan",
+        "ゆいぱん",
+        "Yui"
+      ],
+      "team": "H",
+      "gen": "7th",
+      "lookalikes": [
+        {
+          "name": "Ishimatsu Yuina",
+          "why": "Also ゆい-ish nick; context Yui-pan / 7th usually Matsunaga"
+        }
+      ],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/129",
+      "note": "Official YUI; reject Yuuri for ASR ゆうり."
+    },
+    {
+      "id": "baba-sayaka",
+      "en_full": "Baba Sayaka",
+      "ja": "馬場彩華",
+      "nicks": [
+        "Sayamaru",
+        "さやまる"
+      ],
+      "team": null,
+      "gen": "draft-3rd",
+      "lookalikes": [],
+      "shows": [],
+      "status": "graduate",
+      "source": "https://48pedia.org/%E9%A6%AC%E5%A0%B4%E5%BD%A9%E8%8F%AF"
+    },
+    {
+      "id": "oda-ayaka",
+      "en_full": "Oda Ayaka",
+      "ja": "小田彩加",
+      "nicks": [
+        "Oda-chan",
+        "おだちゃん",
+        "ODA"
+      ],
+      "team": null,
+      "gen": "4th",
+      "lookalikes": [],
+      "shows": [],
+      "status": "graduate",
+      "source": "https://www.hkt48.jp/news/2023/08/9103"
+    },
+    {
+      "id": "ihara-hanna",
+      "en_full": "Ihara Hanna",
+      "ja": "猪原絆愛",
+      "nicks": [
+        "Han-chan",
+        "はんちゃん"
+      ],
+      "team": "KIV",
+      "gen": "6th",
+      "lookalikes": [
+        {
+          "name": "井原華奈那",
+          "why": "Wrong kanji once seeded; official is 猪原絆愛"
+        }
+      ],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/103",
+      "note": "Catchphrase 絆で繋いだみんなの愛 / はんちゃかちゃん. Official HANNA IHARA."
+    },
+    {
+      "id": "matsumoto-moka",
+      "en_full": "Matsumoto Moka",
+      "ja": "松本苺花",
+      "nicks": [
+        "Moka-pi",
+        "もかぴ"
+      ],
+      "team": "kenkyuusei",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Saka Agari"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/130",
+      "note": "Meoto-iwa reading gag with Ishii Ayane in clip — not official unit name."
+    }
+  ]
+}

@@ -1,0 +1,1932 @@
+{
+  "domain": "HKT48",
+  "notes": "Stable English forms for member names/nicks. Prefer nick when spoken as nick; full name when clearly spoken as such. Do not invent dialogue. Full-clip pass 2026-09-22 large-v3; locked Saaya/Ii-ko/Saka Agari/Rino forms applied.\nLocked: Minami mic gag = crowd answers south/south-facing/southwest (not Minami-no-ki mash).\nLocked: Keep「沙耶ちゃんの話」/It's Saa-chan's story as its own cue before mic-cover sentence.\nLocked: Mei-mei 「正岡子規」 setup + Ayane 「肩おかしき」 pun (not ASR mush). Keep poet name vs romaji kata okashiki distinct.\nClip4 2026-09-24T10:27:16+02:00: added provisional songs ['song-fugiri', 'song-hanpa-na-ikemen', 'song-to-be-continued'].\nLocked 2026-09-27 Himawarigumi LOD distill: Yuina (Ishimatsu ゆいな) ≠ Yuuna (Yamauchi ゆうな) — never collapse to Yuna; Fujikoko when ふじここ spoken (not bare Kokoha); Sae≠Saaya ASR trap; Saaya live 3rd = Saka Agari show (公演); Kokoha catch = Kokoha! not Koko-heart; overlap mash → split by ear; quiet ghosts delete.",
+  "entries": [
+    {
+      "id": "hkt48",
+      "ja": [
+        "HKT48",
+        "エイチケーティー",
+        "エイチケーティーフォーティーエイト"
+      ],
+      "en": "HKT48",
+      "en_full": "HKT48",
+      "type": "group",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "team-h",
+      "ja": [
+        "チームH",
+        "チームエイチ"
+      ],
+      "en": "Team H",
+      "en_full": "Team H",
+      "type": "team",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "team-kiv",
+      "ja": [
+        "チームKIV",
+        "チームケイフォー"
+      ],
+      "en": "Team KIV",
+      "en_full": "Team KIV",
+      "type": "team",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "kenkyuusei",
+      "ja": [
+        "研究生",
+        "けんきゅうせい"
+      ],
+      "en": "Kenkyuusei",
+      "en_full": "Kenkyuusei",
+      "type": "team",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "ikuno-rina",
+      "ja": [
+        "生野莉奈",
+        "生野",
+        "いくの",
+        "いくのちゃん",
+        "イクノ"
+      ],
+      "en": "Ikuno-chan",
+      "en_full": "Ikuno Rina",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "ishibashi-ibuki",
+      "ja": [
+        "石橋颯",
+        "石橋",
+        "いぶき",
+        "イブキ"
+      ],
+      "en": "Ibuki",
+      "en_full": "Ishibashi Ibuki",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "ishimatsu-yuina",
+      "ja": [
+        "石松結菜",
+        "石松",
+        "ゆいな",
+        "ゆいちゃん",
+        "ユイナ",
+        "ゆいなさん",
+        "ゆいなちゃん"
+      ],
+      "en": "Yuina",
+      "en_full": "Ishimatsu Yuina",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "Yuuna",
+        "Yuna",
+        "ゆうな",
+        "ユウナ",
+        "Yui-chan as default for Yuina"
+      ],
+      "note": "Ishimatsu Yuina (石松結菜). Spoken ゆいな → EN **Yuina** / Yuina-san / Yuina-chan. ≠ Yamauchi Yuuna (ゆうな). Whisper often emits ゆうな/ゆういな/Yuna — verify per beat; never global-replace. Default ASS nick: Yuina (not Yui-chan unless that nick is actually spoken).",
+      "confidence": "high",
+      "locked": true,
+      "updated": "2026-09-27T01:33:20+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "ichimura-airi",
+      "ja": [
+        "市村愛里",
+        "市村",
+        "あいり",
+        "あいちー",
+        "アイチー"
+      ],
+      "en": "Ai-chii",
+      "en_full": "Ichimura Airi",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "kitagawa-hiiro",
+      "ja": [
+        "北川陽彩",
+        "北川",
+        "ひいろ",
+        "ヒイロ",
+        "ひいろちゃん",
+        "ひいこ",
+        "ヒーコ",
+        "ひーこ"
+      ],
+      "en": "Hiiro",
+      "en_full": "Kitagawa Hiiro",
+      "type": "member",
+      "team": "H",
+      "reject": [
+        "ピーロ",
+        "Piiro"
+      ],
+      "note": "Official nick ひいろ / HIIRO (Team H, 6th). Catchphrase uses ヒーロー (hero) — fans may say ヒーローちゃん, but ASS default is Hiiro. Clip3 ASR ピーロちゃん → ひいろちゃん mush. Nick Hiiko; bread pun Hiiko-pan.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-24T11:34:50+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kurihara-sae",
+      "ja": [
+        "栗原紗英",
+        "栗原",
+        "さえ",
+        "さえちゃん",
+        "サエ"
+      ],
+      "en": "Sae-chan",
+      "en_full": "Kurihara Sae",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "Saaya",
+        "さあや",
+        "Saa-chan when さえさん spoken"
+      ],
+      "note": "Kurihara Sae (さえ). Whisper often writes さあやさん for さえさん. ≠ Morisaki Saaya. Lock from ear; Sae-san / Sae-chan as spoken.",
+      "confidence": "high",
+      "locked": true,
+      "updated": "2026-09-27T01:33:20+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "shibui-mina",
+      "ja": [
+        "渋井美奈",
+        "渋井",
+        "みな",
+        "しぶいちゃん",
+        "シブイ"
+      ],
+      "en": "Shibui-chan",
+      "en_full": "Shibui Mina",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "toyonaga-aki",
+      "ja": [
+        "豊永阿紀",
+        "豊永",
+        "あき",
+        "アキ"
+      ],
+      "en": "Aki",
+      "en_full": "Toyonaga Aki",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "fujino-kokoha",
+      "ja": [
+        "藤野心葉",
+        "藤野",
+        "ここは",
+        "ココハ",
+        "ここはさん",
+        "ここはくん",
+        "ふじここ",
+        "フジココ",
+        "Fujikoko"
+      ],
+      "en": "Kokoha",
+      "en_full": "Fujino Kokoha",
+      "type": "member",
+      "team": "H",
+      "reject": [
+        "Eguchi Kokoha",
+        "江口心々華",
+        "ここちゃん",
+        "Koko-chan",
+        "藤子",
+        "藤子子",
+        "Koko-heart",
+        "Koko heart",
+        "ココハート",
+        "ここはーと as heart"
+      ],
+      "note": "Official nick ここは (Team H, 6th). ASR often 藤子/藤子子 from 藤野. Clip2 End Roll / Ai no Iro / snort beats (~1:09:18) + prior Nene-story ここは → this member. EN: Kokoha (drop くん tease unless tone needs Kokoha-kun). Nick Fujikoko (ふじここ) confirmed spoken 2026-09-24. Intro catch: see kokoha-catchcopy. REJECT Koko-heart (誤読 of elongated ここはーと; と is quotative). Himawarigumi mc review: when members say ふじここさん, ASS **Fujikoko** / Fujikoko-san — do not normalize to bare Kokoha on those address lines.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T01:33:20+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "fuchigami-mai",
+      "ja": [
+        "渕上舞",
+        "渕上",
+        "まい",
+        "まいちゃん",
+        "マイ"
+      ],
+      "en": "Mai-chan",
+      "en_full": "Fuchigami Mai",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "yanase-reia",
+      "ja": [
+        "梁瀬鈴雅",
+        "梁瀬",
+        "れいあ",
+        "レイア"
+      ],
+      "en": "Reia",
+      "en_full": "Yanase Reia",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "yamauchi-yuna",
+      "ja": [
+        "山内祐奈",
+        "山内",
+        "ゆうな",
+        "ユウナ",
+        "ゆーな",
+        "ゆうなさん",
+        "ゆうなちゃん",
+        "祐奈"
+      ],
+      "en": "Yuuna",
+      "en_full": "Yamauchi Yuna",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "Yuina",
+        "Yuna as ambiguous default",
+        "ゆいな"
+      ],
+      "note": "Yamauchi Yuna / EN nick **Yuuna** (ゆうな/ゆーな). ≠ Ishimatsu Yuina. Same show may contain both; lock per beat from cast+ear. Reject collapsing to bare Yuna in ASS.",
+      "confidence": "high",
+      "locked": true,
+      "updated": "2026-09-27T01:33:20+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "akiyoshi-yuka",
+      "ja": [
+        "秋吉優花",
+        "秋吉",
+        "ゆか",
+        "ゆかちゃん",
+        "ユカ"
+      ],
+      "en": "Yuka-chan",
+      "en_full": "Akiyoshi Yuka",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "izawa-miyu",
+      "ja": [
+        "井澤美優",
+        "井澤",
+        "みゆ",
+        "ざわちゃん",
+        "ザワチャン"
+      ],
+      "en": "Zawa-chan",
+      "en_full": "Izawa Miyu",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "ihara-hanna",
+      "ja": [
+        "猪原絆愛",
+        "猪原",
+        "はんな",
+        "はんちゃん",
+        "ハンナ"
+      ],
+      "en": "Han-chan",
+      "en_full": "Ihara Hanna",
+      "type": "member",
+      "team": "KIV",
+      "reject": [
+        "井原華奈那",
+        "井原",
+        "Ihara Hanana",
+        "Inoue Hanna"
+      ],
+      "note": "Official 猪原絆愛 / HANNA IHARA / nick はんちゃん (Team KIV, 6th). Prior seed 井原華奈那 was lookalike-trap wrong kanji — never use. Catchphrase: 絆で繋いだみんなの愛 → はんちゃかちゃん.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-25T17:42:07+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "imamura-maria",
+      "ja": [
+        "今村麻莉愛",
+        "今村",
+        "まりあ",
+        "まあさん",
+        "マーサン"
+      ],
+      "en": "Maa-san",
+      "en_full": "Imamura Maria",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "eguchi-kokoha",
+      "ja": [
+        "江口心々華",
+        "江口",
+        "ここちゃん",
+        "ココちゃん"
+      ],
+      "en": "Koko-chan",
+      "en_full": "Eguchi Kokoha",
+      "type": "member",
+      "team": "KIV",
+      "reject": [
+        "ここは",
+        "Kokoha",
+        "藤野心葉"
+      ],
+      "note": "Official nick ここちゃん (Team KIV, 6th) — not ここは. Lookalike trap when ASR/MC says ここは; that maps to Fujino Kokoha.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T22:43:37+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ouchi-rinka",
+      "ja": [
+        "大内梨果",
+        "大内",
+        "りんか",
+        "リンカ"
+      ],
+      "en": "Rinka",
+      "en_full": "Ouchi Rinka",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "oba-risaki",
+      "ja": [
+        "大庭凜咲",
+        "大庭",
+        "りさき",
+        "リサキ"
+      ],
+      "en": "Risaki",
+      "en_full": "Oba Risaki",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "kuriyama-rina",
+      "ja": [
+        "栗山梨奈",
+        "栗山",
+        "りな",
+        "リナ"
+      ],
+      "en": "Rina",
+      "en_full": "Kuriyama Rina",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "takemoto-kurumi",
+      "ja": [
+        "竹本くるみ",
+        "竹本",
+        "くるみ",
+        "くるたん",
+        "クルタン"
+      ],
+      "en": "Kuru-tan",
+      "en_full": "Takemoto Kurumi",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "tachibana-kokoro",
+      "ja": [
+        "立花心良",
+        "立花",
+        "こころ",
+        "ここっぺ",
+        "ココッペ"
+      ],
+      "en": "Koko-ppe",
+      "en_full": "Tachibana Kokoro",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "tanaka-iori",
+      "ja": [
+        "田中伊桜莉",
+        "いおり",
+        "いーこ",
+        "いーこちゃん"
+      ],
+      "en": "Ii-ko",
+      "en_full": "Tanaka Iori",
+      "type": "member",
+      "team": "KIV",
+      "reject": [],
+      "note": "Official nick いおり; MC also uses Ii-ko / いーこ. Birthday Aug 31 = Vegetable Day + cucumber — not blood type.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T20:02:35+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "jitoe-nene",
+      "ja": [
+        "地頭江音々",
+        "地頭江",
+        "ねね",
+        "ねねちゃん",
+        "ネネ"
+      ],
+      "en": "Nene-chan",
+      "en_full": "Jitoe Nene",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "fukui-karen",
+      "ja": [
+        "福井可憐",
+        "福井",
+        "かれん",
+        "かれんれん",
+        "カレン"
+      ],
+      "en": "Karen-ren",
+      "en_full": "Fukui Karen",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "morisaki-saaya",
+      "ja": [
+        "森﨑冴彩",
+        "森崎冴彩",
+        "さあや",
+        "サーヤ",
+        "さあちゃん",
+        "さーちゃん"
+      ],
+      "en": "Saa-chan",
+      "en_full": "Morisaki Saaya",
+      "type": "member",
+      "team": "KIV",
+      "reject": [
+        "がさん"
+      ],
+      "note": "Official spelling 森﨑冴彩 (﨑). Nick さあや / さーちゃん. Intro catchcopy has published vs live third beat — see saaya-catchcopy. Published: …（熊本だけんよろしくね）…; live Saka Agari this LOD: …逆上がり公演よろしくね… ASR がさん = clap/count cue mush — not lyric. Keep「沙耶ちゃんの話」 beat separate.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-26T00:48:56+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "yasui-hina",
+      "ja": [
+        "安井妃奈",
+        "ひな",
+        "ひなたん"
+      ],
+      "en": "Hina-tan",
+      "en_full": "Yasui Hina",
+      "type": "member",
+      "team": "KIV",
+      "reject": [
+        "Aoki Hinako",
+        "青木日菜子",
+        "青木ひなた",
+        "Aoki Hinata"
+      ],
+      "note": "Team KIV (6th gen). ASR often emits 青木ひなた; do not map to kenkyuusei Aoki Hinako (青木日菜子).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T20:02:35+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ishii-ayane",
+      "ja": [
+        "石井彩音",
+        "あーたん",
+        "アータン",
+        "彩音"
+      ],
+      "en": "Aa-tan",
+      "en_full": "Ishii Ayane",
+      "type": "member",
+      "team": "kenkyuusei",
+      "reject": [
+        "あやねいら",
+        "アヤネイラ",
+        "Ayane-ira",
+        "Ayane ira"
+      ],
+      "note": "Catchphrase is あやねいろ / Ayane iro (“Ayane's color”), never Ayane-ira. ASR often mush on the call.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T20:01:29+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ishikawa-amiyu",
+      "ja": [
+        "石川歩実優",
+        "あみゆん",
+        "アミユン"
+      ],
+      "en": "Amiyun",
+      "en_full": "Ishikawa Amiyu",
+      "type": "member",
+      "team": "kenkyuusei",
+      "reject": [
+        "石川彩友",
+        "小さい悪魔"
+      ],
+      "note": "Official 石川歩実優 / AMIYU ISHIKAWA / あみゆん (7th; kenkyuusei at 2025-05-11 show; later Team H). Reject 石川彩友. Shiritori intro: 小悪魔→真心→ロングヘア→あみゆん; 福岡のラッキーガールは→あみゆん. ASR 小さい悪魔 = lengthened 小悪魔.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-25T17:42:45+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ijima-riria",
+      "ja": [
+        "猪島莉玲亜",
+        "いじまりりあ",
+        "りーりたん",
+        "リーリタン"
+      ],
+      "en": "Rii-ritan",
+      "en_full": "Ijima Riria",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "eura-yuka",
+      "ja": [
+        "江浦優香",
+        "ゆうか"
+      ],
+      "en": "Yuuka",
+      "en_full": "Eura Yuka",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "kure-yuna",
+      "ja": [
+        "呉優菜",
+        "ゆうちゃん"
+      ],
+      "en": "Yuu-chan",
+      "en_full": "Kure Yuna",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "tsurukawa-nachi",
+      "ja": [
+        "靏川那智",
+        "なっち",
+        "ナッチ"
+      ],
+      "en": "Nacchi",
+      "en_full": "Tsurukawa Nachi",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "nakano-minami",
+      "ja": [
+        "中野南実",
+        "みーな",
+        "ミーナ",
+        "ミナミ"
+      ],
+      "en": "Mii-na",
+      "en_full": "Nakano Minami",
+      "type": "member",
+      "team": "kenkyuusei",
+      "reject": [
+        "Minami-no-ki"
+      ],
+      "note": "Mic gag: crowd answers south / south-facing / southwest — not Minami-no-ki mash.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T20:02:35+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "nagano-rara",
+      "ja": [
+        "長野らら",
+        "ららぱ",
+        "ララパ"
+      ],
+      "en": "Rara-pa",
+      "en_full": "Nagano Rara",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "matsunaga-yui",
+      "ja": [
+        "松永悠良",
+        "ゆい",
+        "ゆいさん",
+        "ゆいぱん",
+        "ユイパン"
+      ],
+      "en": "Yui",
+      "en_full": "Matsunaga Yui",
+      "type": "member",
+      "team": "H",
+      "reject": [
+        "Yuuri",
+        "ゆうり",
+        "Yuri"
+      ],
+      "note": "Official romanization YUI MATSUNAGA; nick ゆいぱん. Given-name reading ゆい. Clip3 ASR ゆうりさん → ゆいさん mush. ASS: Yui for ゆいさん; Yui-pan when nick spoken. Never Yuuri.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T23:22:42+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "matsumoto-moka",
+      "ja": [
+        "松本苺花",
+        "もかぴ",
+        "モカピ"
+      ],
+      "en": "Moka-pi",
+      "en_full": "Matsumoto Moka",
+      "type": "member",
+      "team": "kenkyuusei",
+      "reject": [],
+      "note": "Official 松本苺花 / MOKA MATSUMOTO / もかぴ (7th; kenkyuusei at 2025-05-11 show; later Team KIV). Meoto-iwa reading gag with Ishii Ayane in Himawarigumi MC — not an official duo name.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-25T17:42:45+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "yamakawa-maria",
+      "ja": [
+        "山川万里愛",
+        "まりたん",
+        "マリタン"
+      ],
+      "en": "Mari-tan",
+      "en_full": "Yamakawa Maria",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "yoshida-mei",
+      "ja": [
+        "吉田めい",
+        "めいめい",
+        "メイメイ"
+      ],
+      "en": "Mei-mei",
+      "en_full": "Yoshida Mei",
+      "type": "member",
+      "team": "kenkyuusei",
+      "reject": [],
+      "note": "7th gen kenkyuusei. Official nick めいめい / Mei-mei. JA given name is hiragana めい.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T20:01:29+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ryuto-ayane",
+      "ja": [
+        "龍頭綺音",
+        "あやちゃん",
+        "アヤチャン"
+      ],
+      "en": "Aya-chan",
+      "en_full": "Ryuto Ayane",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "theater",
+      "ja": [
+        "劇場",
+        "げきじょう"
+      ],
+      "en": "theater",
+      "en_full": "theater",
+      "type": "term",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "handshake-event",
+      "ja": [
+        "握手会",
+        "あくしゅかい"
+      ],
+      "en": "handshake event",
+      "en_full": "handshake event",
+      "type": "term",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "show",
+      "ja": [
+        "公演",
+        "こうえん"
+      ],
+      "en": "show",
+      "en_full": "show",
+      "type": "term",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "center",
+      "ja": [
+        "センター"
+      ],
+      "en": "center",
+      "en_full": "center",
+      "type": "term",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "senbatsu",
+      "ja": [
+        "選抜",
+        "せんばつ"
+      ],
+      "en": "senbatsu",
+      "en_full": "senbatsu",
+      "type": "term",
+      "team": null,
+      "reject": [],
+      "note": "",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "saka-agari-(himawarigumi-4th-stage)",
+      "ja": [
+        "逆上がり",
+        "逆上がり公演",
+        "さかあがり"
+      ],
+      "en": "Saka Agari",
+      "en_full": "Saka Agari (Himawarigumi 4th Stage)",
+      "type": "show",
+      "team": null,
+      "reject": [],
+      "note": "Official stage name Saka Agari; from the song 逆上がり. Setlist order: sources/saka-agari-setlist.md (official himawari05 + 48pedia). EN Saka Agari locked.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T09:57:50+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "sakamoto-rino",
+      "ja": [
+        "坂本りの",
+        "坂本梨乃",
+        "りの",
+        "リノ"
+      ],
+      "en": "Rino",
+      "en_full": "Sakamoto Rino",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "Given りの; official nick りのちゃん; fandom also りいこ/Riiko. Prefer Rino/Rino-chan in dialogue.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "ayane-iro",
+      "ja": [
+        "あやねいろ",
+        "彩音いろ"
+      ],
+      "en": "Ayane iro",
+      "en_full": "Ayane's color",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "Ayane ira",
+        "Ayane-ira",
+        "あやねいら",
+        "アヤネイラ"
+      ],
+      "note": "Ishii Ayane catchphrase / color call — not Ayane-ira.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T20:01:29+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "aoki-hinako",
+      "ja": [
+        "青木日菜子",
+        "ひな"
+      ],
+      "en": "Hina",
+      "en_full": "Aoki Hinako",
+      "type": "lookalike-trap",
+      "team": "kenkyuusei",
+      "reject": [],
+      "note": "7th gen kenkyuusei. Lookalike trap for Yasui Hina / Hina-tan when ASR hears 青木ひなた.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T20:02:35+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "aoki-hinako-trap",
+      "locked": true,
+      "confidence": "locked",
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler",
+      "ja": [
+        "青木ひなた",
+        "青木ひなこ"
+      ],
+      "en": "Aoki Hinako (lookalike)",
+      "en_full": "Aoki Hinako",
+      "type": "lookalike-trap",
+      "reject": [],
+      "note": "Kenkyuusei / different person from Yasui Hina. Reject when speaker is Team KIV Hina-tan."
+    },
+    {
+      "id": "saka-agari",
+      "locked": true,
+      "confidence": "locked",
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler",
+      "ja": [
+        "逆上がり"
+      ],
+      "en": "Saka Agari",
+      "en_full": "Saka Agari",
+      "type": "show",
+      "reject": [
+        "Sakagari"
+      ],
+      "note": "Himawarigumi stage title."
+    },
+    {
+      "id": "minami-mic-gag",
+      "locked": true,
+      "confidence": "locked",
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler",
+      "ja": [
+        "南",
+        "南向き",
+        "南西"
+      ],
+      "en": "south / south-facing / southwest",
+      "en_full": "Minami mic gag",
+      "type": "jargon",
+      "reject": [
+        "Minami-no-ki",
+        "South seat"
+      ],
+      "note": "Host+crowd call-and-response for Nakano Minami; do not collapse into pun mash."
+    },
+    {
+      "id": "saaya-story-beat",
+      "locked": true,
+      "confidence": "locked",
+      "updated": "2026-09-23T20:00:03+02:00",
+      "updated_by": "subtitler",
+      "ja": [
+        "沙耶ちゃんの話",
+        "さあちゃんの話"
+      ],
+      "en": "It's Saa-chan's story.",
+      "en_full": "It's Saa-chan's story.",
+      "type": "jargon",
+      "reject": [],
+      "note": "Keep as its own cue; never fuse onto following mic-cover sentence."
+    },
+    {
+      "id": "masaoka-shiki",
+      "ja": [
+        "正岡子規",
+        "正岡子規さん"
+      ],
+      "en": "Masaoka Shiki",
+      "en_full": "Masaoka Shiki",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "Real Meiji-era poet. In Mei-mei MC (~0:36:04) used as setup for Ayane's 「肩おかしき」 pun (sounds like 正岡子規). Keep the proper name in EN when she names him; keep Ayane's line as romaji kata okashiki.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T20:01:29+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kata-okashiki",
+      "ja": [
+        "肩おかしき",
+        "かたおかしき"
+      ],
+      "en": "kata okashiki",
+      "en_full": "kata okashiki (shoulder-is-odd, classical)",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "Masaoka Shiki"
+      ],
+      "note": "Ishii Ayane wordplay on Amiyun's 「肩がおかしい／痛い」: classical-ish 肩おかしき ≈ 正岡子規. Leave as romaji (or light gloss), never render Ayane's line as “Masaoka Shiki”.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T20:01:29+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-end-roll",
+      "ja": [
+        "エンドロール"
+      ],
+      "en": "End Roll",
+      "en_full": "End Roll",
+      "type": "jargon",
+      "note": "Saka Agari unit song",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T22:41:16+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "song-wagamama-nagareboshi",
+      "ja": [
+        "わがままな流れ星",
+        "わがままの流れ星"
+      ],
+      "en": "Wagamama na Nagareboshi",
+      "en_full": "Selfish Shooting Star (Wagamama na Nagareboshi)",
+      "type": "jargon",
+      "note": "Saka Agari unit song; keep romaji title in EN if space tight",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T22:41:16+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "song-ai-no-iro",
+      "ja": [
+        "愛の色"
+      ],
+      "en": "Ai no Iro",
+      "en_full": "Color of Love (Ai no Iro)",
+      "type": "jargon",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T22:41:16+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "song-dakishimeraretara",
+      "ja": [
+        "抱きしめられたら"
+      ],
+      "en": "Dakishimeraretara",
+      "en_full": "If I Could Be Held (Dakishimeraretara)",
+      "type": "jargon",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T22:41:16+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "song-mushi-no-ballad",
+      "ja": [
+        "虫のバラード"
+      ],
+      "en": "Mushi no Ballad",
+      "en_full": "Insect Ballad (Mushi no Ballad)",
+      "type": "jargon",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T22:41:16+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "shin-pozi",
+      "ja": [
+        "新ポジ",
+        "シンポジ",
+        "シンポジー"
+      ],
+      "en": "new position",
+      "en_full": "shin-pozi (new unit position)",
+      "type": "jargon",
+      "note": "HKT official hashtag 新ポジ; ASR often シンポジ/シンポジー",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T22:41:16+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "nanaki-7th-gen",
+      "ja": [
+        "七期",
+        "七木",
+        "ナナキ",
+        "7期"
+      ],
+      "en": "7th gen",
+      "en_full": "7th generation (nanaki)",
+      "type": "jargon",
+      "note": "ASR 七木/ナナキ = 七期 members, not a person named Nanaki (prior clip lesson)",
+      "confidence": "provisional",
+      "locked": true,
+      "updated": "2026-09-23T22:41:16+02:00",
+      "updated_by": "subtitler",
+      "reject": [
+        "Ikuno-chan"
+      ]
+    },
+    {
+      "id": "matsunaga-yui-nick",
+      "ja": [
+        "ゆいぱん",
+        "ユイパン"
+      ],
+      "en": "Yui-pan",
+      "en_full": "Matsunaga Yui (Yui-pan)",
+      "type": "nick",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T23:22:42+02:00",
+      "updated_by": "verifier",
+      "team": "H",
+      "reject": [
+        "Yuuri-pan"
+      ],
+      "note": "Official nick. Prefer when MC says ゆいぱん; use Yui for bare ゆいさん."
+    },
+    {
+      "id": "baba-sayaka-sayamaru",
+      "ja": [
+        "馬場彩華",
+        "さやまる",
+        "サヤマル"
+      ],
+      "en": "Sayamaru",
+      "en_full": "Baba Sayaka",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "馬場さやか"
+      ],
+      "note": "Graduate (draft 3rd). Official nick さやまる. Co-founder of 彩りシスターズ with Oda Ayaka.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T23:22:42+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "oda-ayaka",
+      "ja": [
+        "小田彩加",
+        "小田",
+        "おだちゃん",
+        "ODA",
+        "小田さん"
+      ],
+      "en": "Oda",
+      "en_full": "Oda Ayaka",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "Graduate (4th gen). Official nick おだちゃん / ODA. Co-founder of 彩りシスターズ with Sayamaru. EN when spoken 小田さん → Oda.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T23:22:42+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "iro-sisters",
+      "ja": [
+        "彩りシスターズ",
+        "彩り",
+        "彩りなんとかズ"
+      ],
+      "en": "Iro Sisters",
+      "en_full": "Iro Sisters (彩り Sisters)",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "Color Sisters",
+        "Sairi Sisters"
+      ],
+      "note": "Informal in-group of members with 彩 in the name. MC: founded by Sayamaru + Oda; later 彩 kids (e.g. Ishii Ayane / あやねいろ) can join the vibe — do not rename Ayane-iro catchphrase to Iro Sisters.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-23T23:22:42+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-fan-letter",
+      "ja": [
+        "ファンレター"
+      ],
+      "en": "Fan Letter",
+      "en_full": "Fan Letter",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Saka Agari setlist M13.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T23:19:40+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "show-mokugekisha",
+      "ja": [
+        "目撃者",
+        "目撃者公演"
+      ],
+      "en": "Mokugekisha",
+      "en_full": "Mokugekisha (Witness) stage",
+      "type": "show",
+      "team": "H",
+      "reject": [],
+      "note": "Team H stage.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T23:19:40+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "show-tenshi",
+      "ja": [
+        "ここにだって天使はいる",
+        "ここにだって天使はいる公演"
+      ],
+      "en": "Koko ni Datte Tenshi wa Iru",
+      "en_full": "Koko ni Datte Tenshi wa Iru stage",
+      "type": "show",
+      "team": null,
+      "reject": [],
+      "note": "ASR mush 立ててんしゃいる.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T23:19:40+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "azatoi-police",
+      "ja": [
+        "あざとい警察"
+      ],
+      "en": "azatoi police",
+      "en_full": "self-styled azatoi (calculated-cute) police",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "MC bit: calling out calculated cuteness.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T23:19:40+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "eguchi-egu-chan",
+      "ja": [
+        "えぐちゃん"
+      ],
+      "en": "Egu-chan",
+      "en_full": "Eguchi Kokoha (Egu-chan)",
+      "type": "nick",
+      "team": "KIV",
+      "reject": [
+        "ここは",
+        "Fujino"
+      ],
+      "note": "Spoken nick for Eguchi; maps to locked eguchi-kokoha / Koko-chan.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T23:19:40+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "ishii-isshi",
+      "ja": [
+        "いっしー"
+      ],
+      "en": "Isshi",
+      "en_full": "Ishii Ayane (Isshi)",
+      "type": "nick",
+      "team": null,
+      "reject": [],
+      "note": "Casual nick for Ishii Ayane used in MC.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T23:19:40+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "uu-meimei",
+      "ja": [
+        "うーめいめい",
+        "うー"
+      ],
+      "en": "uu-Mei-mei",
+      "en_full": "uu~ Mei-mei chant",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [],
+      "note": "7th-gen copying 6th-gen intro bit; Mei-mei little-devil chant.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-23T23:19:40+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "hiiro-asr-piro",
+      "ja": [
+        "ピーロ",
+        "ピーロちゃん",
+        "ひいこ",
+        "ヒーコ",
+        "ひーこ"
+      ],
+      "en": "Hiiro",
+      "en_full": "Kitagawa Hiiro (ASR mush)",
+      "type": "lookalike-trap",
+      "team": null,
+      "reject": [
+        "Piiro"
+      ],
+      "note": "ASR mush for ひいろちゃん (Kitagawa Hiiro). Always map to Hiiro. Nick Hiiko; bread pun Hiiko-pan.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-24T11:34:50+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "yui-iori-asr-trap",
+      "ja": [
+        "ゆいさん",
+        "いおりさん",
+        "ゆうり"
+      ],
+      "en": "Iori vs Yui ASR trap",
+      "type": "warning",
+      "note": "Whisper large-v3 often confuses いおりさん↔ゆいさん (and ゆうり). Clip3 Mei-mei laugh story is Tanaka Iori (いおり), NOT Matsunaga Yui. Prefer cast/context over raw ASR.",
+      "locked": true,
+      "confidence": "locked",
+      "reject": [
+        "subtitling Iori story as Yui"
+      ],
+      "updated": "2026-09-23T23:59:36",
+      "updated_by": "editor"
+    },
+    {
+      "id": "nanaki-chan-handoff",
+      "ja": [
+        "ななきちゃん",
+        "七期ちゃん",
+        "七期"
+      ],
+      "en": "nanaki-chan",
+      "type": "nick",
+      "note": "7th-gen collective nick. Clip3 Hina handoff before azatoi-police story — user-verified; ASR wrote いくのちゃん (Ikuno lookalike). Speaker of following story is Ouchi Rinka.",
+      "locked": true,
+      "confidence": "locked",
+      "reject": [
+        "Ikuno-chan for this handoff"
+      ],
+      "updated": "2026-09-23T23:59:36",
+      "updated_by": "editor"
+    },
+    {
+      "id": "song-fugiri",
+      "ja": [
+        "不義理",
+        "フギリ",
+        "フギリー"
+      ],
+      "en": "Fugiri",
+      "en_full": "Fugiri",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Saka Agari encore M14. ASR often フギリー. User OK as Fugiri / Hanpa na Ikemen (2026-09-24).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-24T10:39:56+02:00",
+      "updated_by": "human"
+    },
+    {
+      "id": "song-hanpa-na-ikemen",
+      "ja": [
+        "ハンパなイケメン",
+        "半端なイケメン"
+      ],
+      "en": "Hanpa na Ikemen",
+      "en_full": "Hanpa na Ikemen",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Saka Agari encore M15. Official ハンパなイケメン. User OK as Fugiri / Hanpa na Ikemen (2026-09-24).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-24T10:39:56+02:00",
+      "updated_by": "human"
+    },
+    {
+      "id": "song-to-be-continued",
+      "ja": [
+        "To be continued.",
+        "To be continued",
+        "トゥビーコンティニュード",
+        "ツービーコンティニュード"
+      ],
+      "en": "To be continued.",
+      "en_full": "To be continued.",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "2B Continued",
+        "2B CONTINUED"
+      ],
+      "note": "Saka Agari encore finale M16. ASR 2Bコンティニュール mush.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-24T10:27:16+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "sketch-tencho-dame-baito-dame",
+      "ja": [
+        "店長がダメならバイトもダメ"
+      ],
+      "en": "If the manager's no good, neither are the part-timers",
+      "en_full": "Sketch title: If the manager's no good, neither are the part-timers",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "clip6 opening sketch title",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-24T11:10:58+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "uma-pan-pun",
+      "ja": [
+        "うまぱん",
+        "ウマパン",
+        "美味パン"
+      ],
+      "en": "uma-pan",
+      "en_full": "uma-pan (tasty-bread chant)",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "clip6 follow-on to Hiiro-pan; 美味い+パン. Keep romaji uma-pan. Yui: Hiiko-pan was going uma-pan (tasty bread).",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-24T11:34:50+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "kasu-crumb-pun",
+      "ja": [
+        "かすってもない",
+        "カスついてる",
+        "食べカス"
+      ],
+      "en": "doesn't even graze it / crumbs stuck",
+      "en_full": "かする/カス crumb pun chain",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "clip6: early めっちゃかすってもない (not even close) pays off with カス/食べカス on Hiiro's mouth.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-24T11:10:58+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "hiiko-pan",
+      "ja": [
+        "ひいこぱん",
+        "ひーこぱん",
+        "ヒーコパン"
+      ],
+      "en": "Hiiko-pan",
+      "en_full": "Kitagawa Hiiro (nick Hiiko + bread pun)",
+      "type": "nickname",
+      "team": null,
+      "reject": [
+        "Hiiro-pan",
+        "Piiro-pan",
+        "ヒーロパン"
+      ],
+      "note": "User lock 2026-09-24 clip6 sketch: Hiiko-pan not Hiiro-pan. Also appears in later speeches.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-24T11:34:50+02:00",
+      "updated_by": "human"
+    },
+    {
+      "id": "ihara-hanna-lookalike-ihara",
+      "ja": [
+        "井原華奈那",
+        "井原"
+      ],
+      "en": "Ihara (wrong kanji trap)",
+      "en_full": "井原華奈那 (lookalike trap for 猪原絆愛)",
+      "type": "lookalike-trap",
+      "team": null,
+      "reject": [],
+      "note": "Wrong kanji once seeded in glossary. Canonical member is 猪原絆愛 (pig 猪, not well 井).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-25T17:42:07+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "hanchaka-chan",
+      "ja": [
+        "はんちゃかちゃん",
+        "はんちゃかちゃーん",
+        "絆で繋いだみんなの愛",
+        "絆で繋いだみ～んなの愛"
+      ],
+      "en": "hanchaka-chan",
+      "en_full": "Kizuna-de-tsunaida minna-no-ai / hanchaka-chan",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [],
+      "note": "Ihara Hanna intro call. JA keep はんちゃかちゃん (romaji OK in EN: hanchaka-chan). Full setup: 絆で繋いだみんなの愛！（はんちゃかちゃん）. Name pun on 絆+愛.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-25T17:42:07+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "amiyun-shiritori",
+      "ja": [
+        "小悪魔",
+        "真心",
+        "まごころ",
+        "ロングヘア",
+        "あみゆん",
+        "福岡のラッキーガールは",
+        "しりとり"
+      ],
+      "en": "little devil / magokoro / long hair / Amiyun",
+      "en_full": "Amiyun shiritori intro chant",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "小さい悪魔",
+        "石川彩友"
+      ],
+      "note": "Canonical stack (birth-fest transcript): しりとり、行っくよー！小悪魔！（真心！）ロングヘア！せーの！（あみゆん！）福岡のラッキーガールは？（あみゆん！）. Host cue 真心とせーのとあみゆん = audience hits. Lock 小悪魔 not 小さい悪魔.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-25T17:42:07+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "meoto-iwa",
+      "ja": [
+        "夫婦岩",
+        "めおといわ"
+      ],
+      "en": "Meoto-iwa",
+      "en_full": "Meoto-iwa (Married Couple Rocks)",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "夫婦ガン",
+        "Fuufu-gan",
+        "Meoto-gan"
+      ],
+      "note": "Famous paired rocks (めおといわ). Clip ASR 夫婦ガン = misreading/mush of 夫婦岩. Gag: someone (Ayane↔Moka beat) used to say 夫婦ガン and wants to learn to read めおといわ. ASS: Meoto-iwa / Married Couple Rocks; never print 夫婦ガン as the real reading.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-25T17:42:07+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "saaya-catchcopy",
+      "ja": [
+        "今日も冴えてるさあや",
+        "脳内彩るさあや",
+        "熊本だけんよろしくね",
+        "うーさあや",
+        "う～さーや",
+        "さえてる",
+        "逆上がり公演よろしくね",
+        "逆上がり公演"
+      ],
+      "en": "saeteru Saaya / uu-Saaya (live 3rd: Saka Agari show)",
+      "en_full": "Looking sharp today — Saaya! / Coloring your mind — Saaya! / [live] Saka Agari show — take care of me! OR [published] Kumamoto, so take care of me! / uu~ Saa-ya",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "がさん",
+        "合さん",
+        "逆上がり公園",
+        "逆上がり公園よろしくね",
+        "force 熊本だけん into Saka Agari live catch",
+        "逆上がりこの辺",
+        "逆上がりこの辺よろしくね",
+        "この辺",
+        "Saka Agari around here"
+      ],
+      "note": "TWO third-beat variants — do not collapse. Published (48times 2022/06): 今日も冴えてるさあや！脳内彩るさあや！（熊本だけんよろしくね）う～さーや！ Live THIS clip (20250511 Himawarigumi Saka Agari LOD 1230): 今日も冴えてるさあや！脳内彩るさあや！逆上がり公演よろしくね！うーさあや！ Human correction 2026-09-26: third beat is 公演 (kouen; often written kohen) — NOT この辺. Unprompted ASR 公園 = wrong kanji for same reading as 公演; prior lock wrongly mapped “kohen”→この辺. Hometown 熊本県出身 stays on separate name line. ASS this clip: Saka Agari show — take care of me! Reject この辺 / 公園 as lock form.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-26T00:48:56+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kokoha-catchcopy",
+      "ja": [
+        "ここはどこ",
+        "ここはどこ？",
+        "ここはどこー",
+        "私は誰",
+        "私は誰？",
+        "私は誰ー",
+        "せーの",
+        "ここは",
+        "ここはー",
+        "ここは！"
+      ],
+      "en": "Where is this place? Who am I? / Kokoha!",
+      "en_full": "Where is this place? Who am I? Se-no — Kokoha!",
+      "type": "catchphrase",
+      "team": "H",
+      "reject": [
+        "Koko-heart",
+        "Koko heart",
+        "ココハート",
+        "ここはーと as heart",
+        "heart"
+      ],
+      "note": "Fujino Kokoha first-intro catch. Published (48times 2022/06; Tokyo Sports 2025/09): ここはどこー？私は誰ー？せーの、ここはー！ Live stack this LOD: host cues ココハと (quotative と = say 'Kokoha'); Kokoha ここはどこ？私は誰？せーの; crowd ここは！/ココハ. ASS: Where is this place? Who am I? Se-no — / Kokoha! REJECT Koko-heart — invented from elongated ここはーと; と is quotative, not 'heart'. Nick remains ここは/Kokoha.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-26T00:18:41+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-tenohira",
+      "ja": [
+        "掌",
+        "てのひら"
+      ],
+      "en": "Tenohira",
+      "en_full": "Tenohira (Palm)",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Saka Agari M01; all. Romaji Tenohira (Stage48/generasia/fandom).",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T09:57:50+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "song-hitei-no-requiem",
+      "ja": [
+        "否定のレクイエム"
+      ],
+      "en": "Hitei no Requiem",
+      "en_full": "Hitei no Requiem",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Saka Agari M03; all.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T09:57:50+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "song-sono-ase-wa-uso-wo-tsukanai",
+      "ja": [
+        "その汗は嘘をつかない",
+        "その汗は噓をつかない"
+      ],
+      "en": "Sono Ase wa Uso wo Tsukanai",
+      "en_full": "Sono Ase wa Uso wo Tsukanai",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Saka Agari M04; all. After this song = MC1 intros.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T09:57:50+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "song-furishite-maneshite",
+      "ja": [
+        "フリしてマネして"
+      ],
+      "en": "Furishite Maneshite",
+      "en_full": "Furishite Maneshite",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Saka Agari M10; all. Also written Furi Shite Mane Shite.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T09:57:50+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "song-umi-wo-watare",
+      "ja": [
+        "海を渡れ！",
+        "海を渡れ!"
+      ],
+      "en": "Umi wo Watare!",
+      "en_full": "Umi wo Watare!",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Saka Agari M11; all.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T09:57:50+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "song-machikado-no-party",
+      "ja": [
+        "街角のパーティー"
+      ],
+      "en": "Machikado no Party",
+      "en_full": "Machikado no Party",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Saka Agari M12; all. After this = MC3 then Fan Letter.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T09:57:50+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "saka-agari-setlist",
+      "ja": [
+        "逆上がりセットリスト",
+        "ひまわり組「逆上がり」セットリスト"
+      ],
+      "en": "Saka Agari setlist",
+      "en_full": "Himawarigumi 4th Stage Saka Agari setlist (M01–M16)",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "Order locked from official HKT setlist + 48pedia + fandom (2026-09-27). M01 Tenohira … M04 Sono Ase → MC1 intros → M05–M09 units (End Roll / Wagamama / Ai no Iro / Dakishimeraretara / Mushi solo) → MC2 → M10–M12 → MC3 → M13 Fan Letter → encore M14 Fugiri / M15 Hanpa na Ikemen → MC4 → M16 To be continued. Opening monthly コント before overture. See sources/saka-agari-setlist.md. Do not invent song order.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T09:57:50+02:00",
+      "updated_by": "subtitler"
+    }
+  ],
+  "updated": "2026-09-27T09:57:50+02:00"
+}

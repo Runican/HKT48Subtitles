@@ -1,0 +1,486 @@
+{
+  "id": "hkt48-himawarigumi-4th-saka-agari",
+  "stage_ja": "ひまわり組「逆上がり」公演",
+  "stage_en": "Himawarigumi 4th Stage — Saka Agari",
+  "stage_romaji": "Saka Agari",
+  "unit": "Himawarigumi",
+  "verified_by": "domain-verifier",
+  "verified_at": "2026-09-27",
+  "sources": [
+    {
+      "name": "HKT official setlist",
+      "url": "https://www.hkt48.jp/setlist/himawari05"
+    },
+    {
+      "name": "HKT48 Mobile setlist",
+      "url": "https://sp.hkt48.jp/qtheater_setlist_detail?group=himawari&type=005"
+    },
+    {
+      "name": "48pedia HKT ひまわり組「逆上がり」",
+      "url": "https://48pedia.org/HKT48_ひまわり組「逆上がり」"
+    },
+    {
+      "name": "AKB48 Fandom Himawarigumi 4th Stage",
+      "url": "https://akb48.fandom.com/wiki/HKT48_Himawarigumi_4th_Stage"
+    },
+    {
+      "name": "Curated setlist research note",
+      "path": "sources/saka-agari-setlist.md"
+    },
+    {
+      "name": "Grade-map reference (2025-05-11 LOD)",
+      "note": "Local show.json segment bounds used as grade anchors; media not in git"
+    }
+  ],
+  "notes": [
+    "Domain-verified / public-source verified 2026-09-27 (official + Mobile + 48pedia + fandom; no ASR).",
+    "Opening sketch is monthly-rotating member comedy before overture — do not hardcode one コント title.",
+    "MC1／自己紹介 = photo + member intros + catchcopies; user grade map may split photo then intro.",
+    "Encore call sits AFTER Fan Letter and BEFORE Fugiri/Hanpa (not after To be continued).",
+    "MC4 sits after Hanpa, before To be continued (user mc3).",
+    "Skip translating: encore_call, end_greetings (arigatou wall after finale). Still detect so they are not merged into MC/outro.",
+    "Optional thin post_song_sketch common between unit songs in block B; grade example ~13s.",
+    "Song durations fairly stable; talk lengths vary (LOD may trim). Prefer glossary romaji Saka Agari (reject Sakagari).",
+    "Low-confidence: unit understudies, birthday/grad/shin-pozi inserts, 16-member cast rotation.",
+    "User mc2 (wiki MC3): two consecutive group-talk halves — each performer group talks among themselves; long combined span (~typical 780s). Finder may emit one span or two sub-spans; grade key often one block."
+  ],
+  "songs": [
+    {
+      "slot": "M00",
+      "ja": "overture (HKT48 ver.)",
+      "romaji": "overture",
+      "block": "A",
+      "kind": "overture"
+    },
+    {
+      "slot": "M01",
+      "ja": "掌",
+      "romaji": "Tenohira",
+      "block": "A",
+      "kind": "group"
+    },
+    {
+      "slot": "M02",
+      "ja": "逆上がり",
+      "romaji": "Saka Agari",
+      "block": "A",
+      "kind": "group"
+    },
+    {
+      "slot": "M03",
+      "ja": "否定のレクイエム",
+      "romaji": "Hitei no Requiem",
+      "block": "A",
+      "kind": "group"
+    },
+    {
+      "slot": "M04",
+      "ja": "その汗は嘘をつかない",
+      "romaji": "Sono Ase wa Uso wo Tsukanai",
+      "block": "A",
+      "kind": "group"
+    },
+    {
+      "slot": "M05",
+      "ja": "エンドロール",
+      "romaji": "End Roll",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 4
+    },
+    {
+      "slot": "M06",
+      "ja": "わがままな流れ星",
+      "romaji": "Wagamama na Nagareboshi",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 2
+    },
+    {
+      "slot": "M07",
+      "ja": "愛の色",
+      "romaji": "Ai no Iro",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 6
+    },
+    {
+      "slot": "M08",
+      "ja": "抱きしめられたら",
+      "romaji": "Dakishimeraretara",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 3
+    },
+    {
+      "slot": "M09",
+      "ja": "虫のバラード",
+      "romaji": "Mushi no Ballad",
+      "block": "B",
+      "kind": "solo"
+    },
+    {
+      "slot": "M10",
+      "ja": "フリしてマネして",
+      "romaji": "Furishite Maneshite",
+      "block": "C",
+      "kind": "group"
+    },
+    {
+      "slot": "M11",
+      "ja": "海を渡れ！",
+      "romaji": "Umi wo Watare!",
+      "block": "C",
+      "kind": "group"
+    },
+    {
+      "slot": "M12",
+      "ja": "街角のパーティー",
+      "romaji": "Machikado no Party",
+      "block": "C",
+      "kind": "group"
+    },
+    {
+      "slot": "M13",
+      "ja": "ファンレター",
+      "romaji": "Fan Letter",
+      "block": "D",
+      "kind": "group"
+    },
+    {
+      "slot": "M14",
+      "ja": "不義理",
+      "romaji": "Fugiri",
+      "block": "E",
+      "kind": "encore"
+    },
+    {
+      "slot": "M15",
+      "ja": "ハンパなイケメン",
+      "romaji": "Hanpa na Ikemen",
+      "block": "E",
+      "kind": "encore"
+    },
+    {
+      "slot": "M16",
+      "ja": "To be continued.",
+      "romaji": "To be continued.",
+      "block": "F",
+      "kind": "encore"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "sketch",
+      "type": "sketch",
+      "wiki_label": "冒頭／メンバーによるコント",
+      "translate": true,
+      "required": true,
+      "after": "show_start",
+      "before": "song_block_A",
+      "dur_s": {
+        "min": 60,
+        "typical": 240,
+        "max": 600
+      },
+      "finder": "first mid-energy talk until first continuous song-like band (overture/Tenohira)"
+    },
+    {
+      "id": "song_block_A",
+      "type": "song_block",
+      "songs": [
+        "M00",
+        "M01",
+        "M02",
+        "M03",
+        "M04"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "sketch",
+      "before": "photo",
+      "dur_s": {
+        "min": 900,
+        "typical": 1150,
+        "max": 1500
+      },
+      "finder": "high-energy continuous bands ~overture+4 songs; grade gap sketch→photo ~1150s"
+    },
+    {
+      "id": "photo",
+      "type": "photo",
+      "wiki_label": "MC1／自己紹介 (photo hush)",
+      "translate": true,
+      "required": true,
+      "after": "song_block_A",
+      "before": "intro",
+      "dur_s": {
+        "min": 60,
+        "typical": 120,
+        "max": 240
+      },
+      "finder": "earliest bursty hush after song_block_A (NOT longest hush in show)"
+    },
+    {
+      "id": "intro",
+      "type": "intro",
+      "wiki_label": "MC1／自己紹介 (member intros + catchcopies)",
+      "translate": true,
+      "required": true,
+      "after": "photo",
+      "before": "song_block_B",
+      "dur_s": {
+        "min": 600,
+        "typical": 1000,
+        "max": 1500
+      },
+      "finder": "speech-dense talk after photo until next unit song band"
+    },
+    {
+      "id": "song_block_B",
+      "type": "song_block",
+      "songs": [
+        "M05",
+        "M06",
+        "M07",
+        "M08",
+        "M09"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "intro",
+      "before": "mc_after_units",
+      "dur_s": {
+        "min": 1000,
+        "typical": 1400,
+        "max": 2000
+      },
+      "finder": "5 unit/solo songs; allow optional thin post_song_sketch between units"
+    },
+    {
+      "id": "post_song_sketch",
+      "type": "post_song_sketch",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "within": "song_block_B",
+      "dur_s": {
+        "min": 5,
+        "typical": 15,
+        "max": 45
+      },
+      "finder": "short-window speech-density 5–45s after each song end in block B"
+    },
+    {
+      "id": "mc_after_units",
+      "type": "mc",
+      "alias": [
+        "mc1"
+      ],
+      "wiki_label": "MC2",
+      "translate": true,
+      "required": true,
+      "after": "song_block_B",
+      "before": "song_block_C",
+      "dur_s": {
+        "min": 120,
+        "typical": 270,
+        "max": 600
+      },
+      "finder": "talk after Mushi no Ballad / end of unit block"
+    },
+    {
+      "id": "song_block_C",
+      "type": "song_block",
+      "songs": [
+        "M10",
+        "M11",
+        "M12"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_after_units",
+      "before": "mc_mid",
+      "dur_s": {
+        "min": 600,
+        "typical": 850,
+        "max": 1200
+      },
+      "finder": "3 group songs; grade gap mc1→mc2 ~848s"
+    },
+    {
+      "id": "mc_mid",
+      "type": "mc",
+      "alias": [
+        "mc2"
+      ],
+      "wiki_label": "MC3",
+      "translate": true,
+      "required": true,
+      "after": "song_block_C",
+      "before": "song_block_D",
+      "dur_s": {
+        "min": 400,
+        "typical": 780,
+        "max": 1200
+      },
+      "finder": "longer MC after Machikado, before Fan Letter",
+      "structure": "paired_group_talk",
+      "note": "Two consecutive cast-group talk blocks (user mc2); may appear as one long grade span.",
+      "subslots_hint": 2
+    },
+    {
+      "id": "song_block_D",
+      "type": "song_block",
+      "songs": [
+        "M13"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_mid",
+      "before": "encore_call",
+      "finder": "Fan Letter"
+    },
+    {
+      "id": "encore_call",
+      "type": "encore_call",
+      "translate": false,
+      "skip_reason": "User skip: thin / hard to hear until ASR improves",
+      "required": false,
+      "after": "song_block_D",
+      "before": "encore_songs",
+      "dur_s": {
+        "min": 20,
+        "typical": 90,
+        "max": 240
+      },
+      "finder": "audience encore call AFTER Fan Letter, BEFORE Fugiri — detect as skip, do not merge into MC"
+    },
+    {
+      "id": "encore_songs",
+      "type": "song_block",
+      "songs": [
+        "M14",
+        "M15"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "encore_call",
+      "before": "mc_pre_close",
+      "finder": "Fugiri + Hanpa na Ikemen"
+    },
+    {
+      "id": "mc_pre_close",
+      "type": "mc",
+      "alias": [
+        "mc3"
+      ],
+      "wiki_label": "MC4",
+      "translate": true,
+      "required": true,
+      "after": "encore_songs",
+      "before": "song_block_F",
+      "dur_s": {
+        "min": 60,
+        "typical": 170,
+        "max": 400
+      },
+      "finder": "talk after Hanpa, before To be continued (user mc3)"
+    },
+    {
+      "id": "song_block_F",
+      "type": "song_block",
+      "songs": [
+        "M16"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_pre_close",
+      "before": "end_greetings",
+      "finder": "To be continued."
+    },
+    {
+      "id": "end_greetings",
+      "type": "end_greetings",
+      "translate": false,
+      "skip_reason": "User skip: mostly arigatou barrage; rare announcements ignored for now",
+      "required": false,
+      "after": "song_block_F",
+      "before": "outro",
+      "dur_s": {
+        "min": 30,
+        "typical": 150,
+        "max": 400
+      },
+      "finder": "arigatou / end greetings after finale; skip translate; do not merge into outro"
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "after": "end_greetings",
+      "before": "show_end",
+      "dur_s": {
+        "min": 30,
+        "typical": 110,
+        "max": 240
+      },
+      "finder": "optional final speech after greetings if present on grade map; not the arigatou wall"
+    }
+  ],
+  "translate_types": [
+    "sketch",
+    "photo",
+    "intro",
+    "post_song_sketch",
+    "mc",
+    "outro"
+  ],
+  "skip_types": [
+    "encore_call",
+    "end_greetings",
+    "song_block"
+  ],
+  "grade_anchor_show": {
+    "title": "HKT48 20250511 Himawarigumi LOD",
+    "segments_user_labels": {
+      "sketch": [
+        7.77,
+        251.35
+      ],
+      "photo": [
+        1402.73,
+        1525.12
+      ],
+      "intro": [
+        1525.12,
+        2556.62
+      ],
+      "post_song_sketch": [
+        3082.18,
+        3095.16
+      ],
+      "mc1": [
+        3934.3,
+        4202.56
+      ],
+      "mc2": [
+        5050.65,
+        5826.19
+      ],
+      "mc3": [
+        6940.4,
+        7111.47
+      ],
+      "outro": [
+        7619.85,
+        7730.26
+      ]
+    },
+    "note": "User mc1/mc2/mc3 → wiki MC2/MC3/MC4; photo+intro → wiki MC1. User mc2 = two group-talk halves. Encore call before Fugiri."
+  },
+  "updated": "2026-09-27",
+  "updated_by": "subtitler"
+}
