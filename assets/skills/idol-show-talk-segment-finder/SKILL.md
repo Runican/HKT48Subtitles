@@ -39,11 +39,11 @@ Times are seconds on the **original** timeline. Set `translate: false` for slots
 
 ## Stage templates
 
-Formulaic stages live under the project’s knowledge folder:
+Formulaic stages live under:
 
 `assets/hkt48/stage_templates/`
 
-Example: `himawarigumi_4th_saka_agari.json` (public-source verified Saka Agari / 逆上がり).
+Example: `himawarigumi_4th_saka_agari.json` (Loremaster-verified Saka Agari / 逆上がり).
 
 A template holds ordered songs + talk slots, duration **ranges**, `translate` vs `skip`, and finder hints. Walk the timeline **in order**. After song block A, photo = **earliest** bursty hush — not the longest hush in the show.
 
@@ -53,6 +53,7 @@ Proven stack on Himawarigumi 2025-05-11 grade (mean IoU ~0.86; reference only �
 
 1. **Template walk + energy** — load stage template; RMS ~0.5s hop; place song blocks and talk gaps in template order; detect `encore_call` / `end_greetings` as skip (`translate: false`).
 2. **Short VAD** — webrtcvad (or similar) on 5–45s crops after song-like ends inside unit blocks to catch thin `post_song_sketch`; refine MC edges vs song beds / applause.
+2b. **Optional sketch gate** — before `post_song_sketch` gets `translate: true`, require short VAD/speech-density evidence of talk.
 3. **Sparse lyric probes** — faster-whisper tiny/base on energy-guided ~20–30s crops near soft boundaries (unit-block→MC, encore songs). Fuzzy-match ASR to public lyric/title fingerprints from the setlist; confidence floor; ignore prompt-hallucinated title dumps.
 4. **Landmark refine** — use song hits to cut talk spans (e.g. mc1 ends before next group song; mc3 between encore pair and finale announce). Keep strong template/VAD slots unless a landmark clearly moves a boundary.
 5. Emit candidates + `song_landmarks.json` when probes ran; confidence + limitations.
@@ -81,6 +82,17 @@ Under `work/<slug>/segment_finder/`:
 - `song_landmarks.json` — when lyric probes ran
 - `score_vs_grade_*.json` + `REPORT_*.md` — if graded
 - Stage template copy; reuse `rms_*.json` when present
+
+
+## Lesson — Ramune / birthday LOD (2025-05-10 grade, mean IoU ~0.95 after 1 tweak)
+
+- **No opening sketch** on Kenkyuusei「ラムネの飲み方」— do not invent a Saka-Agari-style コント slot.
+- **Photo** often starts at **post–block-A settle / greeting**, not only the deepest hush core; end at **自己紹介 handoff** (photo-sale → intros). Prefer ASR handoff cue when hush is short.
+- **Birthday expands MC4** (user `mc3_birthday`): keep a **late open talk slot** with high `dur_s.max`. Cut at **title-announce** (“最後の曲” / “タイトル”) or first **M16 lyric** — title may be **mid-energy** so RMS alone can swallow it into birthday talk.
+- Detect `encore_call` (deep post–握手の愛 hush) and `end_greetings` with `translate: false`; outro is **late closing speech**, not a mid-greetings energy island.
+
+
+- **Optional `post_song_sketch` → ASS:** emit `translate:true` only if a short **speech-density / VAD** gate shows clear talk (not song bed / cheer mush). Otherwise `translate:false` or omit from the JA→EN cut list. Blind Ramune 2026-09-29: optional sketch FP vs gold with no human counterpart.
 
 ## Do not
 

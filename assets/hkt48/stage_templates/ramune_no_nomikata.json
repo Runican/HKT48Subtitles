@@ -1,0 +1,520 @@
+{
+  "id": "hkt48-kenkyuusei-5th-ramune-no-nomikata",
+  "stage_ja": "研究生「ラムネの飲み方」公演",
+  "stage_en": "Kenkyuusei 5th Stage — Ramune no Nomikata",
+  "stage_romaji": "Ramune no Nomikata",
+  "unit": "Kenkyuusei",
+  "aliases": [
+    "HKT48 7期研究生「ラムネの飲み方」公演",
+    "KKS5",
+    "HKT KKS5"
+  ],
+  "verified_by": "domain-research",
+  "verified_at": "2026-09-28",
+  "sources": [
+    {
+      "name": "HKT official setlist",
+      "url": "https://www.hkt48.jp/setlist/kenkyusei05"
+    },
+    {
+      "name": "HKT48 Mobile setlist",
+      "url": "https://sp.hkt48.jp/qtheater_setlist_detail?group=kenkyu&type=005"
+    },
+    {
+      "name": "48pedia HKT 研究生「ラムネの飲み方」",
+      "url": "https://48pedia.org/HKT48_研究生「ラムネの飲み方」"
+    },
+    {
+      "name": "AKB48 Fandom HKT48 Kenkyuusei 5th Stage",
+      "url": "https://akb48.fandom.com/wiki/HKT48_Kenkyuusei_5th_Stage"
+    },
+    {
+      "name": "Wikipedia Team KII 3rd Stage (parent + HKT section)",
+      "url": "https://ja.wikipedia.org/wiki/チームKII_3rd_Stage「ラムネの飲み方」"
+    },
+    {
+      "name": "Domain research research note",
+      "path": "assets/hkt48/sources/ramune-no-nomikata-setlist.md"
+    },
+    {
+      "name": "Intro catch locks (Eura birthday LOD)",
+      "path": "assets/hkt48/sources/q-20260927-001-ramune-intro-catches.md"
+    }
+  ],
+  "notes": [
+    "Domain-verified 2026-09-28 (official + Mobile + 48pedia + fandom + Wikipedia; no ASR).",
+    "No documented opening コント — do not invent a sketch slot like Saka Agari.",
+    "MC1／自己紹介 = photo + member intros + catchcopies after Omatase Set list.",
+    "Unit block B sizes: Cross 3, Finland Miracle 3, Manazashi Sayonara 2, Usotsuki na Dachou 3, Nice to meet you! 5.",
+    "Do not hardcode unit casts; birthday/understudy/12-member formats shuffle.",
+    "Encore call sits AFTER Akushu no Ai and BEFORE Bowling Ganbou.",
+    "MC4 sits after 16iro no Yume Crayon, before Ramune no Nomikata (title finale).",
+    "Birthday shows typically EXPAND MC4 (host + birthday song + photo + letter + speech) then M16 — song order unchanged.",
+    "Skip translating: encore_call, end_greetings. Still detect so they are not merged into MC/outro.",
+    "Official orthography: ウイニングボール (ウ not ウィ); Nice to meet you ! (space before ! OK).",
+    "Schedule lock often: HKT48 7期研究生「ラムネの飲み方」公演; setlist page omits 7期.",
+    "Talk dur_s are PROVISIONAL soft hints (no Ramune grade_anchor_show yet); prefer finder labels over durations.",
+    "Low-confidence: unit understudies, birthday unit shuffle, day roles (仔犬/プリマ/バッター), 12 vs 16 cast."
+  ],
+  "songs": [
+    {
+      "slot": "M00",
+      "ja": "overture (HKT48 ver.)",
+      "romaji": "overture",
+      "block": "A",
+      "kind": "overture"
+    },
+    {
+      "slot": "M01",
+      "ja": "兆し",
+      "romaji": "Kizashi",
+      "block": "A",
+      "kind": "group",
+      "fingerprints": [
+        "今　僕たちは校舎の屋上に集まり",
+        "夜明けが来るのを一緒に待ってた"
+      ]
+    },
+    {
+      "slot": "M02",
+      "ja": "校庭の仔犬",
+      "romaji": "Koutei no Koinu",
+      "block": "A",
+      "kind": "group",
+      "fingerprints": [
+        "校庭の片隅",
+        "一匹の仔犬が"
+      ]
+    },
+    {
+      "slot": "M03",
+      "ja": "ディスコ保健室",
+      "romaji": "Disco Hokenshitsu",
+      "block": "A",
+      "kind": "group",
+      "fingerprints": [
+        "最後のチャイムが鳴ったら",
+        "そろそろ始めようか？"
+      ]
+    },
+    {
+      "slot": "M04",
+      "ja": "お待たせSet list",
+      "romaji": "Omatase Set list",
+      "block": "A",
+      "kind": "group",
+      "fingerprints": [
+        "ずっと　羨ましかった",
+        "先輩たちのステージ"
+      ]
+    },
+    {
+      "slot": "M05",
+      "ja": "クロス",
+      "romaji": "Cross",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 3,
+      "fingerprints": [
+        "クロス　その胸の",
+        "愛の十字架は"
+      ]
+    },
+    {
+      "slot": "M06",
+      "ja": "フィンランド・ミラクル",
+      "romaji": "Finland Miracle",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 3,
+      "fingerprints": [
+        "フィンランドの湖には",
+        "恋が叶う"
+      ]
+    },
+    {
+      "slot": "M07",
+      "ja": "眼差しサヨナラ",
+      "romaji": "Manazashi Sayonara",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 2,
+      "fingerprints": [
+        "小雨が降る街は",
+        "無口だね"
+      ]
+    },
+    {
+      "slot": "M08",
+      "ja": "嘘つきなダチョウ",
+      "romaji": "Usotsuki na Dachou",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 3,
+      "fingerprints": [
+        "嘘つきなダチョウは",
+        "おっとり歩いたり"
+      ]
+    },
+    {
+      "slot": "M09",
+      "ja": "Nice to meet you !",
+      "romaji": "Nice to meet you!",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 5,
+      "fingerprints": [
+        "Nice to meet you!",
+        "あなたと出会えて　ホントに嬉しいよ"
+      ]
+    },
+    {
+      "slot": "M10",
+      "ja": "孤独なバレリーナ",
+      "romaji": "Kodoku na Ballerina",
+      "block": "C",
+      "kind": "group",
+      "fingerprints": [
+        "孤独に踊って",
+        "愛のバレリーナ"
+      ]
+    },
+    {
+      "slot": "M11",
+      "ja": "今 君といられること",
+      "romaji": "Ima Kimi to Irareru Koto",
+      "block": "C",
+      "kind": "group",
+      "fingerprints": [
+        "ススキが風に揺れて",
+        "黄金の波が寄せる"
+      ]
+    },
+    {
+      "slot": "M12",
+      "ja": "ウイニングボール",
+      "romaji": "Winning Ball",
+      "block": "C",
+      "kind": "group",
+      "fingerprints": [
+        "一番　嬉しいニュースが飛び込む"
+      ]
+    },
+    {
+      "slot": "M13",
+      "ja": "握手の愛",
+      "romaji": "Akushu no Ai",
+      "block": "D",
+      "kind": "group",
+      "fingerprints": [
+        "こんなに大きな場所に",
+        "みんなが集まってくれる"
+      ]
+    },
+    {
+      "slot": "M14",
+      "ja": "ボウリング願望",
+      "romaji": "Bowling Ganbou",
+      "block": "E",
+      "kind": "encore",
+      "fingerprints": [
+        "仲のいい友達が",
+        "週末に集まって"
+      ]
+    },
+    {
+      "slot": "M15",
+      "ja": "16色の夢クレヨン",
+      "romaji": "16iro no Yume Crayon",
+      "block": "E",
+      "kind": "encore",
+      "fingerprints": [
+        "レッドにブルーにイエロー・ホワイト・ブラック"
+      ]
+    },
+    {
+      "slot": "M16",
+      "ja": "ラムネの飲み方",
+      "romaji": "Ramune no Nomikata",
+      "block": "F",
+      "kind": "encore",
+      "fingerprints": [
+        "君が今日も休みだって",
+        "誰かから聞いて心配になったんだ"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "song_block_A",
+      "type": "song_block",
+      "songs": [
+        "M00",
+        "M01",
+        "M02",
+        "M03",
+        "M04"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "show_start",
+      "before": "photo",
+      "dur_s": {
+        "min": 900,
+        "typical": 1150,
+        "max": 1500
+      },
+      "finder": "high-energy continuous bands ~overture+4 songs until photo hush; NO opening sketch expected",
+      "note": "Unlike Saka Agari, no documented pre-overture コント for this stage."
+    },
+    {
+      "id": "photo",
+      "type": "photo",
+      "wiki_label": "MC1／自己紹介 (photo hush)",
+      "translate": true,
+      "required": true,
+      "after": "song_block_A",
+      "before": "intro",
+      "dur_s": {
+        "min": 60,
+        "typical": 120,
+        "max": 240
+      },
+      "finder": "earliest bursty hush after Omatase Set list / end of block A"
+    },
+    {
+      "id": "intro",
+      "type": "intro",
+      "wiki_label": "MC1／自己紹介 (member intros + catchcopies)",
+      "translate": true,
+      "required": true,
+      "after": "photo",
+      "before": "song_block_B",
+      "dur_s": {
+        "min": 600,
+        "typical": 1000,
+        "max": 1600
+      },
+      "finder": "speech-dense talk after photo until Cross / first unit band",
+      "note": "Birthday shows may overlay catchphrase variants — see q-20260927-001."
+    },
+    {
+      "id": "song_block_B",
+      "type": "song_block",
+      "songs": [
+        "M05",
+        "M06",
+        "M07",
+        "M08",
+        "M09"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "intro",
+      "before": "mc_after_units",
+      "dur_s": {
+        "min": 1000,
+        "typical": 1400,
+        "max": 2000
+      },
+      "finder": "5 unit songs (3→3→2→3→5); allow optional thin post_song_sketch between units"
+    },
+    {
+      "id": "post_song_sketch",
+      "type": "post_song_sketch",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "within": "song_block_B",
+      "dur_s": {
+        "min": 5,
+        "typical": 15,
+        "max": 45
+      },
+      "finder": "short-window speech-density 5–45s after each song end in block B"
+    },
+    {
+      "id": "mc_after_units",
+      "type": "mc",
+      "alias": [
+        "mc1"
+      ],
+      "wiki_label": "MC2",
+      "translate": true,
+      "required": true,
+      "after": "song_block_B",
+      "before": "song_block_C",
+      "dur_s": {
+        "min": 120,
+        "typical": 270,
+        "max": 600
+      },
+      "finder": "talk after Nice to meet you! / end of unit block"
+    },
+    {
+      "id": "song_block_C",
+      "type": "song_block",
+      "songs": [
+        "M10",
+        "M11",
+        "M12"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_after_units",
+      "before": "mc_mid",
+      "dur_s": {
+        "min": 600,
+        "typical": 850,
+        "max": 1200
+      },
+      "finder": "3 group songs: Kodoku na Ballerina → Ima Kimi → Winning Ball"
+    },
+    {
+      "id": "mc_mid",
+      "type": "mc",
+      "alias": [
+        "mc2"
+      ],
+      "wiki_label": "MC3",
+      "translate": true,
+      "required": true,
+      "after": "song_block_C",
+      "before": "song_block_D",
+      "dur_s": {
+        "min": 300,
+        "typical": 600,
+        "max": 1200
+      },
+      "finder": "MC after Winning Ball, before Akushu no Ai"
+    },
+    {
+      "id": "song_block_D",
+      "type": "song_block",
+      "songs": [
+        "M13"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_mid",
+      "before": "encore_call",
+      "finder": "Akushu no Ai"
+    },
+    {
+      "id": "encore_call",
+      "type": "encore_call",
+      "translate": false,
+      "skip_reason": "User skip: thin / hard to hear until ASR improves",
+      "required": false,
+      "after": "song_block_D",
+      "before": "encore_songs",
+      "dur_s": {
+        "min": 20,
+        "typical": 90,
+        "max": 240
+      },
+      "finder": "audience encore call AFTER Akushu no Ai, BEFORE Bowling Ganbou — detect as skip, do not merge into MC"
+    },
+    {
+      "id": "encore_songs",
+      "type": "song_block",
+      "songs": [
+        "M14",
+        "M15"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "encore_call",
+      "before": "mc_pre_close",
+      "finder": "Bowling Ganbou + 16iro no Yume Crayon"
+    },
+    {
+      "id": "mc_pre_close",
+      "type": "mc",
+      "alias": [
+        "mc3"
+      ],
+      "wiki_label": "MC4",
+      "translate": true,
+      "required": true,
+      "after": "encore_songs",
+      "before": "song_block_F",
+      "dur_s": {
+        "min": 60,
+        "typical": 200,
+        "max": 1200
+      },
+      "finder": "talk after 16iro, before Ramune title finale",
+      "note": "Birthday shows expand this slot: host + birthday song + photo + letter + speech (Eura 2025-05-10 pattern). dur max raised for birthday."
+    },
+    {
+      "id": "birthday_insert",
+      "type": "birthday",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "within": "mc_pre_close",
+      "finder": "only on 生誕祭 shows: host → birthday song → photo → letter → speech inside MC4 window",
+      "note": "PROVISIONAL pattern from Eura Yuka 2025-05-10; do not invent for non-birthday LODs."
+    },
+    {
+      "id": "song_block_F",
+      "type": "song_block",
+      "songs": [
+        "M16"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_pre_close",
+      "before": "end_greetings",
+      "finder": "Ramune no Nomikata title finale"
+    },
+    {
+      "id": "end_greetings",
+      "type": "end_greetings",
+      "translate": false,
+      "skip_reason": "User skip: mostly arigatou barrage; rare announcements ignored for now",
+      "required": false,
+      "after": "song_block_F",
+      "before": "outro",
+      "dur_s": {
+        "min": 30,
+        "typical": 150,
+        "max": 400
+      },
+      "finder": "arigatou / end greetings after finale; skip translate; do not merge into outro"
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "after": "end_greetings",
+      "before": "show_end",
+      "dur_s": {
+        "min": 30,
+        "typical": 110,
+        "max": 240
+      },
+      "finder": "optional final speech after greetings if present; not the arigatou wall"
+    }
+  ],
+  "translate_types": [
+    "photo",
+    "intro",
+    "post_song_sketch",
+    "mc",
+    "birthday",
+    "outro"
+  ],
+  "skip_types": [
+    "encore_call",
+    "end_greetings",
+    "song_block"
+  ],
+  "grade_anchor_show": null,
+  "grade_anchor_note": "No Ramune grade_anchor_show yet. Candidate: KKS5 LOD 2025-05-10 Eura birthday (beware expanded MC4). Prefer a non-birthday LOD for default durations when available.",
+  "updated": "2026-09-28",
+  "updated_by": "hkt-loremaster"
+}

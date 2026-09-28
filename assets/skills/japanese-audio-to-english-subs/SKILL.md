@@ -10,7 +10,7 @@ description: >-
 ---
 # Japanese audio → English timed subtitles (ASS)
 
-Runbook for a JA→EN timed-subtitle job. Execute in order. Do **not** skip the watch/timing pass to save time — that is where this job fails.
+Agent-readable runbook. Execute in order. Do **not** skip the watch/timing pass to save time — that is where this job fails.
 
 ## Goal
 
@@ -46,14 +46,14 @@ Optional (end-state workflow):
 - Segment timestamps on a longer show
 - Known song timestamps to skip or mark as `[song]`
 - ASS colors / styles (default plain; colors only if asked)
-- Domain research help for glossary (recommended for idol groups)
+- Research teammate for glossary (recommended for idol groups)
 - ASR model override (default `large-v3` when local whisper is used)
 
 Topic notes (“what this bit is about”) are **not** required. Prefer cast + glossary locks over asking for plot spoilers.
 
 ## Outputs
 
-Always write under a project work directory (e.g. `work/<slug>/`):
+Always write under `work/<slug>/`:
 
 - `original.wav` (16 kHz mono) or `original.aac`
 - `asr.json` — word-level times + speaker ids if available; record which engine produced it
@@ -75,7 +75,7 @@ With every ASS send (or when a **segment review arc** finishes):
 2. Send a **doubt list** in chat (and mirror it in `doubts.md` / NOTES): for each item, **timestamp (original timeline)**, cue text or gist, and **why unsure**
 3. If nothing shaky, say **no doubts** / empty list — still acknowledge it so the habit is visible
 
-**Multi-segment show review:** do **not** re-attach ASS after every fix batch. Patch ASS + cues, post a short chat postmortem, and attach only when that segment (or the full-show stitch) is signed off.
+**Multi-segment show review:** do **not** re-attach ASS after every fix batch. Patch ASS + cues, **always** post a short chat postmortem with each fix batch (patterns + process tweak), and attach the file only when that segment (or the full-show stitch) is signed off.
 
 **Full-show stitch:** when all segments are signed off, rebuild `full_EN_offset.ass` from the reviewed segment files. Insert `; ===== <segment> =====` comment markers and one–two blank lines between segments for navigation.
 
@@ -83,7 +83,7 @@ Flag when any of these apply (do **not** rely only on Whisper confidence):
 
 - Low ASR confidence or mushy audio
 - Name/nick not on the night’s cast list, or clashes with a known trap (e.g. いおり↔ゆい↔ゆうり)
-- Glossary still open / provisional, or `locked: false` guess
+- Glossary / Loremaster still open, or `locked: false` guess
 - Chant / catchphrase edges, repaired dropout spans, near-miss gaps
 - Line that does not fit surrounding dialogue even if ASR sounds fluent
 - Ambiguous speaker for Name tag when voices overlap
@@ -98,20 +98,20 @@ Flag when any of these apply (do **not** rely only on Whisper confidence):
 
 1. Delete `original.wav` / `.aac`, everything under `gaps/` and `spot/` (wav/mp3/…), and that job’s chat-attached source MP3.
 2. **Keep** `<slug>_EN_offset.ass`, `cues.json`, `glossary.json`, `NOTES.md`, `doubts.md`, `speakers.json`, `asr.json` / related small JSON.
-3. **Never** delete the project’s shared `hkt48/` knowledge folder (glossary, cast index, stage templates).
+3. **Never** delete `assets/hkt48/`.
 4. If a beat needs re-listening later, ask the user to re-send that audio.
 
 Trigger is **start of next clip**, not ASS acceptance. Do not keep finished-clip WAVs “just in case.”
 
 ## Notes hygiene
 
-- NOTES / REVIEW_FIXES / doubts.md are working memory for the current job. Write them for reuse and scan. At end of a show or long review arc, optionally distill lasting lessons into this skill’s Do-not-repeat and into shared glossary locks; do not block mid-batch user review on note cleanup.
+- NOTES / REVIEW_FIXES / doubts.md are agent-owned working memory. Write them for your own reuse and scan. At end of a show or long review arc, optionally distill lasting lessons into this skill’s Do-not-repeat and into shared glossary locks; do not block mid-batch user review on note cleanup.
 
 ## Toolchain (preferred order)
 
 ASR (Japanese + timestamps):
 
-1. Optional cloud STT if available and keyed — JA, word times, diarization
+1. Cloud Speech-to-Text API if keyed — JA, word times, diarization
 2. `faster-whisper` local — default **`large-v3`** (cpu `int8` OK). Use `medium` only if the user asks for speed or `large-v3` cannot load. `small` last resort.
 3. Never treat a chat-attached transcript’s block times as final cue times — hint only
 
@@ -172,8 +172,8 @@ Normalize entries to:
 ### Pass C — glossary + Japanese cleanup
 
 1. Collect proper nouns from intros (prefecture, age, team, nickname, catchphrase).
-2. Research domain sources when a domain hint is given (e.g. HKT48). Official nicknames and published catchcopies beat ASR soup. Use a domain verifier / public sources when the domain is dense.
-3. Write `glossary.json` (stable romanizations + catchphrase JA/EN when known). Prefer syncing locks from the project’s `assets/hkt48/` knowledge folder when present.
+2. Research domain sources when a domain hint is given (e.g. HKT48). Official nicknames and published catchcopies beat ASR soup. Enlist a research teammate if available and the domain is dense.
+3. Write `glossary.json` (stable romanizations + catchphrase JA/EN when known).
 4. Rewrite `text_ja` with glossary. **Do not translate yet.**
 5. Build `speakers.json` from dialogue cues only; unmapped → `generic`.
 
@@ -222,7 +222,7 @@ Machine:
 - Density and reading-speed guards above
 - Every former dropout range either has cues or is listed in `NOTES.md`
 
-Watch-through:
+Watch-through (agent):
 
 - Burn ASS onto a review cut **or** play audio while logging cue text vs timestamp
 - Spot-check 3 random minutes **and** every former dropout range
@@ -290,7 +290,7 @@ scripts/
 
 - Don't swap idol surname address (〜ちゃん on family name) for the given-name nick without audio proof
 - Catchphrase percent puns (ららパーセント) ≠ crowd numeric % answers — keep the pun in EN
-- Finalizing a first-seen member intro chant/name from ASR alone (surname vs nick, ららパーセント lisp, etc.) — verify against the shared glossary / public sources first; leave unresolved items provisional
+- Finalizing a first-seen member intro chant/name without verifying with domain research (surname vs nick, ららパーセント lisp, etc.)
 - Rara-pa **ららパーセント** lisp → ASR invents **7%/200%**; answer cues are **“Rara percent!”**, not numerals. Confirm numeric percent cues before keeping them.
 - Prefaces 〜県出身 → "From X Prefecture", not bare prefecture name
 - Watch-through must catch short cross-talk retorts in ≤2s gaps between cues (Pass G)
@@ -308,7 +308,7 @@ scripts/
 - Sae (さえ) vs Saaya (さあや): Whisper swaps them; lock from ear + cast, not ASR kana alone.
 - Ballet ≠ volleyball; don't invent post-name catchphrase leftovers (e.g. Risaki “mornings”).
 - After a wrong nick locks, re-scan **nearby Name tags and -san/-chan lines** in that beat — consistency pass spreads errors.
-- VM / box updates can wipe the Whisper venv — rebuild `/workspace/.venv` + verify `faster-whisper` before the next clip.
+- VM / box updates wipe `/workspace/.venv` — **don’t wait for the user to warn.** Before any ASR job (and immediately when import fails), verify `faster-whisper` imports; if broken, recreate the venv and reinstall `faster-whisper`, then continue.
 - Pass G energy continuity: cheap RMS/VAD flags for hot-after-cue, yay-glued starts, silent holes in hot bands — **hints only**, softer in cheer/HB/photo zones.
 - Pass H conversation coherence: walk cues in order; structural non sequitur / EN stub / copy-forward / mashed JA → **auto re-ASR+repair** until the stretch makes sense (soft on stammer/overlap/nonsense; no inventing over silence).
 - Trailing EN `—`/`…` with fuller JA = truncation stub — complete or split before ship (Pass H).
@@ -327,6 +327,11 @@ scripts/
 - Raw JA left in the EN field is a ship defect — translate or flag.
 
 
+
+
+- Blind 2026-09-29 Ramune: EN default for 江浦優香 / ゆうか is **Yuka** / Yuka-chan / Eura Yuka — do **not** ship **Yuuka** / Eura Yuuka in ASS (JA nick still ゆうか).
+- Letter / long emotional MC: do **not** delete mid-gap bridges on Whisper-loop suspicion alone — run a **second tight-clip ASR** (or Pass H silent-hole repair) before dropping 思い出は-style lines; over-delete drove high missing vs gold.
+- Finder optional `post_song_sketch`: only feed into this ASS pipeline when speech-density/VAD clears talk; otherwise skip / `translate:false` (Ramune FP extras vs gold).
 
 ## Pass G add-on — cheap energy / speech continuity (optional, default on)
 
@@ -360,6 +365,9 @@ Walk the cue list **in timeline order** (plus JA when present). Do **not** run a
 4. **Q without A / A without Q:** question with no nearby answer, or punchline with no setup in the prior few cues.
 5. **Name/polarity clash:** punchline glued under the wrong Name; or polarity (`変わる`/`変わんない`) that contradicts the next Host beat.
 
+6. **Letter / anecdote hole:** mid-letter or Host story with a speech-like gap and no cue — treat as structural missing (same repair path), not “loop → delete.”
+
+
 ### Soft / high false-alarm zones (raise the bar)
 
 Idol talk is often hectic on purpose: stammer/restart, stop–start mid sentence, talk-over, young/unclear speech, playful nonsense, cheer stacks. In those zones:
@@ -385,22 +393,24 @@ Seconds–minutes per segment (LLM walk + a few spot ASR clips). Skip only if th
 
 ## Acceptance → docs + public repo
 
+
 When the user says the ASS (segment or full-show) is **accepted**:
 
-1. Distill that review arc’s postmortems into this skill’s **Do-not-repeat** (and shared glossary locks if any). Prefer HKT-specific traps in `assets/hkt48/` (glossary locks / short traps notes) over bloating this skill.
+1. Distill that review arc’s postmortems into this skill’s **Do-not-repeat** (and shared glossary locks if any).
 2. Update related private notes only as needed for reuse; do not ask the user to curate them.
-3. Publish in **one** commit batch to the public repo: accepted ASS under `shows/stages/[year]/` (or `subs/[type]/[year]/` as agreed), plus scrubbed skill/glossary/docs under `assets/` — no mid-progress NOTES, packets, or internal bot names.
+3. Publish in **one** commit batch to the public repo checkout `(this repo)` (push with the usual bot git identity): accepted ASS under `shows/stages/[year]/` (or `subs/[type]/[year]/` as agreed), plus scrubbed skill/glossary/docs under `assets/` — no mid-progress NOTES, packets, or bot names.
 4. Do **not** commit on every fix batch; only on acceptance (or an explicit “commit now”).
 
-## Domain verification
+## Domain verification (HKT lore)
 
-When domain hint is HKT48 (or similarly dense idol jargon), do **not** silently resolve disputed names/catchphrases from ASR alone.
+When domain hint is HKT48 (or similarly dense idol jargon), do **not** silently resolve disputed names/catchphrases.
 
-Shared knowledge (when using this repo): `assets/hkt48/`
+Shared repo (box): `assets/hkt48/`
 
-- **First-time member intro (mandatory):** The first time a given member’s self-intro / catchphrase chant appears in a job (or the first time that member appears in an `intro` segment), do **not** finalize chant + name + 〜県出身 lines from ASR alone. Collect provisional JA/EN + spoken forms (surname-ちゃん vs nick, percent-puns, lisp traps). Verify against the shared glossary and public sources (official profiles, interviews, fan reports) before locking. Re-patch ASS after locks. Skip only if that member’s intro catchphrase+name forms are already `locked: true` in the shared glossary for this exact use. Leave unresolved items as `provisional` / on the doubt list.
+- **First-time member intro (mandatory):** The first time a given member’s self-intro / catchphrase chant appears in a job (or the first time that member appears in an `intro` segment), do **not** finalize chant + name + 〜県出身 lines from ASR alone. Collect provisional JA/EN + spoken forms (surname-ちゃん vs nick, percent-puns, lisp traps), append an open_questions packet (or one batch packet per intro block), and message **HKT Loremaster**  to verify before locking. Re-patch ASS after locks. Skip only if that member’s intro catchphrase+name forms are already `locked: true` in shared glossary for this exact use.
 
 - Before Pass E finalize: read `glossary.json` locks; never override `locked: true` without human approval.
-- When unsure (ASR name clash, cast inconsistency, catchphrase mush, pun): leave provisional, cite what you checked, and flag on the doubt list for a domain verifier or human.
-- After confirmation: merge locks into the project `glossary.json`, then re-translate only the affected cues.
-- Seed/sync: project glossary may copy from `assets/hkt48/`; that folder is the durable store across clips.
+- When unsure (ASR name clash, cast inconsistency, catchphrase mush, pun): append a packet to `open_questions.json` per `SCHEMA.md`, then verify with domain research / teammate before locking with the packet id.
+- After domain verification: merge locks into the project `glossary.json`, then re-translate only the affected cues.
+- Seed/sync: project glossary may copy from the shared repo; shared repo is the durable store across clips.
+
