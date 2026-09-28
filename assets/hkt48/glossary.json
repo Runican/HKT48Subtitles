@@ -1,6 +1,7 @@
 {
   "domain": "HKT48",
-  "notes": "Stable English forms for member names/nicks. Prefer nick when spoken as nick; full name when clearly spoken as such. Do not invent dialogue. Full-clip pass 2026-09-22 large-v3; locked Saaya/Ii-ko/Saka Agari/Rino forms applied.\nLocked: Minami mic gag = crowd answers south/south-facing/southwest (not Minami-no-ki mash).\nLocked: Keep「沙耶ちゃんの話」/It's Saa-chan's story as its own cue before mic-cover sentence.\nLocked: Mei-mei 「正岡子規」 setup + Ayane 「肩おかしき」 pun (not ASR mush). Keep poet name vs romaji kata okashiki distinct.\nClip4 2026-09-24T10:27:16+02:00: added provisional songs ['song-fugiri', 'song-hanpa-na-ikemen', 'song-to-be-continued'].\nLocked 2026-09-27 Himawarigumi LOD distill: Yuina (Ishimatsu ゆいな) ≠ Yuuna (Yamauchi ゆうな) — never collapse to Yuna; Fujikoko when ふじここ spoken (not bare Kokoha); Sae≠Saaya ASR trap; Saaya live 3rd = Saka Agari show (公演); Kokoha catch = Kokoha! not Koko-heart; overlap mash → split by ear; quiet ghosts delete.",
+  "notes": "Stable English forms for member names/nicks. Prefer nick when spoken as nick; full name when clearly spoken as such. Do not invent dialogue. Full-clip pass 2026-09-22 large-v3; locked Saaya/Ii-ko/Saka Agari/Rino forms applied.\nLocked: Minami mic gag = crowd answers south/south-facing/southwest (not Minami-no-ki mash).\nLocked: Keep「沙耶ちゃんの話」/It's Saa-chan's story as its own cue before mic-cover sentence.\nLocked: Mei-mei 「正岡子規」 setup + Ayane 「肩おかしき」 pun (not ASR mush). Keep poet name vs romaji kata okashiki distinct.\nClip4 2026-09-24T10:27:16+02:00: added provisional songs ['song-fugiri', 'song-hanpa-na-ikemen', 'song-to-be-continued'].\nLocked 2026-09-27 Himawarigumi LOD distill: Yuina (Ishimatsu ゆいな) ≠ Yuuna (Yamauchi ゆうな) — never collapse to Yuna; Fujikoko when ふじここ spoken (not bare Kokoha); Sae≠Saaya ASR trap; Saaya live 3rd = Saka Agari show (公演); Kokoha catch = Kokoha! not Koko-heart; overlap mash → split by ear; quiet ghosts delete.\nApplied q-20260927-001 Ramune intro catches (2026-09-27): lock Riria-turn/Mei-std/Moka/Nachi/Sara/Eura/Yuna fuller; PROV Maria chant, Rara %, Ryuto bday cheeks, Mei bday beat2, Yui bread.\nRamune 2025-05-10 distill: Reia≠Reiya lock confirmed; see sources/asr-traps-ramune-20250510.md (ららぱ↔ラッパー, 七木星↔七期, エイラ Host-narrative, エイティーン=Eighteen).",
+  "updated": "2026-09-28T20:15:00+02:00",
   "entries": [
     {
       "id": "hkt48",
@@ -136,7 +137,7 @@
       "confidence": "high",
       "locked": true,
       "updated": "2026-09-27T01:33:20+02:00",
-      "updated_by": "subtitler"
+      "updated_by": "editor"
     },
     {
       "id": "ichimura-airi",
@@ -206,7 +207,7 @@
       "confidence": "high",
       "locked": true,
       "updated": "2026-09-27T01:33:20+02:00",
-      "updated_by": "subtitler"
+      "updated_by": "editor"
     },
     {
       "id": "shibui-mina",
@@ -280,7 +281,7 @@
       "confidence": "locked",
       "locked": true,
       "updated": "2026-09-27T01:33:20+02:00",
-      "updated_by": "subtitler"
+      "updated_by": "editor"
     },
     {
       "id": "fuchigami-mai",
@@ -308,18 +309,24 @@
         "梁瀬鈴雅",
         "梁瀬",
         "れいあ",
-        "レイア"
+        "レイア",
+        "れいや",
+        "レイヤ",
+        "れいやさん"
       ],
       "en": "Reia",
       "en_full": "Yanase Reia",
       "type": "member",
       "team": null,
-      "reject": [],
-      "note": "",
-      "confidence": "provisional",
-      "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler"
+      "reject": [
+        "Reiya",
+        "Reiya-san"
+      ],
+      "note": " ASR often れいや→Reiya; lock Reia (Yanase Reia). Amiyun mole/smile bit on 2025-05-10 Ramune.",
+      "confidence": "confirmed",
+      "locked": true,
+      "updated": "2026-09-27T16:47:01+02:00",
+      "updated_by": "human"
     },
     {
       "id": "yamauchi-yuna",
@@ -346,7 +353,7 @@
       "confidence": "high",
       "locked": true,
       "updated": "2026-09-27T01:33:20+02:00",
-      "updated_by": "subtitler"
+      "updated_by": "editor"
     },
     {
       "id": "akiyoshi-yuka",
@@ -709,18 +716,23 @@
         "猪島莉玲亜",
         "いじまりりあ",
         "りーりたん",
-        "リーリタン"
+        "リーリタン",
+        "リリアターン"
       ],
       "en": "Rii-ritan",
       "en_full": "Ijima Riria",
       "type": "member",
-      "team": null,
-      "reject": [],
-      "note": "",
-      "confidence": "provisional",
-      "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler"
+      "team": "KIV",
+      "reject": [
+        "飯島莉玲亜",
+        "飯島リリア",
+        "Rii-ritan-turn as official nick"
+      ],
+      "note": "Official nick りーりたん (profile/121). Theater catch call リリアターン is separate from official nick. 出身長崎県. Gen 7th.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:05:24+02:00",
+      "updated_by": "verifier"
     },
     {
       "id": "eura-yuka",
@@ -731,29 +743,32 @@
       "en": "Yuuka",
       "en_full": "Eura Yuka",
       "type": "member",
-      "team": null,
+      "team": "KIV",
       "reject": [],
-      "note": "",
-      "confidence": "provisional",
-      "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler"
+      "note": "Official nick ゆうか (profile/122). 出身福岡県. Catch locked (polyhedra this show): 笑顔のボールでみんなの心にゴールを決めたい. Interactive: いつも愉快な→ゆうか／これは→床／わたしは→優香.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:05:24+02:00",
+      "updated_by": "verifier"
     },
     {
       "id": "kure-yuna",
       "ja": [
         "呉優菜",
-        "ゆうちゃん"
+        "ゆうちゃん",
+        "ゆーちゃん"
       ],
       "en": "Yuu-chan",
       "en_full": "Kure Yuna",
       "type": "member",
-      "team": null,
-      "reject": [],
-      "note": "",
-      "confidence": "provisional",
-      "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
+      "team": "kenkyuusei",
+      "reject": [
+        "ゆーちゃん as official-nick spelling (prefer ゆうちゃん)"
+      ],
+      "note": "Official nick ゆうちゃん (profile/124). 出身福岡県. Hobby 100円均一. Catch locked (polyhedra birth fest): 100円均一大好きなゆうちゃん／くれくれクレクレ→呉優菜／愛をあげるけん！推し募集中.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:10:00+02:00",
       "updated_by": "subtitler"
     },
     {
@@ -766,13 +781,16 @@
       "en": "Nacchi",
       "en_full": "Tsurukawa Nachi",
       "type": "member",
-      "team": null,
-      "reject": [],
-      "note": "",
-      "confidence": "provisional",
-      "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler"
+      "team": "kenkyuusei",
+      "reject": [
+        "鶴川那智",
+        "鶴川"
+      ],
+      "note": "Official nick なっち (profile/126). Kanji 靏川 not 鶴川. 出身福岡県. Catch core: ちょっとドジだけど笑顔いっぱいのなっち (Smart FLASH + theater).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:05:24+02:00",
+      "updated_by": "verifier"
     },
     {
       "id": "nakano-minami",
@@ -800,17 +818,22 @@
       "ja": [
         "長野らら",
         "ららぱ",
-        "ララパ"
+        "ララパ",
+        "らら"
       ],
       "en": "Rara-pa",
       "en_full": "Nagano Rara",
       "type": "member",
-      "team": null,
-      "reject": [],
-      "note": "",
-      "confidence": "provisional",
-      "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
+      "team": "KIV",
+      "reject": [
+        "7%",
+        "answer as 100%",
+        "answer as 200%"
+      ],
+      "note": "Official nick ららぱ (profile/128). 出身長崎県 LOCKED. ららパーセント chant provisional — answer is always ららパーセント never numeric %.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:10:00+02:00",
       "updated_by": "subtitler"
     },
     {
@@ -831,10 +854,10 @@
         "ゆうり",
         "Yuri"
       ],
-      "note": "Official romanization YUI MATSUNAGA; nick ゆいぱん. Given-name reading ゆい. Clip3 ASR ゆうりさん → ゆいさん mush. ASS: Yui for ゆいさん; Yui-pan when nick spoken. Never Yuuri.",
+      "note": "Official romanization YUI MATSUNAGA; official nick ゆいぱん (profile/129). 出身福岡県. Given-name ゆい. Reject Yuuri. Bread chant (明太フランス／ゆいぱん) provisional — favorite food corroborated by Smart FLASH.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-23T23:22:42+02:00",
+      "updated": "2026-09-27T16:05:24+02:00",
       "updated_by": "verifier"
     },
     {
@@ -848,11 +871,13 @@
       "en_full": "Matsumoto Moka",
       "type": "member",
       "team": "kenkyuusei",
-      "reject": [],
-      "note": "Official 松本苺花 / MOKA MATSUMOTO / もかぴ (7th; kenkyuusei at 2025-05-11 show; later Team KIV). Meoto-iwa reading gag with Ishii Ayane in Himawarigumi MC — not an official duo name.",
+      "reject": [
+        "もかちゃん as Matsumoto"
+      ],
+      "note": "Official 松本苺花 / MOKA MATSUMOTO / もかぴ (profile/130). 出身熊本県. Catch locked: いちご畑から生まれた／もかぴ／いちごの花みたいにかわいい？. Reject confusion with graduated 武田智加 もかちゃん.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-25T17:42:45+02:00",
+      "updated": "2026-09-27T16:05:24+02:00",
       "updated_by": "verifier"
     },
     {
@@ -865,13 +890,16 @@
       "en": "Mari-tan",
       "en_full": "Yamakawa Maria",
       "type": "member",
-      "team": null,
-      "reject": [],
-      "note": "",
-      "confidence": "provisional",
-      "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler"
+      "team": "kenkyuusei",
+      "reject": [
+        "まりな",
+        "Marina as name"
+      ],
+      "note": "Official nick まりたん (profile/131). 出身福岡県 LOCKED. Marshmallow/macaron chant provisional (no independent transcript).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:05:24+02:00",
+      "updated_by": "verifier"
     },
     {
       "id": "yoshida-mei",
@@ -884,30 +912,33 @@
       "en_full": "Yoshida Mei",
       "type": "member",
       "team": "kenkyuusei",
-      "reject": [],
-      "note": "7th gen kenkyuusei. Official nick めいめい / Mei-mei. JA given name is hiragana めい.",
+      "reject": [
+        "ゆうかが好きな as year-round canonical (birthday overlay only)"
+      ],
+      "note": "7th gen. Official nick めいめい / Mei-mei. JA given name hiragana めい. 出身山口県. Catch: メロンが好きな／いつも元気な／明るく笑顔の／めいめい (polyhedra birth fest). Birthday shows may swap beat2→ゆうかが好きな (provisional).",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-23T20:01:29+02:00",
-      "updated_by": "verifier"
+      "updated": "2026-09-27T16:10:00+02:00",
+      "updated_by": "subtitler"
     },
     {
       "id": "ryuto-ayane",
       "ja": [
         "龍頭綺音",
         "あやちゃん",
-        "アヤチャン"
+        "アヤチャン",
+        "龍ちゃん"
       ],
       "en": "Aya-chan",
       "en_full": "Ryuto Ayane",
       "type": "member",
-      "team": null,
+      "team": "H",
       "reject": [],
-      "note": "",
-      "confidence": "provisional",
-      "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler"
+      "note": "Official nick あやちゃん (profile/133). 出身長崎県. Cheeks catch core (fan cite of official): 右のほっぺには愛嬌、左のほっぺにはパワー. Theater first line + birthday Yuuka-cheeks still provisional.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:05:24+02:00",
+      "updated_by": "verifier"
     },
     {
       "id": "theater",
@@ -1514,7 +1545,7 @@
         "subtitling Iori story as Yui"
       ],
       "updated": "2026-09-23T23:59:36",
-      "updated_by": "editor"
+      "updated_by": "human"
     },
     {
       "id": "nanaki-chan-handoff",
@@ -1532,7 +1563,7 @@
         "Ikuno-chan for this handoff"
       ],
       "updated": "2026-09-23T23:59:36",
-      "updated_by": "editor"
+      "updated_by": "human"
     },
     {
       "id": "song-fugiri",
@@ -1926,7 +1957,266 @@
       "locked": false,
       "updated": "2026-09-27T09:57:50+02:00",
       "updated_by": "subtitler"
+    },
+    {
+      "id": "katahira-sara",
+      "ja": [
+        "片平紗麗",
+        "さらたん",
+        "サラタン",
+        "さら"
+      ],
+      "en": "Sara-tan",
+      "en_full": "Katahira Sara",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "片平紗麗 wrong-kanji guesses from ASR"
+      ],
+      "note": "Nick さらたん. 出身愛知県. Catch locked (polyhedra): 紗麗が望むなら→その先へ／ちっちゃいけどちゃんと見つけてね. Activity ended 2025-08-18 (official news). Later 星乃紗良 / Mooove! — out of HKT cast scope.",
+      "confidence": "locked",
+      "locked": true,
+      "status_note": "graduated/activity-ended 2025-08",
+      "updated": "2026-09-27T16:05:24+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "riria-turn-catch",
+      "ja": [
+        "私のターン",
+        "あなたのターン",
+        "みんなのターンは",
+        "リリアターン",
+        "リリアターンこと"
+      ],
+      "en": "Riria-turn",
+      "en_full": "My turn, your turn, everyone's turn is… / Riria-turn!",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "Rii-ritan-turn",
+        "りーりたんターン as catch call"
+      ],
+      "note": "Ijima Riria theater intro. Official IG catchphrase reel + live. Official nick remains りーりたん. Early alternate (IG/Smart FLASH): 私の成長を1秒も見逃さないで／みんなで育ててね — not this LOD stack.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:10:00+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "meimei-catchcopy",
+      "ja": [
+        "メロンが好きな",
+        "いつも元気な",
+        "明るく笑顔の",
+        "めいめい",
+        "ゆうかが好きな"
+      ],
+      "en": "loves melon / always energetic / bright smile / Mei-mei",
+      "en_full": "Mei-mei melon catch (standard: いつも元気な)",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "locking ゆうかが好きな as year-round canonical"
+      ],
+      "note": "Canonical (polyhedra Mei birth fest): メロンが好きな／いつも元気な／明るく笑顔の／めいめい. Birthday-for-Yuuka shows may use ゆうかが好きな as beat2 — provisional for that live only.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:10:00+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "ayachan-cheeks-catch",
+      "ja": [
+        "キラキラした瞳",
+        "まんまるほっぺ",
+        "あやちゃん",
+        "右のほっぺには愛嬌",
+        "左のほっぺにはパワー",
+        "パワーを届け"
+      ],
+      "en": "sparkling eyes & round cheeks / Aya-chan",
+      "en_full": "Ryuto Ayane cheeks catch (standard: 愛嬌/パワー; birthday may swap Yuuka)",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "locking birthday ゆうか-in-cheeks as sole canonical"
+      ],
+      "note": "Standard cheeks core (fan cite of official TikTok): 右のほっぺには愛嬌、左のほっぺにはパワー. Theater opener キラキラした瞳でまんまるほっぺといったらあやちゃん + birthday Yuuka overlay = provisional until second transcript.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T16:10:00+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "maritan-marshmallow-catch",
+      "ja": [
+        "マシュマロ",
+        "マカロン",
+        "まりたん",
+        "あなたが好きなのは"
+      ],
+      "en": "marshmallows? macarons? / Mari-tan!",
+      "en_full": "Yamakawa Maria marshmallow/macaron catch",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [],
+      "note": "Provisional — clip ASR/ASS only; no independent fan/official transcript yet. 出身福岡 is locked on member entry.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T16:05:24+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "mokapi-strawberry-catch",
+      "ja": [
+        "いちご畑から生まれた",
+        "もかぴ",
+        "いちごの花みたいにかわいい",
+        "いちごみたいにフレッシュな"
+      ],
+      "en": "born from a strawberry field / Moka-pi",
+      "en_full": "Born from a strawberry field — Moka-pi! / Cute like a strawberry blossom?",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [],
+      "note": "Matsumoto Moka. Locked from polyhedra 苺かぴ生誕祭 transcript.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:10:00+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "nacchi-doji-catch",
+      "ja": [
+        "ちょっとドジだけど",
+        "笑顔いっぱいの",
+        "なっち",
+        "なっちこと"
+      ],
+      "en": "a bit clumsy but full of smiles — Nacchi",
+      "en_full": "From Fukuoka… a bit clumsy but full of smiles — Nacchi",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "鶴川"
+      ],
+      "note": "Tsurukawa Nachi. Core locked via Smart FLASH debut + theater usage. Age numeral floats.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:10:00+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "saratan-sono-saki-catch",
+      "ja": [
+        "紗麗が望むなら",
+        "サラが望むなら",
+        "その先へ",
+        "ちっちゃいけど",
+        "ちゃんと見つけてね",
+        "その先の景色"
+      ],
+      "en": "If Sara wishes / to that destination",
+      "en_full": "If Sara wishes… → To that destination! / Find me (even though I am small)",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [],
+      "note": "Katahira Sara. Locked from polyhedra さらたん生誕祭. Published form 紗麗が望むなら; live may say サラが望むなら. Closing: その先の景色、一緒に見ましょう.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:10:00+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "rara-percent-catch",
+      "ja": [
+        "今日の気分は何パーセント",
+        "ららパーセント",
+        "長野愛",
+        "ららぱ"
+      ],
+      "en": "Rara percent!",
+      "en_full": "Today's mood is what percent? → Rara percent! (NOT numeric %)",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "subtitling answer as 7%",
+        "100% as the answer",
+        "200% as the answer"
+      ],
+      "note": "Nagano Rara. Answer token is ららパーセント. Teasers (長野愛/100/200) are traps. Full stack provisional — no independent transcript yet.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T16:05:24+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "yuuka-smile-ball-catch",
+      "ja": [
+        "笑顔のボール",
+        "みんなの心にゴール",
+        "ゴールを決めたい",
+        "いつも愉快な",
+        "床",
+        "優香"
+      ],
+      "en": "smile-ball → goal in everyone's heart",
+      "en_full": "With a smile-ball, I want to score a goal in everyone's heart!",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [],
+      "note": "Eura Yuka. Locked from polyhedra 江浦ちゃん生誕祭 (= this 2025-05-10 LOD). Interactive: いつも愉快な→ゆうか／これは→床／わたしは→優香.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:10:00+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "yuchan-100yen-catch",
+      "ja": [
+        "100円均一",
+        "100円均い",
+        "ゆうちゃん",
+        "くれくれクレクレ",
+        "くれゆうな",
+        "愛をあげるけん",
+        "推し募集中"
+      ],
+      "en": "100-yen-shop lover Yuu-chan / Kure-kure → Kure Yuna",
+      "en_full": "From Fukuoka — 100-yen-shop lover Yuu-chan / I'll give you love — looking for oshi!",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "locking ASR mush よろしくです as sole 3rd beat without 推し募集中 context"
+      ],
+      "note": "Kure Yuna. Canonical (polyhedra birth fest): 100円均一大好きなゆうちゃん／くれくれクレクレ→呉優菜／愛をあげるけん！推し募集中. Official nick ゆうちゃん. Some intros compress.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-27T16:10:00+02:00",
+      "updated_by": "subtitler"
+    },
+    {
+      "id": "yuipan-mentaiko-catch",
+      "ja": [
+        "ゆいが好きなパンは",
+        "明太フランス",
+        "明太フランスパン",
+        "ゆいのことが好きなパンは",
+        "ゆいぱん"
+      ],
+      "en": "mentaiko French bread / Yui-pan",
+      "en_full": "The bread Yui loves is mentaiko French / The bread that loves Yui is Yui-pan",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "Yuuri-pan"
+      ],
+      "note": "Matsunaga Yui. Nick ゆいぱん already locked. Bread call-response provisional (no independent full transcript); Smart FLASH confirms favorite food 明太フランスパン.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-27T16:05:24+02:00",
+      "updated_by": "verifier"
     }
-  ],
-  "updated": "2026-09-27T09:57:50+02:00"
+  ]
 }

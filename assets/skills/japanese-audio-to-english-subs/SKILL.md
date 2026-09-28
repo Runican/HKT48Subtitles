@@ -228,7 +228,8 @@ Watch-through:
 - Spot-check 3 random minutes **and** every former dropout range
 - Spot-check every member intro for catchphrase completeness
 - Note constant early/late bias per range and shift if needed
-- Build the **doubt list** from this pass + glossary open items before shipping
+- Run **Pass H** (conversation coherence) and repair flagged spans before shipping
+- Build the **doubt list** from this pass + Pass H residuals + glossary open items before shipping
 
 ## Definition of done
 
@@ -298,6 +299,7 @@ scripts/
 - Don't replace spoken **ふじここさん / Fujikoko-san** with bare given-name Kokoha when the member is being named/addressed
 - Don't fold hometown (〜県出身 / 熊本だけん) into an intro catchphrase from glossary habit when the live third beat is stage/show (逆上がり公演よろしくね / Saka Agari show) and hometown already sits on the name line. ASR 公園/この辺 are traps for 公演 (kouen).
 
+
 - Overlap mash: when human ear hears two voices, split cues even if re-ASR / L-R still returns one line (e.g. それが最低 + …わかるでしょう). Trust ear over Whisper for those beats.
 - Quiet / applause ghosts: if the user says nobody is speaking, **delete** the cue — do not keep polite stock lines (“Thank you for all your support!”).
 - ホラー vs ほらー: in a horror-thread context, prefer ホラー; don't render as hey/look.
@@ -307,7 +309,88 @@ scripts/
 - Ballet ≠ volleyball; don't invent post-name catchphrase leftovers (e.g. Risaki “mornings”).
 - After a wrong nick locks, re-scan **nearby Name tags and -san/-chan lines** in that beat — consistency pass spreads errors.
 - VM / box updates can wipe the Whisper venv — rebuild `/workspace/.venv` + verify `faster-whisper` before the next clip.
+- Pass G energy continuity: cheap RMS/VAD flags for hot-after-cue, yay-glued starts, silent holes in hot bands — **hints only**, softer in cheer/HB/photo zones.
+- Pass H conversation coherence: walk cues in order; structural non sequitur / EN stub / copy-forward / mashed JA → **auto re-ASR+repair** until the stretch makes sense (soft on stammer/overlap/nonsense; no inventing over silence).
+- Trailing EN `—`/`…` with fuller JA = truncation stub — complete or split before ship (Pass H).
+- Never paste a prior denial/catchphrase forward onto the next speaker’s window; force Name from in-window context.
 - Chorus / group lines: light Name tags are enough; don't demand perfect speaker IDs unless the user volunteers one.
+
+- Topic-repeat then answer: when JA restates the topic then answers, **split** EN — don't collapse into one answer-only cue.
+- Host stammer/restart mashed into a clean invented topic EN → **delete** the invent; keep the real later statement.
+- Stop/restart same intent: truncate incomplete first-attempt EN; keep the completed second — don't paste the full sentence onto both.
+- Self-interrupt catchphrase: merge duplicate full EN once; re-ASR the restart window for the **real continuation** (don't paste the catchphrase again).
+- Complete-looking EN with leftover JA on the same cue (esp. after emotional peaks) → diff JA remainder and **split/insert**.
+- Short vocative EN that matches an earlier cue while JA is a different clause → **re-ASR before delete** (template invent ≠ silence).
+- Host anecdote that *names* a member ≠ that member speaking — don't peel name mentions out of Host narrative as separate-speaker dialogue.
+- Wide ASR windows echo prior lines or flip polarity (変わる↔変わんない); prefer **tight clips** for polarity/nicks/retorts.
+- Don't invent ages/numbers from confident ASR over stammer; drop the numeral if ear/cast don't support it.
+- Raw JA left in the EN field is a ship defect — translate or flag.
+
+
+
+## Pass G add-on — cheap energy / speech continuity (optional, default on)
+
+**Goal:** catch mistimed or truncated cues without another full ASR pass.
+
+After cues exist, for each segment WAV compute a cheap **RMS energy envelope** (e.g. 50–100 ms hop) and optional short VAD/speech band. Flag for re-listen (doubt list / Pass G), **do not auto-retiming**:
+
+1. **Hot-after-cue:** cue ends while energy stays elevated for ≥~0.4–0.6 s with no following cue covering that span → possible truncated EN or early `end`.
+2. **Cold-under-cue / early start:** cue `start` sits in a loud burst that looks like applause/cheer while speech onset is later (common intro/yay glue).
+3. **Silent hole in hot band:** gap between cues ≥~0.8–1.5 s while energy stays speech-like → missing line candidate (same family as ≤2s cross-talk gaps).
+
+**Cheer / laugh / cake zones:** intros with catchphrase chants, HB singing, photo hush, birthday candles — raise thresholds or treat flags as low-confidence only; raw energy will foul. Prefer “energy hot **and** Whisper words in window” when re-checking those spans.
+
+**Cost:** seconds per segment on CPU; fine to run every job. Skip only if the user asks for speed-only. Folder optional: `energy_flags.json` under the segment.
+
+## Pass H — conversation coherence (default on)
+
+**Goal:** catch missing lines, mid-clause truncations, and speaker/copy-forward errors that look “fine” cue-by-cue but break the talk when read in order.
+
+**When:** after Pass E/F (EN + timing exist), before shipping / with Pass G. Habit on every job.
+
+### How (keep it cheap)
+
+Walk the cue list **in timeline order** (plus JA when present). Do **not** run another full-show Whisper. Flag only spans that fail a short coherence check, then **repair those spans** (tight-clip re-ASR → peel mashed JA → split speakers → complete EN stubs). Loop until the stretch reads as one conversation, or the residual is an explicit doubt.
+
+### Flag triggers (repair, don’t ignore)
+
+1. **Non sequitur:** cue does not follow prior speaker/topic, or Host/letter anecdote jumps mid-story.
+2. **Truncation stub:** EN ends with `—` / `…` / a half thought, and the next cue does not finish that thought (or JA continues past EN).
+3. **Copy-forward / false repeat:** EN matches a cue 1–3 back (denial, catchphrase, “I've got one!”) while JA/ASR in-window differs.
+4. **Q without A / A without Q:** question with no nearby answer, or punchline with no setup in the prior few cues.
+5. **Name/polarity clash:** punchline glued under the wrong Name; or polarity (`変わる`/`変わんない`) that contradicts the next Host beat.
+
+### Soft / high false-alarm zones (raise the bar)
+
+Idol talk is often hectic on purpose: stammer/restart, stop–start mid sentence, talk-over, young/unclear speech, playful nonsense, cheer stacks. In those zones:
+
+- Prefer **structural** flags (stub + fuller JA; exact EN duplicate; mashed multi-clause JA under one Name) over “this sounds odd.”
+- Do **not** flag mere stutter restarts, overlapping cheers, or deliberately silly lines.
+- Birthday/photo hush, HB singing, chant walls: same soft rule as Pass G energy — need JA/ASR corroboration, not vibe alone.
+
+### On flag → force sense (mandatory)
+
+A Pass H flag is **not** a doubt-only hint. Automatically:
+
+1. Tight-clip re-ASR the window (and neighbors ±1–2 s); prefer tight before wide for polarity/nicks.
+2. Peel mashed JA into separate cues; complete EN stubs from JA/ASR; drop invented paste.
+3. Retag speakers from context + ear/ASR, not the previous live speaker alone.
+4. Re-read the fixed stretch in order; if still broken, widen once more. Only then leave an explicit user-facing doubt.
+
+**Do not** “make sense” by inventing plot or polite filler when energy/ASR show silence — delete ghosts. **Do not** flatten real stammer into one fake smooth sentence if two restart cues are honest.
+
+### Cost
+
+Seconds–minutes per segment (LLM walk + a few spot ASR clips). Skip only if the user asks for speed-only.
+
+## Acceptance → docs + public repo
+
+When the user says the ASS (segment or full-show) is **accepted**:
+
+1. Distill that review arc’s postmortems into this skill’s **Do-not-repeat** (and shared glossary locks if any). Prefer HKT-specific traps in `assets/hkt48/` (glossary locks / short traps notes) over bloating this skill.
+2. Update related private notes only as needed for reuse; do not ask the user to curate them.
+3. Publish in **one** commit batch to the public repo: accepted ASS under `shows/stages/[year]/` (or `subs/[type]/[year]/` as agreed), plus scrubbed skill/glossary/docs under `assets/` — no mid-progress NOTES, packets, or internal bot names.
+4. Do **not** commit on every fix batch; only on acceptance (or an explicit “commit now”).
 
 ## Domain verification
 

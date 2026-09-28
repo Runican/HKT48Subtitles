@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T00:18:41+02:00",
+  "updated": "2026-09-27T16:05:24+02:00",
   "members": [
     {
       "id": "yasui-hina",
@@ -58,10 +58,12 @@
       "gen": "7th",
       "lookalikes": [],
       "shows": [
-        "Saka Agari"
+        "Saka Agari",
+        "Ramune"
       ],
       "status": "active",
-      "source": "https://sp.hkt48.jp/qhkt48_profile?id=132"
+      "source": "https://www.hkt48.jp/profile/132",
+      "note": "出身山口県. Catch メロン／いつも元気な／明るく笑顔の."
     },
     {
       "id": "ishii-ayane",
@@ -240,11 +242,12 @@
         }
       ],
       "shows": [
-        "Saka Agari"
+        "Saka Agari",
+        "Ramune"
       ],
       "status": "active",
       "source": "https://www.hkt48.jp/profile/129",
-      "note": "Official YUI; reject Yuuri for ASR ゆうり."
+      "note": "Official nick ゆいぱん. 出身福岡県. Bread chant provisional; nick locked."
     },
     {
       "id": "baba-sayaka",
@@ -310,13 +313,169 @@
       ],
       "team": "kenkyuusei",
       "gen": "7th",
-      "lookalikes": [],
+      "lookalikes": [
+        {
+          "name": "Takeda Tomoka もかちゃん",
+          "why": "旧もかぴ通称"
+        }
+      ],
       "shows": [
-        "Saka Agari"
+        "Saka Agari",
+        "Ramune"
       ],
       "status": "active",
       "source": "https://www.hkt48.jp/profile/130",
-      "note": "Meoto-iwa reading gag with Ishii Ayane in clip — not official unit name."
+      "note": "出身熊本県. Strawberry-field catch locked."
+    },
+    {
+      "id": "ijima-riria",
+      "en_full": "Ijima Riria",
+      "ja": "猪島莉玲亜",
+      "nicks": [
+        "Rii-ritan",
+        "りーりたん",
+        "リリアターン"
+      ],
+      "team": "KIV",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Ramune"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/121",
+      "note": "Catch call リリアターン ≠ official nick りーりたん. 出身長崎県."
+    },
+    {
+      "id": "ryuto-ayane",
+      "en_full": "Ryuto Ayane",
+      "ja": "龍頭綺音",
+      "nicks": [
+        "Aya-chan",
+        "あやちゃん"
+      ],
+      "team": "H",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Ramune"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/133",
+      "note": "出身長崎県. Cheeks catch; birthday Yuuka overlay provisional."
+    },
+    {
+      "id": "yamakawa-maria",
+      "en_full": "Yamakawa Maria",
+      "ja": "山川万里愛",
+      "nicks": [
+        "Mari-tan",
+        "まりたん"
+      ],
+      "team": "kenkyuusei",
+      "gen": "7th",
+      "lookalikes": [
+        {
+          "name": "Marina",
+          "why": "ASR/dance teacher まりな mush"
+        }
+      ],
+      "shows": [
+        "Ramune"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/131",
+      "note": "出身福岡県 LOCKED. Marshmallow chant provisional."
+    },
+    {
+      "id": "tsurukawa-nachi",
+      "en_full": "Tsurukawa Nachi",
+      "ja": "靏川那智",
+      "nicks": [
+        "Nacchi",
+        "なっち"
+      ],
+      "team": "kenkyuusei",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Ramune"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/126",
+      "note": "Kanji 靏川 not 鶴川. 出身福岡県. ドジ/笑顔 catch locked."
+    },
+    {
+      "id": "katahira-sara",
+      "en_full": "Katahira Sara",
+      "ja": "片平紗麗",
+      "nicks": [
+        "Sara-tan",
+        "さらたん"
+      ],
+      "team": null,
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Ramune"
+      ],
+      "status": "graduate",
+      "source": "https://www.hkt48.jp/news/2025/08/10777",
+      "note": "出身愛知県. 紗麗が望むなら catch locked. Activity ended 2025-08-18."
+    },
+    {
+      "id": "nagano-rara",
+      "en_full": "Nagano Rara",
+      "ja": "長野らら",
+      "nicks": [
+        "Rara-pa",
+        "ららぱ"
+      ],
+      "team": "KIV",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Ramune"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/128",
+      "note": "出身長崎県. ららパーセント provisional."
+    },
+    {
+      "id": "eura-yuka",
+      "en_full": "Eura Yuka",
+      "ja": "江浦優香",
+      "nicks": [
+        "Yuuka",
+        "ゆうか"
+      ],
+      "team": "KIV",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Ramune"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/122",
+      "note": "出身福岡県. 笑顔のボール catch locked (this birthday LOD)."
+    },
+    {
+      "id": "kure-yuna",
+      "en_full": "Kure Yuna",
+      "ja": "呉優菜",
+      "nicks": [
+        "Yuu-chan",
+        "ゆうちゃん"
+      ],
+      "team": "kenkyuusei",
+      "gen": "7th",
+      "lookalikes": [],
+      "shows": [
+        "Ramune"
+      ],
+      "status": "active",
+      "source": "https://www.hkt48.jp/profile/124",
+      "note": "出身福岡県. Official nick ゆうちゃん. 100円／くれくれ catch locked."
     }
   ]
 }
