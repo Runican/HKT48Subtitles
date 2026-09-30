@@ -1,0 +1,1000 @@
+[Script Info]
+Title: HKT48 250508 Himawarigumi Saka Agari LOD
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,56,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+; ===== sketch =====
+Dialogue: 0,0:00:10.44,0:00:12.38,Default,,0,0,60,,If the manager's no good, neither is the part-timer
+Dialogue: 0,0:00:12.80,0:00:17.25,Default,Staff,0,0,60,,Ah — I'll be right with you! Yes yes yes yes!
+Dialogue: 0,0:00:18.03,0:00:20.51,Default,Staff,0,0,60,,Got it — yes — change is ready — yes!
+Dialogue: 0,0:00:21.01,0:00:24.07,Default,Staff,0,0,60,,Hey, seriously — that place's thing was so good.
+Dialogue: 0,0:00:24.15,0:00:24.87,Default,Staff,0,0,60,,Huh — where?
+Dialogue: 0,0:00:25.63,0:00:28.57,Default,Staff,0,0,60,,Um, what was it — that Fukuoka…
+Dialogue: 0,0:00:28.65,0:00:29.69,Default,Staff,0,0,60,,Mucchan Manju?
+Dialogue: 0,0:00:29.77,0:00:30.12,Default,Staff,0,0,60,,Nope.
+Dialogue: 0,0:00:30.20,0:00:30.70,Default,Staff,0,0,60,,Huh?
+Dialogue: 0,0:00:31.23,0:00:32.79,Default,Staff,0,0,60,,Aren't you being harsh?
+Dialogue: 0,0:00:32.97,0:00:33.32,Default,Staff,0,0,60,,Totally wrong.
+Dialogue: 0,0:00:33.40,0:00:35.35,Default,Staff,0,0,60,,Did Mucchan Manju do something to you?
+Dialogue: 0,0:00:35.55,0:00:36.63,Default,Staff,0,0,60,,Not at all — still wrong.
+Dialogue: 0,0:00:36.71,0:00:38.37,Default,Manager,0,0,60,,Hey hey — quit chatting and…
+Dialogue: 0,0:00:38.45,0:00:40.95,Default,Manager,0,0,60,,at least take one order!
+Dialogue: 0,0:00:41.37,0:00:42.91,Default,Manager,0,0,60,,Hey — you won't get paid, right?
+Dialogue: 0,0:00:43.37,0:00:43.79,Default,Staff,0,0,60,,Aye.
+Dialogue: 0,0:00:43.87,0:00:44.57,Default,Staff,0,0,60,,Okaaay.
+Dialogue: 0,0:00:44.65,0:00:46.17,Default,Manager,0,0,60,,Why so sluggish?
+Dialogue: 0,0:00:46.25,0:00:48.31,Default,Manager,0,0,60,,Answer sharper — snappier!
+Dialogue: 0,0:00:48.39,0:00:50.73,Default,Manager,0,0,60,,And don't slack off chatting like that.
+Dialogue: 0,0:00:50.81,0:00:51.69,Default,Staff,0,0,60,,Okaaay.
+Dialogue: 0,0:00:51.77,0:00:55.41,Default,Manager,0,0,60,,Hey — I'm the manager here!
+Dialogue: 0,0:00:55.97,0:00:58.11,Default,Staff,0,0,60,,Manager — table 3 is calling!
+Dialogue: 0,0:00:58.19,0:00:59.37,Default,Manager,0,0,60,,Ah — thanks — I'll go!
+Dialogue: 0,0:00:59.45,0:01:01.27,Default,Staff,0,0,60,,Got iiiit — okaay!
+Dialogue: 0,0:01:01.77,0:01:03.19,Default,Staff,0,0,60,,The manager's an idiot, huh?
+Dialogue: 0,0:01:04.37,0:01:06.77,Default,Staff,0,0,60,,That's why we end up working for free.
+Dialogue: 0,0:01:06.85,0:01:07.27,Default,Staff,0,0,60,,Yeah.
+Dialogue: 0,0:01:07.35,0:01:09.67,Default,Staff,0,0,60,,And she's kinda tiny, right?
+Dialogue: 0,0:01:10.03,0:01:10.35,Default,Staff,0,0,60,,Yeah.
+Dialogue: 0,0:01:10.97,0:01:11.79,Default,Staff,0,0,60,,True enough.
+Dialogue: 0,0:01:11.87,0:01:12.77,Default,Staff,0,0,60,,Kinda compact, yeah.
+Dialogue: 0,0:01:12.85,0:01:14.59,Default,Customer,0,0,60,,Um — is the person in charge here?
+Dialogue: 0,0:01:17.81,0:01:19.21,Default,Customer,0,0,60,,Who's in charge?
+Dialogue: 0,0:01:20.21,0:01:21.23,Default,Manager,0,0,60,,How can I help you?
+Dialogue: 0,0:01:21.57,0:01:23.03,Default,Customer,0,0,60,,There was a foreign object in my food.
+Dialogue: 0,0:01:23.11,0:01:25.11,Default,Manager,0,0,60,,A foreign object? Really?
+Dialogue: 0,0:01:26.23,0:01:27.13,Default,Manager,0,0,60,,Gomen-kuchai~
+Dialogue: 0,0:01:27.21,0:01:29.11,Default,Customer,0,0,60,,What's 'gomen-kuchai'?
+Dialogue: 0,0:01:29.23,0:01:29.89,Default,Manager,0,0,60,,Gomen-kusai~
+Dialogue: 0,0:01:30.91,0:01:31.81,Default,Customer,0,0,60,,It's not smelly, though.
+Dialogue: 0,0:01:31.89,0:01:33.37,Default,Manager,0,0,60,,Wait — what was in it?
+Dialogue: 0,0:01:33.45,0:01:35.29,Default,Customer,0,0,60,,A tooth was in the cream stew.
+Dialogue: 0,0:01:35.37,0:01:35.97,Default,Manager,0,0,60,,A tooth?
+Dialogue: 0,0:01:36.29,0:01:36.55,Default,Customer,0,0,60,,A tooth.
+Dialogue: 0,0:01:37.77,0:01:39.09,Default,Staff,0,0,60,,Oh nooo—
+Dialogue: 0,0:01:39.17,0:01:41.37,Default,Staff,0,0,60,,I'm missing four teeth right now…
+Dialogue: 0,0:01:42.99,0:01:44.49,Default,Staff,0,0,60,,Were they all in there? What do we do?
+Dialogue: 0,0:01:44.57,0:01:45.09,Default,Staff,0,0,60,,Bad bad bad—
+Dialogue: 0,0:01:45.17,0:01:47.73,Default,Staff,0,0,60,,Why is there a tooth in the cream stew?!
+Dialogue: 0,0:01:48.15,0:01:49.91,Default,Staff,0,0,60,,Uh — maybe while I was cooking…
+Dialogue: 0,0:01:49.99,0:01:51.45,Default,Staff,0,0,60,,I laughed "ha-ha" and…
+Dialogue: 0,0:01:52.35,0:01:54.85,Default,Staff,0,0,60,,a tooth kinda fell in, maybe.
+Dialogue: 0,0:01:55.39,0:01:56.27,Default,Staff,0,0,60,,Gomen-kuchai~
+Dialogue: 0,0:01:56.71,0:01:57.85,Default,Staff,0,0,60,,Stop saying gomen-kuchai!
+Dialogue: 0,0:01:58.53,0:01:59.51,Default,Staff,0,0,60,,What do we do?
+Dialogue: 0,0:02:00.51,0:02:01.51,Default,Staff,0,0,60,,What now…
+Dialogue: 0,0:02:04.23,0:02:09.01,Default,Staff,0,0,60,,Well — we could squash that complainer as tiny as the manager…
+Dialogue: 0,0:02:10.89,0:02:11.65,Default,Staff,0,0,60,,Th-that's…
+Dialogue: 0,0:02:11.73,0:02:13.13,Default,Staff,0,0,60,,Save that for last resort.
+Dialogue: 0,0:02:14.05,0:02:15.17,Default,Staff,0,0,60,,Yeah, we'd get yelled at.
+Dialogue: 0,0:02:15.25,0:02:15.55,Default,Staff,0,0,60,,Yeah.
+Dialogue: 0,0:02:16.33,0:02:19.45,Default,Staff,0,0,60,,So this is a "gotta apologize honestly" case?
+Dialogue: 0,0:02:20.11,0:02:22.63,Default,Staff,0,0,60,,Ehh but that blonde person is scary…
+Dialogue: 0,0:02:23.37,0:02:24.55,Default,Staff,0,0,60,,We'll definitely get yelled at.
+Dialogue: 0,0:02:24.63,0:02:25.43,Default,Staff,0,0,60,,I get it.
+Dialogue: 0,0:02:25.79,0:02:27.07,Default,Staff,0,0,60,,I get it — I don't wanna either.
+Dialogue: 0,0:02:27.15,0:02:27.95,Default,Staff,0,0,60,,Nobody wants that~
+Dialogue: 0,0:02:29.01,0:02:30.25,Default,Staff,0,0,60,,But no matter what…
+Dialogue: 0,0:02:30.33,0:02:32.27,Default,Staff,0,0,60,,we've got the customer's back!
+Dialogue: 0,0:02:35.31,0:02:36.39,Default,Staff,0,0,60,,You're the junior, huh~
+Dialogue: 0,0:02:36.47,0:02:40.31,Default,Staff,0,0,60,,Right?
+Dialogue: 0,0:02:40.39,0:02:41.01,Default,Staff,0,0,60,,Absolutely.
+Dialogue: 0,0:02:41.09,0:02:42.65,Default,Staff,0,0,60,,Don't you dare betray us.
+Dialogue: 0,0:02:43.27,0:02:44.09,Default,Staff,0,0,60,,Never.
+Dialogue: 0,0:02:44.33,0:02:44.67,Default,Staff,0,0,60,,You okay?
+Dialogue: 0,0:02:44.81,0:02:45.43,Default,Staff,0,0,60,,Please wait a moment.
+Dialogue: 0,0:02:45.51,0:02:46.39,Default,Staff,0,0,60,,Just a second, please.
+Dialogue: 0,0:02:46.47,0:02:47.13,Default,Customer,0,0,60,,Hurry up!
+Dialogue: 0,0:02:47.21,0:02:49.47,Default,Staff,0,0,60,,Who just made the cream stew?
+Dialogue: 0,0:02:49.81,0:02:50.49,Default,Staff,0,0,60,,I don't know.
+Dialogue: 0,0:02:50.57,0:02:53.76,Default,Staff,0,0,60,,It was you.
+Dialogue: 0,0:02:53.84,0:02:55.80,Default,Staff,0,0,60,,Lying won't help.
+Dialogue: 0,0:02:55.88,0:02:58.40,Default,Staff,0,0,60,,If you fess up and apologize, they'll forgive you.
+Dialogue: 0,0:02:58.48,0:02:59.64,Default,Staff,0,0,60,,C'mon — let's go together.
+Dialogue: 0,0:02:59.72,0:03:01.76,Default,Staff,0,0,60,,They're blonde, you know.
+Dialogue: 0,0:03:01.84,0:03:04.32,Default,Staff,0,0,60,,This person said they'd forgive an apology.
+Dialogue: 0,0:03:04.86,0:03:06.58,Default,Customer,0,0,60,,I didn't say that — and I can hear you.
+Dialogue: 0,0:03:06.66,0:03:07.72,Default,Staff,0,0,60,,Go go go!
+Dialogue: 0,0:03:07.80,0:03:08.66,Default,Customer,0,0,60,,I didn't say that!
+Dialogue: 0,0:03:08.74,0:03:09.98,Default,Staff,0,0,60,,Go go go!
+Dialogue: 0,0:03:10.06,0:03:10.46,Default,Staff,0,0,60,,There we go.
+Dialogue: 0,0:03:10.54,0:03:12.70,Default,Customer,0,0,60,,That tooth — yours?
+Dialogue: 0,0:03:14.63,0:03:15.03,Default,Staff,0,0,60,,Yes.
+Dialogue: 0,0:03:15.65,0:03:16.00,Default,Customer,0,0,60,,You—
+Dialogue: 0,0:03:16.08,0:03:16.87,Default,Customer,0,0,60,,What's with that attitude?
+Dialogue: 0,0:03:16.95,0:03:17.51,Default,Staff,0,0,60,,Manager…
+Dialogue: 0,0:03:17.87,0:03:18.25,Default,Customer,0,0,60,,Seriously…
+Dialogue: 0,0:03:18.33,0:03:18.97,Default,Customer,0,0,60,,What is this staff…
+Dialogue: 0,0:03:19.05,0:03:20.21,Default,Staff,0,0,60,,Sorry — side kick!
+Dialogue: 0,0:03:20.29,0:03:21.93,Default,Customer,0,0,60,,'Side kick'?
+Dialogue: 0,0:03:22.53,0:03:23.51,Default,Staff,0,0,60,,Sorry — side punch!
+Dialogue: 0,0:03:23.59,0:03:24.73,Default,Staff,0,0,60,,Hey everyone — come come come!
+Dialogue: 0,0:03:24.81,0:03:25.21,Default,Staff,0,0,60,,Everyone, come!
+Dialogue: 0,0:03:25.29,0:03:26.11,Default,Staff,0,0,60,,Let's all apologize!
+Dialogue: 0,0:03:26.19,0:03:26.85,Default,Staff,0,0,60,,Se-no—
+Dialogue: 0,0:03:26.93,0:03:28.29,Default,Staff,0,0,60,,We're so sorry, everyone~
+Dialogue: 0,0:03:28.37,0:03:29.03,Default,Staff,0,0,60,,Se-no—
+Dialogue: 0,0:03:29.11,0:03:30.45,Default,Staff,0,0,60,,Sorry — side kick!
+Dialogue: 0,0:03:31.99,0:03:33.51,Default,Staff,0,0,60,,Sorry — chawanmushi, bouncy-bouncy!
+Dialogue: 0,0:03:33.59,0:03:34.39,Default,Customer,0,0,60,,Bouncy-bouncy?
+Dialogue: 0,0:03:35.57,0:03:37.45,Default,Staff,0,0,60,,Sorry — cyanoil~
+Dialogue: 0,0:03:38.71,0:03:39.35,Default,Customer,0,0,60,,Why?!
+Dialogue: 0,0:03:39.47,0:03:42.88,Default,Staff,0,0,60,,Cream flirty-flirty~
+Dialogue: 0,0:03:43.52,0:03:45.28,Default,Staff,0,0,60,,Sorry — cider, gulp-gulp!
+Dialogue: 0,0:03:45.36,0:03:46.34,Default,Customer,0,0,60,,Gulp-gulp?
+Dialogue: 0,0:03:47.38,0:03:49.14,Default,Customer,0,0,60,,What are you four, rappers?
+Dialogue: 0,0:03:50.06,0:03:51.80,Default,Customer,0,0,60,,Nope — this one's hopeless.
+Dialogue: 0,0:03:51.88,0:03:53.66,Default,Customer,0,0,60,,To make you reflect a bit…
+Dialogue: 0,0:03:53.74,0:03:55.18,Default,Customer,0,0,60,,let's grill yakiniku and have a reflection party.
+Dialogue: 0,0:03:55.26,0:03:56.94,Default,Customer,0,0,60,,We're closing for a bit, okay?
+Dialogue: 0,0:03:57.02,0:03:57.44,Default,Staff,0,0,60,,What do we do…
+Dialogue: 0,0:03:59.26,0:04:01.16,Default,Staff,0,0,60,,Reflect, reflect, we'll reflect!
+Dialogue: 0,0:04:01.24,0:04:02.66,Default,Customer,0,0,60,,What is with those four…
+Dialogue: 0,0:04:02.74,0:04:04.36,Default,Customer,0,0,60,,Worst ever…
+Dialogue: 0,0:04:04.96,0:04:07.54,Default,Customer,0,0,60,,Well — anyone can drop a tooth, I guess.
+Dialogue: 0,0:04:08.66,0:04:11.28,Default,Customer,0,0,60,,I lose teeth sometimes too…
+Dialogue: 0,0:04:11.36,0:04:13.48,Default,Customer,0,0,60,,Anyway — set that feeling aside, and…
+Dialogue: 0,0:04:13.56,0:04:14.70,Default,Customer,0,0,60,,if you watch that show…
+Dialogue: 0,0:04:14.78,0:04:16.50,Default,Customer,0,0,60,,you can really enjoy it~
+Dialogue: 0,0:04:18.38,0:04:19.28,Default,Customer,0,0,60,,Ah — this, this!
+Dialogue: 0,0:04:19.36,0:04:21.46,Default,Customer,0,0,60,,Everyone — let's enjoy it together!
+; ===== photo =====
+Dialogue: 0,0:23:39.26,0:23:40.00,Default,Host,0,0,60,,Good evening, everyone!
+Dialogue: 0,0:23:48.70,0:23:51.85,Default,Host,0,0,60,,HKT48 Himawarigumi — Saka Agari — has begun, and…
+Dialogue: 0,0:23:51.91,0:23:53.39,Default,Host,0,0,60,,Are you having fun?
+Dialogue: 0,0:23:53.47,0:23:55.53,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:23:56.51,0:23:58.41,Default,Host,0,0,60,,Thank you for coming right after Golden Week!
+Dialogue: 0,0:24:00.49,0:24:02.43,Default,Host,0,0,60,,First you heard Tenohira, Saka Agari,
+Dialogue: 0,0:24:02.85,0:24:05.95,Default,Host,0,0,60,,Hitei no Requiem, and Sono Ase wa Uso o Tsukanai —
+Dialogue: 0,0:24:06.03,0:24:07.87,Default,Host,0,0,60,,and now we'd like to take photos.
+Dialogue: 0,0:24:07.95,0:24:09.25,Default,Host,0,0,60,,Photographer, please!
+Dialogue: 0,0:24:19.58,0:24:22.48,Default,Host,0,0,60,,So, Kure-chan — what do you want to do?
+Dialogue: 0,0:24:23.71,0:24:26.83,Default,Kure Yuna,0,0,60,,I love this costume, so…
+Dialogue: 0,0:24:26.91,0:24:28.29,Default,Kure Yuna,0,0,60,,I want to go sparkly!
+Dialogue: 0,0:24:28.37,0:24:28.97,Default,Host,0,0,60,,Sparkly!
+Dialogue: 0,0:24:37.77,0:24:40.20,Default,Tanaka Iori,0,0,60,,Rina-chi with the big-sis hairdo today—
+Dialogue: 0,0:24:40.29,0:24:40.85,Default,Kuriyama Rina,0,0,60,,Yes?
+Dialogue: 0,0:24:41.33,0:24:43.27,Default,Kuriyama Rina,0,0,60,,That's right — surprise — among us…
+Dialogue: 0,0:24:43.35,0:24:44.87,Default,Kuriyama Rina,0,0,60,,tied with Yuka-tan for oldest.
+Dialogue: 0,0:24:44.95,0:24:46.31,Default,Host,0,0,60,,You're the oldest!
+Dialogue: 0,0:24:46.39,0:24:47.21,Default,Kuriyama Rina,0,0,60,,No no no no—
+Dialogue: 0,0:24:47.29,0:24:50.79,Default,Kuriyama Rina,0,0,60,,Your birthday's earlier, though.
+Dialogue: 0,0:24:50.87,0:24:51.95,Default,Host,0,0,60,,True — by a few months.
+Dialogue: 0,0:24:52.03,0:24:55.41,Default,Host,0,0,60,,Alright — strike the 'big sister' pose you imagine!
+Dialogue: 0,0:24:55.49,0:24:55.85,Default,Kuriyama Rina,0,0,60,,Okay!
+Dialogue: 0,0:24:56.23,0:24:56.71,Default,Host,0,0,60,,Wow!
+Dialogue: 0,0:24:58.39,0:24:59.79,Default,Members,0,0,60,,Amazing—
+Dialogue: 0,0:25:01.47,0:25:03.29,Default,Host,0,0,60,,The back row's so loud — what do we do?
+Dialogue: 0,0:25:03.37,0:25:04.15,Default,Host,0,0,60,,Different energy!
+Dialogue: 0,0:25:15.89,0:25:16.85,Default,Host,0,0,60,,Oldest—
+Dialogue: 0,0:25:16.93,0:25:17.91,Default,Host,0,0,60,,Oldest — Akiyoshi-san!
+Dialogue: 0,0:25:18.33,0:25:18.65,Default,Akiyoshi Yuka,0,0,60,,Yes!
+Dialogue: 0,0:25:19.59,0:25:21.07,Default,Host,0,0,60,,Do the nyan-nyan for us!
+Dialogue: 0,0:25:21.57,0:25:22.39,Default,Akiyoshi Yuka,0,0,60,,Nyan-nyan, huh?
+Dialogue: 0,0:25:22.87,0:25:23.59,Default,Akiyoshi Yuka,0,0,60,,Nyan-nyan!
+Dialogue: 0,0:25:23.67,0:25:25.51,Default,Host,0,0,60,,Yep — the top one's different.
+Dialogue: 0,0:25:25.59,0:25:25.73,Default,Akiyoshi Yuka,0,0,60,,Right.
+Dialogue: 0,0:25:26.43,0:25:27.47,Default,Host,0,0,60,,You too, though!
+Dialogue: 0,0:25:34.89,0:25:35.17,Default,Host,0,0,60,,Thank you!
+Dialogue: 0,0:25:38.99,0:25:41.85,Default,Host,0,0,60,,These photos will be sold in the lobby after the show, so…
+Dialogue: 0,0:25:41.93,0:25:43.65,Default,Host,0,0,60,,please stop by on your way out.
+Dialogue: 0,0:25:43.73,0:25:44.89,Default,Host,0,0,60,,Thank you!
+Dialogue: 0,0:25:45.69,0:25:47.19,Default,Members,0,0,60,,Please take care of us!
+; ===== intro =====
+Dialogue: 0,0:25:51.73,0:25:54.27,Default,Tanaka Iori,0,0,60,,From here, please let us introduce ourselves one by one.
+Dialogue: 0,0:25:54.35,0:25:57.85,Default,Tanaka Iori,0,0,60,,Today's theme is: if you became an animal, what would you be?
+Dialogue: 0,0:25:57.93,0:25:59.57,Default,Tanaka Iori,0,0,60,,Alright — starting with Fujikoko, please!
+Dialogue: 0,0:26:00.50,0:26:02.68,Default,Fujino Kokoha,0,0,60,,When I say se-no, give me Kokoha, please!
+Dialogue: 0,0:26:03.76,0:26:04.40,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:26:04.76,0:26:06.48,Default,Fujino Kokoha,0,0,60,,Where is this place? Who am I?
+Dialogue: 0,0:26:06.74,0:26:07.46,Default,Fujino Kokoha,0,0,60,,Se-no!
+Dialogue: 0,0:26:07.74,0:26:09.34,Default,Crowd,0,0,60,,Kokoha!
+Dialogue: 0,0:26:09.96,0:26:10.28,Default,Fujino Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:26:10.96,0:26:14.24,Default,Fujino Kokoha,0,0,60,,From Fukuoka Prefecture, high-school 2nd year, 16 — Fujino Kokoha!
+Dialogue: 0,0:26:14.56,0:26:15.86,Default,Crowd,0,0,60,,Kokoha!
+Dialogue: 0,0:26:18.62,0:26:18.94,Default,Fujino Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:26:20.28,0:26:23.06,Default,Fujino Kokoha,0,0,60,,I'd like to become a chameleon, because…
+Dialogue: 0,0:26:23.54,0:26:27.64,Default,Fujino Kokoha,0,0,60,,chameleons can blend into their surroundings, right?
+Dialogue: 0,0:26:27.72,0:26:29.46,Default,Fujino Kokoha,0,0,60,,So they'd be great at hide-and-seek,
+Dialogue: 0,0:26:29.54,0:26:32.08,Default,Fujino Kokoha,0,0,60,,and if things get a little awkward,
+Dialogue: 0,0:26:32.48,0:26:35.08,Default,Fujino Kokoha,0,0,60,,I could hide and play "I don't know anything,"
+Dialogue: 0,0:26:35.16,0:26:37.32,Default,Fujino Kokoha,0,0,60,,and leave it alone for a bit.
+Dialogue: 0,0:26:37.40,0:26:38.68,Default,Fujino Kokoha,0,0,60,,Please take care of me today!
+Dialogue: 0,0:26:39.18,0:26:41.34,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:26:43.00,0:26:46.12,Default,Eguchi Kokoha,0,0,60,,Okay! Everyone — please look for Koko-chan!
+Dialogue: 0,0:26:46.20,0:26:48.46,Default,Crowd,0,0,60,,Where is she~?
+Dialogue: 0,0:26:48.62,0:26:49.98,Default,Eguchi Kokoha,0,0,60,,Ooh — right here!
+Dialogue: 0,0:26:51.56,0:26:51.86,Default,Eguchi Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:26:52.46,0:26:55.04,Default,Eguchi Kokoha,0,0,60,,I'm always waiting here, so come meet me at this spot!
+Dialogue: 0,0:26:55.12,0:26:59.14,Default,Eguchi Kokoha,0,0,60,,From Nagasaki Prefecture, high-school 3rd year, 18 — Koko-chan, Eguchi Kokoha!
+Dialogue: 0,0:26:59.22,0:27:01.12,Default,Crowd,0,0,60,,Koko-chan!
+Dialogue: 0,0:27:02.84,0:27:03.98,Default,Eguchi Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:27:04.64,0:27:08.24,Default,Eguchi Kokoha,0,0,60,,The animal I'd like to become is a sheep,
+Dialogue: 0,0:27:08.66,0:27:10.74,Default,Eguchi Kokoha,0,0,60,,because sheep are fluffy and cute,
+Dialogue: 0,0:27:11.28,0:27:14.66,Default,Eguchi Kokoha,0,0,60,,and probably everyone in the world counts them before bed,
+Dialogue: 0,0:27:14.74,0:27:16.26,Default,Eguchi Kokoha,0,0,60,,like "one sheep, two sheep…"
+Dialogue: 0,0:27:16.34,0:27:20.48,Default,Eguchi Kokoha,0,0,60,,I want everyone to think of me at bedtime too,
+Dialogue: 0,0:27:20.56,0:27:23.16,Default,Eguchi Kokoha,0,0,60,,so tonight, count "one Koko-chan"!
+Dialogue: 0,0:27:23.46,0:27:24.78,Default,Eguchi Kokoha,0,0,60,,Please take care of me today!
+Dialogue: 0,0:27:25.34,0:27:27.22,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:27:29.06,0:27:30.32,Default,Matsunaga Yui,0,0,60,,When Yui points the mic,
+Dialogue: 0,0:27:30.40,0:27:32.16,Default,Matsunaga Yui,0,0,60,,say mentaiko French bread and Yui-pan, please!
+Dialogue: 0,0:27:33.02,0:27:33.74,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:27:34.14,0:27:35.42,Default,Matsunaga Yui,0,0,60,,The bread Yui likes is…?
+Dialogue: 0,0:27:35.98,0:27:37.66,Default,Crowd,0,0,60,,Mentaiko French bread!
+Dialogue: 0,0:27:39.15,0:27:40.07,Default,Matsunaga Yui,0,0,60,,And the bread that likes Yui is…?
+Dialogue: 0,0:27:40.57,0:27:41.53,Default,Crowd,0,0,60,,Yui-pan!
+Dialogue: 0,0:27:42.33,0:27:45.65,Default,Matsunaga Yui,0,0,60,,Thank you! From Fukuoka Prefecture, 15 — Matsunaga Yui!
+Dialogue: 0,0:27:45.75,0:27:46.43,Default,Matsunaga Yui,0,0,60,,Please take care of me!
+Dialogue: 0,0:27:47.07,0:27:47.51,Default,Crowd,0,0,60,,Yui-pan!
+Dialogue: 0,0:27:47.59,0:27:48.31,Default,Matsunaga Yui,0,0,60,,Thank you!
+Dialogue: 0,0:27:52.40,0:27:55.62,Default,Matsunaga Yui,0,0,60,,The animal I'd like to become is an owl,
+Dialogue: 0,0:27:56.48,0:28:02.28,Default,Matsunaga Yui,0,0,60,,because owls can spin their necks 360 degrees.
+Dialogue: 0,0:28:02.92,0:28:03.88,Default,Matsunaga Yui,0,0,60,,But…
+Dialogue: 0,0:28:04.60,0:28:06.60,Default,Matsunaga Yui,0,0,60,,lately, kind of…
+Dialogue: 0,0:28:06.68,0:28:10.54,Default,Matsunaga Yui,0,0,60,,people keep sneaking up behind me,
+Dialogue: 0,0:28:10.62,0:28:13.20,Default,Matsunaga Yui,0,0,60,,poking my back,
+Dialogue: 0,0:28:13.28,0:28:15.18,Default,Matsunaga Yui,0,0,60,,or touching me a little,
+Dialogue: 0,0:28:16.66,0:28:20.52,Default,Matsunaga Yui,0,0,60,,so in police-officer mode,
+Dialogue: 0,0:28:20.60,0:28:23.04,Default,Matsunaga Yui,0,0,60,,I'd become an owl and watch 365 degrees—
+Dialogue: 0,0:28:23.12,0:28:25.44,Default,Matsunaga Yui,0,0,60,,to see who's touching my back.
+Dialogue: 0,0:28:25.52,0:28:26.74,Default,Host,0,0,60,,365 degrees?
+Dialogue: 0,0:28:27.30,0:28:28.44,Default,Host,0,0,60,,365 degrees?
+Dialogue: 0,0:28:28.58,0:28:31.06,Default,Matsunaga Yui,0,0,60,,Did I go too far?
+Dialogue: 0,0:28:31.14,0:28:31.24,Default,Crowd,0,0,60,,365 degrees?
+Dialogue: 0,0:28:32.40,0:28:34.30,Default,Matsunaga Yui,0,0,60,,I want to monitor a full 365 degrees.
+Dialogue: 0,0:28:34.38,0:28:36.44,Default,Matsunaga Yui,0,0,60,,Please take care of me today!
+Dialogue: 0,0:28:36.84,0:28:39.12,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:28:40.66,0:28:41.76,Default,Ouchi Rinka,0,0,60,,Okay — rin-rin…
+Dialogue: 0,0:28:41.84,0:28:42.92,Default,Crowd,0,0,60,,Rinka!
+Dialogue: 0,0:28:43.68,0:28:45.30,Default,Ouchi Rinka,0,0,60,,Bit by bit, from the little things…
+Dialogue: 0,0:28:45.38,0:28:47.68,Default,Ouchi Rinka,0,0,60,,My charm is my sparkly big eyes!
+Dialogue: 0,0:28:47.76,0:28:51.50,Default,Ouchi Rinka,0,0,60,,From Hyogo Prefecture, high-school 3rd year, 17 — Ouchi Rinka!
+Dialogue: 0,0:28:51.58,0:28:53.20,Default,Crowd,0,0,60,,Rinka!
+Dialogue: 0,0:28:55.87,0:28:56.23,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,0:28:56.99,0:28:59.07,Default,Ouchi Rinka,0,0,60,,Um, the animal I'd like to become is…
+Dialogue: 0,0:28:59.15,0:29:00.55,Default,Ouchi Rinka,0,0,60,,a sloth,
+Dialogue: 0,0:29:01.31,0:29:04.51,Default,Ouchi Rinka,0,0,60,,I'm usually a pretty restless type,
+Dialogue: 0,0:29:04.59,0:29:07.23,Default,Ouchi Rinka,0,0,60,,always moving quickly,
+Dialogue: 0,0:29:07.57,0:29:11.43,Default,Ouchi Rinka,0,0,60,,so sometimes I think being a bit lazy might be nice,
+Dialogue: 0,0:29:11.51,0:29:14.11,Default,Ouchi Rinka,0,0,60,,but today I'll stay lively and not slack off!
+Dialogue: 0,0:29:14.19,0:29:15.75,Default,Ouchi Rinka,0,0,60,,Please take care of me today!
+Dialogue: 0,0:29:16.19,0:29:17.61,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:29:19.30,0:29:21.24,Default,Tanaka Iori,0,0,60,,Okay — my birthday is August 31,
+Dialogue: 0,0:29:21.32,0:29:23.08,Default,Tanaka Iori,0,0,60,,Vegetable Day — and what I love is cucumber, dago!
+Dialogue: 0,0:29:23.16,0:29:25.08,Default,Tanaka Iori,0,0,60,,From Kumamoto Prefecture — Tanaka Iori!
+Dialogue: 0,0:29:25.16,0:29:25.72,Default,Crowd,0,0,60,,Iori!
+Dialogue: 0,0:29:25.80,0:29:28.76,Default,Tanaka Iori,0,0,60,,Thank you!
+Dialogue: 0,0:29:29.79,0:29:30.11,Default,Tanaka Iori,0,0,60,,Thank you!
+Dialogue: 0,0:29:30.97,0:29:33.99,Default,Tanaka Iori,0,0,60,,The animal I'd like to become is a doggie,
+Dialogue: 0,0:29:34.07,0:29:36.37,Default,Tanaka Iori,0,0,60,,I keep a dog at home,
+Dialogue: 0,0:29:37.09,0:29:40.67,Default,Tanaka Iori,0,0,60,,and every time I get home it goes wild,
+Dialogue: 0,0:29:40.75,0:29:43.39,Default,Tanaka Iori,0,0,60,,licking me and giving me a huge welcome.
+Dialogue: 0,0:29:43.47,0:29:45.77,Default,Tanaka Iori,0,0,60,,But is that really a welcome,
+Dialogue: 0,0:29:45.85,0:29:48.71,Default,Tanaka Iori,0,0,60,,or is it just licking whatever's in front of it?
+Dialogue: 0,0:29:48.79,0:29:50.35,Default,Tanaka Iori,0,0,60,,I honestly don't know,
+Dialogue: 0,0:29:50.43,0:29:52.93,Default,Tanaka Iori,0,0,60,,so I'd become a doggie and want to connect heart-to-heart.
+Dialogue: 0,0:29:53.01,0:29:54.63,Default,Tanaka Iori,0,0,60,,Please take care of me today!
+Dialogue: 0,0:29:55.31,0:29:57.07,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:29:58.40,0:29:59.40,Default,Yasui Hina,0,0,60,,Okay — February 9,
+Dialogue: 0,0:29:59.50,0:30:00.78,Default,Yasui Hina,0,0,60,,Meat Day — beef tongue…
+Dialogue: 0,0:30:00.86,0:30:02.20,Default,Yasui Hina,0,0,60,,pork tongue…
+Dialogue: 0,0:30:02.30,0:30:03.80,Default,Crowd,0,0,60,,Hina-tan!
+Dialogue: 0,0:30:04.07,0:30:04.42,Default,Yasui Hina,0,0,60,,Thank you!
+Dialogue: 0,0:30:04.50,0:30:10.21,Default,Yasui Hina,0,0,60,,From Fukuoka Prefecture, 3rd-year junior high, 14, Team KIV — Yasui Hina!
+Dialogue: 0,0:30:11.37,0:30:12.25,Default,Crowd,0,0,60,,Hina-tan!
+Dialogue: 0,0:30:13.43,0:30:13.83,Default,Yasui Hina,0,0,60,,Thank you!
+Dialogue: 0,0:30:16.08,0:30:19.08,Default,Yasui Hina,0,0,60,,The animal Hina wants to become…
+Dialogue: 0,0:30:19.16,0:30:21.26,Default,Yasui Hina,0,0,60,,I don't really have one, but…
+Dialogue: 0,0:30:21.84,0:30:24.52,Default,Yasui Hina,0,0,60,,there's an animal called a saola,
+Dialogue: 0,0:30:24.96,0:30:27.66,Default,Yasui Hina,0,0,60,,and it's called the Asian unicorn,
+Dialogue: 0,0:30:28.98,0:30:31.42,Default,Yasui Hina,0,0,60,,everyone says unicorns aren't real, right?
+Dialogue: 0,0:30:31.50,0:30:34.32,Default,Yasui Hina,0,0,60,,But Asia actually has that unicorn —
+Dialogue: 0,0:30:34.40,0:30:35.76,Default,Yasui Hina,0,0,60,,the saola unicorn.
+Dialogue: 0,0:30:36.30,0:30:40.42,Default,Yasui Hina,0,0,60,,So Hina wants to become one and run around!
+Dialogue: 0,0:30:40.50,0:30:42.16,Default,Yasui Hina,0,0,60,,Please take care of me today!
+Dialogue: 0,0:30:42.56,0:30:43.42,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:30:43.50,0:30:44.82,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:30:47.45,0:30:49.51,Default,Ishimatsu Yuina,0,0,60,,Okay — worried face and droopy eyes are my charm!
+Dialogue: 0,0:30:49.59,0:30:50.31,Default,Ishimatsu Yuina,0,0,60,,Always smiling~?
+Dialogue: 0,0:30:50.73,0:30:51.65,Default,Crowd,0,0,60,,Yuina!
+Dialogue: 0,0:30:52.35,0:30:55.61,Default,Ishimatsu Yuina,0,0,60,,It's Yuina! 2nd-year junior high, 13 — Ishimatsu Yuina!
+Dialogue: 0,0:30:55.69,0:30:56.47,Default,Ishimatsu Yuina,0,0,60,,Please take care of me!
+Dialogue: 0,0:30:56.95,0:30:58.61,Default,Crowd,0,0,60,,Yuina!
+Dialogue: 0,0:31:00.01,0:31:00.37,Default,Ishimatsu Yuina,0,0,60,,Thank you!
+Dialogue: 0,0:31:01.49,0:31:03.71,Default,Ishimatsu Yuina,0,0,60,,I'd like to become a rabbit,
+Dialogue: 0,0:31:03.79,0:31:06.91,Default,Ishimatsu Yuina,0,0,60,,because rabbits are so energetic, right?
+Dialogue: 0,0:31:06.99,0:31:09.81,Default,Ishimatsu Yuina,0,0,60,,And in this Saka Agari show
+Dialogue: 0,0:31:09.89,0:31:13.83,Default,Ishimatsu Yuina,0,0,60,,there's a song called Sono Ase wa Uso o Tsukanai,
+Dialogue: 0,0:31:13.91,0:31:17.73,Default,Ishimatsu Yuina,0,0,60,,and in the choreography there's a leg-lift move,
+Dialogue: 0,0:31:17.81,0:31:19.47,Default,Ishimatsu Yuina,0,0,60,,and with that leg lift,
+Dialogue: 0,0:31:19.55,0:31:23.51,Default,Ishimatsu Yuina,0,0,60,,I love lifting my leg as energetically as I can,
+Dialogue: 0,0:31:23.99,0:31:26.69,Default,Ishimatsu Yuina,0,0,60,,so I'll keep giving it my all with energy!
+Dialogue: 0,0:31:27.15,0:31:28.89,Default,Ishimatsu Yuina,0,0,60,,Please take care of me today!
+Dialogue: 0,0:31:29.33,0:31:30.57,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:31:30.65,0:31:35.25,Default,Fukui Karen,0,0,60,,Okay — if I say "angel-like little devil"…
+Dialogue: 0,0:31:35.81,0:31:37.19,Default,Crowd,0,0,60,,Karen-ren!
+Dialogue: 0,0:31:37.67,0:31:39.71,Default,Fukui Karen,0,0,60,,I wanna be your angel!
+Dialogue: 0,0:31:40.55,0:31:40.95,Default,Fukui Karen,0,0,60,,Thank you!
+Dialogue: 0,0:31:41.61,0:31:44.95,Default,Fukui Karen,0,0,60,,From Nagasaki Prefecture, 18 — Karen-ren, Fukui Karen!
+Dialogue: 0,0:31:45.03,0:31:46.01,Default,Crowd,0,0,60,,Karen!
+Dialogue: 0,0:31:48.62,0:31:49.02,Default,Fukui Karen,0,0,60,,Thank you!
+Dialogue: 0,0:31:49.84,0:31:51.60,Default,Fukui Karen,0,0,60,,I'd pick a snake,
+Dialogue: 0,0:31:51.68,0:31:54.58,Default,Fukui Karen,0,0,60,,because Karen really likes snakes,
+Dialogue: 0,0:31:55.12,0:31:57.28,Default,Fukui Karen,0,0,60,,and I want to become one —
+Dialogue: 0,0:31:57.36,0:31:59.04,Default,Fukui Karen,0,0,60,,snakes are so quick, right?
+Dialogue: 0,0:31:59.12,0:32:01.04,Default,Fukui Karen,0,0,60,,Karen's feet are slow,
+Dialogue: 0,0:32:01.48,0:32:03.34,Default,Fukui Karen,0,0,60,,so in today's show I want to move fast,
+Dialogue: 0,0:32:03.42,0:32:05.16,Default,Fukui Karen,0,0,60,,speed up my feet,
+Dialogue: 0,0:32:05.24,0:32:07.38,Default,Fukui Karen,0,0,60,,and give it my all quickly today!
+Dialogue: 0,0:32:07.46,0:32:09.50,Default,Fukui Karen,0,0,60,,Please take care of me today!
+Dialogue: 0,0:32:10.04,0:32:11.44,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:32:13.60,0:32:15.24,Default,Yamakawa Maria,0,0,60,,Okay — when I point the mic,
+Dialogue: 0,0:32:15.32,0:32:16.36,Default,Yamakawa Maria,0,0,60,,say Mari-tan, please!
+Dialogue: 0,0:32:17.08,0:32:17.80,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:32:18.70,0:32:20.00,Default,Yamakawa Maria,0,0,60,,Okay — which do you like:
+Dialogue: 0,0:32:20.08,0:32:21.40,Default,Yamakawa Maria,0,0,60,,marshmallows? macarons?
+Dialogue: 0,0:32:21.48,0:32:23.02,Default,Crowd,0,0,60,,Mari-tan!
+Dialogue: 0,0:32:24.02,0:32:24.38,Default,Yamakawa Maria,0,0,60,,Thank you!
+Dialogue: 0,0:32:24.88,0:32:26.72,Default,Yamakawa Maria,0,0,60,,I'm 19 but I still want to be spoiled —
+Dialogue: 0,0:32:26.80,0:32:28.34,Default,Yamakawa Maria,0,0,60,,Mari-tan, Yamakawa Maria!
+Dialogue: 0,0:32:28.42,0:32:29.30,Default,Crowd,0,0,60,,Mari-tan!
+Dialogue: 0,0:32:29.38,0:32:31.50,Default,Yamakawa Maria,0,0,60,,Thank you!
+Dialogue: 0,0:32:33.06,0:32:33.42,Default,Yamakawa Maria,0,0,60,,Thank you!
+Dialogue: 0,0:32:33.98,0:32:36.46,Default,Yamakawa Maria,0,0,60,,The animal I'd like to become is a giraffe,
+Dialogue: 0,0:32:36.98,0:32:39.22,Default,Yamakawa Maria,0,0,60,,because giraffes have such long necks, right?
+Dialogue: 0,0:32:39.66,0:32:40.24,Default,Yamakawa Maria,0,0,60,,So I wonder…
+Dialogue: 0,0:32:40.32,0:32:41.52,Default,Yamakawa Maria,0,0,60,,how people look
+Dialogue: 0,0:32:42.26,0:32:43.72,Default,Yamakawa Maria,0,0,60,,from way up high —
+Dialogue: 0,0:32:43.80,0:32:45.72,Default,Yamakawa Maria,0,0,60,,what people look like from up there.
+Dialogue: 0,0:32:46.26,0:32:46.90,Default,Yamakawa Maria,0,0,60,,I want to see that,
+Dialogue: 0,0:32:46.98,0:32:48.24,Default,Yamakawa Maria,0,0,60,,so I want to become a giraffe.
+Dialogue: 0,0:32:48.32,0:32:50.50,Default,Yamakawa Maria,0,0,60,,Please take care of me today!
+Dialogue: 0,0:32:51.04,0:32:52.42,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:32:54.93,0:32:56.87,Default,Kure Yuna,0,0,60,,If I say Kure-kure-kure-kure…
+Dialogue: 0,0:32:56.95,0:32:58.47,Default,Kure Yuna,0,0,60,,say Kure Yuna, please!
+Dialogue: 0,0:32:59.61,0:33:00.33,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:33:00.75,0:33:02.83,Default,Kure Yuna,0,0,60,,Okay — from Fukuoka Prefecture, 13,
+Dialogue: 0,0:33:02.91,0:33:04.85,Default,Kure Yuna,0,0,60,,100-yen-shop-loving Yuu-chan —
+Dialogue: 0,0:33:04.93,0:33:06.25,Default,Kure Yuna,0,0,60,,Kure-kure-kure-kure—
+Dialogue: 0,0:33:06.75,0:33:08.13,Default,Crowd,0,0,60,,Kure Yuna!
+Dialogue: 0,0:33:08.95,0:33:11.01,Default,Kure Yuna,0,0,60,,I'll give you love — now recruiting oshi!
+Dialogue: 0,0:33:11.09,0:33:12.03,Default,Kure Yuna,0,0,60,,Please take care of me!
+Dialogue: 0,0:33:13.03,0:33:13.83,Default,Crowd,0,0,60,,Yuu-chan!
+Dialogue: 0,0:33:14.61,0:33:20.41,Default,Kure Yuna,0,0,60,,The animal I'd like to become is a doggie,
+Dialogue: 0,0:33:21.40,0:33:24.54,Default,Kure Yuna,0,0,60,,I also live with a dog named Koro-chan at home,
+Dialogue: 0,0:33:24.62,0:33:26.20,Default,Kure Yuna,0,0,60,,and…
+Dialogue: 0,0:33:26.28,0:33:31.66,Default,Kure Yuna,0,0,60,,doggies get everyone's attention,
+Dialogue: 0,0:33:32.34,0:33:34.86,Default,Kure Yuna,0,0,60,,and even when they misbehave a little, you think they're cute,
+Dialogue: 0,0:33:35.40,0:33:36.74,Default,Kure Yuna,0,0,60,,so I want to become a doggie.
+Dialogue: 0,0:33:36.82,0:33:38.82,Default,Kure Yuna,0,0,60,,Please take care of me today!
+Dialogue: 0,0:33:39.68,0:33:41.42,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:33:43.94,0:33:44.34,Default,Ishikawa Amiyu,0,0,60,,Okay—
+Dialogue: 0,0:33:44.42,0:33:45.74,Default,Ishikawa Amiyu,0,0,60,,When I point the mic,
+Dialogue: 0,0:33:45.82,0:33:46.88,Default,Ishikawa Amiyu,0,0,60,,say magokoro,
+Dialogue: 0,0:33:46.96,0:33:50.10,Default,Ishikawa Amiyu,0,0,60,,magokoro, se-no, and Amiyun — together, please!
+Dialogue: 0,0:33:50.92,0:33:51.56,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:33:52.06,0:33:53.66,Default,Ishikawa Amiyu,0,0,60,,Okay — shiritori, here we go!
+Dialogue: 0,0:33:56.44,0:33:57.58,Default,Ishikawa Amiyu,0,0,60,,Little devil!
+Dialogue: 0,0:33:58.32,0:33:59.28,Default,Crowd,0,0,60,,Magokoro!
+Dialogue: 0,0:33:59.76,0:34:00.72,Default,Ishikawa Amiyu,0,0,60,,Long hair!
+Dialogue: 0,0:34:00.80,0:34:02.18,Default,Ishikawa Amiyu,0,0,60,,Se-no!
+Dialogue: 0,0:34:02.98,0:34:04.24,Default,Crowd,0,0,60,,Amiyun!
+Dialogue: 0,0:34:04.98,0:34:06.10,Default,Ishikawa Amiyu,0,0,60,,Fukuoka's lucky girl is…?
+Dialogue: 0,0:34:06.98,0:34:08.14,Default,Crowd,0,0,60,,Amiyun!
+Dialogue: 0,0:34:08.88,0:34:10.56,Default,Ishikawa Amiyu,0,0,60,,Thank you! From Fukuoka Prefecture,
+Dialogue: 0,0:34:11.42,0:34:13.42,Default,Ishikawa Amiyu,0,0,60,,13 — Amiyun, Ishikawa Amiyu!
+Dialogue: 0,0:34:13.50,0:34:14.44,Default,Ishikawa Amiyu,0,0,60,,Please take care of me!
+Dialogue: 0,0:34:14.86,0:34:15.66,Default,Crowd,0,0,60,,Amiyun!
+Dialogue: 0,0:34:19.12,0:34:19.44,Default,Ishikawa Amiyu,0,0,60,,Thank you!
+Dialogue: 0,0:34:20.42,0:34:22.02,Default,Ishikawa Amiyu,0,0,60,,The animal I'd like to become is…
+Dialogue: 0,0:34:22.10,0:34:23.72,Default,Ishikawa Amiyu,0,0,60,,a flying squirrel,
+Dialogue: 0,0:34:23.80,0:34:26.24,Default,Ishikawa Amiyu,0,0,60,,because they have round sparkly eyes,
+Dialogue: 0,0:34:26.66,0:34:29.68,Default,Ishikawa Amiyu,0,0,60,,big dark pupils and tiny faces,
+Dialogue: 0,0:34:29.76,0:34:30.24,Default,Ishikawa Amiyu,0,0,60,,so cute,
+Dialogue: 0,0:34:30.32,0:34:32.22,Default,Ishikawa Amiyu,0,0,60,,and they can glide a lot —
+Dialogue: 0,0:34:32.30,0:34:35.30,Default,Ishikawa Amiyu,0,0,60,,they've got these wing-flaps and can fly, it's amazing,
+Dialogue: 0,0:34:35.38,0:34:36.58,Default,Ishikawa Amiyu,0,0,60,,so I want to become one.
+Dialogue: 0,0:34:36.66,0:34:38.36,Default,Ishikawa Amiyu,0,0,60,,Please take care of me today!
+Dialogue: 0,0:34:39.00,0:34:40.04,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:34:40.12,0:34:41.64,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:34:44.20,0:34:45.72,Default,Akiyoshi Yuka,0,0,60,,Okay — when I say "I wanna become…,"
+Dialogue: 0,0:34:45.80,0:34:46.74,Default,Akiyoshi Yuka,0,0,60,,please answer "I wanna!"
+Dialogue: 0,0:34:46.82,0:34:47.40,Default,Akiyoshi Yuka,0,0,60,,Please!
+Dialogue: 0,0:34:48.20,0:34:48.92,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:34:49.70,0:34:52.66,Default,Akiyoshi Yuka,0,0,60,,Okay — I wanna become a gentle flower blooming in Hakata—
+Dialogue: 0,0:34:52.74,0:34:54.36,Default,Crowd,0,0,60,,I wanna!
+Dialogue: 0,0:34:54.94,0:34:55.30,Default,Akiyoshi Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:34:55.74,0:34:57.38,Default,Akiyoshi Yuka,0,0,60,,I love acting and guitar —
+Dialogue: 0,0:34:57.46,0:34:59.02,Default,Akiyoshi Yuka,0,0,60,,Yuka-chan, Akiyoshi Yuka!
+Dialogue: 0,0:34:59.38,0:34:59.78,Default,Crowd,0,0,60,,Yuka-chaan!
+Dialogue: 0,0:34:59.86,0:35:02.12,Default,Akiyoshi Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:35:04.69,0:35:05.04,Default,Akiyoshi Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:35:05.12,0:35:07.01,Default,Akiyoshi Yuka,0,0,60,,The animal I'd like to become is…
+Dialogue: 0,0:35:07.09,0:35:08.73,Default,Akiyoshi Yuka,0,0,60,,an Afghan Hound —
+Dialogue: 0,0:35:09.91,0:35:10.73,Default,Akiyoshi Yuka,0,0,60,,a doggie.
+Dialogue: 0,0:35:10.81,0:35:12.23,Default,Host,0,0,60,,Wow — high name recognition!
+Dialogue: 0,0:35:12.77,0:35:14.29,Default,Akiyoshi Yuka,0,0,60,,It is a doggie, right?
+Dialogue: 0,0:35:14.37,0:35:17.31,Default,Akiyoshi Yuka,0,0,60,,Yeah — kind of a city-only dog.
+Dialogue: 0,0:35:17.95,0:35:18.43,Default,Host,0,0,60,,What do you mean?
+Dialogue: 0,0:35:19.91,0:35:22.81,Default,Akiyoshi Yuka,0,0,60,,Like the kind you wouldn't see in a hometown,
+Dialogue: 0,0:35:23.33,0:35:24.61,Default,Akiyoshi Yuka,0,0,60,,a bit stylish.
+Dialogue: 0,0:35:24.69,0:35:25.19,Default,Akiyoshi Yuka,0,0,60,,Exactly, exactly.
+Dialogue: 0,0:35:25.75,0:35:27.07,Default,Akiyoshi Yuka,0,0,60,,It's a rarer breed,
+Dialogue: 0,0:35:28.15,0:35:30.69,Default,Akiyoshi Yuka,0,0,60,,and among dogs, it's probably the straightest-haired,
+Dialogue: 0,0:35:30.77,0:35:32.11,Default,Akiyoshi Yuka,0,0,60,,with silky-smooth fur—
+Dialogue: 0,0:35:32.65,0:35:33.31,Default,Host,0,0,60,,Fur?
+Dialogue: 0,0:35:34.51,0:35:37.01,Default,Akiyoshi Yuka,0,0,60,,Yes — I got a straight perm yesterday,
+Dialogue: 0,0:35:37.45,0:35:39.31,Default,Akiyoshi Yuka,0,0,60,,and now it's super straight.
+Dialogue: 0,0:35:39.39,0:35:41.05,Default,Akiyoshi Yuka,0,0,60,,It used to be curly,
+Dialogue: 0,0:35:41.65,0:35:42.83,Default,Akiyoshi Yuka,0,0,60,,but now it's silky,
+Dialogue: 0,0:35:42.91,0:35:44.59,Default,Akiyoshi Yuka,0,0,60,,so today, like an Afghan Hound,
+Dialogue: 0,0:35:44.99,0:35:47.25,Default,Akiyoshi Yuka,0,0,60,,I'll do my best with silky-smooth hair!
+Dialogue: 0,0:35:47.33,0:35:48.95,Default,Akiyoshi Yuka,0,0,60,,Please take care of me today!
+Dialogue: 0,0:35:49.69,0:35:50.09,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:35:50.17,0:35:51.85,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:35:53.96,0:35:56.30,Default,Kitagawa Hiiro,0,0,60,,Okay — when I say "super," loud and clear,
+Dialogue: 0,0:35:56.38,0:35:57.42,Default,Kitagawa Hiiro,0,0,60,,say "hero," please!
+Dialogue: 0,0:35:58.38,0:35:59.02,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:35:59.60,0:36:01.30,Default,Kitagawa Hiiro,0,0,60,,Bright like the sun —
+Dialogue: 0,0:36:01.38,0:36:02.60,Default,Kitagawa Hiiro,0,0,60,,Hakata's super—
+Dialogue: 0,0:36:03.12,0:36:04.24,Default,Crowd,0,0,60,,Hero!
+Dialogue: 0,0:36:05.06,0:36:05.41,Default,Kitagawa Hiiro,0,0,60,,Thank you!
+Dialogue: 0,0:36:05.49,0:36:09.10,Default,Kitagawa Hiiro,0,0,60,,From Fukuoka Prefecture, 21, Team H — Kitagawa Hiiro!
+Dialogue: 0,0:36:09.18,0:36:11.10,Default,Crowd,0,0,60,,Hero!
+Dialogue: 0,0:36:13.59,0:36:14.03,Default,Kitagawa Hiiro,0,0,60,,Thank you!
+Dialogue: 0,0:36:14.67,0:36:19.35,Default,Kitagawa Hiiro,0,0,60,,I want to become the strongest animal,
+Dialogue: 0,0:36:19.43,0:36:23.25,Default,Kitagawa Hiiro,0,0,60,,but "strongest animal" could mean…
+Dialogue: 0,0:36:23.33,0:36:26.47,Default,Kitagawa Hiiro,0,0,60,,highest attack power, or…
+Dialogue: 0,0:36:26.55,0:36:29.07,Default,Kitagawa Hiiro,0,0,60,,there are lots of kinds of strong, right?
+Dialogue: 0,0:36:29.15,0:36:31.55,Default,Kitagawa Hiiro,0,0,60,,And, um, what was it—
+Dialogue: 0,0:36:31.63,0:36:36.55,Default,Kitagawa Hiiro,0,0,60,,elephants and hippos are supposedly strong,
+Dialogue: 0,0:36:36.91,0:36:39.83,Default,Kitagawa Hiiro,0,0,60,,so I want to ask which you all think is stronger—
+Dialogue: 0,0:36:39.91,0:36:40.81,Default,Kitagawa Hiiro,0,0,60,,that's what I wanted to ask.
+Dialogue: 0,0:36:40.89,0:36:41.97,Default,Kitagawa Hiiro,0,0,60,,Which do you think?
+Dialogue: 0,0:36:42.05,0:36:42.97,Default,Host,0,0,60,,Honestly, either is fine.
+Dialogue: 0,0:36:43.05,0:36:44.03,Default,Kitagawa Hiiro,0,0,60,,Oh — either is fine?
+Dialogue: 0,0:36:44.77,0:36:48.09,Default,Member,0,0,60,,Senpai! Senpai! Don't say that!
+Dialogue: 0,0:36:48.21,0:36:49.07,Default,Kitagawa Hiiro,0,0,60,,Either is fine, huh?
+Dialogue: 0,0:36:49.17,0:36:49.53,Default,Crowd,0,0,60,,Hippo.
+Dialogue: 0,0:36:49.61,0:36:50.83,Default,Kitagawa Hiiro,0,0,60,,Whichever one I become,
+Dialogue: 0,0:36:50.91,0:36:55.81,Default,Kitagawa Hiiro,0,0,60,,I'd become the strongest animal in the world,
+Dialogue: 0,0:36:55.89,0:36:58.79,Default,Kitagawa Hiiro,0,0,60,,and if I reached the very top,
+Dialogue: 0,0:36:58.87,0:37:00.55,Default,Kitagawa Hiiro,0,0,60,,I'd be curious how that feels,
+Dialogue: 0,0:37:00.63,0:37:02.45,Default,Kitagawa Hiiro,0,0,60,,so I hope I can become one or the other.
+Dialogue: 0,0:37:02.53,0:37:04.15,Default,Kitagawa Hiiro,0,0,60,,Please take care of me today!
+Dialogue: 0,0:37:04.23,0:37:06.29,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:37:08.47,0:37:12.09,Default,Katahira Sara,0,0,60,,When I point the mic, say "to that destination," please!
+Dialogue: 0,0:37:12.17,0:37:13.59,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:37:14.22,0:37:15.23,Default,Katahira Sara,0,0,60,,If Sara wishes…
+Dialogue: 0,0:37:15.85,0:37:17.11,Default,Crowd,0,0,60,,To that destination!
+Dialogue: 0,0:37:18.03,0:37:20.01,Default,Katahira Sara,0,0,60,,I'm small, but please find me!
+Dialogue: 0,0:37:20.09,0:37:21.59,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:37:22.05,0:37:26.81,Default,Katahira Sara,0,0,60,,From Aichi Prefecture, high-school 1st year, 16 — Sara-tan, Katahira Sara!
+Dialogue: 0,0:37:26.89,0:37:28.19,Default,Katahira Sara,0,0,60,,Please take care of me!
+Dialogue: 0,0:37:28.65,0:37:30.21,Default,Crowd,0,0,60,,Sara-tan!
+Dialogue: 0,0:37:30.29,0:37:30.93,Default,Katahira Sara,0,0,60,,Thank you!
+Dialogue: 0,0:37:33.60,0:37:37.28,Default,Katahira Sara,0,0,60,,The animal I'd like to become is a cheetah,
+Dialogue: 0,0:37:37.90,0:37:39.04,Default,Katahira Sara,0,0,60,,and the reason is…
+Dialogue: 0,0:37:39.12,0:37:40.70,Default,Katahira Sara,0,0,60,,I'm probably
+Dialogue: 0,0:37:40.78,0:37:42.94,Default,Katahira Sara,0,0,60,,the slowest runner
+Dialogue: 0,0:37:43.02,0:37:46.36,Default,Katahira Sara,0,0,60,,in every junior high and high school, I think.
+Dialogue: 0,0:37:46.84,0:37:47.58,Default,Host,0,0,60,,You do look slow.
+Dialogue: 0,0:37:49.58,0:37:52.10,Default,Katahira Sara,0,0,60,,Like 14 seconds in the 50-meter,
+Dialogue: 0,0:37:52.18,0:37:53.00,Default,Host,0,0,60,,Really?
+Dialogue: 0,0:37:53.30,0:37:55.02,Default,Katahira Sara,0,0,60,,I'm ridiculously slow,
+Dialogue: 0,0:37:56.46,0:38:00.54,Default,Katahira Sara,0,0,60,,so I looked up the world's fastest animal and it was the cheetah,
+Dialogue: 0,0:38:00.62,0:38:03.04,Default,Katahira Sara,0,0,60,,and I want to become world number one too!
+Dialogue: 0,0:38:03.12,0:38:05.40,Default,Katahira Sara,0,0,60,,Please take care of me today!
+Dialogue: 0,0:38:06.10,0:38:07.28,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:38:09.82,0:38:12.56,Default,Kuriyama Rina,0,0,60,,Since it's a special day, I want to change my self-intro.
+Dialogue: 0,0:38:14.08,0:38:17.18,Default,Kuriyama Rina,0,0,60,,When I say "I wanna become…," please answer "I wanna!"
+Dialogue: 0,0:38:17.26,0:38:19.72,Default,Host,0,0,60,,I've heard that somewhere…
+Dialogue: 0,0:38:20.52,0:38:20.88,Default,Kuriyama Rina,0,0,60,,Okay—
+Dialogue: 0,0:38:20.96,0:38:24.14,Default,Kuriyama Rina,0,0,60,,I wanna become a big pear from Oita Prefecture—
+Dialogue: 0,0:38:24.22,0:38:25.76,Default,Crowd,0,0,60,,I wanna!
+Dialogue: 0,0:38:26.32,0:38:26.76,Default,Kuriyama Rina,0,0,60,,Thank you!
+Dialogue: 0,0:38:27.20,0:38:29.34,Default,Kuriyama Rina,0,0,60,,From Oita Prefecture, 24 — Kuriyama Rina!
+Dialogue: 0,0:38:29.42,0:38:31.78,Default,Host,0,0,60,,Congrats!
+Dialogue: 0,0:38:34.50,0:38:36.60,Default,Kuriyama Rina,0,0,60,,Stop treating me like a rival!
+Dialogue: 0,0:38:37.84,0:38:38.68,Default,Akiyoshi Yuka,0,0,60,,Well…
+Dialogue: 0,0:38:39.32,0:38:41.08,Default,Akiyoshi Yuka,0,0,60,,I also wanted to try
+Dialogue: 0,0:38:41.16,0:38:45.02,Default,Akiyoshi Yuka,0,0,60,,the kind where the fans answer back.
+Dialogue: 0,0:38:45.10,0:38:46.78,Default,Kuriyama Rina,0,0,60,,See? Let's do it from today?
+Dialogue: 0,0:38:46.98,0:38:47.44,Default,Akiyoshi Yuka,0,0,60,,From today.
+Dialogue: 0,0:38:48.50,0:38:51.68,Default,Kuriyama Rina,0,0,60,,So maybe I'll keep copying other members from here on,
+Dialogue: 0,0:38:52.48,0:38:53.82,Default,Kuriyama Rina,0,0,60,,Saka Agari-only,
+Dialogue: 0,0:38:53.90,0:38:55.82,Default,Akiyoshi Yuka,0,0,60,,I'll happily give you the "I wanna" bit, though.
+Dialogue: 0,0:38:57.10,0:38:58.70,Default,Kuriyama Rina,0,0,60,,Just the first round is fine.
+Dialogue: 0,0:38:58.78,0:39:02.68,Default,Kuriyama Rina,0,0,60,,The animal I'd like to become is a shark,
+Dialogue: 0,0:39:03.16,0:39:06.84,Default,Kuriyama Rina,0,0,60,,because sharks grow new teeth when they lose them,
+Dialogue: 0,0:39:07.38,0:39:09.98,Default,Kuriyama Rina,0,0,60,,and there's supposedly no limit on how many,
+Dialogue: 0,0:39:10.06,0:39:11.28,Default,Kuriyama Rina,0,0,60,,For my dental braces,
+Dialogue: 0,0:39:11.46,0:39:13.92,Default,Kuriyama Rina,0,0,60,,I had all four pulled,
+Dialogue: 0,0:39:14.46,0:39:16.02,Default,Kuriyama Rina,0,0,60,,but I've got a terrible habit of slacking off,
+Dialogue: 0,0:39:16.10,0:39:19.34,Default,Kuriyama Rina,0,0,60,,and they said braces will take until 2027,
+Dialogue: 0,0:39:19.42,0:39:21.56,Default,Kuriyama Rina,0,0,60,,and I'm getting pretty tired of it,
+Dialogue: 0,0:39:21.64,0:39:23.42,Default,Kuriyama Rina,0,0,60,,so I'll become a shark and grow teeth back!
+Dialogue: 0,0:39:23.50,0:39:24.46,Default,Kuriyama Rina,0,0,60,,Please take care of me today!
+Dialogue: 0,0:39:25.24,0:39:26.78,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:39:29.09,0:39:31.77,Default,Morisaki Saaya,0,0,60,,Okay everyone — clap and call along, please!
+Dialogue: 0,0:39:32.61,0:39:33.33,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:39:33.41,0:39:35.43,Default,Morisaki Saaya,0,0,60,,Se-no—
+Dialogue: 0,0:39:37.22,0:39:38.74,Default,Morisaki Saaya,0,0,60,,Looking sharp today — Saaya!
+Dialogue: 0,0:39:38.82,0:39:40.48,Default,Morisaki Saaya,0,0,60,,Coloring your mind — Saaya!
+Dialogue: 0,0:39:40.70,0:39:42.30,Default,Morisaki Saaya,0,0,60,,Saka Agari show — take care of me!
+Dialogue: 0,0:39:42.38,0:39:44.04,Default,Crowd,0,0,60,,Uu-Saaya!
+Dialogue: 0,0:39:44.78,0:39:45.18,Default,Morisaki Saaya,0,0,60,,Thank you!
+Dialogue: 0,0:39:45.74,0:39:49.20,Default,Morisaki Saaya,0,0,60,,From Kumamoto Prefecture, 20, Team KIV — Morisaki Saaya!
+Dialogue: 0,0:39:49.28,0:39:51.20,Default,Crowd,0,0,60,,Saaya—!
+Dialogue: 0,0:39:54.04,0:39:54.44,Default,Morisaki Saaya,0,0,60,,Thank you!
+Dialogue: 0,0:39:55.60,0:39:58.60,Default,Morisaki Saaya,0,0,60,,Okay — I'd pick a capybara,
+Dialogue: 0,0:39:58.68,0:40:03.12,Default,Morisaki Saaya,0,0,60,,in my image they're forever soaking in a hot spring,
+Dialogue: 0,0:40:03.20,0:40:05.38,Default,Morisaki Saaya,0,0,60,,or forever walking slowly,
+Dialogue: 0,0:40:05.46,0:40:08.26,Default,Morisaki Saaya,0,0,60,,or forever munching away,
+Dialogue: 0,0:40:08.34,0:40:09.40,Default,Host,0,0,60,,Yeah — that's exactly you.
+Dialogue: 0,0:40:09.48,0:40:09.96,Default,Morisaki Saaya,0,0,60,,Oh, really?
+Dialogue: 0,0:40:10.70,0:40:11.80,Default,Morisaki Saaya,0,0,60,,Is that so?
+Dialogue: 0,0:40:11.88,0:40:13.22,Default,Host,0,0,60,,I think that's pretty much you.
+Dialogue: 0,0:40:14.52,0:40:16.46,Default,Morisaki Saaya,0,0,60,,Like a capybara that isn't an idol,
+Dialogue: 0,0:40:16.54,0:40:19.10,Default,Morisaki Saaya,0,0,60,,I'd also like to try living that chill life.
+Dialogue: 0,0:40:19.18,0:40:20.56,Default,Morisaki Saaya,0,0,60,,Please take care of me today!
+Dialogue: 0,0:40:21.28,0:40:22.90,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:40:26.46,0:40:29.76,Default,Morisaki Saaya,0,0,60,,Yes — HKT48 Himawarigumi Saka Agari!
+Dialogue: 0,0:40:29.84,0:40:31.52,Default,Morisaki Saaya,0,0,60,,We'll bring it to you with this lineup.
+Dialogue: 0,0:40:32.28,0:40:34.12,Default,Morisaki Saaya,0,0,60,,Everyone ready to cheer?
+Dialogue: 0,0:40:34.20,0:40:35.60,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:40:37.50,0:40:40.54,Default,Morisaki Saaya,0,0,60,,Can you give us a big, big call?
+Dialogue: 0,0:40:43.32,0:40:46.04,Default,Morisaki Saaya,0,0,60,,Keep that energy going for what's next!
+Dialogue: 0,0:40:46.12,0:40:48.26,Default,Morisaki Saaya,0,0,60,,Next up: various unit corners.
+Dialogue: 0,0:40:48.34,0:40:49.36,Default,Morisaki Saaya,0,0,60,,Starting with this unit!
+; ===== mini_sketch =====
+Dialogue: 0,0:49:34.20,0:49:34.56,Default,Member,0,0,60,,Koko-chan?
+Dialogue: 0,0:49:34.64,0:49:35.32,Default,Eguchi Kokoha,0,0,60,,What is it?
+Dialogue: 0,0:49:35.40,0:49:38.54,Default,Member,0,0,60,,Hey—was it you who took my favorite doll, Koko-chan?
+Dialogue: 0,0:49:38.74,0:49:40.16,Default,Eguchi Kokoha,0,0,60,,I didn't take it, though.
+Dialogue: 0,0:49:40.24,0:49:42.38,Default,Member,0,0,60,,It's right there beside you now.
+Dialogue: 0,0:49:42.46,0:49:42.84,Default,Eguchi Kokoha,0,0,60,,Huh?
+Dialogue: 0,0:49:42.92,0:49:44.06,Default,Eguchi Kokoha,0,0,60,,Huh? I won't forgive that!
+Dialogue: 0,0:49:44.14,0:49:47.04,Default,Eguchi Kokoha,0,0,60,,Sorry—side punch!
+; ===== mc1 =====
+Dialogue: 0,1:03:55.03,1:03:56.59,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,1:03:59.75,1:04:03.45,Default,Host,0,0,60,,Yes — End Roll, Wagamama no Nagareboshi, Ai no Iro,
+Dialogue: 0,1:04:03.53,1:04:07.25,Default,Host,0,0,60,,Dakishimeraretara, and Mushi no Ballad — five songs in a row.
+Dialogue: 0,1:04:07.69,1:04:08.27,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,1:04:11.17,1:04:16.39,Default,Host,0,0,60,,So — the unit members, these five of us, will chat for a bit.
+Dialogue: 0,1:04:16.47,1:04:17.87,Default,Host,0,0,60,,Okay — starting with Kokoha.
+Dialogue: 0,1:04:17.95,1:04:21.67,Default,Fujino Kokoha,0,0,60,,I feel like all the 7th gens are so polite, like…
+Dialogue: 0,1:04:21.75,1:04:23.91,Default,Fujino Kokoha,0,0,60,,you all probably know this already, but…
+Dialogue: 0,1:04:23.99,1:04:25.49,Default,Fujino Kokoha,0,0,60,,they're incredibly well-mannered.
+Dialogue: 0,1:04:25.57,1:04:30.51,Default,Fujino Kokoha,0,0,60,,The other day at a job site there were chairs, and…
+Dialogue: 0,1:04:30.59,1:04:32.93,Default,Fujino Kokoha,0,0,60,,like five or six of them, but…
+Dialogue: 0,1:04:33.01,1:04:37.21,Default,Fujino Kokoha,0,0,60,,a couple seniors were sitting, two or three, and…
+Dialogue: 0,1:04:37.29,1:04:41.87,Default,Fujino Kokoha,0,0,60,,the 7th gens could sit — empty chairs — but they all sat on the floor, and…
+Dialogue: 0,1:04:42.35,1:04:46.19,Default,Fujino Kokoha,0,0,60,,when I said "you can sit!" / "don't sit on the floor!", they went…
+Dialogue: 0,1:04:46.27,1:04:48.01,Default,Fujino Kokoha,0,0,60,,"We like the floor," kind of thing, and…
+Dialogue: 0,1:04:48.55,1:04:50.49,Default,Fujino Kokoha,0,0,60,,I thought that was definitely a lie, but…
+Dialogue: 0,1:04:51.01,1:04:52.99,Default,Fujino Kokoha,0,0,60,,Kure-chan was on the floor too, so…
+Dialogue: 0,1:04:53.71,1:04:54.53,Default,Fujino Kokoha,0,0,60,,You like the floor?
+Dialogue: 0,1:04:54.75,1:04:55.53,Default,Kure Yuna,0,0,60,,Yes — I love it.
+Dialogue: 0,1:04:56.39,1:04:56.75,Default,Fujino Kokoha,0,0,60,,Really?
+Dialogue: 0,1:04:57.49,1:04:58.35,Default,Member,0,0,60,,Cute.
+Dialogue: 0,1:04:59.03,1:05:00.47,Default,Member,0,0,60,,Lie — she's just being considerate.
+Dialogue: 0,1:05:00.55,1:05:01.11,Default,Kure Yuna,0,0,60,,It just hurts a little.
+Dialogue: 0,1:05:01.19,1:05:03.03,Default,Fujino Kokoha,0,0,60,,You love it?
+Dialogue: 0,1:05:03.11,1:05:07.51,Default,Fujino Kokoha,0,0,60,,And besides that, Kure-chan is honestly the most polite of the 7th gens, and…
+Dialogue: 0,1:05:07.59,1:05:10.45,Default,Fujino Kokoha,0,0,60,,She uses keigo with same-gen mates?
+Dialogue: 0,1:05:10.59,1:05:10.93,Default,Member,0,0,60,,Huh?
+Dialogue: 0,1:05:11.65,1:05:12.95,Default,Fujino Kokoha,0,0,60,,She uses it on us.
+Dialogue: 0,1:05:13.71,1:05:16.59,Default,Kure Yuna,0,0,60,,It's not just manners — we're still not that close yet.
+Dialogue: 0,1:05:17.85,1:05:23.85,Default,Fujino Kokoha,0,0,60,,We get along, but when someone DMs "do it like this,"…
+Dialogue: 0,1:05:25.15,1:05:26.85,Default,Fujino Kokoha,0,0,60,,if you teach her, she goes "thank you so much,"
+Dialogue: 0,1:05:26.93,1:05:29.99,Default,Fujino Kokoha,0,0,60,,"I respect Amiyun-chan's kindness," and so on.
+Dialogue: 0,1:05:31.87,1:05:33.37,Default,Fujino Kokoha,0,0,60,,Kure-chan, how old are you again?
+Dialogue: 0,1:05:33.61,1:05:34.85,Default,Kure Yuna,0,0,60,,I'm 13.
+Dialogue: 0,1:05:35.37,1:05:36.69,Default,Member,0,0,60,,You can't even say that, huh.
+Dialogue: 0,1:05:37.33,1:05:37.73,Default,Member,0,0,60,,Amazing.
+Dialogue: 0,1:05:38.77,1:05:44.77,Default,Fujino Kokoha,0,0,60,,You can see Kure-chan's sweet nature and manners in her face, but…
+Dialogue: 0,1:05:45.33,1:05:50.51,Default,Fujino Kokoha,0,0,60,,I spotted one tiny, super weird thing with Kure-chan.
+Dialogue: 0,1:05:50.97,1:05:52.51,Default,Fujino Kokoha,0,0,60,,It was a while ago, but…
+Dialogue: 0,1:05:53.01,1:05:56.07,Default,Fujino Kokoha,0,0,60,,there was an Ai/Kanshasai live here, and…
+Dialogue: 0,1:05:56.15,1:05:59.09,Default,Fujino Kokoha,0,0,60,,backstage, 6th and 7th gens shared a room.
+Dialogue: 0,1:05:59.17,1:06:00.47,Default,Fujino Kokoha,0,0,60,,We were all eating bentou, and…
+Dialogue: 0,1:06:00.55,1:06:04.23,Default,Fujino Kokoha,0,0,60,,while eating, my eyes suddenly landed on Kure-chan.
+Dialogue: 0,1:06:04.31,1:06:08.23,Default,Fujino Kokoha,0,0,60,,And she had her eyes closed, silent, and…
+Dialogue: 0,1:06:10.77,1:06:12.67,Default,Fujino Kokoha,0,0,60,,and — even scarier —
+Dialogue: 0,1:06:12.75,1:06:15.09,Default,Fujino Kokoha,0,0,60,,she was holding chopsticks over her food, but…
+Dialogue: 0,1:06:15.17,1:06:17.83,Default,Fujino Kokoha,0,0,60,,not grabbing anything — empty air —
+Dialogue: 0,1:06:19.41,1:06:20.23,Default,Fujino Kokoha,0,0,60,,just "eating."
+Dialogue: 0,1:06:21.64,1:06:26.96,Default,Kure Yuna,0,0,60,,We were playing werewolf with a few people then, and…
+Dialogue: 0,1:06:27.50,1:06:29.04,Default,Kure Yuna,0,0,60,,I got a little hungry, and…
+Dialogue: 0,1:06:29.12,1:06:31.16,Default,Kure Yuna,0,0,60,,when they said "close your eyes,"
+Dialogue: 0,1:06:31.40,1:06:34.28,Default,Kure Yuna,0,0,60,,I thought "ugh I'm hungry, I wanna eat a bit,"
+Dialogue: 0,1:06:34.36,1:06:36.02,Default,Kure Yuna,0,0,60,,and tried to eat, but…
+Dialogue: 0,1:06:36.10,1:06:37.40,Default,Kure Yuna,0,0,60,,I couldn't grab anything, and…
+Dialogue: 0,1:06:37.48,1:06:40.28,Default,Kure Yuna,0,0,60,,kept "eating" with a confused "hmm."
+Dialogue: 0,1:06:40.36,1:06:42.96,Default,Fujino Kokoha,0,0,60,,That's totally not how that works.
+Dialogue: 0,1:06:43.70,1:06:46.96,Default,Fujino Kokoha,0,0,60,,You do NOT eat bentou mid-werewolf. Ever.
+Dialogue: 0,1:06:47.04,1:06:48.76,Default,Fujino Kokoha,0,0,60,,Right — eyes closed the whole time, and…
+Dialogue: 0,1:06:48.84,1:06:50.80,Default,Fujino Kokoha,0,0,60,,she never grabbed a thing.
+Dialogue: 0,1:06:51.94,1:06:53.54,Default,Fujino Kokoha,0,0,60,,Stuff like that — so funny.
+Dialogue: 0,1:06:53.81,1:06:55.35,Default,Fujino Kokoha,0,0,60,,I thought it was adorable.
+Dialogue: 0,1:06:55.73,1:06:57.11,Default,Fujino Kokoha,0,0,60,,But Kure-chan, you know…
+Dialogue: 0,1:06:57.19,1:07:00.05,Default,Fujino Kokoha,0,0,60,,everyone calls food "gohan," right?
+Dialogue: 0,1:07:00.13,1:07:02.29,Default,Fujino Kokoha,0,0,60,,Kure-chan calls it "o-shokuji" — a meal.
+Dialogue: 0,1:07:03.35,1:07:03.70,Default,Kure Yuna,0,0,60,,Right.
+Dialogue: 0,1:07:03.78,1:07:06.73,Default,Fujino Kokoha,0,0,60,,I mean, I say "grub" and stuff, but…
+Dialogue: 0,1:07:06.81,1:07:07.79,Default,Kure Yuna,0,0,60,,Stop saying "grub."
+Dialogue: 0,1:07:07.87,1:07:08.97,Default,Member,0,0,60,,"Grub"?
+Dialogue: 0,1:07:09.05,1:07:10.25,Default,Member,0,0,60,,"Grub" might be too much.
+Dialogue: 0,1:07:10.33,1:07:11.63,Default,Fujino Kokoha,0,0,60,,I go "grub-grub, I'm hungry," but…
+Dialogue: 0,1:07:11.71,1:07:13.29,Default,Fujino Kokoha,0,0,60,,my whole family talks like that.
+Dialogue: 0,1:07:13.37,1:07:16.89,Default,Kure Yuna,0,0,60,,Somehow I just ended up like this.
+Dialogue: 0,1:07:16.97,1:07:18.01,Default,Member,0,0,60,,What a good kid.
+Dialogue: 0,1:07:18.09,1:07:20.57,Default,Members,0,0,60,,Cute, cute.
+Dialogue: 0,1:07:20.65,1:07:21.61,Default,Member,0,0,60,,We should learn from her.
+Dialogue: 0,1:07:21.69,1:07:22.51,Default,Member,0,0,60,,Right?
+Dialogue: 0,1:07:23.23,1:07:25.27,Default,Member,0,0,60,,She looks like she wears dresses day-to-day.
+Dialogue: 0,1:07:25.77,1:07:26.27,Default,Member,0,0,60,,True.
+Dialogue: 0,1:07:26.73,1:07:28.33,Default,Kure Yuna,0,0,60,,I actually don't wear them much.
+Dialogue: 0,1:07:31.07,1:07:32.81,Default,Kure Yuna,0,0,60,,I wear one once in a while, but…
+Dialogue: 0,1:07:33.31,1:07:34.41,Default,Member,0,0,60,,How is it?
+Dialogue: 0,1:07:34.49,1:07:35.87,Default,Member,0,0,60,,Wait — full-on dresses?
+Dialogue: 0,1:07:35.95,1:07:37.55,Default,Kure Yuna,0,0,60,,Ah no — more normal…
+Dialogue: 0,1:07:38.09,1:07:39.79,Default,Kure Yuna,0,0,60,,like a one-piece dress vibe.
+Dialogue: 0,1:07:39.87,1:07:41.67,Default,Kure Yuna,0,0,60,,I don't really have a one-piece, but…
+Dialogue: 0,1:07:42.11,1:07:43.49,Default,Member,0,0,60,,You're not wearing glass slippers or anything?
+Dialogue: 0,1:07:43.57,1:07:45.03,Default,Kure Yuna,0,0,60,,Nope — no slippers either.
+Dialogue: 0,1:07:45.11,1:07:45.87,Default,Member,0,0,60,,What slippers?
+Dialogue: 0,1:07:45.95,1:07:47.79,Default,Member,0,0,60,,Glass shoes, then?
+Dialogue: 0,1:07:48.71,1:07:49.97,Default,Kure Yuna,0,0,60,,Please don't make it English.
+Dialogue: 0,1:07:50.05,1:07:50.55,Default,Member,0,0,60,,Sorry.
+Dialogue: 0,1:07:52.07,1:07:52.71,Default,Fujino Kokoha,0,0,60,,Well then…
+Dialogue: 0,1:07:52.79,1:07:54.63,Default,Fujino Kokoha,0,0,60,,um, what was it…
+Dialogue: 0,1:07:54.71,1:07:56.11,Default,Fujino Kokoha,0,0,60,,on the politeness topic,
+Dialogue: 0,1:07:56.19,1:07:57.13,Default,Fujino Kokoha,0,0,60,,there's one more thing.
+Dialogue: 0,1:07:57.21,1:08:00.15,Default,Fujino Kokoha,0,0,60,,Kure-chan and Amiyun-chan too, but…
+Dialogue: 0,1:08:00.23,1:08:02.70,Default,Fujino Kokoha,0,0,60,,when they enter the dressing room…
+Dialogue: 0,1:08:02.78,1:08:04.72,Default,Fukui Karen,0,0,60,,It's been about a year now, right?
+Dialogue: 0,1:08:04.80,1:08:05.10,Default,Fujino Kokoha,0,0,60,,Yeah.
+Dialogue: 0,1:08:05.50,1:08:08.47,Default,Fujino Kokoha,0,0,60,,they say "excuse me" and "thank you for having me."
+Dialogue: 0,1:08:08.55,1:08:10.43,Default,Member,0,0,60,,Like a teacher's office, honestly.
+Dialogue: 0,1:08:10.87,1:08:11.47,Default,Member,0,0,60,,Really.
+Dialogue: 0,1:08:11.55,1:08:12.97,Default,Member,0,0,60,,We've never said that, huh.
+Dialogue: 0,1:08:13.05,1:08:14.45,Default,Fujino Kokoha,0,0,60,,Amiyun-chan too, when she comes in…
+Dialogue: 0,1:08:14.53,1:08:15.25,Default,Fujino Kokoha,0,0,60,,"Excuse me—"
+Dialogue: 0,1:08:15.33,1:08:16.25,Default,Fujino Kokoha,0,0,60,,kind of like that, and…
+Dialogue: 0,1:08:16.33,1:08:16.91,Default,Fujino Kokoha,0,0,60,,she says it every single time, so…
+Dialogue: 0,1:08:16.99,1:08:17.47,Default,Fujino Kokoha,0,0,60,,"Thanks for having me."
+Dialogue: 0,1:08:17.55,1:08:18.17,Default,Member,0,0,60,,Right.
+Dialogue: 0,1:08:18.97,1:08:20.13,Default,Member,0,0,60,,It's really something…
+Dialogue: 0,1:08:20.21,1:08:21.49,Default,Member,0,0,60,,You don't have to say it anymore.
+Dialogue: 0,1:08:22.65,1:08:24.67,Default,Member,0,0,60,,You never needed to from the start.
+Dialogue: 0,1:08:24.75,1:08:25.81,Default,Kure Yuna,0,0,60,,Is that so?
+Dialogue: 0,1:08:28.01,1:08:29.81,Default,Member,0,0,60,,It's fine if you keep saying it.
+Dialogue: 0,1:08:29.89,1:08:30.41,Default,Kure Yuna,0,0,60,,Thank you.
+Dialogue: 0,1:08:30.49,1:08:32.95,Default,Member,0,0,60,,I think it's really nice.
+Dialogue: 0,1:08:33.03,1:08:33.85,Default,Member,0,0,60,,We should too…
+Dialogue: 0,1:08:33.93,1:08:34.81,Default,Member,0,0,60,,Shall we say it then?
+Dialogue: 0,1:08:34.89,1:08:35.77,Default,Member,0,0,60,,"Excuse me—"
+Dialogue: 0,1:08:35.85,1:08:37.01,Default,Fukui Karen,0,0,60,,I don't want to say it.
+Dialogue: 0,1:08:37.09,1:08:38.15,Default,Ouchi Rinka,0,0,60,,That's not "I won't say it"!
+Dialogue: 0,1:08:39.27,1:08:39.91,Default,Host,0,0,60,,Well then…
+Dialogue: 0,1:08:39.99,1:08:41.67,Default,Host,0,0,60,,let's learn from the 7th gens and try hard.
+Dialogue: 0,1:08:41.75,1:08:42.27,Default,Members,0,0,60,,Let's do our best!
+Dialogue: 0,1:08:42.81,1:08:44.05,Default,Host,0,0,60,,Us 6th gens, politely too—
+Dialogue: 0,1:08:44.13,1:08:44.55,Default,Host,0,0,60,,let's do our best.
+Dialogue: 0,1:08:44.63,1:08:46.11,Default,Host,0,0,60,,We want to keep going strong in year four too.
+Dialogue: 0,1:08:46.71,1:08:47.27,Default,Host,0,0,60,,Alright then—
+Dialogue: 0,1:08:47.35,1:08:49.01,Default,Host,0,0,60,,the second half keeps going!
+Dialogue: 0,1:08:49.09,1:08:50.73,Default,Host,0,0,60,,Everyone — right after Golden Week—
+Dialogue: 0,1:08:50.81,1:08:52.31,Default,Host,0,0,60,,first show — can you get loud?!
+Dialogue: 0,1:08:52.63,1:08:53.73,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,1:08:55.15,1:08:55.53,Default,Host,0,0,60,,Thank you!
+Dialogue: 0,1:08:56.03,1:08:57.79,Default,Host,0,0,60,,Second half starts with this song—
+Dialogue: 0,1:08:57.87,1:08:58.41,Default,Host,0,0,60,,Here we go!
+; ===== mc2 =====
+Dialogue: 0,1:23:11.32,1:23:11.80,Default,Host,0,0,60,,Ready?
+Dialogue: 0,1:23:11.88,1:23:12.78,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,1:23:12.86,1:23:14.34,Default,Host,0,0,60,,Yes!
+Dialogue: 0,1:23:16.72,1:23:22.30,Default,Host,0,0,60,,You've heard Furishite Maneshite, Umi o Watare, and Machikado no Party — three in a row. Are you hyped?
+Dialogue: 0,1:23:22.56,1:23:24.50,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,1:23:25.40,1:23:25.76,Default,Host,0,0,60,,Thank you!
+Dialogue: 0,1:23:26.46,1:23:30.32,Default,Host,0,0,60,,First-half group — we'll chat with this lineup. Anyone got something?
+Dialogue: 0,1:23:31.52,1:23:32.42,Default,Host,0,0,60,,Go ahead.
+Dialogue: 0,1:23:33.20,1:23:36.36,Default,Member,0,0,60,,I want to apologize to Ishikawa-chan…
+Dialogue: 0,1:23:37.86,1:23:39.96,Default,Host,0,0,60,,What did you do?
+Dialogue: 0,1:23:40.04,1:23:45.18,Default,Member,0,0,60,,On a recent Saka Agari MC there was a dispute, and…
+Dialogue: 0,1:23:46.38,1:23:50.10,Default,Member,0,0,60,,the self-intro catchphrase got copied—
+Dialogue: 0,1:23:50.18,1:23:54.42,Default,Member,0,0,60,,Amiyun-chan had copied it, but…
+Dialogue: 0,1:23:56.46,1:23:58.92,Default,Member,0,0,60,,it turned into "little devil" like this.
+Dialogue: 0,1:24:00.04,1:24:01.46,Default,Host,0,0,60,,Apologize properly.
+Dialogue: 0,1:24:02.62,1:24:03.40,Default,Ishikawa Amiyu,0,0,60,,I'm not mad.
+Dialogue: 0,1:24:03.92,1:24:06.00,Default,Ishikawa Amiyu,0,0,60,,That sense of rhythm is so good — and little…
+Dialogue: 0,1:24:06.04,1:24:06.66,Default,Fukui Karen,0,0,60,,Right?
+Dialogue: 1,1:24:06.50,1:24:06.98,Default,Ishikawa Amiyu,0,0,140,,…little devil.
+Dialogue: 0,1:24:06.98,1:24:07.38,Default,Fukui Karen,0,0,60,,Oh, is that so?
+Dialogue: 0,1:24:07.46,1:24:07.86,Default,Ishikawa Amiyu,0,0,60,,Thank you.
+Dialogue: 0,1:24:08.58,1:24:09.96,Default,Ishikawa Amiyu,0,0,60,,Thanks for pointing it out.
+Dialogue: 0,1:24:10.88,1:24:12.50,Default,Host,0,0,60,,You like "little devil"?
+Dialogue: 0,1:24:12.66,1:24:13.50,Default,Ishikawa Amiyu,0,0,60,,Yes, I like it.
+Dialogue: 0,1:24:13.94,1:24:15.48,Default,Host,0,0,60,,You're making her walk on eggshells.
+Dialogue: 0,1:24:15.56,1:24:19.40,Default,Host,0,0,60,,Not a scary devil — that OK?
+Dialogue: 0,1:24:19.62,1:24:20.42,Default,Ishikawa Amiyu,0,0,60,,Yes, I'm fine.
+Dialogue: 0,1:24:20.50,1:24:22.06,Default,Host,0,0,60,,Is "little devil" hard to say?
+Dialogue: 0,1:24:22.92,1:24:25.14,Default,Ishikawa Amiyu,0,0,60,,I'm bad at tongue twisters — it's practice.
+Dialogue: 0,1:24:27.72,1:24:29.02,Default,Host,0,0,60,,What a kind junior.
+Dialogue: 0,1:24:29.10,1:24:30.70,Default,Host,0,0,60,,So kind…
+Dialogue: 0,1:24:30.78,1:24:34.12,Default,Member,0,0,60,,But mine's a bit like Hina-tan's too.
+Dialogue: 0,1:24:34.80,1:24:35.92,Default,Member,0,0,60,,Our catchphrases…
+Dialogue: 0,1:24:36.00,1:24:38.04,Default,Yasui Hina,0,0,60,,But I never said anyone copied me.
+Dialogue: 0,1:24:39.38,1:24:40.96,Default,Host,0,0,60,,Don't make that sad face.
+Dialogue: 0,1:24:41.04,1:24:43.96,Default,Host,0,0,60,,So when the two of you stand together,
+Dialogue: 0,1:24:44.04,1:24:46.06,Default,Host,0,0,60,,fans say "meat-and-veg stir-fry," and…
+Dialogue: 0,1:24:46.14,1:24:47.12,Default,Member,0,0,60,,Really?
+Dialogue: 0,1:24:47.70,1:24:49.08,Default,Member,0,0,60,,We do get that, yeah.
+Dialogue: 0,1:24:49.56,1:24:50.48,Default,Member,0,0,60,,Isn't that mean?
+Dialogue: 0,1:24:50.56,1:24:52.90,Default,Host,0,0,60,,You've been called that forever.
+Dialogue: 0,1:24:52.98,1:24:56.00,Default,Member,0,0,60,,Cucumber is better raw, you know.
+Dialogue: 0,1:24:56.08,1:24:57.92,Default,Host,0,0,60,,But we have all kinds of members.
+Dialogue: 0,1:24:58.00,1:24:58.74,Default,Host,0,0,60,,We eat them, yeah.
+Dialogue: 0,1:24:59.22,1:25:02.22,Default,Host,0,0,60,,Guess it can't be helped.
+Dialogue: 0,1:25:03.90,1:25:05.56,Default,Member,0,0,60,,She's not here today, but…
+Dialogue: 0,1:25:05.64,1:25:08.38,Default,Member,0,0,60,,people say I look like Mei-mei, and…
+Dialogue: 0,1:25:08.82,1:25:11.28,Default,Member,0,0,60,,but Mei-mei's likeness is only the rhythm, and…
+Dialogue: 0,1:25:11.36,1:25:14.74,Default,Member,0,0,60,,then they tacked on "uu~ Mei-mei."
+Dialogue: 0,1:25:14.82,1:25:16.80,Default,Host,0,0,60,,Wait, really?
+Dialogue: 0,1:25:17.12,1:25:20.13,Default,Member,0,0,60,,You can hear it, right?
+Dialogue: 0,1:25:20.21,1:25:24.21,Default,Host,0,0,60,,That's the fans — hang onto yours so that doesn't happen.
+Dialogue: 0,1:25:24.29,1:25:26.93,Default,Host,0,0,60,,Protect what's yours properly.
+Dialogue: 0,1:25:27.01,1:25:30.15,Default,Host,0,0,60,,Like Egu-chan's "here it is~" bit…
+Dialogue: 0,1:25:30.23,1:25:31.85,Default,Member,0,0,60,,Koko-chan?
+Dialogue: 0,1:25:31.93,1:25:33.21,Default,Eguchi Kokoha,0,0,60,,What?
+Dialogue: 0,1:25:34.09,1:25:34.77,Default,Eguchi Kokoha,0,0,60,,Whose?
+Dialogue: 0,1:25:35.65,1:25:37.25,Default,Host,0,0,60,,Someone just popped up — you OK?
+Dialogue: 0,1:25:37.49,1:25:41.25,Default,Eguchi Kokoha,0,0,60,,I'd never heard it — first time — I got shocked.
+Dialogue: 0,1:25:41.33,1:25:41.89,Default,Eguchi Kokoha,0,0,60,,That startled me.
+Dialogue: 0,1:25:41.97,1:25:44.37,Default,Host,0,0,60,,Let's all get along, okay?
+Dialogue: 0,1:25:44.45,1:25:45.89,Default,Host,0,0,60,,Anyone else?
+Dialogue: 0,1:25:45.97,1:25:46.97,Default,Member,0,0,60,,Nobody? Then me.
+Dialogue: 0,1:25:48.61,1:25:50.95,Default,Member,0,0,60,,I've been in Fukuoka about three years, and…
+Dialogue: 0,1:25:51.03,1:25:54.47,Default,Member,0,0,60,,I made another new discovery.
+Dialogue: 0,1:25:55.57,1:25:56.97,Default,Member,0,0,60,,At a Fukuoka convenience store…
+Dialogue: 0,1:25:57.05,1:25:59.85,Default,Member,0,0,60,,I went to the ATM with my dad.
+Dialogue: 0,1:26:00.49,1:26:04.77,Default,Member,0,0,60,,At the end the ATM goes "Thank you — we look forward to your next visit,"
+Dialogue: 0,1:26:04.85,1:26:06.75,Default,Member,0,0,60,,you know that kind of line, but…
+Dialogue: 0,1:26:06.83,1:26:10.97,Default,Member,0,0,60,,in Hakata dialect it was like "mata kinshai ne~" — come visit again!
+Dialogue: 0,1:26:12.37,1:26:13.55,Default,Member,0,0,60,,First time I heard that.
+Dialogue: 0,1:26:14.91,1:26:16.37,Default,Member,0,0,60,,I thought I misheard, and…
+Dialogue: 0,1:26:16.45,1:26:19.31,Default,Member,0,0,60,,wondered if that was possible, so I tried again.
+Dialogue: 0,1:26:19.39,1:26:23.01,Default,Member,0,0,60,,Same again — "mata kinshai ne~" — come again!
+Dialogue: 0,1:26:23.09,1:26:25.11,Default,Member,0,0,60,,Have you heard that?
+Dialogue: 0,1:26:25.19,1:26:25.85,Default,Host,0,0,60,,Where, where?
+Dialogue: 0,1:26:25.93,1:26:29.49,Default,Member,0,0,60,,It was a FamilyMart.
+Dialogue: 0,1:26:30.81,1:26:32.63,Default,Member,0,0,60,,Told "come again~" like that, and…
+Dialogue: 0,1:26:33.59,1:26:35.33,Default,Member,0,0,60,,I thought, so this is Hakata…
+Dialogue: 0,1:26:35.41,1:26:39.39,Default,Host,0,0,60,,In Osaka or Hyogo it'd be different, right?
+Dialogue: 0,1:26:39.47,1:26:40.77,Default,Host,0,0,60,,Like "mata oide yaa~."
+Dialogue: 0,1:26:41.35,1:26:45.59,Default,Member,0,0,60,,For an ATM it's not stiff at all…
+Dialogue: 0,1:26:46.01,1:26:47.41,Default,Member,0,0,60,,it feels warm, I thought.
+Dialogue: 0,1:26:47.49,1:26:49.79,Default,Member,0,0,60,,Year three — and I only noticed today.
+Dialogue: 0,1:26:49.87,1:26:52.21,Default,Host,0,0,60,,I've been here ~7 years and never noticed.
+Dialogue: 0,1:26:54.39,1:26:55.97,Default,Member,0,0,60,,A new discovery!
+Dialogue: 0,1:26:58.05,1:26:59.43,Default,Host,0,0,60,,Anything else?
+Dialogue: 0,1:27:01.57,1:27:05.77,Default,Member,0,0,60,,I have something I want to ask Fujikoko-san…
+Dialogue: 0,1:27:05.85,1:27:06.31,Default,Host,0,0,60,,Oh?
+Dialogue: 0,1:27:07.81,1:27:09.49,Default,Member,0,0,60,,She's not here — I'll just say it!
+Dialogue: 0,1:27:09.57,1:27:11.09,Default,Member,0,0,60,,It's a nice thing, but…
+Dialogue: 0,1:27:11.67,1:27:16.77,Default,Member,0,0,60,,I said on SNS I'm into cafe-hopping, and…
+Dialogue: 0,1:27:16.85,1:27:22.85,Default,Member,0,0,60,,fans have said "Fujikoko loves cafes — invite her," but…
+Dialogue: 0,1:27:23.08,1:27:23.62,Default,Katahira Sara,0,0,60,,Yeah.
+Dialogue: 0,1:27:23.70,1:27:25.21,Default,Member,0,0,60,,they've been saying that for about a month, but…
+Dialogue: 0,1:27:25.29,1:27:26.77,Default,Member,0,0,60,,I still haven't asked.
+Dialogue: 0,1:27:27.17,1:27:27.57,Default,Host,0,0,60,,And now?
+Dialogue: 0,1:27:27.73,1:27:30.73,Default,Member,0,0,60,,The vibe… I want to say it, but…
+Dialogue: 0,1:27:31.31,1:27:33.55,Default,Member,0,0,60,,How do I put it — she's scary.
+Dialogue: 0,1:27:33.63,1:27:35.93,Default,Host,0,0,60,,Scary? Scary?
+Dialogue: 0,1:27:36.31,1:27:38.13,Default,Member,0,0,60,,She has this cool aura, so…
+Dialogue: 0,1:27:38.21,1:27:40.55,Default,Host,0,0,60,,True — that kind of vibe.
+Dialogue: 0,1:27:41.13,1:27:47.13,Default,Member,0,0,60,,Today too, Fujikoko was fixing her hair — I meant to ask and couldn't.
+Dialogue: 0,1:27:48.49,1:27:50.35,Default,Host,0,0,60,,It's fine — she's not that scary.
+Dialogue: 0,1:27:50.43,1:27:54.39,Default,Member,0,0,60,,Right — once you talk she's not scary. She's kind, but…
+Dialogue: 0,1:27:54.47,1:27:56.29,Default,Host,0,0,60,,Yeah — it's the aura. Exactly.
+Dialogue: 0,1:27:56.37,1:27:59.03,Default,Host,0,0,60,,It's fine — tell her later.
+Dialogue: 0,1:27:59.11,1:28:00.29,Default,Member,0,0,60,,I want to say it today.
+Dialogue: 0,1:28:00.83,1:28:04.05,Default,Host,0,0,60,,You got this — we're rooting for you.
+Dialogue: 0,1:28:04.13,1:28:06.99,Default,Member,0,0,60,,I want to invite Fujikoko too — let's go together!
+Dialogue: 0,1:28:07.87,1:28:09.07,Default,Member,0,0,60,,I can't go either.
+Dialogue: 0,1:28:09.15,1:28:10.45,Default,Members,0,0,60,,"Let's go together"…
+Dialogue: 0,1:28:10.77,1:28:11.91,Default,Host,0,0,60,,Everyone, invite her together!
+Dialogue: 0,1:28:12.45,1:28:15.21,Default,Host,0,0,60,,So, Yui-chan?
+Dialogue: 0,1:28:15.29,1:28:15.93,Default,Members,0,0,60,,Cute.
+Dialogue: 0,1:28:16.01,1:28:19.31,Default,Matsunaga Yui,0,0,60,,I'm in twintails today, and…
+Dialogue: 0,1:28:19.39,1:28:21.07,Default,Members,0,0,60,,They're cute!
+Dialogue: 0,1:28:21.15,1:28:24.17,Default,Matsunaga Yui,0,0,60,,I'm getting a little embarrassed…
+Dialogue: 0,1:28:24.25,1:28:25.83,Default,Host,0,0,60,,You're cute.
+Dialogue: 0,1:28:25.93,1:28:28.17,Default,Host,0,0,60,,Hers are even higher twintails — really.
+Dialogue: 0,1:28:28.83,1:28:30.67,Default,Host,0,0,60,,It's fine — cute.
+Dialogue: 0,1:28:31.71,1:28:33.55,Default,Member,0,0,60,,I wanna yank these hairs out.
+Dialogue: 0,1:28:33.63,1:28:35.57,Default,Matsunaga Yui,0,0,60,,Huh? Wow.
+Dialogue: 0,1:28:36.01,1:28:40.01,Default,Member,0,0,60,,They're grab-able — I always poke them. I keep wanting to pull them.
+Dialogue: 0,1:28:40.09,1:28:43.25,Default,Matsunaga Yui,0,0,60,,Cute — really. Thank you.
+Dialogue: 0,1:28:45.27,1:28:46.57,Default,Host,0,0,60,,So, Hina-tan…
+Dialogue: 0,1:28:48.27,1:28:50.31,Default,Yasui Hina,0,0,60,,What is it… um…
+Dialogue: 0,1:28:51.69,1:28:56.77,Default,Yasui Hina,0,0,60,,We did End Roll, and Rinka's today…
+Dialogue: 0,1:28:56.85,1:29:00.79,Default,Yasui Hina,0,0,60,,not the full — at the free-dance part…
+Dialogue: 0,1:29:00.87,1:29:04.49,Default,Yasui Hina,0,0,60,,she looked so cool I just stood there like a stick…
+Dialogue: 0,1:29:04.57,1:29:07.01,Default,Ouchi Rinka,0,0,60,,Rinka— wait, I don't just stand still.
+Dialogue: 0,1:29:08.09,1:29:10.73,Default,Yasui Hina,0,0,60,,No way — Rinka was even crouching!
+Dialogue: 0,1:29:10.81,1:29:12.59,Default,Host,0,0,60,,You got mesmerized? Yeah.
+Dialogue: 0,1:29:13.57,1:29:18.37,Default,Yasui Hina,0,0,60,,It just clicked — I'm awful at free dance, so…
+Dialogue: 0,1:29:18.89,1:29:22.81,Default,Yasui Hina,0,0,60,,I can't finish free dance — I can barely put my hands like this, and…
+Dialogue: 0,1:29:23.25,1:29:27.11,Default,Yasui Hina,0,0,60,,I peeked at Rinka — she was fully down — so cool.
+Dialogue: 0,1:29:27.19,1:29:29.81,Default,Ouchi Rinka,0,0,60,,I'm learning from Karen-ren too.
+Dialogue: 0,1:29:29.89,1:29:32.77,Default,Host,0,0,60,,Karen-ren's wall use is the best.
+Dialogue: 0,1:29:33.27,1:29:36.85,Default,Ouchi Rinka,0,0,60,,Wall moves are still too high a bar for me. Hard, right?
+Dialogue: 0,1:29:36.93,1:29:38.47,Default,Host,0,0,60,,Let's work on it together. You got this.
+Dialogue: 0,1:29:39.47,1:29:42.17,Default,Host,0,0,60,,That's our chat — next, second-half group!
+Dialogue: 0,1:29:42.43,1:29:48.37,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,1:29:50.31,1:29:53.19,Default,Host,0,0,60,,Second half — we'll talk with this lineup.
+Dialogue: 0,1:29:54.65,1:29:56.75,Default,Host,0,0,60,,Anyone with a story? Yes.
+Dialogue: 0,1:29:58.09,1:29:59.15,Default,Member,0,0,60,,May I?
+Dialogue: 0,1:29:59.23,1:30:01.71,Default,Member,0,0,60,,It's about Kure-chan…
+Dialogue: 0,1:30:01.79,1:30:06.21,Default,Member,0,0,60,,Today's my first Saka Agari with Kure-chan.
+Dialogue: 0,1:30:06.29,1:30:07.51,Default,Host,0,0,60,,Oh, really.
+Dialogue: 0,1:30:07.59,1:30:13.59,Default,Member,0,0,60,,Right before curtain, Kure-chan was wandering alone, so…
+Dialogue: 0,1:30:14.27,1:30:18.13,Default,Member,0,0,60,,I asked if she was nervous — "second show, nervous?"
+Dialogue: 0,1:30:18.21,1:30:20.61,Default,Member,0,0,60,,She said she was really nervous, and…
+Dialogue: 0,1:30:20.69,1:30:25.49,Default,Member,0,0,60,,I asked when her first Saka Agari was — "when was day one?" — and…
+Dialogue: 0,1:30:25.57,1:30:29.49,Default,Member,0,0,60,,Kure-chan said "yesterday's yesterday."
+Dialogue: 0,1:30:30.69,1:30:33.91,Default,Member,0,0,60,,We went "yesterday's yesterday = day before yesterday."
+Dialogue: 0,1:30:34.67,1:30:37.45,Default,Host,0,0,60,,Easy mix-up — cute.
+Dialogue: 0,1:30:37.53,1:30:39.47,Default,Member,0,0,60,,The word wouldn't come — it arrived late.
+Dialogue: 0,1:30:39.55,1:30:43.31,Default,Member,0,0,60,,While talking she kept fidgeting like this…
+Dialogue: 0,1:30:43.83,1:30:49.61,Default,Member,0,0,60,,Before curtain we spray our bangs rock-hard, and…
+Dialogue: 0,1:30:49.93,1:30:55.93,Default,Member,0,0,60,,Kure-chan went "shuu—" then "waaah—" — I asked what happened —
+Dialogue: 0,1:30:56.43,1:31:02.43,Default,Member,0,0,60,,she'd used the sticky spray, not the hold spray, by mistake,
+Dialogue: 0,1:31:02.99,1:31:05.07,Default,Member,0,0,60,,so her bangs were all sticky.
+Dialogue: 0,1:31:06.65,1:31:10.59,Default,Host,0,0,60,,She mixed them up — all flustered — "I messed up."
+Dialogue: 0,1:31:12.37,1:31:15.61,Default,Host,0,0,60,,Cute — your bangs look pretty. Thank you.
+Dialogue: 0,1:31:17.51,1:31:21.55,Default,Host,0,0,60,,Wanna protect her, right? Raise her carefully.
+Dialogue: 0,1:31:21.63,1:31:23.87,Default,Member,0,0,60,,I want to be protected too…
+Dialogue: 0,1:31:24.99,1:31:27.67,Default,Host,0,0,60,,What do you say, Akiyoshi-san? "That puts me on the spot."
+Dialogue: 0,1:31:29.51,1:31:32.79,Default,Host,0,0,60,,But Akiyoshi-san — if you say that, Monster Maria here…
+Dialogue: 0,1:31:34.87,1:31:36.83,Default,Host,0,0,60,,You okay? About your relation with her…
+Dialogue: 0,1:31:37.27,1:31:39.06,Default,Akiyoshi Yuka,0,0,60,,She's been really fond of me…
+Dialogue: 0,1:31:39.14,1:31:40.79,Default,Yamakawa Maria,0,0,60,,I've liked her forever, but…
+Dialogue: 0,1:31:41.91,1:31:44.29,Default,Kuriyama Rina,0,0,60,,Why not me?!
+Dialogue: 0,1:31:45.15,1:31:46.55,Default,Host,0,0,60,,She's so shocked.
+Dialogue: 0,1:31:48.23,1:31:53.49,Default,Member,0,0,60,,Today's my first time sharing staging with Mari-tan.
+Dialogue: 0,1:31:53.57,1:31:59.55,Default,Member,0,0,60,,Before curtain she came up like this and handed me gummies.
+Dialogue: 0,1:32:00.41,1:32:04.63,Default,Member,0,0,60,,"Kurina-san, you like gummies?" — little pack — but…
+Dialogue: 0,1:32:05.15,1:32:10.31,Default,Member,0,0,60,,she'd been clutching them late, so they were all squished,
+Dialogue: 0,1:32:10.39,1:32:14.35,Default,Member,0,0,60,,and the pack was a bit warm — for gummies!
+Dialogue: 0,1:32:14.43,1:32:20.43,Default,Member,0,0,60,,Then 7th gens crowded in — I checked "poison in these?"
+Dialogue: 0,1:32:21.59,1:32:23.53,Default,Host,0,0,60,,Fair worry, honestly.
+Dialogue: 0,1:32:23.61,1:32:27.73,Default,Member,0,0,60,,They said maybe nails inside — that's scary!
+Dialogue: 0,1:32:27.81,1:32:33.47,Default,Host,0,0,60,,YOU'RE the scary one — the joke angle's wild.
+Dialogue: 0,1:32:33.55,1:32:39.55,Default,Member,0,0,60,,They were the powdered kind, so I thought "Mari-tan's nails?!"
+Dialogue: 0,1:32:41.43,1:32:45.49,Default,Member,0,0,60,,I was too scared to eat — still haven't.
+Dialogue: 0,1:32:46.13,1:32:51.93,Default,Member,0,0,60,,If I ate before curtain, got sick, and couldn't go on — no way.
+Dialogue: 0,1:32:52.01,1:32:53.63,Default,Host,0,0,60,,So you'll eat them after?
+Dialogue: 0,1:32:53.71,1:32:57.31,Default,Member,0,0,60,,Yeah — and can you unwrap this? She's linked arms without noticing.
+Dialogue: 0,1:32:57.39,1:33:02.89,Default,Host,0,0,60,,I want to get closer but the gap won't close — her approach is unique, right?
+Dialogue: 0,1:33:03.55,1:33:09.55,Default,Member,0,0,60,,Before curtain backstage Mari-tan nuzzled up — we barely talked —
+Dialogue: 0,1:33:12.49,1:33:15.01,Default,Host,0,0,60,,Wanna talk? Alright — let's talk!
+Dialogue: 0,1:33:15.97,1:33:21.21,Default,Host,0,0,60,,Why do YOU set the distance then? True — but funny.
+Dialogue: 0,1:33:21.29,1:33:33.47,Default,Member,0,0,60,,I saw it in a Nagoya or Tokyo high-touch green room — Yuka-tan's same-gen Mai-san (Fuchigami Mai) is on rest, so she's alone,
+Dialogue: 0,1:33:33.55,1:33:38.03,Default,Member,0,0,60,,sitting alone, and Mari-tan sat beside her without a word the whole time.
+Dialogue: 0,1:33:38.11,1:33:43.05,Default,Akiyoshi Yuka,0,0,60,,I was happy she came beside me — nearly an hour, no talking.
+Dialogue: 0,1:33:43.13,1:33:46.03,Default,Host,0,0,60,,Really? Almost an hour? Even longer beside her…
+Dialogue: 0,1:33:47.25,1:33:56.65,Default,Yamakawa Maria,0,0,60,,I didn't know what to say, so I asked Rino-san for topics, got prompts, then talked to Yuka-san.
+Dialogue: 0,1:33:56.73,1:33:59.17,Default,Host,0,0,60,,What did Rino tell you then?
+Dialogue: 0,1:33:59.83,1:34:05.81,Default,Yamakawa Maria,0,0,60,,Uh… what was it? Dunno — I don't even remember talking.
+Dialogue: 0,1:34:05.89,1:34:11.89,Default,Member,0,0,60,,Do something about this, senpai!
+Dialogue: 0,1:34:13.15,1:34:17.29,Default,Host,0,0,60,,Alright — let's get closer. She's something…
+Dialogue: 0,1:34:18.85,1:34:22.03,Default,Host,0,0,60,,What a clingy kid. Right?
+Dialogue: 0,1:34:23.89,1:34:28.25,Default,Kuriyama Rina,0,0,60,,Yikes — that voice — who is this — nooo.
+Dialogue: 0,1:34:28.33,1:34:33.71,Default,Host,0,0,60,,Kinda good vibes — getting along — you two might click hard.
+Dialogue: 0,1:34:33.79,1:34:38.91,Default,Kuriyama Rina,0,0,60,,Ehh — I rarely say this to members but I REALLY don't wanna.
+Dialogue: 0,1:34:38.99,1:34:44.99,Default,Host,0,0,60,,Wild — rare for you — Rina-san's usually the clingy one.
+Dialogue: 0,1:34:45.35,1:34:50.21,Default,Kuriyama Rina,0,0,60,,I like being clingy — receiving it, not so much.
+Dialogue: 0,1:34:50.29,1:34:52.95,Default,Host,0,0,60,,Makes sense. Right?
+Dialogue: 0,1:34:53.03,1:34:56.88,Default,Eguchi Kokoha,0,0,60,,Yesterday I was walking — this is a Rina story —
+Dialogue: 0,1:34:57.00,1:35:00.40,Default,Eguchi Kokoha,0,0,60,,What shocked me — mid-walk —
+Dialogue: 0,1:35:00.98,1:35:05.90,Default,Eguchi Kokoha,0,0,60,,Rina and Iori behind us were going "so perky~"
+Dialogue: 0,1:35:05.98,1:35:08.80,Default,Eguchi Kokoha,0,0,60,,I wondered what they meant — they meant my butt!
+Dialogue: 0,1:35:10.54,1:35:17.37,Default,Eguchi Kokoha,0,0,60,,So perky — walking with Iori going "nice, right~"
+Dialogue: 0,1:35:17.45,1:35:23.21,Default,Host,0,0,60,,Scary — your focus is weird — don't we look like a wild group now?
+Dialogue: 0,1:35:23.29,1:35:29.29,Default,Host,0,0,60,,Well, it's everyday for us — and THAT being everyday is scary.
+Dialogue: 0,1:35:29.47,1:35:31.69,Default,Host,0,0,60,,You okay? Let's get along.
+Dialogue: 0,1:35:33.47,1:35:36.53,Default,Host,0,0,60,,She's running — what — why — running!
+Dialogue: 0,1:35:37.79,1:35:43.47,Default,Host,0,0,60,,Nothing but wild ones here — wild ones, let's keep getting along!
+Dialogue: 0,1:35:44.57,1:35:46.93,Default,Host,0,0,60,,Alright — next is the last song.
+Dialogue: 0,1:35:47.01,1:35:53.01,Default,Host,0,0,60,,Please look forward to it.
+Dialogue: 0,1:35:54.62,1:35:56.52,Default,Host,0,0,60,,Please listen — Fan Letter.
+; ===== mc3 =====
+Dialogue: 0,1:53:47.06,1:53:48.36,Default,Crowd,0,0,60,,Thank you!
+Dialogue: 0,1:53:48.44,1:53:49.60,Default,Members,0,0,60,,Thank you so much!
+Dialogue: 0,1:53:54.74,1:53:55.74,Default,Members,0,0,60,,Thank you!
+Dialogue: 0,1:53:56.12,1:53:59.46,Default,Host,0,0,60,,You've just heard Fugiri and Hanpa na Ikemen back to back.
+Dialogue: 0,1:53:59.60,1:54:02.10,Default,Host,0,0,60,,This show is winding down, but…
+Dialogue: 0,1:54:02.20,1:54:03.74,Default,Host,0,0,60,,So, Kure-chan — how was it?
+Dialogue: 0,1:54:05.90,1:54:10.04,Default,Kure Yuna,0,0,60,,Yes — today was my second Saka Agari show, and…
+Dialogue: 0,1:54:10.82,1:54:16.82,Default,Kure Yuna,0,0,60,,I was much less nervous than the first time, and…
+Dialogue: 0,1:54:17.84,1:54:19.50,Default,Kure Yuna,0,0,60,,I really enjoyed dancing, and…
+Dialogue: 0,1:54:20.42,1:54:22.24,Default,Kure Yuna,0,0,60,,During Machikado no Party too,
+Dialogue: 0,1:54:22.32,1:54:25.24,Default,Kure Yuna,0,0,60,,Kurina-san and the others were going "Kure-kure-kure!" for me, and…
+Dialogue: 0,1:54:25.38,1:54:26.94,Default,Kure Yuna,0,0,60,,that made me so happy.
+Dialogue: 0,1:54:27.78,1:54:28.60,Default,Kure Yuna,0,0,60,,Thank you for today.
+Dialogue: 0,1:54:35.23,1:54:37.03,Default,Host,0,0,60,,She's a living natural treasure, honestly.
+Dialogue: 0,1:54:37.57,1:54:38.51,Default,Host,0,0,60,,Truly adorable.
+Dialogue: 0,1:54:38.79,1:54:43.15,Default,Host,0,0,60,,Let's all cherish her and watch over her kindly.
+Dialogue: 0,1:54:43.77,1:54:45.23,Default,Host,0,0,60,,So, Iori-chan — how was it?
+Dialogue: 0,1:54:47.09,1:54:50.07,Default,Tanaka Iori,0,0,60,,Today was my second Saka Agari show too, and…
+Dialogue: 0,1:54:50.23,1:54:51.59,Default,Tanaka Iori,0,0,60,,Well… I'm not sure.
+Dialogue: 0,1:54:52.49,1:54:53.69,Default,Tanaka Iori,0,0,60,,Today the seniors were…
+Dialogue: 0,1:54:53.77,1:54:56.07,Default,Tanaka Iori,0,0,60,,just Akiyoshi-san and same-gen Kurina, and…
+Dialogue: 0,1:54:56.15,1:54:59.03,Default,Tanaka Iori,0,0,60,,there were tons of juniors — my heart was racing, but…
+Dialogue: 0,1:54:59.13,1:55:00.79,Default,Tanaka Iori,0,0,60,,it was a different vibe than usual, and…
+Dialogue: 0,1:55:01.03,1:55:03.15,Default,Tanaka Iori,0,0,60,,even right after Golden Week, you all came, and…
+Dialogue: 0,1:55:03.23,1:55:04.17,Default,Tanaka Iori,0,0,60,,really, truly…
+Dialogue: 0,1:55:04.53,1:55:05.27,Default,Host,0,0,60,,After Golden Week?
+Dialogue: 0,1:55:05.83,1:55:06.19,Default,Tanaka Iori,0,0,60,,Golden Week.
+Dialogue: 0,1:55:06.31,1:55:06.93,Default,Host,0,0,60,,What did you say?
+Dialogue: 0,1:55:07.03,1:55:07.97,Default,Tanaka Iori,0,0,60,,Right after Golden Week.
+Dialogue: 0,1:55:09.45,1:55:11.09,Default,Tanaka Iori,0,0,60,,Right — it is right after Golden Week, but…
+Dialogue: 0,1:55:11.17,1:55:12.85,Default,Tanaka Iori,0,0,60,,you all gathered here like this, and…
+Dialogue: 0,1:55:12.93,1:55:13.99,Default,Tanaka Iori,0,0,60,,got so hyped for us, and…
+Dialogue: 0,1:55:14.07,1:55:15.61,Default,Tanaka Iori,0,0,60,,that made me so happy, so…
+Dialogue: 0,1:55:15.69,1:55:17.55,Default,Tanaka Iori,0,0,60,,please come again to Saka Agari shows…
+Dialogue: 0,1:55:17.63,1:55:18.97,Default,Tanaka Iori,0,0,60,,I'd be so happy if you come.
+Dialogue: 0,1:55:19.31,1:55:19.65,Default,Tanaka Iori,0,0,60,,Thank you so much.
+Dialogue: 0,1:55:24.37,1:55:24.61,Default,Crowd,0,0,60,,Thank you!
+Dialogue: 0,1:55:26.71,1:55:28.27,Default,Host,0,0,60,,Next is the last song, so…
+Dialogue: 0,1:55:28.35,1:55:30.21,Default,Host,0,0,60,,everyone, raise your voices!
+Dialogue: 0,1:55:30.29,1:55:30.85,Default,Host,0,0,60,,Can we ask you to?
+Dialogue: 0,1:55:31.03,1:55:32.79,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,1:55:33.92,1:55:34.36,Default,Host,0,0,60,,Thank you!
+Dialogue: 0,1:55:35.10,1:55:36.18,Default,Host,0,0,60,,We'll sing with all our hearts.
+Dialogue: 0,1:55:36.40,1:55:36.94,Default,Host,0,0,60,,Please listen.
+Dialogue: 0,1:55:37.58,1:55:38.56,Default,Host,0,0,60,,To be continued.
+; ===== outro =====
+Dialogue: 0,2:04:20.56,2:04:22.84,Default,Host,0,0,60,,Se-no — the show is over!
+Dialogue: 0,2:04:22.92,2:04:23.60,Default,Crowd,0,0,60,,It's over!
+Dialogue: 0,2:04:27.02,2:04:27.98,Default,Host,0,0,60,,How was it?
+Dialogue: 0,2:04:29.10,2:04:32.84,Default,Member,0,0,60,,This was my fourth time performing, and…
+Dialogue: 0,2:04:32.92,2:04:36.46,Default,Member,0,0,60,,it was my first time sharing the stage with the seniors — and with Kurina-san.
+Dialogue: 0,2:04:36.58,2:04:41.82,Default,Member,0,0,60,,There were lots of seniors I barely talk with, and…
+Dialogue: 0,2:04:41.90,2:04:45.78,Default,Member,0,0,60,,I even got to lock eyes with same-gen members — it was really fun.
+Dialogue: 0,2:04:46.20,2:04:48.16,Default,Host,0,0,60,,You closed the gap with Kuriyama-chan, right?
+Dialogue: 0,2:04:48.40,2:04:48.72,Default,Member,0,0,60,,Yes.
+Dialogue: 0,2:04:49.02,2:04:51.70,Default,Host,0,0,60,,A lot?
+Dialogue: 0,2:04:53.70,2:04:54.02,Default,Member,0,0,60,,Thank you.
+Dialogue: 0,2:04:54.50,2:04:55.54,Default,Member,0,0,60,,I want us to get along.
+Dialogue: 0,2:04:59.62,2:04:59.94,Default,Member,0,0,60,,That's how I feel.
+Dialogue: 0,2:05:01.76,2:05:02.40,Default,Host,0,0,60,,You okay?
+Dialogue: 0,2:05:03.50,2:05:06.14,Default,Host,0,0,60,,How about you, Kuriyama-chan?
+Dialogue: 0,2:05:06.24,2:05:09.36,Default,Kuriyama Rina,0,0,60,,It was one of my later Saka Agari shows too, but…
+Dialogue: 0,2:05:11.06,2:05:13.38,Default,Kuriyama Rina,0,0,60,,Some wild one noticed me, and…
+Dialogue: 0,2:05:13.76,2:05:15.28,Default,Kuriyama Rina,0,0,60,,…kinda clocked me, I think.
+Dialogue: 0,2:05:15.90,2:05:17.84,Default,Kuriyama Rina,0,0,60,,I'm a little worried from the next show on, though.
+Dialogue: 0,2:05:18.98,2:05:23.70,Default,Host,0,0,60,,I'm jealous. I'm shy, so I still haven't closed that gap.
+Dialogue: 0,2:05:24.20,2:05:25.34,Default,Member,0,0,60,,They're saying you haven't closed it.
+Dialogue: 0,2:05:25.84,2:05:26.56,Default,Host,0,0,60,,Haven't closed it.
+Dialogue: 0,2:05:26.70,2:05:28.72,Default,Member,0,0,60,,You've been chatting a ton.
+Dialogue: 0,2:05:29.42,2:05:32.88,Default,Yamakawa Maria,0,0,60,,I'll talk with Yuka-chan too. Later.
+Dialogue: 0,2:05:33.02,2:05:33.38,Default,Kuriyama Rina,0,0,60,,Okay.
+Dialogue: 0,2:05:34.30,2:05:35.66,Default,Host,0,0,60,,Sounds like they will — after this.
+Dialogue: 0,2:05:36.34,2:05:37.44,Default,Host,0,0,60,,That was fun, huh?
+Dialogue: 0,2:05:37.52,2:05:38.36,Default,Member,0,0,60,,It was fun.
+Dialogue: 0,2:05:39.26,2:05:41.84,Default,Host,0,0,60,,Please look forward to the next show too!
+Dialogue: 0,2:05:43.76,2:05:44.46,Default,Host,0,0,60,,See you~

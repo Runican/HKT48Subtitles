@@ -29,6 +29,13 @@ hkt48/
 5. Confidence: `locked` | `provisional` | `rejected`.
 6. Cite at least one source URL in `sources/` when locking a disputed name (prefer non-ASR evidence).
 
+## Recent locks (2026-09-30 Saka Agari 250508)
+- Cast: **Amiyun** (Ishikawa Amiyu) — never Ayumi; **both Kokoha** on cast (Fujino ここは/Fujikoko vs Eguchi ここちゃん/Egu-chan).
+- **Kure-chan** ≠ Kurumi (くるちゃん↔くれちゃん ASR trap); photo pose ask → Kure when she answers.
+- **Fuchigami Mai** on rest (same-gen with Yuka-tan) — confirmed referent; formal rest news post-dates show.
+- Catchcopies: Hina **beef/pork tongue — Hina-tan**; Yuka **gentle flower in Hakata** (not みかん-lead); Eguchi **look-for / Right here!** (not Fujino ここはどこ); Yui-pan **mentaiko French** locked; Mari-tan marshmallow **provisional**.
+- Provisional: mc1 **Kanshasai live** (not invented Ai-ya title). Chant JA stays **小悪魔** (EN little devil).
+
 ## Recent locks (2026-09-30 Mokugekisha)
 - EN defaults: **Aichi**; **rehearsal** (リハ — not riha/reh); **new position** (シンポジ — not shin posi / symposium); Sae-san ≠ Sayashi. No everyday JA (村民).
 - Gen shorthand **ロッキー／ななき** → ASS EN **6th gen(s)** / **7th gen(s)** — never Rokky/Nanaki romaji in ASS.

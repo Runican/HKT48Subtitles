@@ -1,6 +1,6 @@
 {
   "domain": "HKT48",
-  "notes": "Stable English forms for member names/nicks. Prefer nick when spoken as nick; full name when clearly spoken as such. Do not invent dialogue. Full-clip pass 2026-09-22 large-v3; locked Saaya/Ii-ko/Saka Agari/Rino forms applied.\nLocked: Minami mic gag = crowd answers south/south-facing/southwest (not Minami-no-ki mash).\nLocked: Keep「沙耶ちゃんの話」/It's Saa-chan's story as its own cue before mic-cover sentence.\nLocked: Mei-mei 「正岡子規」 setup + Ayane 「肩おかしき」 pun (not ASR mush). Keep poet name vs romaji kata okashiki distinct.\nClip4 2026-09-24T10:27:16+02:00: added provisional songs ['song-fugiri', 'song-hanpa-na-ikemen', 'song-to-be-continued'].\nLocked 2026-09-27 Himawarigumi LOD distill: Yuina (Ishimatsu ゆいな) ≠ Yuuna (Yamauchi ゆうな) — never collapse to Yuna; Fujikoko when ふじここ spoken (not bare Kokoha); Sae≠Saaya ASR trap; Saaya live 3rd = Saka Agari show (公演); Kokoha catch = Kokoha! not Koko-heart; overlap mash → split by ear; quiet ghosts delete.\nApplied q-20260927-001 Ramune intro catches (2026-09-27): lock Riria-turn/Mei-std/Moka/Nachi/Sara/Eura/Yuna fuller; PROV Maria chant, Rara %, Ryuto bday cheeks, Mei bday beat2, Yui bread.\nRamune 2025-05-10 distill: Reia≠Reiya lock confirmed; see sources/asr-traps-ramune-20250510.md (ららぱ↔ラッパー, 七木星↔七期, エイラ Host-narrative, エイティーン=Eighteen).\nBlind-rerun 2026-09-29: Eura EN default **Yuka** (not Yuuka) in ASS; JA ゆうか unchanged.\nApplied q-20260929-001 Mokugekisha intro catches (2026-09-29): LOCK Karen天使な小悪魔 (reject 泣く), Aki阿修羅/菩薩 (reject 秋のアワー/心は真夏), Rino眠りの国 (reject 森), Miyuほんわか永遠の一日, Ayane cheeks full, Yuina困り顔 core, Saaya live 3rd 目撃者公演よろしくね; sanity Reia/Ibuki/Hiiro-hero/Airi-safety/Rinka-rinrin. NOT birthday show (Ramune Eura 17:00 same day).\nLocked 2026-09-30 Mokugekisha mc2: Aichi (あいちー) ≠ bare Airi on address/Name (parallel Fujikoko); shin posi≠symposium; riha≠reh; restore collapsed Mm. from JA.\nLocked 2026-09-30 Mokugekisha mc2: Sayashi/鞘師 ASR ← さえさん → EN Sae-san (Kurihara Sae); Sae≠Saaya.",
+  "notes": "Stable English forms for member names/nicks. Prefer nick when spoken as nick; full name when clearly spoken as such. Do not invent dialogue. Full-clip pass 2026-09-22 large-v3; locked Saaya/Ii-ko/Saka Agari/Rino forms applied.\nLocked: Minami mic gag = crowd answers south/south-facing/southwest (not Minami-no-ki mash).\nLocked: Keep「沙耶ちゃんの話」/It's Saa-chan's story as its own cue before mic-cover sentence.\nLocked: Mei-mei 「正岡子規」 setup + Ayane 「肩おかしき」 pun (not ASR mush). Keep poet name vs romaji kata okashiki distinct.\nClip4 2026-09-24T10:27:16+02:00: added provisional songs ['song-fugiri', 'song-hanpa-na-ikemen', 'song-to-be-continued'].\nLocked 2026-09-27 Himawarigumi LOD distill: Yuina (Ishimatsu ゆいな) ≠ Yuuna (Yamauchi ゆうな) — never collapse to Yuna; Fujikoko when ふじここ spoken (not bare Kokoha); Sae≠Saaya ASR trap; Saaya live 3rd = Saka Agari show (公演); Kokoha catch = Kokoha! not Koko-heart; overlap mash → split by ear; quiet ghosts delete.\nApplied q-20260927-001 Ramune intro catches (2026-09-27): lock Riria-turn/Mei-std/Moka/Nachi/Sara/Eura/Yuna fuller; PROV Maria chant, Rara %, Ryuto bday cheeks, Mei bday beat2, Yui bread.\nRamune 2025-05-10 distill: Reia≠Reiya lock confirmed; see sources/asr-traps-ramune-20250510.md (ららぱ↔ラッパー, 七木星↔七期, エイラ Host-narrative, エイティーン=Eighteen).\nBlind-rerun 2026-09-29: Eura EN default **Yuka** (not Yuuka) in ASS; JA ゆうか unchanged.\nApplied q-20260929-001 Mokugekisha intro catches (2026-09-29): LOCK Karen天使な小悪魔 (reject 泣く), Aki阿修羅/菩薩 (reject 秋のアワー/心は真夏), Rino眠りの国 (reject 森), Miyuほんわか永遠の一日, Ayane cheeks full, Yuina困り顔 core, Saaya live 3rd 目撃者公演よろしくね; sanity Reia/Ibuki/Hiiro-hero/Airi-safety/Rinka-rinrin. NOT birthday show (Ramune Eura 17:00 same day).\nLocked 2026-09-30 Mokugekisha mc2: Aichi (あいちー) ≠ bare Airi on address/Name (parallel Fujikoko); shin posi≠symposium; riha≠reh; restore collapsed Mm. from JA.\nLocked 2026-09-30 Mokugekisha mc2: Sayashi/鞘師 ASR ← さえさん → EN Sae-san (Kurihara Sae); Sae≠Saaya.\n250508 Saka Agari locks: Amiyun cast typo Ayumi; Mai rest=Fuchigami; kuru-chan≠Kurumi (Kure); Kanshasai live provisional; keep 小悪魔 chant.",
   "entries": [
     {
       "id": "hkt48",
@@ -159,7 +159,7 @@
       "confidence": "locked",
       "locked": true,
       "updated": "2026-09-30T00:12:58+02:00",
-      "updated_by": "mc2-review-fix"
+      "updated_by": "subtitler"
     },
     {
       "id": "kitagawa-hiiro",
@@ -299,18 +299,22 @@
         "渕上",
         "まい",
         "まいちゃん",
-        "マイ"
+        "マイ",
+        "まいさん"
       ],
-      "en": "Mai-chan",
+      "en": "Mai-san / Mai-chan",
       "en_full": "Fuchigami Mai",
       "type": "member",
       "team": null,
-      "reject": [],
-      "note": "",
-      "confidence": "provisional",
+      "reject": [
+        "other Mai without same-gen+Yuka context",
+        "inventing rest date from ASR alone"
+      ],
+      "note": "2nd gen; official nick まいちゃん (profile/42). Same gen as Akiyoshi Yuka (ゆかちゃん/ゆかたん). 250508 mc2: 「ゆかたん…同期…まいさんが…休養中」→ this Mai. Official full activity rest announced 2025-05-21 (hkt48.jp/news/2025/05/10570) after show night; MC already said she was resting (予てより体調不良). ASS lock: Mai-san (Fuchigami Mai) on rest. Confidence confirmed for this referent; formal rest timeline stays cited.",
+      "confidence": "confirmed",
       "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler"
+      "updated": "2026-09-30T18:51:00+02:00",
+      "updated_by": "verifier"
     },
     {
       "id": "yanase-reia",
@@ -371,18 +375,19 @@
         "秋吉",
         "ゆか",
         "ゆかちゃん",
-        "ユカ"
+        "ユカ",
+        "ゆかたん"
       ],
-      "en": "Yuka-chan",
+      "en": "Yuka-tan / Yuka-chan",
       "en_full": "Akiyoshi Yuka",
       "type": "member",
       "team": null,
       "reject": [],
-      "note": "",
-      "confidence": "provisional",
+      "note": "2nd gen (2012-09); official nick ゆかちゃん (profile/23). Spoken ゆかたん common. Theater catch this era: yukatan-yasashii-hana-catch LOCKED (博多に咲く優しい花 — not みかん-lead). Same-gen rest talk with まいさん → Fuchigami Mai.",
+      "confidence": "confirmed",
       "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler"
+      "updated": "2026-09-30T20:35:00+02:00",
+      "updated_by": "verifier"
     },
     {
       "id": "izawa-miyu",
@@ -466,10 +471,10 @@
         "Kokoha",
         "藤野心葉"
       ],
-      "note": "Official nick ここちゃん (Team KIV, 6th) — not ここは. Lookalike trap when ASR/MC says ここは; that maps to Fujino Kokoha.",
+      "note": "Official nick ここちゃん (Team KIV, 6th) — not ここは. Lookalike trap when ASR/MC says ここは; that maps to Fujino Kokoha. Intro catch: eguchi-lookfor-catch LOCKED (look-for / ここだよー). REJECT Fujino kokoha-catchcopy.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-23T22:43:37+02:00",
+      "updated": "2026-09-30T20:35:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -537,18 +542,24 @@
         "竹本",
         "くるみ",
         "くるたん",
-        "クルタン"
+        "クルタン",
+        "くるちゃん"
       ],
       "en": "Kuru-tan",
       "en_full": "Takemoto Kurumi",
       "type": "member",
       "team": null,
-      "reject": [],
-      "note": "",
-      "confidence": "provisional",
+      "reject": [
+        "くれちゃん",
+        "クレちゃん",
+        "呉優菜",
+        "Kure Yuna when くるちゃん is ASR near Kure on cast"
+      ],
+      "note": "Official nick くるたん (profile/87), 5th. くるちゃん may be casual for Kurumi, but ASR くるちゃん↔くれちゃん trap is severe. 250508 Himawarigumi cast has Kure Yuna not Kurumi — photo「くるちゃん」pose ask → Kure, not this member.",
+      "confidence": "confirmed",
       "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler"
+      "updated": "2026-09-30T18:55:00+02:00",
+      "updated_by": "verifier"
     },
     {
       "id": "tachibana-kokoro",
@@ -671,10 +682,10 @@
         "青木ひなた",
         "Aoki Hinata"
       ],
-      "note": "Team KIV (6th gen). ASR often emits 青木ひなた; do not map to kenkyuusei Aoki Hinako (青木日菜子).",
+      "note": "Team KIV (6th gen). Official nick ひなたん (profile/116). ASR often emits 青木ひなた; do not map to kenkyuusei Aoki Hinako (青木日菜子). Formal catch: see hina-tan-tongue-catch (牛タン／豚タン／ひなたん) LOCKED.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-23T20:02:35+02:00",
+      "updated": "2026-09-30T20:35:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -714,12 +725,14 @@
       "team": "kenkyuusei",
       "reject": [
         "石川彩友",
-        "小さい悪魔"
+        "小さい悪魔",
+        "Ishikawa Ayumi",
+        "Ayumi as this member"
       ],
-      "note": "Official 石川歩実優 / AMIYU ISHIKAWA / あみゆん (7th; kenkyuusei at 2025-05-11 show; later Team H). Reject 石川彩友. Shiritori intro: 小悪魔→真心→ロングヘア→あみゆん; 福岡のラッキーガールは→あみゆん. ASR 小さい悪魔 = lengthened 小悪魔.",
+      "note": "Official 石川歩実優 / AMIYU ISHIKAWA / あみゆん (7th; kenkyuusei at 2025-05-11 show; later Team H). Reject 石川彩友. Shiritori intro: 小悪魔→真心→ロングヘア→あみゆん; 福岡のラッキーガールは→あみゆん. ASR 小さい悪魔 = lengthened 小悪魔. Show JSON/LOD sometimes lists Ishikawa Ayumi — typo; official cast 2025-05-08 Himawarigumi 逆上がり = 石川歩実優 (Amiyun). ASS lock: Amiyun (or Ishikawa Amiyu where full name fits). Reject 石川彩友 / Ayumi.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-25T17:42:45+02:00",
+      "updated": "2026-09-30T18:55:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -774,20 +787,27 @@
       "ja": [
         "呉優菜",
         "ゆうちゃん",
-        "ゆーちゃん"
+        "ゆーちゃん",
+        "くれちゃん",
+        "クレちゃん",
+        "呉ちゃん"
       ],
       "en": "Yuu-chan",
       "en_full": "Kure Yuna",
       "type": "member",
       "team": "kenkyuusei",
       "reject": [
-        "ゆーちゃん as official-nick spelling (prefer ゆうちゃん)"
+        "ゆーちゃん as official-nick spelling (prefer ゆうちゃん)",
+        "くるちゃん as this member without audio check",
+        "竹本くるみ",
+        "くるたん",
+        "Takemoto Kurumi"
       ],
-      "note": "Official nick ゆうちゃん (profile/124). 出身福岡県. Hobby 100円均一. Catch locked (polyhedra birth fest): 100円均一大好きなゆうちゃん／くれくれクレクレ→呉優菜／愛をあげるけん！推し募集中.",
+      "note": "Official nick ゆうちゃん (profile/124). 出身福岡県. Hobby 100円均一. Catch locked (polyhedra birth fest): 100円均一大好きなゆうちゃん／くれくれクレクレ→呉優菜／愛をあげるけん！推し募集中. Spoken surname nick くれちゃん/クレちゃん also used (mc ASR). Official nick remains ゆうちゃん. 250508 photo ASR「2回目のくるちゃん」+ Kure answers pose → map to Kure (くれちゃん), REJECT Takemoto Kurumi (not on cast; official くるたん).",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-27T16:10:00+02:00",
-      "updated_by": "subtitler"
+      "updated": "2026-09-30T18:55:00+02:00",
+      "updated_by": "verifier"
     },
     {
       "id": "tsurukawa-nachi",
@@ -872,10 +892,10 @@
         "ゆうり",
         "Yuri"
       ],
-      "note": "Official romanization YUI MATSUNAGA; official nick ゆいぱん (profile/129). 出身福岡県. Given-name ゆい. Reject Yuuri. Bread chant (明太フランス／ゆいぱん) provisional — favorite food corroborated by Smart FLASH.",
+      "note": "Official romanization YUI MATSUNAGA; official nick ゆいぱん (profile/129). 出身福岡県. Given-name ゆい. Reject Yuuri. Bread catch yuipan-mentaiko-catch LOCKED (明太フランス／ゆいぱん).",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-27T16:05:24+02:00",
+      "updated": "2026-09-30T20:35:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -913,10 +933,10 @@
         "まりな",
         "Marina as name"
       ],
-      "note": "Official nick まりたん (profile/131). 出身福岡県 LOCKED. Marshmallow/macaron chant provisional (no independent transcript).",
+      "note": "Official nick まりたん (profile/131). 出身福岡県 LOCKED. Marshmallow/macaron chant remains provisional (maritan-marshmallow-catch) — no independent transcript.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-27T16:05:24+02:00",
+      "updated": "2026-09-30T20:35:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -1615,7 +1635,7 @@
       "confidence": "locked",
       "locked": true,
       "updated": "2026-09-24T10:39:56+02:00",
-      "updated_by": "user-confirm"
+      "updated_by": "human"
     },
     {
       "id": "song-hanpa-na-ikemen",
@@ -1632,7 +1652,7 @@
       "confidence": "locked",
       "locked": true,
       "updated": "2026-09-24T10:39:56+02:00",
-      "updated_by": "user-confirm"
+      "updated_by": "human"
     },
     {
       "id": "song-to-be-continued",
@@ -1728,7 +1748,7 @@
       "confidence": "locked",
       "locked": true,
       "updated": "2026-09-24T11:34:50+02:00",
-      "updated_by": "user-confirm"
+      "updated_by": "human"
     },
     {
       "id": "ihara-hanna-lookalike-ihara",
@@ -1785,10 +1805,10 @@
         "小さい悪魔",
         "石川彩友"
       ],
-      "note": "Canonical stack (birth-fest transcript): しりとり、行っくよー！小悪魔！（真心！）ロングヘア！せーの！（あみゆん！）福岡のラッキーガールは？（あみゆん！）. Host cue 真心とせーのとあみゆん = audience hits. Lock 小悪魔 not 小さい悪魔.",
+      "note": "Canonical stack (birth-fest transcript): しりとり、行っくよー！小悪魔！（真心！）ロングヘア！せーの！（あみゆん！）福岡のラッキーガールは？（あみゆん！）. Host cue 真心とせーのとあみゆん = audience hits. Lock 小悪魔 not 小さい悪魔. 250508 mc2 live dispute may speak 小さい悪魔 (lengthened); ASS chant JA stays 小悪魔 / EN little devil — do not promote 小さい悪魔 as form.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-25T17:42:07+02:00",
+      "updated": "2026-09-30T18:55:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -1873,12 +1893,15 @@
         "Koko heart",
         "ココハート",
         "ここはーと as heart",
-        "heart"
+        "heart",
+        "Eguchi look-for catch",
+        "探してくださーい as Fujino",
+        "ここだよー as Fujino catch"
       ],
-      "note": "Fujino Kokoha first-intro catch. Published (48times 2022/06; Tokyo Sports 2025/09): ここはどこー？私は誰ー？せーの、ここはー！ Live stack this LOD: host cues ココハと (quotative と = say 'Kokoha'); Kokoha ここはどこ？私は誰？せーの; crowd ここは！/ココハ. ASS: Where is this place? Who am I? Se-no — / Kokoha! REJECT Koko-heart — invented from elongated ここはーと; と is quotative, not 'heart'. Nick remains ここは/Kokoha.",
+      "note": "Fujino Kokoha first-intro catch. Published (48times 2022/06; Tokyo Sports 2025/09): ここはどこー？私は誰ー？せーの、ここはー！ Live stack this LOD: host cues ココハと (quotative と = say 'Kokoha'); Kokoha ここはどこ？私は誰？せーの; crowd ここは！/ココハ. ASS: Where is this place? Who am I? Se-no — / Kokoha! REJECT Koko-heart — invented from elongated ここはーと; と is quotative, not 'heart'. Nick remains ここは/Kokoha. Eguchi has separate eguchi-lookfor-catch — never conflate.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-26T00:18:41+02:00",
+      "updated": "2026-09-30T20:35:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -2102,10 +2125,10 @@
       "type": "catchphrase",
       "team": null,
       "reject": [],
-      "note": "Provisional — clip ASR/ASS only; no independent fan/official transcript yet. 出身福岡 is locked on member entry.",
+      "note": "PROVISIONAL — theater call あなたが好きなのはマシュマロ？マカロン？／まりたん！ appears on 250508 + Ramune clip ASR/ASS only. Smart FLASH debut catch is different (三線 / hometown). No independent fan/official full transcript of marshmallow/macaron stack found 2026-09-30. Do NOT promote to locked:true. Member nick まりたん / 出身福岡 LOCKED on yamakawa-maria.",
       "confidence": "provisional",
       "locked": false,
-      "updated": "2026-09-27T16:05:24+02:00",
+      "updated": "2026-09-30T20:35:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -2244,19 +2267,21 @@
         "明太フランス",
         "明太フランスパン",
         "ゆいのことが好きなパンは",
+        "み〜んなのことが好きなパンは",
         "ゆいぱん"
       ],
       "en": "mentaiko French bread / Yui-pan",
-      "en_full": "The bread Yui loves is mentaiko French / The bread that loves Yui is Yui-pan",
+      "en_full": "The bread Yui loves is mentaiko French bread / The bread that loves everyone (or loves Yui) is Yui-pan",
       "type": "catchphrase",
       "team": null,
       "reject": [
-        "Yuuri-pan"
+        "Yuuri-pan",
+        "エピパン as locked catch token"
       ],
-      "note": "Matsunaga Yui. Nick ゆいぱん already locked. Bread call-response provisional (no independent full transcript); Smart FLASH confirms favorite food 明太フランスパン.",
-      "confidence": "provisional",
-      "locked": false,
-      "updated": "2026-09-27T16:05:24+02:00",
+      "note": "Matsunaga Yui LOCKED catch. Host cue: 明太フランスパンとゆいぱん. Stack: ゆいが好きなパンは？→明太フランスパン！／み〜んなのことが好きなパンは？(or ゆいのことが…)→ゆいぱん！ Radio 聴かナイト 2026-09-13: member confirms キャッチフレーズに明太フランスパンが入ってる (chose over エピパン for Fukuoka/goro). Smart FLASH favorite food 明太フランスパン. Fan blog title uses み〜んなのことが好きなパンは？『ゆいぱん』. Nick ゆいぱん already locked. Beat-2 may vary みんな/ゆいのこと — either OK in ASS if audio clear.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-30T20:35:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -2552,14 +2577,153 @@
       "confidence": "locked",
       "locked": true,
       "updated": "2026-09-30T00:12:58+02:00",
-      "updated_by": "mc2-review-fix",
+      "updated_by": "subtitler",
       "avoid": [
         "riha",
         "Riha",
         "reh",
         "Reh"
       ]
+    },
+    {
+      "id": "kuru-chan-vs-kure-chan-trap",
+      "ja": [
+        "くるちゃん",
+        "くれちゃん",
+        "クレちゃん"
+      ],
+      "en": "Kuru-chan vs Kure-chan ASR trap",
+      "en_full": "Takemoto Kurumi (くるたん) vs Kure Yuna (くれちゃん/ゆうちゃん)",
+      "type": "lookalike-trap",
+      "team": null,
+      "reject": [
+        "auto-map くるちゃん→Kurumi when Kure on cast and answers"
+      ],
+      "note": "Whisper often くるちゃん for くれちゃん. Check cast: if Kure present and line is pose/MC to her, prefer Kure-chan (くれちゃん); official Kure nick ゆうちゃん. Kurumi official くるたん. Photo「くるちゃん」→Kure-chan at 250508 ~1451. See 250508 photo ~1451.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-30T18:55:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kanshasai-live-asr-250508",
+      "ja": [
+        "感謝祭ライブ",
+        "大感謝祭",
+        "13周年大感謝祭",
+        "愛や感謝祭"
+      ],
+      "en": "Kanshasai live (provisional)",
+      "en_full": "theater Kanshasai / likely 13th Anniversary Dai-Kanshasai",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "locking 愛や感謝祭 as official event title",
+        "invented Ai-ya Kanshasai"
+      ],
+      "note": "250508 mc1 ASR「愛や感謝祭ライブがここであった」+ 6th+7th shared楽屋. Best provisional candidate: HKT48劇場 13周年大感謝祭 (2024-11-24, theater; 7th then 6th blocks). Do not lock ASR「愛や感謝祭」as formal name. ASS: Kanshasai live / gratitude-festival live, or provisional 大感謝祭 if human confirms.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-09-30T18:55:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "show-cast-250508-saka-agari",
+      "ja": [
+        "2025-05-08",
+        "250508",
+        "ひまわり組逆上がり"
+      ],
+      "en": "250508 Himawarigumi Saka Agari night cast",
+      "en_full": "Official cast 2025-05-08 18:30 Himawarigumi 逆上がり",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "Ishikawa Ayumi",
+        "石川彩友"
+      ],
+      "note": "Official (hkt48.jp/news/2025/04/10514; schedule 19572): 秋吉優花・石松結菜・江口心々華・大内梨果・北川陽彩・栗山梨奈・田中伊桜莉・福井可憐・藤野心葉・森﨑冴彩・安井妃奈・石川歩実優・片平紗麗・呉優菜・松永悠良・山川万里愛. BOTH Kokoha on cast (Eguchi ここちゃん/えぐちゃん vs Fujino ここは/ふじここ). Amiyun not Ayumi. Kure on cast; Takemoto Kurumi NOT.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-30T18:55:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "hina-tan-tongue-catch",
+      "ja": [
+        "牛タン",
+        "豚タン",
+        "ひなたん",
+        "牛タン、豚タン、ひなたん",
+        "2月9日肉の日生まれ"
+      ],
+      "en": "beef tongue, pork tongue — Hina-tan!",
+      "en_full": "February 9, Meat Day — beef tongue, pork tongue / Hina-tan!",
+      "type": "catchphrase",
+      "team": "KIV",
+      "reject": [
+        "Aoki Hinako",
+        "青木ひなた",
+        "locking ASR-only without published form"
+      ],
+      "note": "Yasui Hina formal theater catch. Call: 牛タン、豚タン → crowd ひなたん！ Self (Tokyo Sports 2026-02): meat-day birthday; sync+mama designed; loves crowd return. Live transcripts: polyhedra 230226 / 250315 birth fests. Official nick ひなたん profile/116. This 250508 animal-theme night: JA Whisper may drop tongue beats before name — prefer published stack when audible; EN ASS: Beef tongue, pork tongue — Hina-tan!",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-30T20:35:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "yukatan-yasashii-hana-catch",
+      "ja": [
+        "博多に咲く優しい花",
+        "博多に咲く優しい花になりたい",
+        "お芝居とギターが大好きな",
+        "ゆかちゃんこと秋吉優花"
+      ],
+      "en": "I want to be a gentle flower blooming in Hakata",
+      "en_full": "I want to be a gentle flower blooming in Hakata / loves acting & guitar — Yuka-chan, Akiyoshi Yuka",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "みかん-lead as primary ASS for 2025 theater era",
+        "using older もう○○になりましたみかん stack as default on 250508"
+      ],
+      "note": "Akiyoshi Yuka current theater catch (this era / 250508). Live: はい、博多に咲く優しい花になりたい → crowd なりたい → お芝居とギターが大好きな、ゆかちゃんこと秋吉優花. Corroborated polyhedra 231123 birth fest (same core without みかん lead). Older published form folded みかんが大好きな / もう○○になりました — historical character, NOT primary ASS for 2025-05-08. Nick ゆかちゃん official; spoken ゆかたん OK.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-30T20:35:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "eguchi-lookfor-catch",
+      "ja": [
+        "探してくださーい",
+        "ここはのことを探して",
+        "ここのことを探して",
+        "どこにいるー",
+        "ここだよー",
+        "うーここだよー",
+        "いつでもここでまっとるけん",
+        "ここのとこに会いにこんね",
+        "ここちゃんこと江口心々華"
+      ],
+      "en": "Please look for Koko / Where are you? / Right here!",
+      "en_full": "Everyone — please look for Koko! (Where are you?) Right here! I'm always waiting here, so come meet me at this spot! / Koko-chan, Eguchi Kokoha",
+      "type": "catchphrase",
+      "team": "KIV",
+      "reject": [
+        "ここはどこ？私は誰？",
+        "kokoha-catchcopy",
+        "Fujino Kokoha",
+        "Koko-heart",
+        "treating うーここ as Saaya-style uu-name chant separate from ここだよー"
+      ],
+      "note": "Eguchi Kokoha look-for catch — NOT Fujino's ここはどこ catch. Published 48times 2022-06 Q1: みんなー！ここはのことを探してくださーい(どこにいるー?)ここだよー！いつでもここでまっとるけん！ここのとこに会いにこんね！ Official profile message echoes catchphrase / ここのとこに会いこんね. Live full (polyhedra 250621 birth fest): みんなー、ここのことを探してくださーい／どこにいるー？／ここだよー！／いつでもここで待っとるけん／ここのとこに会いに来んね. Live may compress beats; うーここだよー = elongated ここだよー (EN Ooh—right here!), not a separate うーここ call like うーさあや. REJECT mapping any ここはどこ stack to Eguchi.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-09-30T20:35:00+02:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-09-29T23:12:24+02:00"
+  "updated": "2026-09-30T20:35:00+02:00"
 }

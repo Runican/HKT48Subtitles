@@ -290,7 +290,6 @@ scripts/
 - **Generation shorthand** ロッキー／ななき／N期 → EN **Nth gen** / **Nth gens** — never **Rokky/Rokki/Nanaki** in ASS. (`rokky-6th-gen`, `nanaki-7th-gen`)
 
 ### PROCESS (Mokugekisha review arc 2026-09-30)
-
 - Mid-review: patch ASS + chat postmortem each fix batch; **attach ASS only** when the segment (or full-show stitch) is done.
 - **Partial fixes:** when the user asks to insert/split one missing beat, **edit only that beat** — do not rewrite/replace a neighboring cue that was already good. Diff the before/after window. (mc1: 楽しんでますか split ate the song-title line.)
 - Re-ASR/sync can undo locks — **re-verify critical locks** after any sync/retime.
@@ -307,6 +306,24 @@ scripts/
 6. **Speaker check on outro banter:** short “I” lines after a member jumps in are often still that member (Kokoha/Fujikoko), not Host.
 7. Segment split + mid-review patch/postmortem worked; intro rebuild as its own job was right.
 
+### HARD-FAIL / PROCESS (Saka Agari Himawarigumi 250508 — accepted 2026-09-30)
+
+- **User segment bounds over finder FP:** when the human gives talk start/end (or says talk continues past the cut), **extend/shift the cut** to match ear — do not keep the segment-finder window that truncates speech (intro 1550→2450 on this show). Finder `translate:true` extras stay optional until VAD/speech-density clears them.
+- **Kurina / Kuriyama ≠ bare Rina:** spoken **栗奈** → **Kurina**; spoken **栗山** → **Kuriyama**; given-name-only chant/call → **Rina**. Do **not** global-shorten surname/nick forms to Rina after a lock pass.
+- **Soft Member when deixis is clear:** if speaker ID is not locked from ear/cast, keep Name **Member** and let EN deixis (I/me/she) carry the beat — do not invent Host or a cast guess. Promote Name only with tape + cast proof.
+- **撮 vs 取:** とった is a homophone — context decides **photo** (撮) vs **take/grab** (取). Doll-beside-you / won't-forgive beats are usually **took** the doll, not photographed it.
+- **Hakata 来んしゃい → kinshai** (not *konshai*); gloss meaning in EN (*come visit again*) and keep fixed romaji for the punchline sound.
+- **引っ付けて ≠ stick close:** in catchphrase-ownership talk, EN = **hang onto yours** / keep your bit — not physical proximity.
+- **Pass D ghosts:** dropout/nearmiss repair can invent polite fillers in silent/applause gaps (`You look so happy.`, `Congratulations!`, hyped stock). If ear shows no speech → **delete**.
+- **Sketch titles are NOT locked to docs/templates:** monthly-rotating コント — take THIS show's title from tape/user; do not paste a prior night or template title. Stage template already says do not hardcode one sketch title.
+
+### FINAL WORKFLOW REVIEW (Saka Agari 250508)
+
+1. Prefer user cut bounds when they conflict with finder (see above).
+2. Surname/nick address forms beat given-name normalization (Kurina/Kuriyama).
+3. Pass D + quiet-gap ghost delete is mandatory before ship.
+4. Homophone / dialect / ownership metaphors (撮取, kinshai, 引っ付けて) need ear+context, not first ASR gloss.
+5. Soft Member + clear deixis > wrong locked speaker.
 
 - **Yuina ≠ Yuuna (hard):** Ishimatsu **Yuina** (ゆいな) ≠ Yamauchi **Yuuna** (ゆうな/ゆーな). Whisper collapses them to ゆうな / ゆういな / Yuna; the EN pass then spreads one spelling through Name tags. Same show can need **both** in different arcs — never global-replace; disambiguate per beat like いおり↔ゆい; ambiguous → doubt list, not silent pick. ASS default nick forms: **Yuina** / **Yuuna** (not bare Yuna).
 
@@ -449,10 +466,10 @@ When domain hint is HKT48 (or similarly dense idol jargon), do **not** silently 
 
 Shared repo (box): `assets/hkt48/`
 
-- **First-time member intro (mandatory):** The first time a given member’s self-intro / catchphrase chant appears in a job (or the first time that member appears in an `intro` segment), do **not** finalize chant + name + 〜県出身 lines from ASR alone. Collect provisional JA/EN + spoken forms (surname-ちゃん vs nick, percent-puns, lisp traps), append an open_questions packet (or one batch packet per intro block), and ask the domain verifier  to verify before locking. Re-patch ASS after locks. Skip only if that member’s intro catchphrase+name forms are already `locked: true` in shared glossary for this exact use.
+- **First-time member intro (mandatory):** The first time a given member’s self-intro / catchphrase chant appears in a job (or the first time that member appears in an `intro` segment), do **not** finalize chant + name + 〜県出身 lines from ASR alone. Collect provisional JA/EN + spoken forms (surname-ちゃん vs nick, percent-puns, lisp traps), append an open_questions packet (or one batch packet per intro block), and message **domain verifier**  to verify before locking. Re-patch ASS after locks. Skip only if that member’s intro catchphrase+name forms are already `locked: true` in shared glossary for this exact use.
 
 - Before Pass E finalize: read `glossary.json` locks; never override `locked: true` without human approval.
-- When unsure (ASR name clash, cast inconsistency, catchphrase mush, pun): append a packet to `open_questions.json` per `SCHEMA.md`, then verify with domain research / teammate before locking with the packet id.
+- When unsure (ASR name clash, cast inconsistency, catchphrase mush, pun): append a packet to `a review packet` per `SCHEMA.md`, then verify with domain research / teammate before locking with the packet id.
 - After domain verification: merge locks into the project `glossary.json`, then re-translate only the affected cues.
 - Seed/sync: project glossary may copy from the shared repo; shared repo is the durable store across clips.
 
