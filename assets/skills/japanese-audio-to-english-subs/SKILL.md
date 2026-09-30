@@ -83,7 +83,7 @@ Flag when any of these apply (do **not** rely only on Whisper confidence):
 
 - Low ASR confidence or mushy audio
 - Name/nick not on the night’s cast list, or clashes with a known trap (e.g. いおり↔ゆい↔ゆうり)
-- Glossary / Loremaster still open, or `locked: false` guess
+- Glossary / domain verifier still open, or `locked: false` guess
 - Chant / catchphrase edges, repaired dropout spans, near-miss gaps
 - Line that does not fit surrounding dialogue even if ASR sounds fluent
 - Ambiguous speaker for Name tag when voices overlap
@@ -111,7 +111,7 @@ Trigger is **start of next clip**, not ASS acceptance. Do not keep finished-clip
 
 ASR (Japanese + timestamps):
 
-1. Cloud Speech-to-Text API if keyed — JA, word times, diarization
+1. Grok Speech-to-Text API if keyed — JA, word times, diarization
 2. `faster-whisper` local — default **`large-v3`** (cpu `int8` OK). Use `medium` only if the user asks for speed or `large-v3` cannot load. `small` last resort.
 3. Never treat a chat-attached transcript’s block times as final cue times — hint only
 
@@ -193,12 +193,14 @@ Also inspect **3–8s near-miss gaps** around intros — they often hide catchph
 
 ### Pass E — translate in phrase units
 
-- Translate one breath / one clause at a time
+- Translate one breath / one clause at a time — **each cue’s EN must cover that cue’s JA**, not a shared topic noun for the whole story
 - Keep glossary nick forms stable across the file
 - Catchphrases: prefer glossary EN; keep the joke/pun when it lands; else romanize + short gloss
 - Ban paragraph cues. Long JA story → several English cues
 - Split on Japanese clause boundaries first; snap each English cue to matching word spans. Only stretch when word times are missing
 - Mind JP→EN word-order: edit so the English is readable **without** leaving the cue on screen past its speech
+- **Ban topic-noun paste:** never fill a multi-cue anecdote/island/story with the same short EN (e.g. `bean sprouts` / `pillow` / `frying pan` / `Anywhere Door` / a name) while JA advances. Stock openers (`What I'd take to a deserted island…`) only when that cue’s JA is literally the opener without the item yet
+- **Themed intros (deserted-island, etc.):** translate **per member block** (catch → name → island → closer), not one giant batch for the whole segment — long parallel stories invite summarization collapse
 
 ### Pass F — timing snap
 
@@ -221,6 +223,7 @@ Machine:
 - First cue start ≈ `OFFSET_SEC`; last end ≤ `OFFSET_SEC + DUR + 0.5`
 - Density and reading-speed guards above
 - Every former dropout range either has cues or is listed in `NOTES.md`
+- **Copy-forward / topic-paste gate (must FAIL before ship):** run `scripts/check_cues.py` (or equivalent). Fail when (a) identical EN appears on ≥3 cues whose JA strings are not all equal, or (b) consecutive identical EN ≥3 except allowlisted ritual closers (`Thank you!` / `Yay!` / `Okay!` / よろしくお願いします-class) **and** JA matches the ritual, or (c) EN is a short topic noun/phrase (≤~3 words) while JA is long and not that noun. Soft-flagging these into doubts is **not** enough — repair first
 
 Watch-through (agent):
 
@@ -240,6 +243,7 @@ Watch-through (agent):
 - Overlapping / adjacent speakers are separate cues
 - Intro catchphrases present when spoken
 - Glossary-stable names; no invented lines
+- Copy-forward / topic-paste machine gate **PASS** (no identical-EN + changing-JA clusters left unrepaired)
 - `NOTES.md` lists remaining dropouts and uncertain glossary entries
 
 ## Suggested layout
@@ -267,6 +271,42 @@ scripts/
 ```
 
 ## Do not repeat (lessons from live attempts)
+
+### HARD-FAIL / ship defects (Mokugekisha 2026-09-30)
+
+- **Placeholder collapses:** EN is only `Mm.` / `Haha!` / `…` / `Okay—` (or similar stub) when JA has real words → restore from JA or delete the ghost cue.
+- **Identical adjacent EN clones** (same EN, different JA) → merge into one cue or differentiate EN from each cue’s JA.
+- **Bare trailing em-dash / name+em-dash stubs** (`Aichi—`, `Airi—`, half-thought `—`) with fuller JA → complete from JA or split (Pass H truncation-stub).
+- **"N songs in a row"** / song-list announce that only names fewer titles than N → re-ASR neighbors; **also at segment opens** (titles before the “N songs” summary). First title often in a timing hole.
+- **Segment cut ending before audio talk ends** → extend cut/`OFFSET` end to the real speech end before shipping.
+
+### GLOSSARY / EN defaults (point at shared `assets/hkt48/glossary.json`)
+
+- Spoken **あいちー** → EN **Aichi** on address/Name (not bare Airi); full **Ichimura Airi** only for full name; **Ai-chii** ok in catch chant text only. (`ichimura-airi`)
+- **リハ** → EN **rehearsal** (not romaji *riha*, not *reh*); 着リハ → costume rehearsal. (`riha`)
+- **シンポジ/新ポジ** → EN **new position** (NOT symposium, NOT romaji *shin posi*). After jargon swap, short EN coherence rewrite — never blind replace-only. (`shin-posi`)
+- **Sae-san ≠ Sayashi**; がんばりました *to* someone = **You did your best** (praise), not “I did my best.” (`kurihara-sae`)
+- **ASS EN-only:** cues in English — no unglossed JA/romaji shorthand (gen slang, リハ→rehearsal, シンポジ→new position, 研究生→trainees, シューン→whoosh, etc.). Rare untranslatable puns may keep JA **with an on-screen note**. Do **not** lock everyday JA (e.g. アホ虫, 村民) into shared glossary — gloss in the ASS only.
+- **Generation shorthand** ロッキー／ななき／N期 → EN **Nth gen** / **Nth gens** — never **Rokky/Rokki/Nanaki** in ASS. (`rokky-6th-gen`, `nanaki-7th-gen`)
+
+### PROCESS (Mokugekisha review arc 2026-09-30)
+
+- Mid-review: patch ASS + chat postmortem each fix batch; **attach ASS only** when the segment (or full-show stitch) is done.
+- **Partial fixes:** when the user asks to insert/split one missing beat, **edit only that beat** — do not rewrite/replace a neighboring cue that was already good. Diff the before/after window. (mc1: 楽しんでますか split ate the song-title line.)
+- Re-ASR/sync can undo locks — **re-verify critical locks** after any sync/retime.
+- Optimize with segment splits + background workers; say early if the task is too big for one pass.
+- Pre-ship cheap scan: leftover romaji/JA shorthand + “does first/last cue of each segment still match JA?”
+
+### FINAL WORKFLOW REVIEW (Mokugekisha H6 250510 — accepted ~8/10)
+
+1. Partial fixes only (see PROCESS).
+2. ASS EN-only (see GLOSSARY).
+3. Hard-fail “N songs named in JA, fewer in EN” at **segment opens** too, not just encore.
+4. **Crowd name-calls** after catchphrases: Crowd gets the given name (`Yuina!` / `Rinka!`), not nick mush or catch repeats.
+5. **Reported speech:** when Host narrates what someone said, keep quote + first person (`she said, "…my nerves"`), don’t flatten into Host’s own voice.
+6. **Speaker check on outro banter:** short “I” lines after a member jumps in are often still that member (Kokoha/Fujikoko), not Host.
+7. Segment split + mid-review patch/postmortem worked; intro rebuild as its own job was right.
+
 
 - **Yuina ≠ Yuuna (hard):** Ishimatsu **Yuina** (ゆいな) ≠ Yamauchi **Yuuna** (ゆうな/ゆーな). Whisper collapses them to ゆうな / ゆういな / Yuna; the EN pass then spreads one spelling through Name tags. Same show can need **both** in different arcs — never global-replace; disambiguate per beat like いおり↔ゆい; ambiguous → doubt list, not silent pick. ASS default nick forms: **Yuina** / **Yuuna** (not bare Yuna).
 
@@ -311,7 +351,9 @@ scripts/
 - VM / box updates wipe `/workspace/.venv` — **don’t wait for the user to warn.** Before any ASR job (and immediately when import fails), verify `faster-whisper` imports; if broken, recreate the venv and reinstall `faster-whisper`, then continue.
 - Pass G energy continuity: cheap RMS/VAD flags for hot-after-cue, yay-glued starts, silent holes in hot bands — **hints only**, softer in cheer/HB/photo zones.
 - Pass H conversation coherence: walk cues in order; structural non sequitur / EN stub / copy-forward / mashed JA → **auto re-ASR+repair** until the stretch makes sense (soft on stammer/overlap/nonsense; no inventing over silence).
-- Trailing EN `—`/`…` with fuller JA = truncation stub — complete or split before ship (Pass H).
+- Trailing EN `—`/`…` with fuller JA = truncation stub — complete or split before ship (Pass H). Bare **name+em-dash** (`Airi—`) with JA continuing (〜さんが…) counts as dubious stub.
+- Two-/N-song encore announce: if EN/JA says "two songs" / 2曲 but only one title is named, **re-ASR** — first title is often in a timing hole (Mokugekisha I'm Crying + Zutto Zutto).
+- Trailing EN name+`—` alone (e.g. `Airi—` / `Aichi—`) with fuller JA (あいちーさんが…) = **dubious stub** — complete from JA or split; Pass H truncation-stub gate.
 - Never paste a prior denial/catchphrase forward onto the next speaker’s window; force Name from in-window context.
 - Chorus / group lines: light Name tags are enough; don't demand perfect speaker IDs unless the user volunteers one.
 
@@ -364,8 +406,8 @@ Walk the cue list **in timeline order** (plus JA when present). Do **not** run a
 3. **Copy-forward / false repeat:** EN matches a cue 1–3 back (denial, catchphrase, “I've got one!”) while JA/ASR in-window differs.
 4. **Q without A / A without Q:** question with no nearby answer, or punchline with no setup in the prior few cues.
 5. **Name/polarity clash:** punchline glued under the wrong Name; or polarity (`変わる`/`変わんない`) that contradicts the next Host beat.
-
-6. **Letter / anecdote hole:** mid-letter or Host story with a speech-like gap and no cue — treat as structural missing (same repair path), not “loop → delete.”
+6. **N-song announce undercount:** cue says "two/N songs" (or JA `2曲`/`N曲`) but names fewer titles than N — re-ASR neighbors (first title often dropped).
+7. **Letter / anecdote hole:** mid-letter or Host story with a speech-like gap and no cue — treat as structural missing (same repair path), not “loop → delete.”
 
 
 ### Soft / high false-alarm zones (raise the bar)
@@ -407,7 +449,7 @@ When domain hint is HKT48 (or similarly dense idol jargon), do **not** silently 
 
 Shared repo (box): `assets/hkt48/`
 
-- **First-time member intro (mandatory):** The first time a given member’s self-intro / catchphrase chant appears in a job (or the first time that member appears in an `intro` segment), do **not** finalize chant + name + 〜県出身 lines from ASR alone. Collect provisional JA/EN + spoken forms (surname-ちゃん vs nick, percent-puns, lisp traps), append an open_questions packet (or one batch packet per intro block), and message **HKT Loremaster**  to verify before locking. Re-patch ASS after locks. Skip only if that member’s intro catchphrase+name forms are already `locked: true` in shared glossary for this exact use.
+- **First-time member intro (mandatory):** The first time a given member’s self-intro / catchphrase chant appears in a job (or the first time that member appears in an `intro` segment), do **not** finalize chant + name + 〜県出身 lines from ASR alone. Collect provisional JA/EN + spoken forms (surname-ちゃん vs nick, percent-puns, lisp traps), append an open_questions packet (or one batch packet per intro block), and ask the domain verifier  to verify before locking. Re-patch ASS after locks. Skip only if that member’s intro catchphrase+name forms are already `locked: true` in shared glossary for this exact use.
 
 - Before Pass E finalize: read `glossary.json` locks; never override `locked: true` without human approval.
 - When unsure (ASR name clash, cast inconsistency, catchphrase mush, pun): append a packet to `open_questions.json` per `SCHEMA.md`, then verify with domain research / teammate before locking with the packet id.

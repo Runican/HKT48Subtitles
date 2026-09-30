@@ -1,6 +1,6 @@
 # 研究生「ラムネの飲み方」/ Ramune no Nomikata — setlist note
 
-Researched 2026-09-28 (CEST) for stage-template JSON. **No ASR used. No invented order.**
+Researched 2026-09-28 (CEST) for subtitler stage-template JSON. **No ASR used. No invented order.**
 
 ## Stage name (confirmed)
 

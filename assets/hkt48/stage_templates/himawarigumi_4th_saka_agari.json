@@ -4,7 +4,7 @@
   "stage_en": "Himawarigumi 4th Stage — Saka Agari",
   "stage_romaji": "Saka Agari",
   "unit": "Himawarigumi",
-  "verified_by": "domain-verifier",
+  "verified_by": "verifier",
   "verified_at": "2026-09-27",
   "sources": [
     {
@@ -24,16 +24,16 @@
       "url": "https://akb48.fandom.com/wiki/HKT48_Himawarigumi_4th_Stage"
     },
     {
-      "name": "Curated setlist research note",
-      "path": "sources/saka-agari-setlist.md"
+      "name": "domain verifier research note",
+      "path": "assets/hkt48/sources/saka-agari-setlist.md"
     },
     {
-      "name": "Grade-map reference (2025-05-11 LOD)",
-      "note": "Local show.json segment bounds used as grade anchors; media not in git"
+      "name": "User grade map (2025-05-11 LOD)",
+      "path": "work/hkt48_20250511_himawarigumi/show.json"
     }
   ],
   "notes": [
-    "Domain-verified / public-source verified 2026-09-27 (official + Mobile + 48pedia + fandom; no ASR).",
+    "domain verifier-verified 2026-09-27 (official + Mobile + 48pedia + fandom; no ASR).",
     "Opening sketch is monthly-rotating member comedy before overture — do not hardcode one コント title.",
     "MC1／自己紹介 = photo + member intros + catchcopies; user grade map may split photo then intro.",
     "Encore call sits AFTER Fan Letter and BEFORE Fugiri/Hanpa (not after To be continued).",

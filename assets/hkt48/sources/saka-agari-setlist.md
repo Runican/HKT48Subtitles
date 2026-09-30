@@ -1,6 +1,6 @@
 # Himawarigumi 4th Stage「逆上がり」/ Saka Agari — setlist note
 
-Researched 2026-09-27 for the stage-template JSON. **No ASR used. No invented order.**
+Researched 2026-09-27 for subtitler stage-template JSON. **No ASR used. No invented order.**
 
 ## Stage name (confirmed)
 

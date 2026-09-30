@@ -1,0 +1,606 @@
+{
+  "id": "hkt48-team-h-6th-mokugekisha",
+  "stage_ja": "チームH「目撃者」公演",
+  "stage_en": "Team H 6th Stage — Mokugekisha",
+  "stage_romaji": "Mokugekisha",
+  "unit": "Team H",
+  "aliases": [
+    "HKT48 チームH「目撃者」公演",
+    "H6",
+    "HKT H6",
+    "Team H 6th Stage",
+    "チームH 6th Stage「目撃者」"
+  ],
+  "verified_by": "verifier",
+  "verified_at": "2026-09-29",
+  "sources": [
+    {
+      "name": "HKT official setlist",
+      "url": "https://www.hkt48.jp/setlist/teamh07"
+    },
+    {
+      "name": "HKT48 Mobile setlist",
+      "url": "https://sp.hkt48.jp/qtheater_setlist_detail?group=teamh&type=007"
+    },
+    {
+      "name": "48pedia チームH 6th Stage「目撃者」",
+      "url": "https://48pedia.org/チームH_6th_Stage「目撃者」"
+    },
+    {
+      "name": "48plus Team H 6th Stage",
+      "url": "https://48plus.org/wiki/Team_H_6th_Stage"
+    },
+    {
+      "name": "Wikipedia Team A 6th Stage (parent + HKT section)",
+      "url": "https://ja.wikipedia.org/wiki/チームA_6th_Stage「目撃者」"
+    },
+    {
+      "name": "Official schedule 2025-05-10 12:30",
+      "url": "https://www.hkt48.jp/schedule/2025/05/19574"
+    },
+    {
+      "name": "Mobile schedule sche_id=19574",
+      "url": "https://sp.hkt48.jp/qschedule_detail?sche_id=19574"
+    },
+    {
+      "name": "Nishispo shonichi report",
+      "url": "https://www.nishinippon.co.jp/item/1052841/"
+    },
+    {
+      "name": "Official digest (song order timestamps)",
+      "url": "https://akb.48lover.com/log/223976"
+    },
+    {
+      "name": "domain verifier research note",
+      "path": "assets/hkt48/sources/mokugekisha-setlist.md"
+    }
+  ],
+  "notes": [
+    "domain verifier-verified 2026-09-29 (official + Mobile + 48pedia + 48plus + Wikipedia parent + schedule; no ASR).",
+    "H6 CONFIRMED = Team H 6th Stage「目撃者」(48pedia/48plus H6th). Official setlist path teamh07 because 博多レジェンド is an extra listing between H1 and H2 — fan/numbered stage count is still H6.",
+    "Revival of AKB48 Team A 6th Stage「目撃者」. HKT uses overture (HKT48 ver.).",
+    "Optional 前座 ミニスカートの妖精 (Z01) before overture — real song, not a monthly コント.",
+    "MC1／自己紹介 = photo + member intros + catchcopies after Akogare no Popstar.",
+    "Unit block B sizes: Ude 3, Enjou 2, Accel solo(1), Hoshi 4, Saboten 6.",
+    "Do not hardcode unit casts; understudies/grad/birthday shuffle heavily (48pedia lists many alternates).",
+    "Encore call sits AFTER Inochi no Imi and BEFORE I'm crying.",
+    "MC4 sits after Zutto Zutto (or after Seishun Full Throttle if present), before Pioneer finale.",
+    "青春フルスロットル = HKT-only encore insert. Official setlist pages omit; 48pedia lists as standing #3. Mark optional until LOD-confirmed.",
+    "Skip translating: encore_call, end_greetings, zenza song, song blocks. Still detect skip slots so they are not merged into MC/outro.",
+    "Official desktop setlist page once omitted the #### 命の意味 heading visually (composer line still present); Mobile + 48pedia + Wikipedia confirm M13 — do not drop it.",
+    "Talk dur_s are PROVISIONAL soft hints (no Mokugekisha grade_anchor_show yet); prefer finder labels over durations.",
+    "2025-05-10 12:30 LOD: NOT birthday; Yamauchi Yuna休演 → Fukui Karen under; 龍頭綺音 listed (48pedia: first Mokugekisha under that day).",
+    "Low-confidence: unit understudies, Seishun presence on a given LOD, zenza presence, graduation special blocks, day Accel soloist."
+  ],
+  "songs": [
+    {
+      "slot": "Z01",
+      "ja": "ミニスカートの妖精",
+      "romaji": "Miniskirt no Yosei",
+      "block": "Z",
+      "kind": "zenza",
+      "unit_size": 3,
+      "optional": true,
+      "fingerprints": [
+        "望遠鏡　そっと覗いた夜空に",
+        "ビーズのような星の光よ"
+      ],
+      "note": "前座ガールズ (typically 3 kenkyuusei). Periods of omission documented on 48pedia (e.g. early 2024 gap). Do not invent if absent on a given LOD."
+    },
+    {
+      "slot": "M00",
+      "ja": "overture (HKT48 ver.)",
+      "romaji": "overture",
+      "block": "A",
+      "kind": "overture"
+    },
+    {
+      "slot": "M01",
+      "ja": "目撃者",
+      "romaji": "Mokugekisha",
+      "block": "A",
+      "kind": "group",
+      "fingerprints": [
+        "テレビのニュースで繰り返し伝えてた",
+        "一発の銃弾が正義　奪ったこと"
+      ]
+    },
+    {
+      "slot": "M02",
+      "ja": "前人未踏",
+      "romaji": "Zenjin Mitou",
+      "block": "A",
+      "kind": "group",
+      "fingerprints": [
+        "ブンブンしてる室外機が",
+        "夏の夜に息を吐くよ"
+      ]
+    },
+    {
+      "slot": "M03",
+      "ja": "いびつな真珠",
+      "romaji": "Ibitsu na Shinju",
+      "block": "A",
+      "kind": "group",
+      "fingerprints": [
+        "大事なものは",
+        "隠しておこう"
+      ]
+    },
+    {
+      "slot": "M04",
+      "ja": "憧れのポップスター",
+      "romaji": "Akogare no Popstar",
+      "block": "A",
+      "kind": "group",
+      "fingerprints": [
+        "夢の中で",
+        "私だけのために…"
+      ]
+    },
+    {
+      "slot": "M05",
+      "ja": "腕を組んで",
+      "romaji": "Ude wo Kunde",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 3,
+      "fingerprints": [
+        "夕暮れのポプラ並木は",
+        "枯葉の音で寂しくなる"
+      ]
+    },
+    {
+      "slot": "M06",
+      "ja": "炎上路線",
+      "romaji": "Enjou Rosen",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 2,
+      "fingerprints": [
+        "遠巻きに見てた　あなたのこと",
+        "大好き過ぎて…"
+      ]
+    },
+    {
+      "slot": "M07",
+      "ja": "愛しさのアクセル",
+      "romaji": "Itoshisa no Accel",
+      "block": "B",
+      "kind": "solo",
+      "unit_size": 1,
+      "fingerprints": [
+        "そんなやさしい眼差しで",
+        "見つめないで　私のことを…"
+      ],
+      "note": "Parent AKB = solo (saber staging). HKT typically solo (豊永阿紀 shonichi); Okabe AKB revival used duo — do not assume duo for HKT."
+    },
+    {
+      "slot": "M08",
+      "ja": "☆の向こう側",
+      "romaji": "Hoshi no Mukougawa",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 4,
+      "fingerprints": [
+        "心のどこかに",
+        "1つ ☆がある"
+      ]
+    },
+    {
+      "slot": "M09",
+      "ja": "サボテンとゴールドラッシュ",
+      "romaji": "Saboten to Gold Rush",
+      "block": "B",
+      "kind": "unit",
+      "unit_size": 6,
+      "fingerprints": [
+        "Go working day and Night",
+        "Everybody got a sweat and tear"
+      ]
+    },
+    {
+      "slot": "M10",
+      "ja": "美しき者",
+      "romaji": "Utsukushiki Mono",
+      "block": "C",
+      "kind": "group",
+      "fingerprints": [
+        "爪を立てて　躊躇しないで",
+        "跡をつけて　柔らかな肌"
+      ]
+    },
+    {
+      "slot": "M11",
+      "ja": "アイヲクレ",
+      "romaji": "Ai wo Kure",
+      "block": "C",
+      "kind": "group",
+      "fingerprints": [
+        "彼氏がいると言えずに",
+        "ここまで来てしまった"
+      ]
+    },
+    {
+      "slot": "M12",
+      "ja": "摩天楼の距離",
+      "romaji": "Matenrou no Kyori",
+      "block": "C",
+      "kind": "group",
+      "fingerprints": [
+        "走る長距離バス",
+        "目指すニューヨークシティ"
+      ]
+    },
+    {
+      "slot": "M13",
+      "ja": "命の意味",
+      "romaji": "Inochi no Imi",
+      "block": "D",
+      "kind": "group",
+      "fingerprints": [
+        "生まれた朝を　覚えていない",
+        "最初の記憶は母の笑顔"
+      ]
+    },
+    {
+      "slot": "M14",
+      "ja": "I'm crying",
+      "romaji": "I'm crying",
+      "block": "E",
+      "kind": "encore",
+      "fingerprints": [
+        "爪に光るバラバラの色が",
+        "きっと　大人は理解しない"
+      ]
+    },
+    {
+      "slot": "M15",
+      "ja": "ずっと ずっと",
+      "romaji": "Zutto Zutto",
+      "block": "E",
+      "kind": "encore",
+      "fingerprints": [
+        "何がきっかけだっけ?",
+        "覚えてない"
+      ]
+    },
+    {
+      "slot": "M15b",
+      "ja": "青春フルスロットル",
+      "romaji": "Seishun Full Throttle",
+      "block": "E",
+      "kind": "encore",
+      "optional": true,
+      "fingerprints": [
+        "青春フルスロットル"
+      ],
+      "note": "HKT Team H original insert (not on parent AKB A6). 48pedia/48plus/Nishispo+fan reports list it as standing encore #3 before MC4/Pioneer. Official hkt48.jp + Mobile setlist pages OMIT it; digest video timestamps also skip it. Treat as EXPECTED for typical HKT H6 but optional/verify per LOD — do not invent presence for 2025-05-10 without show evidence."
+    },
+    {
+      "slot": "M16",
+      "ja": "Pioneer",
+      "romaji": "Pioneer",
+      "block": "F",
+      "kind": "encore",
+      "fingerprints": [
+        "都会の片隅",
+        "蜃気楼みたいに"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "zenza",
+      "type": "song_block",
+      "songs": [
+        "Z01"
+      ],
+      "translate": false,
+      "required": false,
+      "optional": true,
+      "after": "show_start",
+      "before": "song_block_A",
+      "dur_s": {
+        "min": 120,
+        "typical": 200,
+        "max": 360
+      },
+      "finder": "optional pre-overture 前座ガールズ Miniskirt no Yosei (~3 kenkyuusei); may be absent some periods",
+      "note": "Not an opening コント — it is a real song. Skip translating."
+    },
+    {
+      "id": "song_block_A",
+      "type": "song_block",
+      "songs": [
+        "M00",
+        "M01",
+        "M02",
+        "M03",
+        "M04"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "zenza",
+      "before": "photo",
+      "dur_s": {
+        "min": 900,
+        "typical": 1200,
+        "max": 1600
+      },
+      "finder": "overture + Mokugekisha → Zenjin Mitou → Ibitsu → Akogare no Popstar until photo hush"
+    },
+    {
+      "id": "photo",
+      "type": "photo",
+      "wiki_label": "MC1／自己紹介 (photo hush)",
+      "translate": true,
+      "required": true,
+      "after": "song_block_A",
+      "before": "intro",
+      "dur_s": {
+        "min": 60,
+        "typical": 120,
+        "max": 240
+      },
+      "finder": "earliest bursty hush after Akogare no Popstar / end of block A"
+    },
+    {
+      "id": "intro",
+      "type": "intro",
+      "wiki_label": "MC1／自己紹介 (member intros + catchcopies)",
+      "translate": true,
+      "required": true,
+      "after": "photo",
+      "before": "song_block_B",
+      "dur_s": {
+        "min": 600,
+        "typical": 1000,
+        "max": 1600
+      },
+      "finder": "speech-dense talk after photo until Ude wo Kunde / first unit band"
+    },
+    {
+      "id": "song_block_B",
+      "type": "song_block",
+      "songs": [
+        "M05",
+        "M06",
+        "M07",
+        "M08",
+        "M09"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "intro",
+      "before": "mc_after_units",
+      "dur_s": {
+        "min": 1000,
+        "typical": 1500,
+        "max": 2100
+      },
+      "finder": "5 unit songs (3→2→solo→4→6); allow optional thin post_song_sketch between units"
+    },
+    {
+      "id": "post_song_sketch",
+      "type": "post_song_sketch",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "within": "song_block_B",
+      "dur_s": {
+        "min": 5,
+        "typical": 15,
+        "max": 45
+      },
+      "finder": "short-window speech-density 5–45s after each song end in block B"
+    },
+    {
+      "id": "mc_after_units",
+      "type": "mc",
+      "alias": [
+        "mc1"
+      ],
+      "wiki_label": "MC2",
+      "translate": true,
+      "required": true,
+      "after": "song_block_B",
+      "before": "song_block_C",
+      "dur_s": {
+        "min": 120,
+        "typical": 300,
+        "max": 700
+      },
+      "finder": "talk after Saboten to Gold Rush / end of unit block"
+    },
+    {
+      "id": "song_block_C",
+      "type": "song_block",
+      "songs": [
+        "M10",
+        "M11",
+        "M12"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_after_units",
+      "before": "mc_mid",
+      "dur_s": {
+        "min": 600,
+        "typical": 900,
+        "max": 1300
+      },
+      "finder": "3 group songs: Utsukushiki Mono → Ai wo Kure → Matenrou no Kyori"
+    },
+    {
+      "id": "mc_mid",
+      "type": "mc",
+      "alias": [
+        "mc2"
+      ],
+      "wiki_label": "MC3",
+      "translate": true,
+      "required": true,
+      "after": "song_block_C",
+      "before": "song_block_D",
+      "dur_s": {
+        "min": 180,
+        "typical": 450,
+        "max": 1000
+      },
+      "finder": "MC after Matenrou no Kyori, before Inochi no Imi"
+    },
+    {
+      "id": "song_block_D",
+      "type": "song_block",
+      "songs": [
+        "M13"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_mid",
+      "before": "encore_call",
+      "finder": "Inochi no Imi"
+    },
+    {
+      "id": "encore_call",
+      "type": "encore_call",
+      "translate": false,
+      "skip_reason": "User skip: thin / hard to hear until ASR improves",
+      "required": false,
+      "after": "song_block_D",
+      "before": "encore_songs",
+      "dur_s": {
+        "min": 20,
+        "typical": 90,
+        "max": 240
+      },
+      "finder": "audience encore call AFTER Inochi no Imi, BEFORE I'm crying — detect as skip, do not merge into MC"
+    },
+    {
+      "id": "encore_songs",
+      "type": "song_block",
+      "songs": [
+        "M14",
+        "M15"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "encore_call",
+      "before": "encore_hkt_insert",
+      "finder": "I'm crying + Zutto Zutto"
+    },
+    {
+      "id": "encore_hkt_insert",
+      "type": "song_block",
+      "songs": [
+        "M15b"
+      ],
+      "translate": false,
+      "required": false,
+      "optional": true,
+      "after": "encore_songs",
+      "before": "mc_pre_close",
+      "finder": "optional HKT 青春フルスロットル between Zutto Zutto and MC4/Pioneer",
+      "note": "PROVISIONAL presence per LOD. Official setlist pages omit; 48pedia lists as standing. Verify before forcing."
+    },
+    {
+      "id": "mc_pre_close",
+      "type": "mc",
+      "alias": [
+        "mc3"
+      ],
+      "wiki_label": "MC4",
+      "translate": true,
+      "required": true,
+      "after": "encore_hkt_insert",
+      "before": "song_block_F",
+      "dur_s": {
+        "min": 60,
+        "typical": 200,
+        "max": 1200
+      },
+      "finder": "talk after Zutto Zutto (or after Seishun if present), before Pioneer finale",
+      "note": "Birthday/grad shows may expand this slot; graduation shows often rewrite post-encore — treat as show-specific."
+    },
+    {
+      "id": "birthday_insert",
+      "type": "birthday",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "within": "mc_pre_close",
+      "finder": "only on 生誕祭 shows: host → birthday song → photo → letter → speech inside MC4 window",
+      "note": "2025-05-10 12:30 Mokugekisha LOD is NOT a birthday (same-day birthday was evening Ramune / Eura). Do not invent."
+    },
+    {
+      "id": "song_block_F",
+      "type": "song_block",
+      "songs": [
+        "M16"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_pre_close",
+      "before": "end_greetings",
+      "finder": "Pioneer finale"
+    },
+    {
+      "id": "end_greetings",
+      "type": "end_greetings",
+      "translate": false,
+      "skip_reason": "User skip: mostly arigatou barrage; rare announcements ignored for now",
+      "required": false,
+      "after": "song_block_F",
+      "before": "outro",
+      "dur_s": {
+        "min": 30,
+        "typical": 150,
+        "max": 400
+      },
+      "finder": "arigatou / end greetings after Pioneer; skip translate; do not merge into outro"
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "after": "end_greetings",
+      "before": "show_end",
+      "dur_s": {
+        "min": 30,
+        "typical": 110,
+        "max": 240
+      },
+      "finder": "optional final speech after greetings if present; not the arigatou wall"
+    }
+  ],
+  "translate_types": [
+    "photo",
+    "intro",
+    "post_song_sketch",
+    "mc",
+    "birthday",
+    "outro"
+  ],
+  "skip_types": [
+    "encore_call",
+    "end_greetings",
+    "song_block"
+  ],
+  "grade_anchor_show": null,
+  "grade_anchor_note": "No Mokugekisha grade_anchor_show yet. Candidate: H6 LOD 2025-05-10 12:30 (non-birthday; Yamauchi under→Fukui). Prefer a clean non-grad non-birthday LOD for default durations when available.",
+  "show_example_20250510": {
+    "filename_hint": "HKT48 250510 H6 LOD 1230 1080p DMM",
+    "schedule_ja": "12:30　チームH「目撃者」公演",
+    "date": "2025-05-10",
+    "time": "12:30",
+    "birthday": false,
+    "cast_note": "山内祐奈休演→福井可憐出演; 16 members incl. understudies/support (井澤美優・猪原絆愛・大内梨果・福井可憐・森﨑冴彩・龍頭綺音)",
+    "schedule_url": "https://www.hkt48.jp/schedule/2025/05/19574",
+    "confidence": "HIGH for stage identity + cast; Seishun presence on this LOD UNDOCUMENTED (provisional)"
+  },
+  "updated": "2026-09-29",
+  "updated_by": "verifier"
+}

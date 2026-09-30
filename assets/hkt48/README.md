@@ -28,3 +28,7 @@ hkt48/
 4. Catchphrases: JA canon + EN gloss or romaji; do not force bad English. Note published vs live variants when they differ.
 5. Confidence: `locked` | `provisional` | `rejected`.
 6. Cite at least one source URL in `sources/` when locking a disputed name (prefer non-ASR evidence).
+
+## Recent locks (2026-09-30 Mokugekisha)
+- EN defaults: **Aichi**; **rehearsal** (リハ — not riha/reh); **new position** (シンポジ — not shin posi / symposium); Sae-san ≠ Sayashi. No everyday JA (村民).
+- Gen shorthand **ロッキー／ななき** → ASS EN **6th gen(s)** / **7th gen(s)** — never Rokky/Nanaki romaji in ASS.

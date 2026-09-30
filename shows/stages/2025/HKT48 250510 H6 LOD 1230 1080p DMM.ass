@@ -1,0 +1,976 @@
+[Script Info]
+Title: HKT48 250510 H6 LOD 1230 1080p DMM EN
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,80,80,60,1
+Style: Generic,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,80,80,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+; ===== photo =====
+
+Dialogue: 0,0:22:15.37,0:22:16.35,Generic,Host,0,0,0,,Hello, everyone!
+Dialogue: 0,0:22:16.77,0:22:17.99,Generic,Members,0,0,0,,HKT48
+Dialogue: 0,0:22:18.63,0:22:19.89,Generic,Members,0,0,0,,Team H!
+Dialogue: 0,0:22:26.48,0:22:29.03,Generic,Host,0,0,0,,Team H Mokugekisha has started—
+Dialogue: 0,0:22:29.10,0:22:30.58,Generic,Host,0,0,0,,Is everyone having fun?
+Dialogue: 0,0:22:33.55,0:22:34.30,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,0:22:34.71,0:22:37.04,Generic,Host,0,0,0,,First up: Mokugekisha, Zenjin Mitou,
+Dialogue: 0,0:22:37.11,0:22:38.04,Generic,Host,0,0,0,,Ibitsu na Shinju,
+Dialogue: 0,0:22:38.11,0:22:40.42,Generic,Host,0,0,0,,and Akogare no Popstar — four songs in a row
+Dialogue: 0,0:22:40.49,0:22:41.40,Generic,Host,0,0,0,,you just heard.
+Dialogue: 0,0:22:41.47,0:22:44.25,Generic,Host,0,0,0,,Next, we'd like to take some photos.
+Dialogue: 0,0:22:44.65,0:22:46.59,Generic,Host,0,0,0,,Camera crew and fairies,
+Dialogue: 0,0:22:47.27,0:22:48.00,Generic,Host,0,0,0,,please!
+Dialogue: 0,0:22:48.31,0:22:49.73,Generic,Member,0,0,0,,Ryuto, go up front!
+Dialogue: 0,0:22:50.39,0:22:51.55,Generic,Member,0,0,0,,Is that okay?
+Dialogue: 0,0:22:54.59,0:22:56.13,Generic,Member,0,0,0,,Should 6th gen go up front too?
+Dialogue: 0,0:22:56.45,0:22:57.75,Generic,Member,0,0,0,,Is that okay?
+Dialogue: 0,0:22:57.89,0:22:58.90,Generic,Member,0,0,0,,Not one year—
+Dialogue: 0,0:22:58.97,0:23:02.35,Generic,Member,0,0,0,,it's the 3rd anniversary, right?
+Dialogue: 0,0:23:12.54,0:23:13.56,Generic,Member,0,0,0,,Dumpling pose?
+Dialogue: 0,0:23:13.74,0:23:15.33,Generic,Member,0,0,0,,Let's do dumpling!
+Dialogue: 0,0:23:15.40,0:23:16.06,Generic,Member,0,0,0,,Dumpling?
+Dialogue: 0,0:23:17.40,0:23:18.80,Generic,Member,0,0,0,,Round cheeks—
+Dialogue: 0,0:23:31.78,0:23:33.82,Generic,Member,0,0,0,,Can we do a 6th gen pose?
+Dialogue: 0,0:23:33.94,0:23:34.35,Generic,Member,0,0,0,,All together!
+Dialogue: 0,0:23:34.42,0:23:36.10,Generic,Member,0,0,0,,6th gen… 6th gen pose!
+Dialogue: 0,0:23:46.28,0:23:47.00,Generic,Member,0,0,0,,Last one!
+Dialogue: 0,0:23:48.46,0:23:50.43,Generic,Member,0,0,0,,Well, since it's Fight Day—
+Dialogue: 0,0:23:50.50,0:23:51.53,Generic,Member,0,0,0,,It's Fight Day?
+Dialogue: 0,0:23:51.60,0:23:52.84,Generic,Member,0,0,0,,Because it's Fight Day—
+Dialogue: 0,0:23:54.38,0:23:55.20,Generic,Member,0,0,0,,Fight?
+Dialogue: 0,0:23:56.08,0:23:57.86,Generic,Member,0,0,0,,You remember all 365 days?
+Dialogue: 0,0:24:05.12,0:24:05.72,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,0:24:14.53,0:24:16.42,Generic,Host,0,0,0,,These photos will be sold in the lobby
+Dialogue: 0,0:24:16.49,0:24:17.58,Generic,Host,0,0,0,,after the show,
+Dialogue: 0,0:24:17.65,0:24:19.86,Generic,Host,0,0,0,,so please stop by on your way out.
+Dialogue: 0,0:24:19.93,0:24:21.08,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,0:24:21.15,0:24:22.43,Generic,Members,0,0,0,,Thank you!
+
+; ===== intro =====
+
+Dialogue: 0,0:24:25.34,0:24:26.02,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,0:24:28.65,0:24:31.85,Generic,Host,0,0,0,,Next, each of us will introduce ourselves on today's theme.
+Dialogue: 0,0:24:31.93,0:24:33.71,Generic,Host,0,0,0,,Today's theme is—
+Dialogue: 0,0:24:36.01,0:24:38.87,Generic,Host,0,0,0,,If you could take only one thing to a deserted island.
+Dialogue: 0,0:24:39.43,0:24:40.95,Generic,Host,0,0,0,,Karen, you're up first!
+Dialogue: 0,0:24:41.65,0:24:43.47,Generic,Karen,0,0,0,,Angel-like little devil—?
+Dialogue: 0,0:24:43.91,0:24:44.83,Generic,Karen,0,0,0,,Karen!
+Dialogue: 0,0:24:45.77,0:24:47.85,Generic,Karen,0,0,0,,I wanna be your angel!
+Dialogue: 0,0:24:48.69,0:24:49.29,Generic,Karen,0,0,0,,Thank you!
+Dialogue: 0,0:24:49.69,0:24:52.93,Generic,Karen,0,0,0,,From Nagasaki — 18-year-old Karen-ren, Fukui Karen!
+Dialogue: 0,0:24:53.01,0:24:53.75,Generic,Karen,0,0,0,,Karen!
+Dialogue: 0,0:24:57.43,0:24:58.03,Generic,Karen,0,0,0,,Thank you!
+Dialogue: 0,0:24:59.80,0:25:04.21,Generic,Karen,0,0,0,,What I'd take to a deserted island is a car.
+Dialogue: 0,0:25:04.29,0:25:04.88,Generic,Karen,0,0,0,,What I'd take…
+Dialogue: 0,0:25:04.96,0:25:05.55,Generic,Karen,0,0,0,,though—
+Dialogue: 0,0:25:05.63,0:25:07.46,Generic,Karen,0,0,0,,A car's great, right?
+Dialogue: 0,0:25:07.54,0:25:08.20,Generic,Karen,0,0,0,,Why?
+Dialogue: 0,0:25:08.28,0:25:13.02,Generic,Karen,0,0,0,,A car has all kinds of uses, right?
+Dialogue: 0,0:25:13.10,0:25:15.30,Generic,Karen,0,0,0,,It's not just camping vibes—
+Dialogue: 0,0:25:15.38,0:25:17.80,Generic,Karen,0,0,0,,It doesn't fit only one use case.
+Dialogue: 0,0:25:17.88,0:25:19.78,Generic,Karen,0,0,0,,Whether it's cold or hot—
+Dialogue: 0,0:25:19.86,0:25:23.98,Generic,Karen,0,0,0,,When it gets cold, if it comes to it—
+Dialogue: 0,0:25:24.06,0:25:25.42,Generic,Karen,0,0,0,,I could swim the sea,
+Dialogue: 0,0:25:26.98,0:25:28.70,Generic,Karen,0,0,0,,Talking about a future car—
+Dialogue: 0,0:25:29.46,0:25:30.96,Generic,Karen,0,0,0,,so I can go anywhere,
+Dialogue: 0,0:25:31.04,0:25:32.70,Generic,Karen,0,0,0,,I want someone to develop that car.
+Dialogue: 0,0:25:32.78,0:25:34.58,Generic,Karen,0,0,0,,Please take care of me today!
+Dialogue: 0,0:25:39.33,0:25:40.53,Generic,Reia,0,0,0,,Pure, proper, and beautiful—
+Dialogue: 0,0:25:40.61,0:25:42.07,Generic,Reia,0,0,0,,I play about 30 instruments—
+Dialogue: 0,0:25:42.15,0:25:43.43,Generic,Reia,0,0,0,,all-purpose Reiwa Reia!
+Dialogue: 0,0:25:43.51,0:25:44.97,Generic,Reia,0,0,0,,From Kanagawa Prefecture.
+Dialogue: 0,0:25:45.05,0:25:46.53,Generic,Reia,0,0,0,,18-year-old Reia!
+Dialogue: 0,0:25:46.61,0:25:47.21,Generic,Reia,0,0,0,,Reia!
+Dialogue: 0,0:25:48.17,0:25:48.77,Generic,Reia,0,0,0,,Thank you!
+Dialogue: 0,0:25:53.44,0:25:56.00,Generic,Reia,0,0,0,,What I'd take…
+Dialogue: 0,0:25:56.48,0:25:57.90,Generic,Reia,0,0,0,,To be practical—
+Dialogue: 0,0:25:57.98,0:26:00.62,Generic,Reia,0,0,0,,is a tool for making fire.
+Dialogue: 0,0:26:01.10,0:26:04.04,Generic,Reia,0,0,0,,I really love deserted-island survival
+Dialogue: 0,0:26:04.12,0:26:05.98,Generic,Reia,0,0,0,,videos,
+Dialogue: 0,0:26:06.06,0:26:10.64,Generic,Reia,0,0,0,,and from a one-week survival video I watched,
+Dialogue: 0,0:26:10.72,0:26:13.32,Generic,Reia,0,0,0,,fire is the most important thing.
+Dialogue: 0,0:26:14.08,0:26:19.28,Generic,Reia,0,0,0,,Without fire you can't drink seawater or eat,
+Dialogue: 0,0:26:19.36,0:26:24.72,Generic,Reia,0,0,0,,and in the worst case the smoke can send an SOS.
+Dialogue: 0,0:26:24.80,0:26:27.22,Generic,Reia,0,0,0,,I want to go home fast,
+Dialogue: 0,0:26:28.72,0:26:34.12,Generic,Reia,0,0,0,,I can't live there forever — so have a little fun,
+Dialogue: 0,0:26:34.20,0:26:35.20,Generic,Reia,0,0,0,,while still having fun,
+Dialogue: 0,0:26:35.42,0:26:38.70,Generic,Reia,0,0,0,,send an SOS and get home quick. Please take care of me today!
+Dialogue: 0,0:26:43.43,0:26:46.39,Generic,Ibuki,0,0,0,,When I point the mic, say "Ibuki—!"
+Dialogue: 0,0:26:48.40,0:26:49.52,Generic,Ibuki,0,0,0,,Ibu-ibu-ibu~!
+Dialogue: 0,0:26:52.47,0:26:55.76,Generic,Ibuki,0,0,0,,Thank you!
+Dialogue: 0,0:26:55.84,0:26:59.21,Generic,Ibuki,0,0,0,,Blowing new wind into HKT — kickboxing fan Ishibashi Ibuki from Fukuoka!
+Dialogue: 0,0:26:59.29,0:26:59.89,Generic,Ibuki,0,0,0,,Thank you!
+Dialogue: 0,0:27:04.39,0:27:09.69,Generic,Ibuki,0,0,0,,What I'd take to a deserted island is pea shoots — you know them?
+Dialogue: 0,0:27:09.77,0:27:14.87,Generic,Ibuki,0,0,0,,The vegetable — I'd take the bottom part of the pea-shoot plant.
+Dialogue: 0,0:27:14.95,0:27:20.05,Generic,Ibuki,0,0,0,,They actually keep growing — and for fire, you do it like this…
+Dialogue: 0,0:27:20.63,0:27:23.42,Generic,Ibuki,0,0,0,,Salt too — you sizzle it properly like this…
+Dialogue: 0,0:27:23.50,0:27:28.78,Generic,Ibuki,0,0,0,,Sizzle it into salt, cut the pea shoots, grill them — and you can eat
+Dialogue: 0,0:27:28.86,0:27:29.45,Generic,Ibuki,0,0,0,,them,
+Dialogue: 0,0:27:29.53,0:27:34.18,Generic,Ibuki,0,0,0,,So if I take the seed bit of the pea shoots, I feel like I could live forever.
+Dialogue: 0,0:27:34.26,0:27:36.58,Generic,Ibuki,0,0,0,,Please take care of me today!
+Dialogue: 0,0:27:38.18,0:27:41.97,Generic,Rino,0,0,0,,Sleeping-land princess —
+Dialogue: 0,0:27:42.05,0:27:45.92,Generic,Rino,0,0,0,,please wake Rino!
+Dialogue: 0,0:27:46.50,0:27:49.06,Generic,Rino,0,0,0,,Thank you! Team H Rino-chan — Sakamoto Rino!
+Dialogue: 0,0:27:49.44,0:27:50.44,Generic,Rino,0,0,0,,Rino-chaan!
+Dialogue: 0,0:27:52.54,0:27:53.14,Generic,Rino,0,0,0,,Thank you!
+Dialogue: 0,0:27:53.92,0:27:57.34,Generic,Rino,0,0,0,,What I'd take is a sleeping bag.
+Dialogue: 0,0:27:57.84,0:28:01.68,Generic,Rino,0,0,0,,The other day I had a camping job with Aichi,
+Dialogue: 0,0:28:02.12,0:28:04.92,Generic,Rino,0,0,0,,and we put up a tent,
+Dialogue: 0,0:28:05.00,0:28:09.26,Generic,Rino,0,0,0,,and inside there was a sleeping bag — it felt so good to sleep in.
+Dialogue: 0,0:28:09.84,0:28:14.60,Generic,Rino,0,0,0,,So I figured sleeping would be fine — I'd take a sleeping bag.
+Dialogue: 0,0:28:14.68,0:28:16.04,Generic,Rino,0,0,0,,Please take care of me today!
+Dialogue: 0,0:28:16.68,0:28:18.14,Generic,Rino,0,0,0,,Yay!
+Dialogue: 0,0:28:20.45,0:28:23.19,Generic,Hiiro,0,0,0,,When I say "super," say "hero!"
+Dialogue: 0,0:28:25.05,0:28:28.23,Generic,Hiiro,0,0,0,,Bright like the sun — Hakata's super—
+Dialogue: 0,0:28:28.65,0:28:29.63,Generic,Hiiro,0,0,0,,Hero!
+Dialogue: 0,0:28:30.29,0:28:34.51,Generic,Hiiro,0,0,0,,Thank you! From Fukuoka — 21-year-old Team H Kitagawa Hiiro!
+Dialogue: 0,0:28:34.59,0:28:35.65,Generic,Hiiro,0,0,0,,Hero!
+Dialogue: 0,0:28:36.09,0:28:36.69,Generic,Hiiro,0,0,0,,Thank you!
+Dialogue: 0,0:28:40.38,0:28:44.06,Generic,Hiiro,0,0,0,,I'm a bit similar — I'd want to take a pillow.
+Dialogue: 0,0:28:45.02,0:28:50.28,Generic,Hiiro,0,0,0,,Food and fire I'd figure out somehow once I'm there,
+Dialogue: 0,0:28:50.36,0:28:52.14,Generic,Hiiro,0,0,0,,but a pillow is what I'd want to take.
+Dialogue: 0,0:28:52.22,0:28:57.46,Generic,Hiiro,0,0,0,,The other day a member stayed over at my place — I can usually sleep without a pillow,
+Dialogue: 0,0:28:57.54,0:28:58.86,Generic,Hiiro,0,0,0,,I'm the type who can sleep without one,
+Dialogue: 0,0:28:58.94,0:29:00.96,Generic,Hiiro,0,0,0,,so to the girl who stayed over—
+Dialogue: 0,0:29:01.04,0:29:05.60,Generic,Hiiro,0,0,0,,I said "sure, use the pillow — sleep well; I can sleep anywhere,"
+Dialogue: 0,0:29:05.96,0:29:11.30,Generic,Hiiro,0,0,0,,I gave her the pillow — but when it was time to sleep, without it I couldn't settle,
+Dialogue: 0,0:29:11.38,0:29:12.44,Generic,Hiiro,0,0,0,,and I couldn't sleep!
+Dialogue: 0,0:29:12.52,0:29:17.84,Generic,Hiiro,0,0,0,,But I'd already given it away, so I couldn't ask for it back — that's why I want one.
+Dialogue: 0,0:29:17.92,0:29:18.51,Generic,Hiiro,0,0,0,,that's why I want one.
+Dialogue: 0,0:29:18.59,0:29:19.90,Generic,Hiiro,0,0,0,,Please take care of me today!
+Dialogue: 0,0:29:19.98,0:29:22.48,Generic,Hiiro,0,0,0,,Yay!
+Dialogue: 0,0:29:22.94,0:29:27.41,Generic,Aki,0,0,0,,Aki's "A" is the "A" in Asura, but her heart is a Bodhisattva —
+Dialogue: 0,0:29:27.49,0:29:32.04,Generic,Aki,0,0,0,,still in training. 25-year-old Aki, Toyonaga Aki!
+Dialogue: 0,0:29:32.12,0:29:32.80,Generic,Aki,0,0,0,,Aki-chan!
+Dialogue: 0,0:29:34.40,0:29:35.00,Generic,Aki,0,0,0,,Thank you!
+Dialogue: 0,0:29:37.97,0:29:43.35,Generic,Aki,0,0,0,,I have no proof — if you ask why I'd be stuck — but on a deserted island
+Dialogue: 0,0:29:43.43,0:29:45.07,Generic,Aki,0,0,0,,I'm sure I could survive.
+Dialogue: 0,0:29:46.09,0:29:48.05,Generic,Aki,0,0,0,,Even if you ask why, I can't explain—
+Dialogue: 0,0:29:48.13,0:29:53.45,Generic,Aki,0,0,0,,But I can sleep anywhere, I can dive, and basically
+Dialogue: 0,0:29:53.53,0:29:56.45,Generic,Aki,0,0,0,,with my glasses I could start a fire if I try,
+Dialogue: 0,0:29:57.09,0:30:01.19,Generic,Aki,0,0,0,,focus sunlight on dry leaves — you could start a fire, right?
+Dialogue: 0,0:30:01.63,0:30:04.99,Generic,Aki,0,0,0,,And I can eat anything, so I think I'd make it.
+Dialogue: 0,0:30:05.07,0:30:10.45,Generic,Aki,0,0,0,,Thinking ahead, I'd take a camera, shoot the island, and make a profit—
+Dialogue: 0,0:30:10.53,0:30:13.05,Generic,Aki,0,0,0,,that's the conclusion I reached.
+Dialogue: 0,0:30:13.13,0:30:14.47,Generic,Aki,0,0,0,,Don't make a calendar—
+Dialogue: 0,0:30:14.55,0:30:19.45,Generic,Aki,0,0,0,,But if an island calendar comes out, please buy lots!
+Dialogue: 0,0:30:19.87,0:30:21.15,Generic,Aki,0,0,0,,Please take care of me today!
+Dialogue: 0,0:30:21.23,0:30:21.92,Generic,Sae,0,0,0,,Yay!
+Dialogue: 0,0:30:22.00,0:30:27.42,Generic,Sae,0,0,0,,Yes — HKT48 Team H's
+Dialogue: 0,0:30:27.50,0:30:29.08,Generic,Sae,0,0,0,,Sae-chan, Kurihara Sae!
+Dialogue: 0,0:30:29.16,0:30:32.97,Generic,Sae,0,0,0,,Sae-chan, good morning!
+Dialogue: 0,0:30:33.97,0:30:36.43,Generic,Sae,0,0,0,,I don't want to go to a deserted island.
+Dialogue: 0,0:30:37.25,0:30:38.05,Generic,Sae,0,0,0,,Everyone—
+Dialogue: 0,0:30:38.13,0:30:42.77,Generic,Sae,0,0,0,,I don't want to go… hmm, maybe lip cream?
+Dialogue: 0,0:30:43.53,0:30:44.77,Generic,Sae,0,0,0,,My lips get dry,
+Dialogue: 0,0:30:44.85,0:30:46.29,Generic,Sae,0,0,0,,I really hate dry lips,
+Dialogue: 0,0:30:47.03,0:30:48.51,Generic,Sae,0,0,0,,so I'd take lip cream,
+Dialogue: 0,0:30:48.59,0:30:50.29,Generic,Sae,0,0,0,,"Rub on salt, rub on salt,"
+Dialogue: 0,0:30:50.69,0:30:51.73,Generic,Sae,0,0,0,,"Scrub with it!"
+Dialogue: 0,0:30:51.81,0:30:53.51,Generic,Sae,0,0,0,,And I'd take Aki-chan too,
+Dialogue: 0,0:30:53.59,0:30:55.89,Generic,Sae,0,0,0,,start a fire with Aki-chan's glasses,
+Dialogue: 0,0:30:55.97,0:30:57.07,Generic,Sae,0,0,0,,Is that only for myself?
+Dialogue: 0,0:30:57.17,0:31:00.91,Generic,Sae,0,0,0,,Make Aki-chan dive in the sea — I'll lend the lip cream.
+Dialogue: 0,0:31:01.85,0:31:03.11,Generic,Sae,0,0,0,,With lip cream I'll be fine.
+Dialogue: 0,0:31:03.19,0:31:03.78,Generic,Sae,0,0,0,,I'll lend the lip cream.
+Dialogue: 0,0:31:03.86,0:31:04.91,Generic,Sae,0,0,0,,That's enough to survive.
+Dialogue: 0,0:31:04.99,0:31:05.58,Generic,Sae,0,0,0,,Right?
+Dialogue: 0,0:31:05.66,0:31:09.39,Generic,Sae,0,0,0,,Take lip cream with Aki-chan — wait, lip… lip cream?
+Dialogue: 0,0:31:09.99,0:31:11.15,Generic,Sae,0,0,0,,I can't even say it anymore.
+Dialogue: 0,0:31:11.45,0:31:14.59,Generic,Sae,0,0,0,,So I'd take lip cream.
+Dialogue: 0,0:31:14.67,0:31:16.28,Generic,Sae,0,0,0,,Please take care of me today!
+Dialogue: 0,0:31:16.69,0:31:22.01,Generic,Saaya,0,0,0,,Okay everyone — clap and call with me!
+Dialogue: 0,0:31:22.09,0:31:23.87,Generic,Saaya,0,0,0,,Please!
+Dialogue: 0,0:31:25.14,0:31:26.32,Generic,Saaya,0,0,0,,Looking sharp today—
+Dialogue: 0,0:31:26.74,0:31:29.07,Generic,Saaya,0,0,0,,Looking sharp today?
+Dialogue: 0,0:31:29.19,0:31:29.78,Generic,Saaya,0,0,0,,Saaya!
+Dialogue: 0,0:31:29.86,0:31:30.64,Generic,Saaya,0,0,0,,Coloring your mind?
+Dialogue: 0,0:31:30.76,0:31:31.35,Generic,Saaya,0,0,0,,Saaya!
+Dialogue: 0,0:31:31.43,0:31:32.92,Generic,Saaya,0,0,0,,Mokugekisha show — take care of me!
+Dialogue: 0,0:31:33.00,0:31:33.66,Generic,Saaya,0,0,0,,Uu~ Saa-ya!
+Dialogue: 0,0:31:34.82,0:31:35.42,Generic,Saaya,0,0,0,,Thank you!
+Dialogue: 0,0:31:36.24,0:31:37.40,Generic,Saaya,0,0,0,,From Kumamoto Prefecture.
+Dialogue: 0,0:31:37.48,0:31:39.70,Generic,Saaya,0,0,0,,20-year-old Team KIV Morisaki Saaya!
+Dialogue: 0,0:31:46.63,0:31:51.93,Generic,Saaya,0,0,0,,On a deserted island I'd probably be helpless…
+Dialogue: 0,0:31:52.01,0:31:56.67,Generic,Saaya,0,0,0,,When I can't go on — that's when I'd want Toyonaga Aki-san.
+Dialogue: 0,0:31:57.15,0:31:57.75,Generic,Saaya,0,0,0,,Okay!
+Dialogue: 0,0:31:58.61,0:32:00.71,Generic,Saaya,0,0,0,,Said with one-of-a-kind energy.
+Dialogue: 0,0:32:01.19,0:32:02.31,Generic,Saaya,0,0,0,,So popular, so popular!
+Dialogue: 0,0:32:02.39,0:32:07.65,Generic,Saaya,0,0,0,,When my spirit breaks and I feel I can't survive,
+Dialogue: 0,0:32:07.73,0:32:09.33,Generic,Saaya,0,0,0,,she'd give fiery pep talks.
+Dialogue: 0,0:32:09.41,0:32:11.53,Generic,Saaya,0,0,0,,I know she would.
+Dialogue: 0,0:32:11.61,0:32:14.47,Generic,Saaya,0,0,0,,That'd better come back somehow — will we be okay?
+Dialogue: 0,0:32:14.99,0:32:16.29,Generic,Saaya,0,0,0,,I'll heal you!
+Dialogue: 0,0:32:16.59,0:32:19.85,Generic,Saaya,0,0,0,,Important — let's survive, the three of us. Do your best!
+Dialogue: 0,0:32:19.93,0:32:21.83,Generic,Saaya,0,0,0,,Right — and you'd lend me lip cream.
+Dialogue: 0,0:32:22.13,0:32:23.45,Generic,Saaya,0,0,0,,Leave it to me!
+Dialogue: 0,0:32:23.83,0:32:29.07,Generic,Saaya,0,0,0,,Plus Aki has amazing survival courage, so we'll be fine,
+Dialogue: 0,0:32:29.15,0:32:29.75,Generic,Saaya,0,0,0,,I think.
+Dialogue: 0,0:32:29.87,0:32:31.13,Generic,Saaya,0,0,0,,Please take care of me today!
+Dialogue: 0,0:32:31.69,0:32:33.43,Generic,Saaya,0,0,0,,Yay!
+Dialogue: 0,0:32:34.61,0:32:39.17,Generic,Ikuno,0,0,0,,From Fukuoka — third-year junior high, Ikuno Rina. Please take care of me!
+Dialogue: 0,0:32:39.41,0:32:40.81,Generic,Ikuno,0,0,0,,Ikuno—!
+Dialogue: 0,0:32:42.77,0:32:44.07,Generic,Ikuno,0,0,0,,Thank you so much!
+Dialogue: 0,0:32:44.91,0:32:50.31,Generic,Ikuno,0,0,0,,What I'd take isn't a thing so much as a person — Amiyun.
+Dialogue: 0,0:32:50.39,0:32:53.45,Generic,Ikuno,0,0,0,,We've been together constantly lately,
+Dialogue: 0,0:32:53.93,0:32:59.35,Generic,Ikuno,0,0,0,,and my heart lights up — the excitement never stops — just talking to her
+Dialogue: 0,0:32:59.43,0:33:00.23,Generic,Ikuno,0,0,0,,gives me energy,
+Dialogue: 0,0:33:00.31,0:33:05.79,Generic,Ikuno,0,0,0,,So with Amiyun I'd be giggling even on an island — I'd take Amiyun.
+Dialogue: 0,0:33:06.15,0:33:07.49,Generic,Ikuno,0,0,0,,Please take care of me today!
+Dialogue: 0,0:33:08.09,0:33:09.19,Generic,Ikuno,0,0,0,,Yay!
+Dialogue: 0,0:33:11.94,0:33:14.78,Generic,Hanna,0,0,0,,When I point the mic, say "hanchaka-chan!"
+Dialogue: 0,0:33:15.60,0:33:16.24,Generic,Hanna,0,0,0,,Okay!
+Dialogue: 0,0:33:16.78,0:33:18.66,Generic,Hanna,0,0,0,,The love that bonds us all—
+Dialogue: 0,0:33:18.94,0:33:20.42,Generic,Hanna,0,0,0,,hanchaka-chan!
+Dialogue: 0,0:33:21.38,0:33:21.97,Generic,Hanna,0,0,0,,Yes — here goes!
+Dialogue: 0,0:33:22.05,0:33:27.52,Generic,Hanna,0,0,0,,From Oita — third-year junior high, 14 — Ihara Hanna!
+Dialogue: 0,0:33:27.60,0:33:29.03,Generic,Hanna,0,0,0,,Call me Han-chan. Please take care of me!
+Dialogue: 0,0:33:29.49,0:33:30.09,Generic,Hanna,0,0,0,,Han-chan!
+Dialogue: 0,0:33:33.64,0:33:34.82,Generic,Hanna,0,0,0,,Thank you! Thank you!
+Dialogue: 0,0:33:35.64,0:33:40.76,Generic,Hanna,0,0,0,,What I'd take to a deserted island — it's probably impossible in real life, but—
+Dialogue: 0,0:33:40.90,0:33:43.04,Generic,Hanna,0,0,0,,I'd take a whole karaoke parlor.
+Dialogue: 0,0:33:43.30,0:33:48.66,Generic,Hanna,0,0,0,,If you take the whole parlor, you get a drink bar and food too,
+Dialogue: 0,0:33:48.74,0:33:49.33,Generic,Hanna,0,0,0,,and all that.
+Dialogue: 0,0:33:49.41,0:33:49.96,Generic,Hanna,0,0,0,,The whole shop?
+Dialogue: 0,0:33:50.04,0:33:50.68,Generic,Hanna,0,0,0,,That's right.
+Dialogue: 0,0:33:50.98,0:33:51.66,Generic,Hanna,0,0,0,,So that's the plan.
+Dialogue: 0,0:33:51.74,0:33:52.86,Generic,Hanna,0,0,0,,Isn't that almost cheating?
+Dialogue: 0,0:33:52.94,0:33:56.90,Generic,Hanna,0,0,0,,I think this is the strongest pick. Please take care of me today!
+Dialogue: 0,0:33:57.46,0:33:59.26,Generic,Hanna,0,0,0,,Yay!
+Dialogue: 0,0:34:00.91,0:34:04.09,Generic,Miyu,0,0,0,,When I point the mic, go "fuu~!"
+Dialogue: 0,0:34:04.81,0:34:05.41,Generic,Miyu,0,0,0,,Okay!
+Dialogue: 0,0:34:05.92,0:34:10.20,Generic,Miyu,0,0,0,,Warm-smile lead — I'll turn today into an eternal day!
+Dialogue: 0,0:34:11.67,0:34:16.59,Generic,Miyu,0,0,0,,Thank you! From Fukuoka — 18-year-old Team KIV Izawa Miyu!
+Dialogue: 0,0:34:16.67,0:34:18.19,Generic,Miyu,0,0,0,,Please take care of me!
+Dialogue: 0,0:34:18.27,0:34:18.87,Generic,Miyu,0,0,0,,Yay!
+Dialogue: 0,0:34:23.37,0:34:23.97,Generic,Miyu,0,0,0,,Thank you!
+Dialogue: 0,0:34:24.43,0:34:28.07,Generic,Miyu,0,0,0,,What I'd take to a deserted island is a frying pan.
+Dialogue: 0,0:34:28.15,0:34:28.80,Generic,Miyu,0,0,0,,What's that?
+Dialogue: 0,0:34:28.88,0:34:33.85,Generic,Miyu,0,0,0,,When you cook, if you put things over fire you can eat most stuff,
+Dialogue: 0,0:34:33.93,0:34:34.57,Generic,Miyu,0,0,0,,right?
+Dialogue: 0,0:34:34.73,0:34:40.15,Generic,Miyu,0,0,0,,And it's safe — if something dangerous comes, with a frying pan you go WHAM—
+Dialogue: 0,0:34:40.23,0:34:40.82,Generic,Miyu,0,0,0,,you can do that.
+Dialogue: 0,0:34:40.90,0:34:41.53,Generic,Miyu,0,0,0,,Okay!
+Dialogue: 0,0:34:41.61,0:34:45.01,Generic,Miyu,0,0,0,,Say it again — you can go "WHAM" with a frying pan!
+Dialogue: 0,0:34:49.75,0:34:52.67,Generic,Miyu,0,0,0,,I'll do my best today too — please take care of me!
+Dialogue: 0,0:34:58.19,0:35:01.25,Generic,Aichi,0,0,0,,Safety first, health first — everyone's Ai-chii!
+Dialogue: 0,0:35:03.85,0:35:07.13,Generic,Aichi,0,0,0,,Thank you! From Kanagawa — Aichi, Ichimura Airi!
+Dialogue: 0,0:35:10.91,0:35:11.50,Generic,Aichi,0,0,0,,Thank you!
+Dialogue: 0,0:35:11.58,0:35:16.89,Generic,Aichi,0,0,0,,Thank you! The people I'd take are—
+Dialogue: 0,0:35:16.97,0:35:20.79,Generic,Aichi,0,0,0,,you fans who come to the theater.
+Dialogue: 0,0:35:21.55,0:35:22.14,Generic,Aichi,0,0,0,,After all,
+Dialogue: 0,0:35:22.22,0:35:24.03,Generic,Aichi,0,0,0,,when it's hot, everyone
+Dialogue: 0,0:35:24.11,0:35:25.13,Generic,Aichi,0,0,0,,Okay!
+Dialogue: 0,0:35:25.21,0:35:28.31,Generic,Aichi,0,0,0,,would fan me with uchiwa,
+Dialogue: 0,0:35:29.71,0:35:33.89,Generic,Aichi,0,0,0,,and if dangerous beasts appear, everyone would surround and protect me—
+Dialogue: 0,0:35:35.27,0:35:35.99,Generic,Aichi,0,0,0,,…sacrifice?
+Dialogue: 0,0:35:37.37,0:35:39.53,Generic,Aichi,0,0,0,,Uh-oh — I'd end up sacrificing them!
+Dialogue: 0,0:35:39.61,0:35:41.67,Generic,Aichi,0,0,0,,Sorry — they'd protect me properly,
+Dialogue: 0,0:35:41.75,0:35:46.43,Generic,Aichi,0,0,0,,and with everyone's penlights you can send an SOS!
+Dialogue: 0,0:35:46.51,0:35:47.59,Generic,Aichi,0,0,0,,Okay!
+Dialogue: 0,0:35:48.09,0:35:48.68,Generic,Aichi,0,0,0,,Okay!
+Dialogue: 0,0:35:48.76,0:35:49.36,Generic,Aichi,0,0,0,,Okay!
+Dialogue: 0,0:35:50.77,0:35:51.85,Generic,Aichi,0,0,0,,Okay!
+Dialogue: 0,0:35:53.23,0:35:55.91,Generic,Ayane,0,0,0,,When I point the mic, say "Aya-chan!"
+Dialogue: 0,0:35:57.51,0:36:00.29,Generic,Ayane,0,0,0,,Sparkling eyes and round cheeks—
+Dialogue: 0,0:36:01.49,0:36:02.09,Generic,Ayane,0,0,0,,Thank you!
+Dialogue: 0,0:36:03.39,0:36:04.79,Generic,Ayane,0,0,0,,Charm packed in the right cheek,
+Dialogue: 0,0:36:04.87,0:36:06.65,Generic,Ayane,0,0,0,,power packed in the left cheek—
+Dialogue: 0,0:36:06.73,0:36:08.89,Generic,Ayane,0,0,0,,delivering power to everyone today!
+Dialogue: 0,0:36:10.55,0:36:11.14,Generic,Ayane,0,0,0,,Thank you!
+Dialogue: 0,0:36:11.22,0:36:13.55,Generic,Ayane,0,0,0,,From Nagasaki — 14-year-old Ryuto Ayane!
+Dialogue: 0,0:36:13.63,0:36:15.24,Generic,Ayane,0,0,0,,Please take care of me!
+Dialogue: 0,0:36:15.53,0:36:16.13,Generic,Ayane,0,0,0,,Thank you!
+Dialogue: 0,0:36:20.31,0:36:20.91,Generic,Ayane,0,0,0,,Thank you!
+Dialogue: 0,0:36:21.21,0:36:25.61,Generic,Ayane,0,0,0,,The person I'd take to a deserted island is Shibui Mina-san.
+Dialogue: 0,0:36:26.07,0:36:27.39,Generic,Ayane,0,0,0,,There's a reason—
+Dialogue: 0,0:36:28.03,0:36:30.29,Generic,Ayane,0,0,0,,When I'm with Shibui-san, even when I'm really down,
+Dialogue: 0,0:36:30.37,0:36:31.37,Generic,Ayane,0,0,0,,Wait — not Shibui-san—
+Dialogue: 0,0:36:32.43,0:36:33.73,Generic,Ayane,0,0,0,,she really looks out for me.
+Dialogue: 0,0:36:34.37,0:36:35.13,Generic,Ayane,0,0,0,,Shibui-san, yeah.
+Dialogue: 0,0:36:35.73,0:36:36.95,Generic,Ayane,0,0,0,,She's not here today though.
+Dialogue: 0,0:36:37.67,0:36:38.51,Generic,Ayane,0,0,0,,And, um—
+Dialogue: 0,0:36:38.89,0:36:41.27,Generic,Ayane,0,0,0,,even when I'm down she cheers me up,
+Dialogue: 0,0:36:42.25,0:36:44.41,Generic,Ayane,0,0,0,,and Shibui-san is always so energetic,
+Dialogue: 0,0:36:45.53,0:36:46.35,Generic,Ayane,0,0,0,,Same goes for—
+Dialogue: 0,0:36:46.43,0:36:49.71,Generic,Ayane,0,0,0,,she'd dive in the sea for me,
+Dialogue: 0,0:36:49.79,0:36:50.92,Generic,Ayane,0,0,0,,and climb palm trees too,
+Dialogue: 0,0:36:51.00,0:36:56.40,Generic,Ayane,0,0,0,,so I'd love for the two of us to try surviving together.
+Dialogue: 0,0:36:57.28,0:37:00.02,Generic,Ayane,0,0,0,,Today's the first Mokugekisha show — I'll do my best. Please take care of me!
+Dialogue: 0,0:37:05.02,0:37:08.08,Generic,Yuina,0,0,0,,Worried face & droopy eyes are my charm — always smiling~
+Dialogue: 0,0:37:08.50,0:37:09.40,Generic,Crowd,0,0,0,,Yuina!
+Dialogue: 0,0:37:09.40,0:37:10.92,Generic,Yuina,0,0,0,,It's Yuina!
+Dialogue: 0,0:37:11.00,0:37:14.00,Generic,Yuina,0,0,0,,13-year-old Ishimatsu Yuina. Please take care of me!
+Dialogue: 0,0:37:14.52,0:37:15.28,Generic,Yuina,0,0,0,,Yuina!
+Dialogue: 0,0:37:18.62,0:37:23.80,Generic,Yuina,0,0,0,,Thank you! I don't want to go to a deserted island either, but the person I'd take
+Dialogue: 0,0:37:23.88,0:37:25.68,Generic,Yuina,0,0,0,,is Rinka.
+Dialogue: 0,0:37:26.68,0:37:30.92,Generic,Yuina,0,0,0,,Rinka — she's from Kansai, so the chat never stops,
+Dialogue: 0,0:37:31.00,0:37:36.38,Generic,Yuina,0,0,0,,and she's solid about early nights and early mornings,
+Dialogue: 0,0:37:36.46,0:37:37.06,Generic,Yuina,0,0,0,,so
+Dialogue: 0,0:37:37.38,0:37:42.38,Generic,Yuina,0,0,0,,we'd stay healthy on an island — maybe forever!
+Dialogue: 0,0:37:42.46,0:37:44.22,Generic,Yuina,0,0,0,,Please take care of me today!
+Dialogue: 0,0:37:44.62,0:37:46.30,Generic,Yuina,0,0,0,,Yay!
+Dialogue: 0,0:37:48.36,0:37:49.61,Generic,Rinka,0,0,0,,Okay—
+Dialogue: 0,0:37:49.69,0:37:50.29,Generic,Crowd,0,0,0,,Rinka!
+Dialogue: 0,0:37:50.72,0:37:55.93,Generic,Rinka,0,0,0,,Little by little — charm point is big sparkling eyes — from Hyogo,
+Dialogue: 0,0:37:56.01,0:37:59.19,Generic,Rinka,0,0,0,,third-year high school, 17 — Ouchi Rinka!
+Dialogue: 0,0:38:04.16,0:38:04.88,Generic,Rinka,0,0,0,,Thank you! Thank you!
+Dialogue: 0,0:38:05.26,0:38:07.96,Generic,Rinka,0,0,0,,I'd also take people with me—
+Dialogue: 0,0:38:08.04,0:38:12.10,Generic,Rinka,0,0,0,,Aki-san and Ryuto-chan.
+Dialogue: 0,0:38:12.86,0:38:13.70,Generic,Rinka,0,0,0,,Sorry—
+Dialogue: 0,0:38:16.10,0:38:16.74,Generic,Rinka,0,0,0,,Wait, me?
+Dialogue: 0,0:38:16.82,0:38:17.68,Generic,Rinka,0,0,0,,Uh-oh.
+Dialogue: 0,0:38:18.56,0:38:20.24,Generic,Rinka,0,0,0,,Am I okay to say this?
+Dialogue: 0,0:38:20.96,0:38:26.30,Generic,Rinka,0,0,0,,There's a reason — Aki-san could handle beasts right away
+Dialogue: 0,0:38:26.38,0:38:31.44,Generic,Rinka,0,0,0,,with that strength — so she'd be food lead,
+Dialogue: 0,0:38:32.44,0:38:34.94,Generic,Rinka,0,0,0,,and Ryuto-chan is the healer type,
+Dialogue: 0,0:38:35.94,0:38:41.30,Generic,Rinka,0,0,0,,opposite of Aki's fiery energy — a healer who'd soothe me,
+Dialogue: 0,0:38:41.38,0:38:44.66,Generic,Rinka,0,0,0,,so maybe I'll take Yuina too!
+Dialogue: 0,0:38:44.74,0:38:45.84,Generic,Rinka,0,0,0,,Thank you, Yuina!
+Dialogue: 0,0:38:46.56,0:38:47.58,Generic,Rinka,0,0,0,,You're being considerate.
+Dialogue: 0,0:38:47.66,0:38:48.92,Generic,Rinka,0,0,0,,Maybe I'll take her!
+Dialogue: 0,0:38:49.46,0:38:51.40,Generic,Rinka,0,0,0,,Please take care of me today!
+Dialogue: 0,0:38:51.84,0:38:53.40,Generic,Rinka,0,0,0,,Yay!
+Dialogue: 0,0:38:55.51,0:38:57.81,Generic,Kokoha,0,0,0,,When I say "ready," say "Kokoha!"
+Dialogue: 0,0:38:57.89,0:38:59.13,Generic,Kokoha,0,0,0,,Okay!
+Dialogue: 0,0:38:59.67,0:39:02.49,Generic,Kokoha,0,0,0,,Where is this place? Who am I? Ready—
+Dialogue: 0,0:39:02.57,0:39:03.55,Generic,Kokoha,0,0,0,,Kokoha!
+Dialogue: 0,0:39:04.45,0:39:05.05,Generic,Kokoha,0,0,0,,Thank you!
+Dialogue: 0,0:39:05.55,0:39:09.01,Generic,Kokoha,0,0,0,,From Fukuoka — second-year high school, 16 — Fujino Kokoha!
+Dialogue: 0,0:39:09.09,0:39:10.13,Generic,Kokoha,0,0,0,,Kokoha!
+Dialogue: 0,0:39:13.33,0:39:13.93,Generic,Kokoha,0,0,0,,Thank you!
+Dialogue: 0,0:39:14.73,0:39:17.42,Generic,Kokoha,0,0,0,,What I'd take to a deserted island…
+Dialogue: 0,0:39:17.50,0:39:18.21,Generic,Kokoha,0,0,0,,is an Anywhere Door — well,
+Dialogue: 0,0:39:18.29,0:39:18.88,Generic,Kokoha,0,0,0,,um—
+Dialogue: 0,0:39:18.96,0:39:20.90,Generic,Kokoha,0,0,0,,What I'd take to a deserted island…
+Dialogue: 0,0:39:22.86,0:39:24.48,Generic,Kokoha,0,0,0,,I wouldn't go home right away.
+Dialogue: 0,0:39:24.56,0:39:29.82,Generic,Kokoha,0,0,0,,But with an Anywhere Door I could pop home or to a shop, then come back to the island,
+Dialogue: 0,0:39:29.90,0:39:30.50,Generic,Kokoha,0,0,0,,and so on.
+Dialogue: 0,0:39:31.62,0:39:36.94,Generic,Kokoha,0,0,0,,I could always go home — or bring all the members over
+Dialogue: 0,0:39:37.02,0:39:42.34,Generic,Kokoha,0,0,0,,and make them live that pitiful life — so an Anywhere Door
+Dialogue: 0,0:39:42.42,0:39:44.92,Generic,Kokoha,0,0,0,,is what I'd take. Please take care of me today!
+Dialogue: 0,0:39:49.88,0:39:54.60,Generic,Host,0,0,0,,That's today's HKT48 Team H Mokugekisha cast!
+Dialogue: 0,0:39:54.68,0:39:58.52,Generic,Host,0,0,0,,It's midday, but can we keep the energy going?
+Dialogue: 0,0:40:00.82,0:40:05.54,Generic,Host,0,0,0,,Can you call even louder? Thank you!
+Dialogue: 0,0:40:06.06,0:40:08.70,Generic,Host,0,0,0,,Next: various units — here we go!
+
+; ===== mc1 =====
+
+Dialogue: 0,1:01:04.91,1:01:06.03,Generic,Members,0,0,0,,Yay!
+Dialogue: 0,1:01:07.40,1:01:13.90,Generic,Host,0,0,0,,Ude wo Kunde, Enjou Rosen, Itoshisa no Accel, Hoshi no Mukougawa, and Saboten to Gold Rush — five songs in a row!
+Dialogue: 0,1:01:15.86,1:01:17.84,Generic,Host,0,0,0,,Is everyone having fun?
+Dialogue: 0,1:01:18.14,1:01:19.28,Generic,Members,0,0,0,,Yay!
+Dialogue: 0,1:01:20.60,1:01:21.20,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,1:01:21.53,1:01:25.39,Generic,Host,0,0,0,,Now for a little unit MC.
+Dialogue: 0,1:01:27.69,1:01:30.04,Generic,Host,0,0,0,,Alright, I'll go first—
+Dialogue: 0,1:01:30.66,1:01:34.80,Generic,Host,0,0,0,,Something I discovered after coming to Fukuoka, part 2.
+Dialogue: 0,1:01:36.76,1:01:38.88,Generic,Host,0,0,0,,Last time I talked about it here—
+Dialogue: 0,1:01:39.84,1:01:43.03,Generic,Host,0,0,0,,—on Saka Agari, I already brought it up, but
+Dialogue: 0,1:01:43.10,1:01:45.80,Generic,Host,0,0,0,,this time I've got another new discovery.
+Dialogue: 0,1:01:46.66,1:01:50.67,Generic,Host,0,0,0,,I was shopping at a pharmacy with my dad again,
+Dialogue: 0,1:01:50.74,1:01:55.90,Generic,Host,0,0,0,,and Dad asked the clerk for "mebachiko" medicine.
+Dialogue: 0,1:01:56.34,1:02:00.19,Generic,Host,0,0,0,,He kept saying mebachiko over and over, and the clerk was like
+Dialogue: 0,1:02:00.26,1:02:01.09,Generic,Host,0,0,0,,"Huh?"
+Dialogue: 0,1:02:01.16,1:02:04.56,Generic,Host,0,0,0,,"What are you even saying?" — that kind of face.
+Dialogue: 0,1:02:04.80,1:02:08.07,Generic,Host,0,0,0,,I was standing there listening — if mebachiko doesn't work here,
+Dialogue: 0,1:02:08.14,1:02:09.87,Generic,Host,0,0,0,,I figured it must be "monmorai,"
+Dialogue: 0,1:02:09.94,1:02:12.07,Generic,Host,0,0,0,,so I said "monmorai medicine, please,"
+Dialogue: 0,1:02:12.14,1:02:14.33,Generic,Host,0,0,0,,and they got it right away — "Sorry, I didn't understand—"
+Dialogue: 0,1:02:14.40,1:02:16.59,Generic,Host,0,0,0,,that's how they put it.
+Dialogue: 0,1:02:16.66,1:02:21.01,Generic,Host,0,0,0,,So I wondered what people in Fukuoka call a sty…
+Dialogue: 0,1:02:21.08,1:02:21.69,Generic,Member,0,0,0,,True.
+Dialogue: 0,1:02:21.76,1:02:22.94,Generic,Member,0,0,0,,You don't know?
+Dialogue: 0,1:02:25.36,1:02:27.00,Generic,Member,0,0,0,,She jumped in suddenly.
+Dialogue: 0,1:02:28.30,1:02:30.61,Generic,Yuina,0,0,0,,In Fukuoka they say meibo, right?
+Dialogue: 0,1:02:30.68,1:02:31.16,Generic,Yuina,0,0,0,,You don't know?
+Dialogue: 0,1:02:31.24,1:02:31.99,Generic,Yuina,0,0,0,,Maybe I don't know.
+Dialogue: 0,1:02:32.06,1:02:33.50,Generic,Host,0,0,0,,Huh? What?
+Dialogue: 0,1:02:33.94,1:02:34.50,Generic,Host,0,0,0,,What's up?
+Dialogue: 0,1:02:34.74,1:02:35.57,Generic,Host,0,0,0,,Yuina-chan—
+Dialogue: 0,1:02:35.64,1:02:36.88,Generic,Host,0,0,0,,Wait, so you knew!
+Dialogue: 0,1:02:37.38,1:02:39.00,Generic,Host,0,0,0,,But I just looked it up—
+Dialogue: 0,1:02:40.40,1:02:43.71,Generic,Host,0,0,0,,You looked it up and still sounded so sure…
+Dialogue: 0,1:02:43.78,1:02:44.32,Generic,Yuina,0,0,0,,I don't know.
+Dialogue: 0,1:02:45.56,1:02:46.77,Generic,Host,0,0,0,,"So it's meibo," huh?
+Dialogue: 0,1:02:46.84,1:02:48.22,Generic,Host,0,0,0,,Not something to say with a smug face.
+Dialogue: 0,1:02:48.80,1:02:50.88,Generic,Yuina,0,0,0,,I really don't know.
+Dialogue: 0,1:02:51.26,1:02:52.29,Generic,Host,0,0,0,,First I'm hearing it.
+Dialogue: 0,1:02:52.36,1:02:56.03,Generic,Host,0,0,0,,But yeah — Fukuoka vs other prefectures—
+Dialogue: 0,1:02:56.10,1:02:56.62,Generic,Member,0,0,0,,Right.
+Dialogue: 0,1:02:57.20,1:03:01.27,Generic,Host,0,0,0,,They're different — words and how you say things can differ…
+Dialogue: 0,1:03:01.34,1:03:03.02,Generic,Member,0,0,0,,True, true.
+Dialogue: 0,1:03:03.78,1:03:04.67,Generic,Host,0,0,0,,There's all kinds of stuff.
+Dialogue: 0,1:03:04.74,1:03:10.31,Generic,Host,0,0,0,,Those tiny bugs flying around your head—
+Dialogue: 0,1:03:10.38,1:03:12.57,Generic,Host,0,0,0,,what do you call them?
+Dialogue: 0,1:03:12.64,1:03:15.25,Generic,Host,0,0,0,,We're from Kanagawa,
+Dialogue: 0,1:03:15.32,1:03:19.38,Generic,Host,0,0,0,,I used to call them something like atama-mushi — head-bugs—
+Dialogue: 0,1:03:19.84,1:03:22.85,Generic,Host,0,0,0,,but Fukuoka says it differently.
+Dialogue: 0,1:03:22.92,1:03:24.68,Generic,Host,0,0,0,,Huh? Nō-kui-mushi — "brain-eating bugs," yeah.
+Dialogue: 0,1:03:25.70,1:03:27.93,Generic,Member,0,0,0,,Nō-kui-mushi is probably the common name?
+Dialogue: 0,1:03:28.00,1:03:31.82,Generic,Member,0,0,0,,That's pretty common.
+Dialogue: 0,1:03:32.20,1:03:35.44,Generic,Host,0,0,0,,In Kansai they apparently call them "idiot bugs."
+Dialogue: 0,1:03:35.90,1:03:39.34,Generic,Member,0,0,0,,So Kansai, somehow.
+Dialogue: 0,1:03:40.36,1:03:41.70,Generic,Member,0,0,0,,Today's prep is intense.
+Dialogue: 0,1:03:42.32,1:03:44.66,Generic,Host,0,0,0,,We did a meeting,
+Dialogue: 0,1:03:45.34,1:03:47.23,Generic,Host,0,0,0,,and I researched the second half.
+Dialogue: 0,1:03:47.30,1:03:48.70,Generic,Member,0,0,0,,A well-researched MC.
+Dialogue: 0,1:03:49.30,1:03:51.84,Generic,Host,0,0,0,,So we've talked a lot,
+Dialogue: 0,1:03:52.98,1:03:54.49,Generic,Member,0,0,0,,Yuina prepped hard too— thanks!
+Dialogue: 0,1:03:54.56,1:03:55.24,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,1:03:57.68,1:03:59.25,Generic,Host,0,0,0,,We talked a ton,
+Dialogue: 0,1:03:59.32,1:04:01.85,Generic,Host,0,0,0,,ready to cheer?
+Dialogue: 0,1:04:01.92,1:04:07.28,Generic,Host,0,0,0,,Can we get member calls?
+Dialogue: 0,1:04:09.77,1:04:10.37,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,1:04:10.91,1:04:12.62,Generic,Host,0,0,0,,Next song, please!
+Dialogue: 0,1:04:12.69,1:04:13.29,Generic,Host,0,0,0,,Here we go!
+
+; ===== mc2 =====
+
+Dialogue: 0,1:15:57.70,1:16:02.35,Generic,Host,0,0,0,,Utsukushiki Mono, Ai wo Kure, Matenrou no Kyori — three songs in a row!
+Dialogue: 0,1:16:02.42,1:16:04.74,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,1:16:05.56,1:16:06.16,Generic,Members,0,0,0,,Thank you!
+Dialogue: 0,1:16:09.18,1:16:12.28,Generic,Host,0,0,0,,Matenrou got so hyped—
+Dialogue: 0,1:16:12.74,1:16:15.12,Generic,Host,0,0,0,,I almost felt bad asking if you're still hyped.
+Dialogue: 0,1:16:15.84,1:16:17.80,Generic,Host,0,0,0,,Wonder if you've got any voice left — sorry!
+Dialogue: 0,1:16:18.38,1:16:20.68,Generic,Aichi,0,0,0,,Aichi, anything you want to say?
+Dialogue: 0,1:16:20.78,1:16:22.49,Generic,Aichi,0,0,0,,I did have a story,
+Dialogue: 0,1:16:22.56,1:16:26.02,Generic,Aichi,0,0,0,,but first — when I went out for Utsukushiki Mono,
+Dialogue: 0,1:16:28.06,1:16:31.74,Generic,Aichi,0,0,0,,I'd been on Saboten so I quick-changed,
+Dialogue: 0,1:16:32.28,1:16:36.43,Generic,Aichi,0,0,0,,then I had a part right at the top of verse 2,
+Dialogue: 0,1:16:36.50,1:16:39.08,Generic,Aichi,0,0,0,,and today I was cutting it so close—
+Dialogue: 0,1:16:40.12,1:16:41.91,Generic,Aichi,0,0,0,,when I tried to go out,
+Dialogue: 0,1:16:41.98,1:16:45.37,Generic,Aichi,0,0,0,,Hiiro was right there at the dressing-room door,
+Dialogue: 0,1:16:45.44,1:16:46.72,Generic,Aichi,0,0,0,,Hiiro was standing there,
+Dialogue: 0,1:16:48.10,1:16:50.08,Generic,Aichi,0,0,0,,so I had to shove Hiiro aside,
+Dialogue: 0,1:16:52.02,1:16:54.31,Generic,Aichi,0,0,0,,and I barely made it, honestly,
+Dialogue: 0,1:16:54.38,1:16:55.95,Generic,Aichi,0,0,0,,just in time for my part.
+Dialogue: 0,1:16:56.02,1:16:58.55,Generic,Aichi,0,0,0,,I kept wondering what happened to Hiiro after,
+Dialogue: 0,1:16:58.62,1:16:59.98,Generic,Aichi,0,0,0,,I kept thinking about it.
+Dialogue: 0,1:17:02.27,1:17:03.30,Generic,Aichi,0,0,0,,So that happened,
+Dialogue: 0,1:17:03.37,1:17:05.01,Generic,Aichi,0,0,0,,I'll ask her later.
+Dialogue: 0,1:17:05.87,1:17:07.63,Generic,Member,0,0,0,,What I wanted to talk about today—
+Dialogue: 0,1:17:08.53,1:17:12.62,Generic,Host,0,0,0,,Fujikoko was on a new position today,
+Dialogue: 0,1:17:12.69,1:17:13.29,Generic,Member,0,0,0,,That's right.
+Dialogue: 0,1:17:13.36,1:17:13.97,Generic,Members,0,0,0,,Thank you!
+Dialogue: 0,1:17:16.82,1:17:18.47,Generic,Member,0,0,0,,And lots of other things today—
+Dialogue: 0,1:17:18.54,1:17:21.09,Generic,Member,0,0,0,,plus Saaya, Ikuno-chan,
+Dialogue: 0,1:17:21.16,1:17:22.96,Generic,Member,0,0,0,,and Karen stepped in last-minute.
+Dialogue: 0,1:17:23.60,1:17:24.32,Generic,Member,0,0,0,,Amazing!
+Dialogue: 0,1:17:25.58,1:17:26.18,Generic,Member,0,0,0,,Right.
+Dialogue: 0,1:17:26.25,1:17:27.21,Generic,Host,0,0,0,,So Fujikoko,
+Dialogue: 0,1:17:27.28,1:17:28.89,Generic,Member,0,0,0,,learned it just yesterday,
+Dialogue: 0,1:17:28.96,1:17:31.25,Generic,Member,0,0,0,,which I thought was amazing.
+Dialogue: 0,1:17:31.32,1:17:34.90,Generic,Member,0,0,0,,During today's rehearsal,
+Dialogue: 0,1:17:36.56,1:17:39.63,Generic,Host,0,0,0,,I glanced at Fujikoko,
+Dialogue: 0,1:17:39.70,1:17:40.97,Generic,Member,0,0,0,,and her practice outfit looked
+Dialogue: 0,1:17:41.04,1:17:44.08,Generic,Member,0,0,0,,a bit off,
+Dialogue: 0,1:17:44.68,1:17:45.29,Generic,Member,0,0,0,,Yeah.
+Dialogue: 0,1:17:45.36,1:17:48.39,Generic,Member,0,0,0,,the bottoms weren't the usual ones.
+Dialogue: 0,1:17:48.46,1:17:51.42,Generic,Member,0,0,0,,Looking closer — front and back were reversed!
+Dialogue: 0,1:17:52.18,1:17:56.35,Generic,Member,0,0,0,,Not just back-to-front — inside-out!
+Dialogue: 0,1:17:56.42,1:17:57.36,Generic,Member,0,0,0,,Inside-out.
+Dialogue: 0,1:17:57.60,1:17:59.60,Generic,Member,0,0,0,,A tag sticking out like a tail here.
+Dialogue: 0,1:17:59.88,1:18:00.66,Generic,Member,0,0,0,,That's right.
+Dialogue: 0,1:18:00.76,1:18:01.38,Generic,Member,0,0,0,,There's a tag.
+Dialogue: 0,1:18:01.50,1:18:02.38,Generic,Member,0,0,0,,There's a tag.
+Dialogue: 0,1:18:02.58,1:18:06.06,Generic,Member,0,0,0,,The pocket was poking out weird too,
+Dialogue: 0,1:18:06.16,1:18:07.20,Generic,Member,0,0,0,,it was all floppy.
+Dialogue: 0,1:18:08.40,1:18:09.80,Generic,Member,0,0,0,,That's trendy lately.
+Dialogue: 0,1:18:10.12,1:18:10.97,Generic,Member,0,0,0,,You know those.
+Dialogue: 0,1:18:11.04,1:18:12.98,Generic,Member,0,0,0,,Like clothes from thrift shops,
+Dialogue: 0,1:18:13.36,1:18:13.96,Generic,Member,0,0,0,,Yeah there are.
+Dialogue: 0,1:18:14.03,1:18:14.63,Generic,Member,0,0,0,,It's trendy.
+Dialogue: 0,1:18:14.82,1:18:15.42,Generic,Member,0,0,0,,But—
+Dialogue: 0,1:18:15.49,1:18:16.94,Generic,Member,0,0,0,,the tag was right here.
+Dialogue: 0,1:18:17.88,1:18:20.56,Generic,Member,0,0,0,,She'd noticed before rehearsal herself.
+Dialogue: 0,1:18:21.44,1:18:23.82,Generic,Member,0,0,0,,Wait wait — that changes the story.
+Dialogue: 0,1:18:24.14,1:18:25.80,Generic,Sae,0,0,0,,We were getting teased!
+Dialogue: 0,1:18:25.92,1:18:26.68,Generic,Member,0,0,0,,That's right.
+Dialogue: 0,1:18:27.44,1:18:28.08,Generic,Member,0,0,0,,What do you mean?
+Dialogue: 0,1:18:30.79,1:18:34.45,Generic,Member,0,0,0,,Normally if you notice you'd be embarrassed and change,
+Dialogue: 0,1:18:34.71,1:18:37.71,Generic,Member,0,0,0,,there was still time before rehearsal to change,
+Dialogue: 0,1:18:38.69,1:18:39.29,Generic,Member,0,0,0,,but she went "whatever."
+Dialogue: 0,1:18:40.93,1:18:41.57,Generic,Member,0,0,0,,This is something else.
+Dialogue: 0,1:18:42.05,1:18:43.03,Generic,Member,0,0,0,,And what's more—
+Dialogue: 0,1:18:43.13,1:18:45.27,Generic,Member,0,0,0,,Today was Ryuto's first appearance,
+Dialogue: 0,1:18:45.63,1:18:46.72,Generic,Member,0,0,0,,so there was a costume rehearsal,
+Dialogue: 0,1:18:46.79,1:18:47.39,Generic,Member,0,0,0,,costumes and all,
+Dialogue: 0,1:18:47.46,1:18:48.23,Generic,Member,0,0,0,,After putting it all on,
+Dialogue: 0,1:18:48.33,1:18:50.61,Generic,Member,0,0,0,,just her rehearsing alone,
+Dialogue: 0,1:18:50.73,1:18:53.23,Generic,Member,0,0,0,,while waiting for Ryuto to change,
+Dialogue: 0,1:18:53.33,1:18:54.58,Generic,Member,0,0,0,,everyone told her,
+Dialogue: 0,1:18:54.65,1:18:57.37,Generic,Host,0,0,0,,"Fujikoko, change already,"
+Dialogue: 0,1:18:57.53,1:18:58.53,Generic,Member,0,0,0,,"No, I'm fine."
+Dialogue: 0,1:19:00.13,1:19:01.07,Generic,Member,0,0,0,,She said she's fine!
+Dialogue: 0,1:19:01.81,1:19:02.45,Generic,Member,0,0,0,,What do you mean?
+Dialogue: 0,1:19:02.69,1:19:03.55,Generic,Member,0,0,0,,She's doing this on purpose.
+Dialogue: 0,1:19:03.63,1:19:04.23,Generic,Member,0,0,0,,She's doing this on purpose.
+Dialogue: 0,1:19:04.55,1:19:06.18,Generic,Host,0,0,0,,But did she ask Aichi?
+Dialogue: 0,1:19:06.25,1:19:07.05,Generic,Host,0,0,0,,Ask Fujikoko.
+Dialogue: 0,1:19:07.15,1:19:07.75,Generic,Member,0,0,0,,Right, so—
+Dialogue: 0,1:19:08.75,1:19:11.35,Generic,Member,0,0,0,,whether it's okay to use as MC material today,
+Dialogue: 0,1:19:11.49,1:19:12.12,Generic,Member,0,0,0,,kind of,
+Dialogue: 0,1:19:12.19,1:19:13.35,Generic,Member,0,0,0,,I did ask her,
+Dialogue: 0,1:19:13.81,1:19:15.23,Generic,Member,0,0,0,,sometimes members say,
+Dialogue: 0,1:19:15.59,1:19:16.19,Generic,Member,0,0,0,,um,
+Dialogue: 0,1:19:16.26,1:19:16.86,Generic,Member,0,0,0,,"it's embarrassing,"
+Dialogue: 0,1:19:16.93,1:19:17.53,Generic,Member,0,0,0,,It's embarrassing,
+Dialogue: 0,1:19:17.60,1:19:18.20,Generic,Aichi,0,0,0,,Sorry—
+Dialogue: 0,1:19:18.29,1:19:18.89,Generic,Member,0,0,0,,and so on,
+Dialogue: 0,1:19:18.96,1:19:19.56,Generic,Host,0,0,0,,but Fujikoko went,
+Dialogue: 0,1:19:19.63,1:19:20.18,Generic,Member,0,0,0,,Let's do it!
+Dialogue: 0,1:19:20.25,1:19:23.91,Generic,Member,0,0,0,,Let's do it!, she said—
+Dialogue: 0,1:19:23.98,1:19:25.92,Generic,Member,0,0,0,,saying "Let's do it!" — lol, maybe not—
+Dialogue: 0,1:19:28.42,1:19:29.48,Generic,Member,0,0,0,,She still went for it.
+Dialogue: 0,1:19:30.28,1:19:31.47,Generic,Member,0,0,0,,Without making it a bit,
+Dialogue: 0,1:19:31.54,1:19:32.19,Generic,Member,0,0,0,,But yeah,
+Dialogue: 0,1:19:32.26,1:19:33.28,Generic,Member,0,0,0,,Thanks for the MC material!
+Dialogue: 0,1:19:33.70,1:19:34.30,Generic,Member,0,0,0,,Right.
+Dialogue: 0,1:19:34.37,1:19:34.97,Generic,Member,0,0,0,,Really.
+Dialogue: 0,1:19:35.10,1:19:35.92,Generic,Member,0,0,0,,That's an obligation.
+Dialogue: 0,1:19:36.06,1:19:36.66,Generic,Member,0,0,0,,That's too much.
+Dialogue: 0,1:19:36.76,1:19:37.36,Generic,Member,0,0,0,,Let's go!
+Dialogue: 0,1:19:38.20,1:19:38.80,Generic,Member,0,0,0,,Like,
+Dialogue: 0,1:19:39.22,1:19:39.82,Generic,Member,0,0,0,,Like,
+Dialogue: 0,1:19:39.89,1:19:40.49,Generic,Member,0,0,0,,Different from Shibui's vibe,
+Dialogue: 0,1:19:40.56,1:19:41.30,Generic,Member,0,0,0,,the way you get mad.
+Dialogue: 0,1:19:45.34,1:19:46.64,Generic,Member,0,0,0,,Different genre, yeah.
+Dialogue: 0,1:19:46.86,1:19:47.46,Generic,Member,0,0,0,,Different genre, though.
+Dialogue: 0,1:19:47.53,1:19:48.14,Generic,Member,0,0,0,,Different genre, though.
+Dialogue: 0,1:19:48.21,1:19:49.96,Generic,Member,0,0,0,,Did you wear that from home this morning?
+Dialogue: 0,1:19:50.82,1:19:52.46,Generic,Member,0,0,0,,First, let me explain—
+Dialogue: 0,1:19:54.92,1:19:57.84,Generic,Member,0,0,0,,I woke up 10 minutes before leaving,
+Dialogue: 0,1:19:59.22,1:20:01.69,Generic,Member,0,0,0,,grabbed pants at random from the laundry,
+Dialogue: 0,1:20:01.76,1:20:04.14,Generic,Member,0,0,0,,and they were inside-out,
+Dialogue: 0,1:20:04.60,1:20:07.03,Generic,Member,0,0,0,,I noticed they were reversed,
+Dialogue: 0,1:20:07.10,1:20:07.95,Generic,Member,0,0,0,,So you knew.
+Dialogue: 0,1:20:08.02,1:20:08.76,Generic,Member,0,0,0,,I noticed.
+Dialogue: 0,1:20:09.56,1:20:11.89,Generic,Member,0,0,0,,Isn't changing there embarrassing too?
+Dialogue: 0,1:20:11.96,1:20:13.05,Generic,Member,0,0,0,,"Oh I messed up so—"
+Dialogue: 0,1:20:13.12,1:20:14.33,Generic,Member,0,0,0,,Isn't NOT changing also embarrassing?
+Dialogue: 0,1:20:14.40,1:20:15.00,Generic,Member,0,0,0,,I'd change.
+Dialogue: 0,1:20:15.07,1:20:17.76,Generic,Member,0,0,0,,Our senses differ somehow.
+Dialogue: 0,1:20:18.36,1:20:20.83,Generic,Member,0,0,0,,I didn't think a "tail" would be sticking out there.
+Dialogue: 0,1:20:20.90,1:20:23.01,Generic,Member,0,0,0,,Ah, so that part wasn't clear.
+Dialogue: 0,1:20:23.08,1:20:25.26,Generic,Member,0,0,0,,If I'd known, I would've changed,
+Dialogue: 0,1:20:25.64,1:20:28.09,Generic,Member,0,0,0,,but my top was a bit long so I tried to hide it,
+Dialogue: 0,1:20:28.16,1:20:29.87,Generic,Member,0,0,0,,I was covering it,
+Dialogue: 0,1:20:29.94,1:20:32.33,Generic,Member,0,0,0,,then Sae-san pointed it out in rehearsal — 'something's sticking out,'
+Dialogue: 0,1:20:32.40,1:20:34.25,Generic,Aichi,0,0,0,,that's when you got called out.
+Dialogue: 0,1:20:34.32,1:20:37.23,Generic,Member,0,0,0,,We rehearsed all the first-half songs today,
+Dialogue: 0,1:20:37.30,1:20:39.12,Generic,Member,0,0,0,,and I could only dance the first song properly.
+Dialogue: 0,1:20:39.98,1:20:42.13,Generic,Member,0,0,0,,Yeah, you really couldn't focus.
+Dialogue: 0,1:20:42.20,1:20:43.05,Generic,Member,0,0,0,,That's all Fujikoko's fault!
+Dialogue: 0,1:20:43.12,1:20:44.04,Generic,Member,0,0,0,,No no, really—
+Dialogue: 0,1:20:44.40,1:20:47.77,Generic,Member,0,0,0,,But at least it made good MC material, right?
+Dialogue: 0,1:20:47.84,1:20:48.44,Generic,Members,0,0,0,,Thank you!
+Dialogue: 0,1:20:48.51,1:20:49.81,Generic,Member,0,0,0,,Glad that worked.
+Dialogue: 0,1:20:49.88,1:20:51.18,Generic,Member,0,0,0,,It's not chan-chan!
+Dialogue: 0,1:20:51.84,1:20:52.99,Generic,Member,0,0,0,,Don't turn chan-chan into a bit—
+Dialogue: 0,1:20:53.06,1:20:55.84,Generic,Member,0,0,0,,Thank you!
+Dialogue: 0,1:20:56.40,1:20:57.00,Generic,Member,0,0,0,,Rinka, for one—
+Dialogue: 0,1:20:57.07,1:20:57.67,Generic,Member,0,0,0,,Rinka too—
+Dialogue: 0,1:20:57.74,1:21:00.71,Generic,Member,0,0,0,,I want to say something to Aichi,
+Dialogue: 0,1:21:00.78,1:21:01.38,Generic,Member,0,0,0,,Huh?
+Dialogue: 0,1:21:01.60,1:21:03.47,Generic,Member,0,0,0,,I've got something to say.
+Dialogue: 0,1:21:03.54,1:21:05.89,Generic,Member,0,0,0,,I'm kind of an Aichi-ru fan,
+Dialogue: 0,1:21:05.96,1:21:06.89,Generic,Member,0,0,0,,But—
+Dialogue: 0,1:21:06.96,1:21:09.61,Generic,Sae,0,0,0,,Like, she always hedges with 'kind of Aichi-ru,'
+Dialogue: 0,1:21:09.68,1:21:10.81,Generic,Member,0,0,0,,True.
+Dialogue: 0,1:21:10.88,1:21:12.17,Generic,Member,0,0,0,,'kind of Aichi-ru'—
+Dialogue: 0,1:21:12.24,1:21:13.23,Generic,Member,0,0,0,,Come with confidence!
+Dialogue: 0,1:21:13.30,1:21:13.90,Generic,Member,0,0,0,,Okay.
+Dialogue: 0,1:21:14.40,1:21:16.71,Generic,Member,0,0,0,,I even got a T-shirt and came,
+Dialogue: 0,1:21:16.78,1:21:19.16,Generic,Member,0,0,0,,Sae-san and Shibui-chan came too,
+Dialogue: 0,1:21:19.50,1:21:21.59,Generic,Member,0,0,0,,the three of us went to Korea together,
+Dialogue: 0,1:21:21.66,1:21:23.82,Generic,Member,0,0,0,,I want a little more love!
+Dialogue: 0,1:21:25.08,1:21:26.23,Generic,Member,0,0,0,,That's what I was told.
+Dialogue: 0,1:21:26.30,1:21:30.37,Generic,Member,0,0,0,,But I didn't come because I totally wanted to—
+Dialogue: 0,1:21:30.85,1:21:32.09,Generic,Member,0,0,0,,Right.
+Dialogue: 0,1:21:32.16,1:21:34.09,Generic,Member,0,0,0,,A fan sent it to me.
+Dialogue: 0,1:21:34.16,1:21:37.34,Generic,Member,0,0,0,,Shibui-chan said once you're Aichi-ru you should wear the tee,
+Dialogue: 0,1:21:37.90,1:21:39.86,Generic,Member,0,0,0,,they're calling that person a villager,
+Dialogue: 0,1:21:40.34,1:21:41.35,Generic,Member,0,0,0,,Villager, yeah.
+Dialogue: 0,1:21:41.42,1:21:43.81,Generic,Member,0,0,0,,And apparently the villager becomes the leader,
+Dialogue: 0,1:21:45.40,1:21:46.93,Generic,Member,0,0,0,,it's getting a bit zawa — might get found out,
+Dialogue: 0,1:21:47.00,1:21:52.64,Generic,Member,0,0,0,,No no no — you — wait this is awkward.
+Dialogue: 0,1:21:52.71,1:21:53.31,Generic,Member,0,0,0,,Right—
+Dialogue: 0,1:21:54.05,1:21:56.85,Generic,Member,0,0,0,,Different teams, first of all.
+Dialogue: 0,1:21:56.92,1:21:59.11,Generic,Member,0,0,0,,Just take her out for lots of meals!
+Dialogue: 0,1:21:59.18,1:22:02.73,Generic,Member,0,0,0,,I want to go — Shibui-chan invites me a lot,
+Dialogue: 0,1:22:02.80,1:22:08.26,Generic,Member,0,0,0,,so please keep inviting me! What a serious face.
+Dialogue: 0,1:22:08.90,1:22:10.44,Generic,Member,0,0,0,,Her face is bright red.
+Dialogue: 0,1:22:10.88,1:22:14.34,Generic,Member,0,0,0,,I want to go — yeah — schedules are hard.
+Dialogue: 0,1:22:15.18,1:22:17.52,Generic,Member,0,0,0,,You should've worn the red tee today!
+Dialogue: 0,1:22:18.00,1:22:19.73,Generic,Member,0,0,0,,True, it wouldn't show much.
+Dialogue: 0,1:22:19.80,1:22:20.97,Generic,Member,0,0,0,,That villager thing.
+Dialogue: 0,1:22:21.04,1:22:24.30,Generic,Member,0,0,0,,I thought about wearing it but it'd feel like admitting defeat,
+Dialogue: 0,1:22:26.04,1:22:27.74,Generic,Member,0,0,0,,So what does that mean?
+Dialogue: 0,1:22:28.02,1:22:29.95,Generic,Member,0,0,0,,I'm the only villager, so—
+Dialogue: 0,1:22:30.02,1:22:32.36,Generic,Member,0,0,0,,Wait no — sorry — it's Aichi-ru!
+Dialogue: 0,1:22:32.86,1:22:33.65,Generic,Member,0,0,0,,It's Aichi-ru!
+Dialogue: 0,1:22:33.72,1:22:36.19,Generic,Member,0,0,0,,Right — let's watch over Rinka and Aichi's future,
+Dialogue: 0,1:22:36.26,1:22:38.72,Generic,Member,0,0,0,,everyone keep an eye on them. Second-half crew, please!
+Dialogue: 0,1:22:40.07,1:22:41.77,Generic,Host,0,0,0,,Yay!
+Dialogue: 0,1:22:44.72,1:22:47.41,Generic,Host,0,0,0,,Second-half MC with this lineup—
+Dialogue: 0,1:22:47.48,1:22:49.13,Generic,Host,0,0,0,,we'd like to chat,
+Dialogue: 0,1:22:49.20,1:22:50.93,Generic,Host,0,0,0,,and today Ryuto-chan—
+Dialogue: 0,1:22:51.00,1:22:51.90,Generic,Host,0,0,0,,Congrats!
+Dialogue: 0,1:22:53.14,1:22:58.18,Generic,Host,0,0,0,,Aya-chan? Yes!
+Dialogue: 0,1:22:58.25,1:23:00.56,Generic,Host,0,0,0,,The 'Aya-chan' call,
+Dialogue: 0,1:23:00.63,1:23:02.98,Generic,Host,0,0,0,,doesn't quite connect equal,
+Dialogue: 0,1:23:03.05,1:23:04.50,Generic,Host,0,0,0,,people are like 'who?'
+Dialogue: 0,1:23:04.57,1:23:05.94,Generic,Host,0,0,0,,Aya-chan!
+Dialogue: 0,1:23:06.01,1:23:06.91,Generic,Host,0,0,0,,That's me.
+Dialogue: 0,1:23:08.21,1:23:10.34,Generic,Host,0,0,0,,How's it going so far?
+Dialogue: 0,1:23:10.41,1:23:12.70,Generic,Host,0,0,0,,Well, during rehearsal,
+Dialogue: 0,1:23:12.77,1:23:14.17,Generic,Host,0,0,0,,you ran through every song for me,
+Dialogue: 0,1:23:15.67,1:23:17.28,Generic,Host,0,0,0,,I thought that was so kind.
+Dialogue: 0,1:23:17.35,1:23:19.13,Generic,Host,0,0,0,,It's so much fun!
+Dialogue: 0,1:23:19.81,1:23:20.47,Generic,Host,0,0,0,,Good.
+Dialogue: 0,1:23:21.01,1:23:21.69,Generic,Host,0,0,0,,Glad.
+Dialogue: 0,1:23:23.45,1:23:25.24,Generic,Host,0,0,0,,But in rehearsal,
+Dialogue: 0,1:23:25.31,1:23:27.66,Generic,Host,0,0,0,,since it's your first time, what do you want to check?
+Dialogue: 0,1:23:27.73,1:23:28.83,Generic,Host,0,0,0,,everyone asks that, right?
+Dialogue: 0,1:23:28.97,1:23:32.12,Generic,Host,0,0,0,,And while I was going 'um… um…'
+Dialogue: 0,1:23:32.19,1:23:33.78,Generic,Host,0,0,0,,fog was pouring out here,
+Dialogue: 0,1:23:33.85,1:23:36.34,Generic,Host,0,0,0,,and for a while
+Dialogue: 0,1:23:36.41,1:23:38.84,Generic,Host,0,0,0,,everyone waited 'what is it? what is it?'
+Dialogue: 0,1:23:38.91,1:23:40.21,Generic,Host,0,0,0,,then she said 'I'm fine,'
+Dialogue: 0,1:23:40.71,1:23:41.47,Generic,Host,0,0,0,,Nothing?!
+Dialogue: 0,1:23:42.49,1:23:45.16,Generic,Host,0,0,0,,But when she's nervous, looking at Hiiro
+Dialogue: 0,1:23:45.23,1:23:45.93,Generic,Host,0,0,0,,apparently calms her down.
+Dialogue: 0,1:23:46.00,1:23:50.83,Generic,Host,0,0,0,,Apparently — not sure if that's good or bad,
+Dialogue: 0,1:23:50.90,1:23:57.40,Generic,Host,0,0,0,,Does that mean she's looking down on me? My first show with seniors I was so tense—
+Dialogue: 0,1:23:58.32,1:24:04.65,Generic,Host,0,0,0,,looking around, all seniors — I remember being so nervous.
+Dialogue: 0,1:24:04.72,1:24:11.22,Generic,Host,0,0,0,,After rehearsal today she said, "Watching Hiiro dance up front somehow eased my nerves."
+Dialogue: 0,1:24:11.76,1:24:12.90,Generic,Host,0,0,0,,Huh—
+Dialogue: 0,1:24:13.34,1:24:14.50,Generic,Host,0,0,0,,That's a good thing.
+Dialogue: 0,1:24:15.00,1:24:18.26,Generic,Host,0,0,0,,Can I just ask what she's like when she relaxes?
+Dialogue: 0,1:24:19.26,1:24:23.72,Generic,Host,0,0,0,,In the dressing room, looking at Hiiro doesn't calm me at all,
+Dialogue: 0,1:24:24.80,1:24:30.22,Generic,Host,0,0,0,,but when we're dancing and our eyes meet—
+Dialogue: 0,1:24:30.92,1:24:36.43,Generic,Host,0,0,0,,'you're okay' — more than that, it's not scary.
+Dialogue: 0,1:24:36.50,1:24:41.23,Generic,Host,0,0,0,,Is that it? But if it doesn't work in the dressing room—
+Dialogue: 0,1:24:41.97,1:24:44.31,Generic,Host,0,0,0,,Is Hiiro scary in the dressing room?
+Dialogue: 0,1:24:44.38,1:24:46.01,Generic,Host,0,0,0,,She's not scary, right?
+Dialogue: 0,1:24:46.08,1:24:47.62,Generic,Host,0,0,0,,Yeah, not scary at all.
+Dialogue: 0,1:24:48.10,1:24:49.55,Generic,Host,0,0,0,,Feels like she's being forced to say that.
+Dialogue: 0,1:24:49.62,1:24:51.74,Generic,Host,0,0,0,,Yeah, she was made to say it.
+Dialogue: 0,1:24:53.30,1:24:54.87,Generic,Host,0,0,0,,I've got one story—
+Dialogue: 0,1:24:54.94,1:24:58.43,Generic,Host,0,0,0,,Zawa-chan skipped self-intro today and went
+Dialogue: 0,1:24:58.50,1:25:00.34,Generic,Host,0,0,0,,'frying pan, pan!' kind of thing,
+Dialogue: 0,1:25:00.88,1:25:01.90,Generic,Host,0,0,0,,you said that, right?
+Dialogue: 0,1:25:02.44,1:25:04.39,Generic,Host,0,0,0,,I got chills for a second.
+Dialogue: 0,1:25:04.46,1:25:05.63,Generic,Host,0,0,0,,That's harsh.
+Dialogue: 0,1:25:05.70,1:25:07.05,Generic,Host,0,0,0,,It's hot today,
+Dialogue: 0,1:25:07.12,1:25:08.85,Generic,Host,0,0,0,,anyway,
+Dialogue: 0,1:25:08.92,1:25:11.45,Generic,Host,0,0,0,,I heard that first in the dressing room,
+Dialogue: 0,1:25:11.52,1:25:12.17,Generic,Host,0,0,0,,the very first,
+Dialogue: 0,1:25:12.24,1:25:15.12,Generic,Host,0,0,0,,Hiiro-chan looked at me
+Dialogue: 0,1:25:15.88,1:25:17.39,Generic,Host,0,0,0,,with sparkly eyes and asked,
+Dialogue: 0,1:25:17.46,1:25:19.33,Generic,Host,0,0,0,,'Is frying-pan pan funny?'
+Dialogue: 0,1:25:19.40,1:25:20.97,Generic,Host,0,0,0,,she asked,
+Dialogue: 0,1:25:21.04,1:25:22.51,Generic,Host,0,0,0,,and I said it was funny,
+Dialogue: 0,1:25:22.58,1:25:25.35,Generic,Host,0,0,0,,then she went,
+Dialogue: 0,1:25:25.42,1:25:27.09,Generic,Host,0,0,0,,'It'll be funnier in the theater,
+Dialogue: 0,1:25:27.16,1:25:27.96,Generic,Host,0,0,0,,look forward to it!'
+Dialogue: 0,1:25:29.96,1:25:31.28,Generic,Host,0,0,0,,Bad! Bad!
+Dialogue: 0,1:25:32.66,1:25:33.34,Generic,Host,0,0,0,,Wait a second—
+Dialogue: 0,1:25:33.68,1:25:35.59,Generic,Host,0,0,0,,I can't tell who's in the wrong.
+Dialogue: 0,1:25:35.66,1:25:36.56,Generic,Host,0,0,0,,Listen — but I
+Dialogue: 0,1:25:37.44,1:25:39.71,Generic,Host,0,0,0,,saw that whole scene,
+Dialogue: 0,1:25:39.78,1:25:40.95,Generic,Host,0,0,0,,Watching her—
+Dialogue: 0,1:25:41.02,1:25:43.19,Generic,Host,0,0,0,,and it was exactly
+Dialogue: 0,1:25:43.26,1:25:44.75,Generic,Host,0,0,0,,what Han-chan did,
+Dialogue: 0,1:25:44.82,1:25:45.63,Generic,Host,0,0,0,,Really?
+Dialogue: 0,1:25:45.70,1:25:48.06,Generic,Host,0,0,0,,If anything Han-chan was being nicer.
+Dialogue: 0,1:25:50.64,1:25:52.88,Generic,Host,0,0,0,,Let's hear Izawa's defense.
+Dialogue: 0,1:25:54.22,1:25:59.15,Generic,Host,0,0,0,,I told Hiiro first-thing 'frying-pan pan is funny,'
+Dialogue: 0,1:25:59.22,1:26:00.85,Generic,Host,0,0,0,,and she cracked up so hard!
+Dialogue: 0,1:26:00.92,1:26:02.02,Generic,Host,0,0,0,,Another witness appears!
+Dialogue: 0,1:26:03.26,1:26:04.93,Generic,Host,0,0,0,,Next story, please.
+Dialogue: 0,1:26:05.00,1:26:07.14,Generic,Host,0,0,0,,So I got confident,
+Dialogue: 0,1:26:07.64,1:26:09.80,Generic,Host,0,0,0,,If she'll laugh that hard one-on-one,
+Dialogue: 0,1:26:10.26,1:26:14.19,Generic,Host,0,0,0,,thought it'd explode in the theater,
+Dialogue: 0,1:26:14.26,1:26:18.91,Generic,Host,0,0,0,,got my hopes up and then it went kind of 'meh,'
+Dialogue: 0,1:26:18.98,1:26:24.39,Generic,Host,0,0,0,,So Izawa's take: Kitagawa who laughed first is at fault — is that right?
+Dialogue: 0,1:26:24.46,1:26:25.11,Generic,Host,0,0,0,,Is that so?
+Dialogue: 0,1:26:25.18,1:26:27.12,Generic,Host,0,0,0,,Okay — Kitagawa's turn.
+Dialogue: 0,1:26:27.82,1:26:32.26,Generic,Host,0,0,0,,Well yeah — I did laugh in the dressing room, but
+Dialogue: 0,1:26:32.82,1:26:35.99,Generic,Host,0,0,0,,When I said it in the theater it went dead silent,
+Dialogue: 0,1:26:36.06,1:26:38.45,Generic,Host,0,0,0,,so then it's the audience's fault?
+Dialogue: 0,1:26:38.52,1:26:39.22,Generic,Host,0,0,0,,Ah, that—
+Dialogue: 0,1:26:40.70,1:26:41.47,Generic,Host,0,0,0,,No — kidding, kidding.
+Dialogue: 0,1:26:41.54,1:26:42.33,Generic,Host,0,0,0,,That's not it.
+Dialogue: 0,1:26:42.40,1:26:43.13,Generic,Host,0,0,0,,No no no—
+Dialogue: 0,1:26:43.20,1:26:43.85,Generic,Host,0,0,0,,Okay then—
+Dialogue: 0,1:26:43.92,1:26:44.52,Generic,Host,0,0,0,,Well then—
+Dialogue: 0,1:26:44.59,1:26:45.60,Generic,Host,0,0,0,,Zawa-chi's lack of skill.
+Dialogue: 0,1:26:47.78,1:26:48.38,Generic,Host,0,0,0,,No.
+Dialogue: 0,1:26:50.30,1:26:51.97,Generic,Host,0,0,0,,It was funny, really.
+Dialogue: 0,1:26:52.04,1:26:57.81,Generic,Host,0,0,0,,Also Zawa overdid it in the dressing room so members' reactions were thin.
+Dialogue: 0,1:26:57.88,1:27:03.27,Generic,Host,0,0,0,,You hyped it too much — everyone was looking forward to it,
+Dialogue: 0,1:27:03.34,1:27:05.02,Generic,Host,0,0,0,,that's what people said.
+Dialogue: 0,1:27:06.81,1:27:08.52,Generic,Host,0,0,0,,But she reflected after bombing.
+Dialogue: 0,1:27:08.59,1:27:09.19,Generic,Host,0,0,0,,Okay.
+Dialogue: 0,1:27:09.26,1:27:12.73,Generic,Host,0,0,0,,Aki-san — maybe leave a bit more space next time.
+Dialogue: 0,1:27:13.41,1:27:14.70,Generic,Host,0,0,0,,Advice from the truth.
+Dialogue: 0,1:27:14.77,1:27:15.49,Generic,Host,0,0,0,,Yeah yeah yeah.
+Dialogue: 0,1:27:16.59,1:27:17.19,Generic,Members,0,0,0,,Thank you!
+Dialogue: 0,1:27:17.53,1:27:18.13,Generic,Host,0,0,0,,Okay.
+Dialogue: 0,1:27:18.20,1:27:19.34,Generic,Host,0,0,0,,Well, do better next time.
+Dialogue: 0,1:27:19.41,1:27:20.22,Generic,Host,0,0,0,,I will!
+Dialogue: 0,1:27:20.29,1:27:20.89,Generic,Host,0,0,0,,Okay.
+Dialogue: 0,1:27:21.33,1:27:23.35,Generic,Host,0,0,0,,Let's polish our skills.
+Dialogue: 0,1:27:26.07,1:27:31.52,Generic,Host,0,0,0,,Everyone together — level up!
+Dialogue: 0,1:27:31.59,1:27:35.44,Generic,Host,0,0,0,,Next is the last song — everyone, please come out!
+Dialogue: 0,1:27:45.50,1:27:46.60,Generic,Host,0,0,0,,Please listen!
+Dialogue: 0,1:27:47.04,1:27:47.90,Generic,Host,0,0,0,,Inochi no Imi
+
+; ===== mc3 =====
+
+Dialogue: 0,1:48:03.16,1:48:04.36,Generic,Host,0,0,0,,Thank you for the encore!
+Dialogue: 0,1:48:11.92,1:48:15.76,Generic,Host,0,0,0,,I'm Crying and Zutto Zutto — two songs in a row!
+Dialogue: 0,1:48:15.84,1:48:17.67,Generic,Host,0,0,0,,Ryuto, first time out—
+Dialogue: 0,1:48:17.74,1:48:20.87,Generic,Host,0,0,0,,how was it?
+Dialogue: 0,1:48:23.03,1:48:25.87,Generic,Ayane,0,0,0,,My first Mokugekisha show,
+Dialogue: 0,1:48:26.55,1:48:30.35,Generic,Ayane,0,0,0,,I struggle with cool-song faces,
+Dialogue: 0,1:48:31.23,1:48:32.62,Generic,Ayane,0,0,0,,so I was nervous,
+Dialogue: 0,1:48:32.69,1:48:35.90,Generic,Ayane,0,0,0,,but I watched the seniors on DMM and soaked it in,
+Dialogue: 0,1:48:35.97,1:48:37.90,Generic,Ayane,0,0,0,,and did my best my way.
+Dialogue: 0,1:48:37.97,1:48:41.72,Generic,Ayane,0,0,0,,I want to keep absorbing the seniors' good points.
+Dialogue: 0,1:48:41.79,1:48:42.39,Generic,Ayane,0,0,0,,Please take care of us!
+Dialogue: 0,1:48:46.28,1:48:50.08,Generic,Member,0,0,0,,Seniors over there were writhing in agony—
+Dialogue: 0,1:48:54.46,1:48:55.58,Generic,Sae,0,0,0,,I was being so loud!
+Dialogue: 0,1:48:56.96,1:48:58.18,Generic,Aki,0,0,0,,I was really startled!
+Dialogue: 0,1:48:59.78,1:49:01.08,Generic,Aki,0,0,0,,And one more — Hiiro.
+Dialogue: 0,1:49:02.16,1:49:06.44,Generic,Hiiro,0,0,0,,I got to rotate two unit slots today,
+Dialogue: 0,1:49:06.98,1:49:07.58,Generic,Member,0,0,0,,Thank you!
+Dialogue: 0,1:49:09.64,1:49:11.84,Generic,Member,0,0,0,,Did you all hear the first-half MC?
+Dialogue: 0,1:49:12.92,1:49:14.56,Generic,Member,0,0,0,,We heard — we're right here!
+Dialogue: 0,1:49:14.94,1:49:15.89,Generic,Member,0,0,0,,You heard, right?
+Dialogue: 0,1:49:15.96,1:49:17.27,Generic,Member,0,0,0,,Aichi-san,
+Dialogue: 0,1:49:17.34,1:49:21.75,Generic,Member,0,0,0,,After the Saboten unit song,
+Dialogue: 0,1:49:21.82,1:49:23.15,Generic,Member,0,0,0,,the second-half song,
+Dialogue: 0,1:49:23.22,1:49:24.66,Generic,Member,0,0,0,,Utsukushiki Mono,
+Dialogue: 0,1:49:25.24,1:49:27.15,Generic,Member,0,0,0,,there's a quick costume change.
+Dialogue: 0,1:49:27.22,1:49:30.05,Generic,Member,0,0,0,,Saboten members rush back,
+Dialogue: 0,1:49:30.12,1:49:31.67,Generic,Member,0,0,0,,change into the next costume,
+Dialogue: 0,1:49:31.74,1:49:33.59,Generic,Member,0,0,0,,and when everyone's about to go out,
+Dialogue: 0,1:49:33.66,1:49:35.83,Generic,Member,0,0,0,,Aichi came running from behind me,
+Dialogue: 0,1:49:35.90,1:49:37.49,Generic,Member,0,0,0,,thudding over,
+Dialogue: 0,1:49:37.56,1:49:38.61,Generic,Member,0,0,0,,I thought "what?!" and then—
+Dialogue: 0,1:49:38.68,1:49:40.97,Generic,Member,0,0,0,,"Oh no oh no I won't make it!"
+Dialogue: 0,1:49:41.04,1:49:42.85,Generic,Member,0,0,0,,she shoved me — whoosh—
+Dialogue: 0,1:49:42.92,1:49:44.77,Generic,Hiiro,0,0,0,,Whoosh!
+Dialogue: 0,1:49:45.83,1:49:47.68,Generic,Member,0,0,0,,gave me a little shove,
+Dialogue: 0,1:49:48.04,1:49:50.07,Generic,Member,0,0,0,,my shoes were slippery,
+Dialogue: 0,1:49:50.14,1:49:54.32,Generic,Member,0,0,0,,I basically ice-skated across,
+Dialogue: 0,1:49:54.62,1:49:55.39,Generic,Member,0,0,0,,went flying,
+Dialogue: 0,1:49:55.46,1:49:57.41,Generic,Member,0,0,0,,so there are shoes that strafe sideways!
+Dialogue: 0,1:49:57.48,1:49:58.71,Generic,Member,0,0,0,,Yeah I strafed,
+Dialogue: 0,1:49:58.78,1:50:00.45,Generic,Hiiro,0,0,0,,and she still didn't make it.
+Dialogue: 0,1:50:01.10,1:50:07.60,Generic,Member,0,0,0,,Ichimura, any follow-up?
+Dialogue: 0,1:50:08.52,1:50:09.92,Generic,Member,0,0,0,,Should I prostrate myself?
+Dialogue: 0,1:50:11.02,1:50:11.64,Generic,Member,0,0,0,,Next—
+Dialogue: 0,1:50:11.71,1:50:13.31,Generic,Member,0,0,0,,This'll sound like an excuse,
+Dialogue: 0,1:50:13.38,1:50:14.15,Generic,Member,0,0,0,,but there's a reason.
+Dialogue: 0,1:50:14.22,1:50:15.95,Generic,Member,0,0,0,,Why Aichi was the most rushed — the reason is…
+Dialogue: 0,1:50:16.02,1:50:20.96,Generic,Member,0,0,0,,I have a sung part at the top of verse 2,
+Dialogue: 0,1:50:21.86,1:50:23.26,Generic,Member,0,0,0,,so I weighed it,
+Dialogue: 0,1:50:23.74,1:50:24.62,Generic,Member,0,0,0,,Right.
+Dialogue: 0,1:50:25.32,1:50:27.90,Generic,Member,0,0,0,,Hiiro was in front,
+Dialogue: 0,1:50:28.32,1:50:29.52,Generic,Member,0,0,0,,if I don't go out,
+Dialogue: 0,1:50:30.60,1:50:32.07,Generic,Member,0,0,0,,it's an important sung part,
+Dialogue: 0,1:50:32.14,1:50:32.74,Generic,Member,0,0,0,,True.
+Dialogue: 0,1:50:32.81,1:50:35.04,Generic,Member,0,0,0,,Would you have done that to Ryuto?
+Dialogue: 0,1:50:36.14,1:50:37.04,Generic,Member,0,0,0,,Wouldn't have.
+Dialogue: 0,1:50:40.46,1:50:41.80,Generic,Member,0,0,0,,That's mean!
+Dialogue: 0,1:50:42.14,1:50:43.68,Generic,Sae,0,0,0,,You trust her,
+Dialogue: 0,1:50:43.68,1:50:45.04,Generic,Aichi,0,0,0,,I trust her,
+Dialogue: 0,1:50:45.60,1:50:47.28,Generic,Aichi,0,0,0,,I figured it'd be fine,
+Dialogue: 0,1:50:47.40,1:50:49.64,Generic,Member,0,0,0,,figured Hiiro would somehow manage,
+Dialogue: 0,1:50:50.70,1:50:52.57,Generic,Member,0,0,0,,make it work on stage—
+Dialogue: 0,1:50:52.64,1:50:54.35,Generic,Member,0,0,0,,a kind of pro mindset.
+Dialogue: 0,1:50:54.42,1:50:56.22,Generic,Member,0,0,0,,Exactly.
+Dialogue: 0,1:50:58.88,1:51:02.90,Generic,Member,0,0,0,,Aichi felt really bad about it,
+Dialogue: 0,1:51:03.50,1:51:07.03,Generic,Member,0,0,0,,our eyes met mid-song,
+Dialogue: 0,1:51:07.10,1:51:09.49,Generic,Member,0,0,0,,her serious eyes said "sorry,"
+Dialogue: 0,1:51:09.56,1:51:13.97,Generic,Member,0,0,0,,her eyes said it — I got the message.
+Dialogue: 0,1:51:14.04,1:51:15.53,Generic,Aichi,0,0,0,,Every time our eyes met I was apologizing.
+Dialogue: 0,1:51:15.60,1:51:17.76,Generic,Member,0,0,0,,She conveyed it fully,
+Dialogue: 0,1:51:18.54,1:51:20.43,Generic,Member,0,0,0,,Aichi wasn't coming at all,
+Dialogue: 0,1:51:20.50,1:51:23.54,Generic,Member,0,0,0,,then suddenly she arrived and started singing,
+Dialogue: 0,1:51:27.70,1:51:29.79,Generic,Member,0,0,0,,we built the show together,
+Dialogue: 0,1:51:29.86,1:51:33.25,Generic,Member,0,0,0,,shows are living things — it happens.
+Dialogue: 0,1:51:33.32,1:51:34.39,Generic,Hiiro,0,0,0,,So that happened too.
+Dialogue: 0,1:51:34.46,1:51:37.10,Generic,Hiiro,0,0,0,,But it shows how much you've grown to handle it,
+Dialogue: 0,1:51:37.32,1:51:38.80,Generic,Hiiro,0,0,0,,including Hiiro and co.
+Dialogue: 0,1:51:39.26,1:51:40.79,Generic,Hiiro,0,0,0,,A milestone—
+Dialogue: 0,1:51:40.86,1:51:42.70,Generic,Hiiro,0,0,0,,you've hit the 3rd anniversary.
+Dialogue: 0,1:51:43.68,1:51:49.50,Generic,Hiiro,0,0,0,,We 6th gen hit 3 years since our reveal,
+Dialogue: 0,1:51:50.36,1:51:50.96,Generic,Hiiro,0,0,0,,Thank you!
+Dialogue: 0,1:51:54.57,1:51:57.93,Generic,Hiiro,0,0,0,,Now lots of members can jump in last-minute,
+Dialogue: 0,1:51:58.00,1:51:59.75,Generic,Hiiro,0,0,0,,there are so many who can step in,
+Dialogue: 0,1:51:59.82,1:52:02.18,Generic,Hiiro,0,0,0,,to support HKT,
+Dialogue: 0,1:52:02.74,1:52:03.79,Generic,Hiiro,0,0,0,,even as 6th gen,
+Dialogue: 0,1:52:03.86,1:52:05.21,Generic,Hiiro,0,0,0,,we can support,
+Dialogue: 0,1:52:05.28,1:52:07.47,Generic,Hiiro,0,0,0,,I feel we've become that kind of members,
+Dialogue: 0,1:52:07.54,1:52:09.30,Generic,Hiiro,0,0,0,,which makes me really happy.
+Dialogue: 0,1:52:10.10,1:52:11.09,Generic,Hiiro,0,0,0,,Into year four,
+Dialogue: 0,1:52:11.16,1:52:13.19,Generic,Hiiro,0,0,0,,6th gen has entered year four,
+Dialogue: 0,1:52:13.26,1:52:15.03,Generic,Hiiro,0,0,0,,and going forward,
+Dialogue: 0,1:52:15.10,1:52:17.50,Generic,Hiiro,0,0,0,,we want to handle any mishaps,
+Dialogue: 0,1:52:19.22,1:52:20.27,Generic,Hiiro,0,0,0,,we've become seniors too,
+Dialogue: 0,1:52:20.34,1:52:21.01,Generic,Hiiro,0,0,0,,haven't we,
+Dialogue: 0,1:52:21.08,1:52:22.91,Generic,Hiiro,0,0,0,,let's keep working hard together.
+Dialogue: 0,1:52:22.98,1:52:23.78,Generic,Hiiro,0,0,0,,Thank you for today!
+Dialogue: 0,1:52:28.40,1:52:30.17,Generic,Hiiro,0,0,0,,As Hiiro said,
+Dialogue: 0,1:52:30.24,1:52:31.39,Generic,Host,0,0,0,,unfortunately today,
+Dialogue: 0,1:52:31.46,1:52:33.05,Generic,Host,0,0,0,,Yuuna is resting,
+Dialogue: 0,1:52:33.12,1:52:35.51,Generic,Host,0,0,0,,so Karen stepped in last-minute,
+Dialogue: 0,1:52:35.58,1:52:37.64,Generic,Host,0,0,0,,and not only Karen,
+Dialogue: 0,1:52:38.14,1:52:40.03,Generic,Host,0,0,0,,everyone handled sudden position changes
+Dialogue: 0,1:52:40.10,1:52:41.19,Generic,Host,0,0,0,,and adapted,
+Dialogue: 0,1:52:41.26,1:52:43.75,Generic,Host,0,0,0,,to build the show,
+Dialogue: 0,1:52:43.82,1:52:44.60,Generic,Host,0,0,0,,since this morning,
+Dialogue: 0,1:52:45.80,1:52:47.23,Generic,Host,0,0,0,,you all worked hard,
+Dialogue: 0,1:52:47.30,1:52:48.46,Generic,Host,0,0,0,,right, Saaya-chan?
+Dialogue: 0,1:52:49.15,1:52:50.24,Generic,Host,0,0,0,,You did great.
+Dialogue: 0,1:52:50.31,1:52:56.81,Generic,Host,0,0,0,,That's what we're here for,
+Dialogue: 0,1:52:58.49,1:52:59.66,Generic,Host,0,0,0,,among other things,
+Dialogue: 0,1:52:59.73,1:53:00.96,Generic,Host,0,0,0,,and Fujikoko too—
+Dialogue: 0,1:53:05.88,1:53:09.49,Generic,Host,0,0,0,,Check check — tears? How pathetic!
+Dialogue: 0,1:53:09.56,1:53:13.51,Generic,Host,0,0,0,,I'm not crying!
+Dialogue: 0,1:53:15.25,1:53:16.47,Generic,Host,0,0,0,,Like this,
+Dialogue: 0,1:53:19.35,1:53:23.08,Generic,Host,0,0,0,,Fujikoko wasn't last-minute,
+Dialogue: 0,1:53:23.15,1:53:24.43,Generic,Host,0,0,0,,I—
+Dialogue: 0,1:53:26.43,1:53:27.95,Generic,Host,0,0,0,,in Shibui's position,
+Dialogue: 0,1:53:28.41,1:53:30.22,Generic,Host,0,0,0,,a new position is a new position,
+Dialogue: 0,1:53:30.29,1:53:31.22,Generic,Host,0,0,0,,a new position is a new position, but,
+Dialogue: 0,1:53:31.29,1:53:32.62,Generic,Host,0,0,0,,I was told about 3 weeks ago.
+Dialogue: 0,1:53:32.69,1:53:33.29,Generic,Host,0,0,0,,Huh?
+Dialogue: 0,1:53:34.05,1:53:34.94,Generic,Host,0,0,0,,How come—
+Dialogue: 0,1:53:35.01,1:53:35.85,Generic,Host,0,0,0,,Really?
+Dialogue: 0,1:53:36.05,1:53:36.70,Generic,Host,0,0,0,,Why such—
+Dialogue: 0,1:53:36.77,1:53:38.68,Generic,Host,0,0,0,,Last night,
+Dialogue: 0,1:53:39.16,1:53:42.94,Generic,Ibuki,0,0,0,,They told her around evening,
+Dialogue: 0,1:53:43.01,1:53:49.51,Generic,Host,0,0,0,,She came over like this and was being rude, because it's the job,
+Dialogue: 0,1:53:51.78,1:53:53.55,Generic,Host,0,0,0,,if you say it's only natural,
+Dialogue: 0,1:53:53.62,1:53:54.33,Generic,Host,0,0,0,,That's true, but...
+Dialogue: 0,1:53:54.40,1:53:55.67,Generic,Host,0,0,0,,but she really worked hard.
+Dialogue: 0,1:53:55.74,1:53:56.34,Generic,Host,0,0,0,,Congrats!
+Dialogue: 0,1:53:59.30,1:54:05.80,Generic,Host,0,0,0,,I still want to put on better performances,
+Dialogue: 0,1:54:08.32,1:54:11.54,Generic,Host,0,0,0,,This isn't a deserted island — lots of people here!
+Dialogue: 0,1:54:12.08,1:54:12.68,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,1:54:12.75,1:54:13.96,Generic,Host,0,0,0,,Thank you, everyone!
+Dialogue: 0,1:54:17.09,1:54:17.90,Generic,Host,0,0,0,,Amazing!
+Dialogue: 0,1:54:17.97,1:54:23.30,Generic,Host,0,0,0,,Of course resting Yuuna-chan too — I hope she gets well soon,
+Dialogue: 0,1:54:23.37,1:54:27.48,Generic,Host,0,0,0,,and meanwhile let's not worry her,
+Dialogue: 0,1:54:27.55,1:54:32.60,Generic,Host,0,0,0,,today's one-of-a-kind unity,
+Dialogue: 0,1:54:32.67,1:54:36.00,Generic,Host,0,0,0,,is the essence of this stage,
+Dialogue: 0,1:54:36.07,1:54:40.46,Generic,Host,0,0,0,,and you noticed and cheered loudly,
+Dialogue: 0,1:54:40.53,1:54:45.76,Generic,Host,0,0,0,,please keep building shows with us at HKT48 Theater!
+Dialogue: 0,1:54:45.83,1:54:46.95,Generic,Host,0,0,0,,Please take care of us!
+Dialogue: 0,1:54:47.99,1:54:48.71,Generic,Host,0,0,0,,Please take care of us!
+Dialogue: 0,1:54:54.86,1:54:57.32,Generic,Host,0,0,0,,So until the end — can everyone shout loud?
+Dialogue: 0,1:54:57.32,1:55:02.71,Generic,Host,0,0,0,,You're part of the show too — can you shout?
+Dialogue: 0,1:55:05.20,1:55:06.78,Generic,Host,0,0,0,,Please listen to the final song!
+Dialogue: 0,1:55:06.78,1:55:07.74,Generic,Host,0,0,0,,Pioneer
+
+; ===== outro =====
+
+Dialogue: 0,2:03:10.54,2:03:12.98,Generic,Host,0,0,0,,Sparkling eyes and round cheeks—
+Dialogue: 0,2:03:13.74,2:03:14.90,Generic,Host,0,0,0,,Aya-chaan!
+Dialogue: 0,2:03:15.16,2:03:15.76,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,2:03:16.08,2:03:19.31,Generic,Host,0,0,0,,Charm on the right cheek, power on the left—
+Dialogue: 0,2:03:19.38,2:03:21.64,Generic,Host,0,0,0,,delivering power to everyone today!
+Dialogue: 0,2:03:21.76,2:03:22.36,Generic,Host,0,0,0,,Amazing!
+Dialogue: 0,2:03:22.98,2:03:23.58,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,2:03:23.82,2:03:24.90,Generic,Host,0,0,0,,Isn't that good alone?
+Dialogue: 0,2:03:25.02,2:03:26.10,Generic,Host,0,0,0,,That's right.
+Dialogue: 0,2:03:26.22,2:03:27.42,Generic,Host,0,0,0,,Kinda funny.
+Dialogue: 0,2:03:27.86,2:03:28.46,Generic,Host,0,0,0,,Oh well—
+Dialogue: 0,2:03:29.49,2:03:31.87,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,2:03:32.11,2:03:34.87,Generic,Host,0,0,0,,First Mokugekisha — how was it?
+Dialogue: 0,2:03:34.97,2:03:39.08,Generic,Host,0,0,0,,Dancing with the seniors was so so so fun!
+Dialogue: 0,2:03:39.15,2:03:40.43,Generic,Host,0,0,0,,Cute!
+Dialogue: 0,2:03:40.83,2:03:41.55,Generic,Host,0,0,0,,Were you nervous?
+Dialogue: 0,2:03:41.93,2:03:44.27,Generic,Host,0,0,0,,I was a bit nervous, but looking at Hiiro—
+Dialogue: 0,2:03:44.37,2:03:45.17,Generic,Host,0,0,0,,What happened to the nerves?
+Dialogue: 0,2:03:45.31,2:03:46.67,Generic,Host,0,0,0,,What happened to the nerves?
+Dialogue: 0,2:03:46.99,2:03:50.28,Generic,Host,0,0,0,,I didn't do anything — just dancing together,
+Dialogue: 0,2:03:50.35,2:03:54.71,Generic,Host,0,0,0,,she said looking at Hiiro while dancing eases her nerves.
+Dialogue: 0,2:03:54.79,2:03:55.71,Generic,Host,0,0,0,,So she has footing?
+Dialogue: 0,2:03:55.89,2:03:59.81,Generic,Host,0,0,0,,But in the dressing room it doesn't ease the nerves.
+Dialogue: 0,2:04:00.31,2:04:01.02,Generic,Host,0,0,0,,Not sure why.
+Dialogue: 0,2:04:01.09,2:04:01.85,Generic,Aichi,0,0,0,,Weird, huh.
+Dialogue: 0,2:04:03.15,2:04:03.79,Generic,Aichi,0,0,0,,You did your best.
+Dialogue: 0,2:04:04.05,2:04:05.23,Generic,Host,0,0,0,,I'll keep doing my best.
+Dialogue: 0,2:04:05.41,2:04:06.01,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,2:04:06.35,2:04:06.95,Generic,Host,0,0,0,,You danced a lot, right?
+Dialogue: 0,2:04:07.49,2:04:08.09,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,2:04:08.16,2:04:08.76,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,2:04:08.83,2:04:15.07,Generic,Host,0,0,0,,And, like, a new position — or the second time, or after a while — so basically a new position.
+Dialogue: 0,2:04:15.25,2:04:16.30,Generic,Host,0,0,0,,And a new position.
+Dialogue: 0,2:04:16.37,2:04:16.97,Generic,Host,0,0,0,,A new position.
+Dialogue: 0,2:04:17.13,2:04:17.73,Generic,Host,0,0,0,,Okay.
+Dialogue: 0,2:04:17.80,2:04:18.40,Generic,Host,0,0,0,,Right.
+Dialogue: 0,2:04:18.47,2:04:19.53,Generic,Host,0,0,0,,How about you, Ikuno-chan?
+Dialogue: 0,2:04:19.81,2:04:24.87,Generic,Ikuno,0,0,0,,Um, I was nervous, but looking at Hiiro's face made me even more nervous.
+Dialogue: 0,2:04:26.37,2:04:27.22,Generic,Host,0,0,0,,Knew it.
+Dialogue: 0,2:04:27.29,2:04:27.89,Generic,Host,0,0,0,,What do you mean?
+Dialogue: 0,2:04:28.23,2:04:29.41,Generic,Host,0,0,0,,Pretty close today, huh.
+Dialogue: 0,2:04:29.65,2:04:30.25,Generic,Host,0,0,0,,Amazing.
+Dialogue: 0,2:04:30.32,2:04:31.57,Generic,Host,0,0,0,,Wait, what does that mean?
+Dialogue: 0,2:04:32.07,2:04:32.90,Generic,Host,0,0,0,,You did great.
+Dialogue: 0,2:04:32.97,2:04:33.57,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,2:04:33.64,2:04:34.24,Generic,Host,0,0,0,,Right.
+Dialogue: 0,2:04:34.31,2:04:35.38,Generic,Host,0,0,0,,Fujikoko — it was fun!
+Dialogue: 0,2:04:35.45,2:04:41.95,Generic,Host,0,0,0,,About that new position — it felt so last-minute I thought she'd learned it yesterday,
+Dialogue: 0,2:04:42.55,2:04:47.57,Generic,Aichi,0,0,0,,when I said "you learned it the day before," she didn't deny it at all — just went "sure," so
+Dialogue: 0,2:04:48.19,2:04:53.31,Generic,Host,0,0,0,,then afterward she said actually she'd known for 3 weeks—
+Dialogue: 0,2:04:54.29,2:04:55.04,Generic,Aichi,0,0,0,,"Slipped in,"
+Dialogue: 0,2:04:55.11,2:04:56.28,Generic,Fujikoko,0,0,0,,Slipped in with the staff,
+Dialogue: 0,2:04:56.35,2:04:58.01,Generic,Fujikoko,0,0,0,,I'd known about it the whole time.
+Dialogue: 0,2:04:58.59,2:04:59.87,Generic,Fujikoko,0,0,0,,I only started practicing yesterday.
+Dialogue: 0,2:05:00.37,2:05:01.09,Generic,Host,0,0,0,,Really?
+Dialogue: 0,2:05:01.29,2:05:02.19,Generic,Host,0,0,0,,Right.
+Dialogue: 0,2:05:02.81,2:05:03.99,Generic,Host,0,0,0,,Just a hopeless case.
+Dialogue: 0,2:05:05.83,2:05:07.01,Generic,Host,0,0,0,,Cutting it close.
+Dialogue: 0,2:05:07.37,2:05:07.97,Generic,Host,0,0,0,,That's right.
+Dialogue: 0,2:05:08.04,2:05:08.64,Generic,Host,0,0,0,,Simply,
+Dialogue: 0,2:05:08.71,2:05:10.35,Generic,Host,0,0,0,,But looking at Hiiro's face perked me up.
+Dialogue: 0,2:05:10.83,2:05:11.45,Generic,Host,0,0,0,,Good.
+Dialogue: 0,2:05:11.61,2:05:12.67,Generic,Host,0,0,0,,Like a partnership bit.
+Dialogue: 0,2:05:12.81,2:05:13.41,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,2:05:13.48,2:05:14.30,Generic,Host,0,0,0,,That's good.
+Dialogue: 0,2:05:14.37,2:05:15.46,Generic,Host,0,0,0,,Everyone worked hard.
+Dialogue: 0,2:05:15.53,2:05:20.23,Generic,Host,0,0,0,,Saaya too, and Karen-ren stepped in last-minute.
+Dialogue: 0,2:05:20.31,2:05:22.34,Generic,Host,0,0,0,,Today everyone helped each other.
+Dialogue: 0,2:05:22.41,2:05:24.11,Generic,Host,0,0,0,,It was mutual support.
+Dialogue: 0,2:05:24.23,2:05:24.83,Generic,Host,0,0,0,,Today.
+Dialogue: 0,2:05:24.90,2:05:25.75,Generic,Host,0,0,0,,Team play—
+Dialogue: 0,2:05:25.83,2:05:27.50,Generic,Host,0,0,0,,there was real team play.
+Dialogue: 0,2:05:27.57,2:05:28.17,Generic,Host,0,0,0,,Today.
+Dialogue: 0,2:05:28.24,2:05:28.84,Generic,Host,0,0,0,,Thank you!
+Dialogue: 0,2:05:28.91,2:05:29.46,Generic,Host,0,0,0,,There was a real bond!
+Dialogue: 0,2:05:29.89,2:05:30.65,Generic,Host,0,0,0,,Mm, that was good.
+Dialogue: 0,2:05:31.87,2:05:34.53,Generic,Host,0,0,0,,Going forward, Team H, everyone joining forces.
+Dialogue: 0,2:05:34.91,2:05:35.51,Generic,Host,0,0,0,,Okay.
+Dialogue: 0,2:05:35.58,2:05:36.80,Generic,Host,0,0,0,,and the trainees too.
+Dialogue: 0,2:05:36.87,2:05:37.67,Generic,Host,0,0,0,,Yes, we'll do our best!
+Dialogue: 0,2:05:37.87,2:05:42.70,Generic,Host,0,0,0,,And with the members too, everyone joining forces — we want to keep doing our best, so please support us.
+Dialogue: 0,2:05:43.14,2:05:43.78,Generic,Host,0,0,0,,Please support us!
+Dialogue: 0,2:05:43.82,2:05:46.06,Generic,Host,0,0,0,,Look forward to the next performance!
+Dialogue: 0,2:05:47.00,2:05:47.72,Generic,Host,0,0,0,,Buh-bye!

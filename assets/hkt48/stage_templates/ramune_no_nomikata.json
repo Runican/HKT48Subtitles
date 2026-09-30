@@ -9,7 +9,7 @@
     "KKS5",
     "HKT KKS5"
   ],
-  "verified_by": "domain-research",
+  "verified_by": "verifier",
   "verified_at": "2026-09-28",
   "sources": [
     {
@@ -33,7 +33,7 @@
       "url": "https://ja.wikipedia.org/wiki/チームKII_3rd_Stage「ラムネの飲み方」"
     },
     {
-      "name": "Domain research research note",
+      "name": "domain verifier research note",
       "path": "assets/hkt48/sources/ramune-no-nomikata-setlist.md"
     },
     {
@@ -42,7 +42,7 @@
     }
   ],
   "notes": [
-    "Domain-verified 2026-09-28 (official + Mobile + 48pedia + fandom + Wikipedia; no ASR).",
+    "domain verifier-verified 2026-09-28 (official + Mobile + 48pedia + fandom + Wikipedia; no ASR).",
     "No documented opening コント — do not invent a sketch slot like Saka Agari.",
     "MC1／自己紹介 = photo + member intros + catchcopies after Omatase Set list.",
     "Unit block B sizes: Cross 3, Finland Miracle 3, Manazashi Sayonara 2, Usotsuki na Dachou 3, Nice to meet you! 5.",
@@ -516,5 +516,5 @@
   "grade_anchor_show": null,
   "grade_anchor_note": "No Ramune grade_anchor_show yet. Candidate: KKS5 LOD 2025-05-10 Eura birthday (beware expanded MC4). Prefer a non-birthday LOD for default durations when available.",
   "updated": "2026-09-28",
-  "updated_by": "hkt-loremaster"
+  "updated_by": "verifier"
 }

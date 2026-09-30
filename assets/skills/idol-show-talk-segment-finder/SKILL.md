@@ -43,7 +43,7 @@ Formulaic stages live under:
 
 `assets/hkt48/stage_templates/`
 
-Example: `himawarigumi_4th_saka_agari.json` (Loremaster-verified Saka Agari / 逆上がり).
+Example: `himawarigumi_4th_saka_agari.json` (domain-verifier-verified Saka Agari / 逆上がり).
 
 A template holds ordered songs + talk slots, duration **ranges**, `translate` vs `skip`, and finder hints. Walk the timeline **in order**. After song block A, photo = **earliest** bursty hush — not the longest hush in the show.
 
