@@ -1,0 +1,1585 @@
+[Script Info]
+Title: HKT48 250506 KIV4 LOD
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,56,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+; ===== mid_song_spoken =====
+Dialogue: 0,0:08:40.27,0:08:42.95,Default,Oba Risaki,0,0,60,,Hi — today's host is Oba Risaki.
+Dialogue: 0,0:08:44.15,0:08:46.77,Default,Member,0,0,60,,We got a letter from radio name Mizuyan-san.
+Dialogue: 0,0:08:46.85,0:08:49.11,Default,Member,0,0,60,,Happy 20th birthday, Ricchan!
+Dialogue: 0,0:08:49.19,0:08:52.27,Default,Member,0,0,60,,Your gentle singing voice and smile always give me energy.
+Dialogue: 0,0:08:52.35,0:08:56.59,Default,Member,0,0,60,,Finally, all sixteen of you — please do the marinborobo impression!
+Dialogue: 0,0:08:56.67,0:08:57.93,Default,Member,0,0,60,,Ready — se-no!
+Dialogue: 0,0:08:58.29,0:08:58.99,Default,Member,0,0,60,,Apple—!
+Dialogue: 0,0:44:14.98,0:44:17.42,Default,Member,0,0,60,,A congrats message for Richaki on her 20th!
+Dialogue: 0,0:44:17.50,0:44:20.08,Default,Member,0,0,60,,Happy birthday, Richaki!
+Dialogue: 0,0:44:20.16,0:44:24.62,Default,Member,0,0,60,,I love Richaki's "what do I do, what do I do" when she's in a pinch!
+
+; ===== photo =====
+Dialogue: 0,0:17:48.30,0:17:50.36,Default,Member,0,0,60,,Good evening, everyone — HKT48
+Dialogue: 0,0:17:51.22,0:17:52.58,Default,Member,0,0,60,,Team KIV!
+Dialogue: 0,0:17:58.70,0:18:01.56,Default,Member,0,0,60,,Team KIV's Koko ni Datte Tenshi wa Iru show has begun!
+Dialogue: 0,0:18:01.64,0:18:03.18,Default,Member,0,0,60,,First up: Aoi Tsuki ga Miteru Kara,
+Dialogue: 0,0:18:03.26,0:18:04.72,Default,Member,0,0,60,,Radio Name,
+Dialogue: 0,0:18:04.80,0:18:06.28,Default,Member,0,0,60,,Koko ni Datte Tenshi wa Iru,
+Dialogue: 0,0:18:06.36,0:18:07.86,Default,Member,0,0,60,,and Cattleya no Hana o Miru Tabi ni Omoidasu —
+Dialogue: 0,0:18:07.94,0:18:09.64,Default,Member,0,0,60,,you've just heard those four songs in a row, but…
+Dialogue: 0,0:18:09.72,0:18:11.06,Default,Member,0,0,60,,Is everyone hyped?!
+Dialogue: 0,0:18:14.00,0:18:15.90,Default,Member,0,0,60,,Today is Richaki's birthday celebration!
+Dialogue: 0,0:18:18.70,0:18:19.70,Default,Member,0,0,60,,It's my birthday!
+Dialogue: 0,0:18:19.78,0:18:20.96,Default,Member,0,0,60,,'Birthday'…?
+Dialogue: 0,0:18:21.04,0:18:21.40,Default,Member,0,0,60,,Not quite—
+Dialogue: 0,0:18:21.48,0:18:21.84,Default,Member,0,0,60,,Yes—
+Dialogue: 0,0:18:21.92,0:18:23.02,Default,Member,0,0,60,,That's not a yes!
+Dialogue: 0,0:18:23.62,0:18:25.04,Default,Member,0,0,60,,How is the birthday celebration?
+Dialogue: 0,0:18:25.36,0:18:26.94,Default,Oba Risaki,0,0,60,,I was really nervous,
+Dialogue: 0,0:18:27.02,0:18:29.80,Default,Oba Risaki,0,0,60,,but seeing everyone's faces reminded me it's my birthday.
+Dialogue: 0,0:18:30.38,0:18:30.73,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,0:18:30.81,0:18:32.36,Default,Member,0,0,60,,I'm glad — everyone,
+Dialogue: 0,0:18:33.30,0:18:35.12,Default,Member,0,0,60,,please celebrate her a lot!
+Dialogue: 0,0:18:36.00,0:18:37.32,Default,Member,0,0,60,,Alright — let's take photos!
+Dialogue: 0,0:18:37.40,0:18:38.02,Default,Member,0,0,60,,Okay!
+Dialogue: 0,0:18:38.78,0:18:41.42,Default,Member,0,0,60,,Same-gen, please come forward!
+Dialogue: 0,0:18:41.50,0:18:42.54,Default,Member,0,0,60,,Come on!
+Dialogue: 0,0:18:43.68,0:18:44.84,Default,Member,0,0,60,,What should we do?
+Dialogue: 0,0:18:49.62,0:18:50.66,Default,Member,0,0,60,,What do you want?
+Dialogue: 0,0:18:50.74,0:18:53.42,Default,Oba Risaki,0,0,60,,An apple pose, please!
+Dialogue: 0,0:18:53.50,0:18:54.28,Default,Member,0,0,60,,Apple!
+Dialogue: 0,0:19:02.40,0:19:03.44,Default,Member,0,0,60,,Next…
+Dialogue: 0,0:19:03.52,0:19:05.26,Default,Member,0,0,60,,Age-twenty pose, please!
+Dialogue: 0,0:19:06.12,0:19:06.94,Default,Member,0,0,60,,Twenty!
+Dialogue: 0,0:19:08.78,0:19:10.02,Default,Member,0,0,60,,That was 2 years.
+Dialogue: 0,0:19:10.10,0:19:11.30,Default,Member,0,0,60,,Twenty!
+Dialogue: 0,0:19:18.76,0:19:22.50,Default,Member,0,0,60,,Okay — a slightly grown-up pose, please!
+Dialogue: 0,0:19:23.30,0:19:24.76,Default,Member,0,0,60,,Grown-up, huh?
+Dialogue: 0,0:19:27.68,0:19:28.76,Default,Oba Risaki,0,0,60,,Is this grown-up enough?
+Dialogue: 0,0:19:38.02,0:19:38.30,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,0:19:42.76,0:19:43.76,Default,Member,0,0,60,,The photos we just took
+Dialogue: 0,0:19:43.84,0:19:45.62,Default,Member,0,0,60,,will be on sale in the lobby after the show —
+Dialogue: 0,0:19:45.70,0:19:46.52,Default,Member,0,0,60,,please stop by!
+Dialogue: 0,0:19:46.60,0:19:47.56,Default,Member,0,0,60,,Please take care of us!
+Dialogue: 0,0:19:48.62,0:19:49.18,Default,Member,0,0,60,,Please take care of us!
+
+; ===== intro =====
+Dialogue: 0,0:19:54.47,0:19:54.82,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,0:19:54.90,0:19:57.53,Default,Member,0,0,60,,Next, please let each of us introduce ourselves.
+Dialogue: 0,0:19:57.61,0:20:00.65,Default,Member,0,0,60,,Today's theme is round, tasty foods.
+Dialogue: 0,0:20:02.17,0:20:03.45,Default,Member,0,0,60,,Starting with Han-chan, please!
+Dialogue: 0,0:20:03.53,0:20:06.17,Default,Ihara Hanna,0,0,60,,When I point the mic at you,
+Dialogue: 0,0:20:06.25,0:20:07.55,Default,Ihara Hanna,0,0,60,,please say "hanchaka-chan!"
+Dialogue: 0,0:20:07.63,0:20:09.01,Default,Ihara Hanna,0,0,60,,Okay!
+Dialogue: 0,0:20:09.83,0:20:11.75,Default,Ihara Hanna,0,0,60,,The love that bonds us all together—
+Dialogue: 0,0:20:11.83,0:20:13.87,Default,Crowd,0,0,60,,Hanchaka-chaan!
+Dialogue: 0,0:20:14.35,0:20:15.51,Default,Ihara Hanna,0,0,60,,Yes — received!
+Dialogue: 0,0:20:15.59,0:20:18.67,Default,Ihara Hanna,0,0,60,,From Oita Prefecture, 3rd year of junior high, age 14—
+Dialogue: 0,0:20:18.75,0:20:20.51,Default,Ihara Hanna,0,0,60,,I'm Ihara Hanna, in tip-top form!
+Dialogue: 0,0:20:20.59,0:20:21.59,Default,Ihara Hanna,0,0,60,,Please call me Han-chan!
+Dialogue: 0,0:20:21.67,0:20:22.57,Default,Ihara Hanna,0,0,60,,Please take care of us!
+Dialogue: 0,0:20:22.93,0:20:23.85,Default,Ihara Hanna,0,0,60,,Han-chaa!
+Dialogue: 0,0:20:26.47,0:20:26.79,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,0:20:28.73,0:20:30.79,Default,Ihara Hanna,0,0,60,,My round tasty food is…
+Dialogue: 0,0:20:30.87,0:20:33.61,Default,Ihara Hanna,0,0,60,,I've been really into pickled plums lately,
+Dialogue: 0,0:20:34.09,0:20:35.81,Default,Ihara Hanna,0,0,60,,Pickled plums are round, right?
+Dialogue: 0,0:20:36.63,0:20:38.05,Default,Ihara Hanna,0,0,60,,Eating pickled plums as-is is tasty,
+Dialogue: 0,0:20:38.13,0:20:40.07,Default,Ihara Hanna,0,0,60,,and eggs are tasty too, but—
+Dialogue: 0,0:20:40.15,0:20:43.33,Default,Ihara Hanna,0,0,60,,putting pickled plum into ochazuke is so good,
+Dialogue: 0,0:20:43.45,0:20:48.63,Default,Ihara Hanna,0,0,60,,I don't make it every morning, but about once a month.
+Dialogue: 0,0:20:49.05,0:20:50.69,Default,Ihara Hanna,0,0,60,,Please take care of us today!
+Dialogue: 0,0:20:54.85,0:20:57.03,Default,Kurumi,0,0,60,,Yes — I'd like to wrap Richaki's heart up as Kuru-mi!
+Dialogue: 0,0:20:58.67,0:21:00.03,Default,Kurumi,0,0,60,,Thank you!
+Dialogue: 0,0:21:00.11,0:21:01.31,Default,Takemoto Kurumi,0,0,60,,I'm Takemoto Kurumi — Kuru-tan!
+Dialogue: 0,0:21:05.59,0:21:06.05,Default,Takemoto Kurumi,0,0,60,,Thank you!
+Dialogue: 0,0:21:07.33,0:21:09.75,Default,Member,0,0,60,,Yes — my round food is…
+Dialogue: 0,0:21:09.83,0:21:13.93,Default,Member,0,0,60,,tartar sauce in a jar — the case is round, so,
+Dialogue: 0,0:21:16.03,0:21:18.23,Default,Nene,0,0,60,,The case is round, right?
+Dialogue: 0,0:21:18.31,0:21:22.83,Default,Kurumi,0,0,60,,Depending on how you apply it, it gets round — like this, it gets round, but…
+Dialogue: 0,0:21:23.09,0:21:25.35,Default,Nene,0,0,60,,and when you dip crab sticks in it,
+Dialogue: 0,0:21:25.43,0:21:28.35,Default,Member,0,0,60,,it's ridiculously good,
+Dialogue: 0,0:21:28.43,0:21:31.35,Default,Member,0,0,60,,and crab sticks are red too, right?
+Dialogue: 0,0:21:31.43,0:21:32.59,Default,Member,0,0,60,,Say red → apple,
+Dialogue: 0,0:21:32.67,0:21:34.23,Default,Member,0,0,60,,say apple → Richaki,
+Dialogue: 0,0:21:34.93,0:21:36.83,Default,Member,0,0,60,,say rabbit → crab sticks!
+Dialogue: 0,0:21:36.93,0:21:37.65,Default,Member,0,0,60,,Crab sticks!
+Dialogue: 0,0:21:37.73,0:21:39.60,Default,Member,0,0,60,,Yay! — like that.
+Dialogue: 0,0:21:42.52,0:21:48.46,Default,Takemoto Kurumi,0,0,60,,Today I want to work fresh and sweet-tart like an apple!
+Dialogue: 0,0:21:48.76,0:21:50.86,Default,Takemoto Kurumi,0,0,60,,I'll celebrate Richaki lots — please take care of us!
+Dialogue: 0,0:21:51.62,0:21:53.80,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:21:55.32,0:21:57.84,Default,Jitoe Nene,0,0,60,,From Miyazaki Prefecture, Team KIV — I'm Jitoe Nene!
+Dialogue: 0,0:21:57.92,0:21:59.14,Default,Crowd,0,0,60,,Nene-chaan!
+Dialogue: 0,0:22:02.93,0:22:06.83,Default,Member,0,0,60,,My round and tasty food is shiitake,
+Dialogue: 0,0:22:07.33,0:22:10.93,Default,Member,0,0,60,,and if you hold them like this, they're round, right?
+Dialogue: 0,0:22:11.75,0:22:14.83,Default,Member,0,0,60,,I've loved shiitake since I was little,
+Dialogue: 0,0:22:15.27,0:22:16.63,Default,Member,0,0,60,,and since coming to Fukuoka —
+Dialogue: 0,0:22:17.57,0:22:19.05,Default,Member,0,0,60,,I'm not sure they even have them in Miyazaki, but
+Dialogue: 0,0:22:19.13,0:22:21.75,Default,Member,0,0,60,,in Fukuoka everything turns into yakitori, right?
+Dialogue: 0,0:22:22.26,0:22:24.46,Default,Jitoe Nene,0,0,60,,That's why shiitake shows up on yakitori too,
+Dialogue: 0,0:22:25.50,0:22:28.20,Default,Jitoe Nene,0,0,60,,so when I go to places that have it,
+Dialogue: 0,0:22:29.20,0:22:32.16,Default,Jitoe Nene,0,0,60,,they say the shiitake are totally gone — I eat that much,
+Dialogue: 0,0:22:32.70,0:22:35.44,Default,Jitoe Nene,0,0,60,,Not that saying this means Richaki will give me any,
+Dialogue: 0,0:22:37.40,0:22:38.52,Default,Jitoe Nene,0,0,60,,I'll give you an apple!
+Dialogue: 0,0:22:38.60,0:22:38.96,Default,Jitoe Nene,0,0,60,,I'm fine.
+Dialogue: 0,0:22:40.26,0:22:41.28,Default,Jitoe Nene,0,0,60,,Oh, right.
+Dialogue: 0,0:22:41.36,0:22:42.98,Default,Jitoe Nene,0,0,60,,Okay then, thanks — I'll take that apple!
+Dialogue: 0,0:22:43.06,0:22:45.34,Default,Jitoe Nene,0,0,60,,Please look after us!
+Dialogue: 0,0:22:45.42,0:22:46.56,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:22:49.46,0:22:52.02,Default,Oba Risaki,0,0,60,,When I point the mic, please say "Risaki!"
+Dialogue: 0,0:22:52.32,0:22:53.38,Default,Oba Risaki,0,0,60,,Okay!
+Dialogue: 0,0:22:53.82,0:22:57.04,Default,Oba Risaki,0,0,60,,From morning till night, fill it up with Risaki!
+Dialogue: 0,0:22:57.22,0:22:57.76,Default,Oba Risaki,0,0,60,,Good morning!
+Dialogue: 0,0:22:58.10,0:22:58.72,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:22:59.14,0:22:59.94,Default,Member,0,0,60,,Good night!
+Dialogue: 0,0:23:00.02,0:23:03.02,Default,Member,0,0,60,,I've caught everyone's hearts!
+Dialogue: 0,0:23:04.08,0:23:04.48,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,0:23:05.80,0:23:07.10,Default,Oba Risaki,0,0,60,,I'm twenty!
+Dialogue: 0,0:23:07.18,0:23:09.14,Default,Oba Risaki,0,0,60,,I'm Oba Risaki, age twenty!
+Dialogue: 0,0:23:09.22,0:23:10.08,Default,Oba Risaki,0,0,60,,Please take care of me!
+Dialogue: 0,0:23:10.72,0:23:11.28,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:23:14.53,0:23:17.36,Default,Oba Risaki,0,0,60,,Wow! Thank you! Somehow I've gotten more grown-up than before!
+Dialogue: 0,0:23:19.49,0:23:20.19,Default,Oba Risaki,0,0,60,,Right?
+Dialogue: 0,0:23:20.59,0:23:22.55,Default,Oba Risaki,0,0,60,,What grown-up me likes…
+Dialogue: 0,0:23:22.63,0:23:24.27,Default,Oba Risaki,0,0,60,,What's your round food?
+Dialogue: 0,0:23:24.35,0:23:24.91,Default,Oba Risaki,0,0,60,,Not an impression!
+Dialogue: 0,0:23:24.99,0:23:26.13,Default,Oba Risaki,0,0,60,,Your round food…
+Dialogue: 0,0:23:26.21,0:23:27.21,Default,Oba Risaki,0,0,60,,Will you do it for us?
+Dialogue: 0,0:23:27.29,0:23:28.39,Default,Oba Risaki,0,0,60,,You can do it.
+Dialogue: 0,0:23:28.47,0:23:30.03,Default,Oba Risaki,0,0,60,,I can do it.
+Dialogue: 0,0:23:30.13,0:23:32.07,Default,Oba Risaki,0,0,60,,The food is…
+Dialogue: 0,0:23:32.94,0:23:35.56,Default,Oba Risaki,0,0,60,,It's a treat for everyone in KIV—
+Dialogue: 0,0:23:36.04,0:23:39.64,Default,Oba Risaki,0,0,60,,cupcakes and these round cream-filled ones,
+Dialogue: 0,0:23:39.72,0:23:42.34,Default,Oba Risaki,0,0,60,,I picked them by chance,
+Dialogue: 0,0:23:42.42,0:23:43.66,Default,Oba Risaki,0,0,60,,and they were round!
+Dialogue: 0,0:23:43.74,0:23:46.72,Default,Oba Risaki,0,0,60,,so I really feel destined for round things—
+Dialogue: 0,0:23:46.80,0:23:49.36,Default,Oba Risaki,0,0,60,,everyone, please eat lots of round foods!
+Dialogue: 0,0:23:49.44,0:23:51.88,Default,Oba Risaki,0,0,60,,Please look after us today!
+Dialogue: 0,0:23:52.34,0:23:52.88,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:23:52.96,0:23:55.12,Default,Oba Risaki,0,0,60,,Congratulations!
+Dialogue: 0,0:23:56.46,0:23:57.62,Default,Ouchi Rinka,0,0,60,,Yes — rin-rin!
+Dialogue: 0,0:23:57.70,0:24:01.11,Default,Ouchi Rinka,0,0,60,,Bit by bit, step by step—
+Dialogue: 0,0:24:01.19,0:24:03.47,Default,Ouchi Rinka,0,0,60,,My charm point is my sparkly big eyes!
+Dialogue: 0,0:24:03.55,0:24:07.29,Default,Ouchi Rinka,0,0,60,,From Hyogo Prefecture, 3rd year of high school, age 17 — I'm Ouchi Rinka!
+Dialogue: 0,0:24:07.37,0:24:08.51,Default,Crowd,0,0,60,,Rinka!
+Dialogue: 0,0:24:11.63,0:24:11.95,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,0:24:13.43,0:24:16.21,Default,Ouchi Rinka,0,0,60,,The round food I like is…
+Dialogue: 0,0:24:16.29,0:24:18.65,Default,Ouchi Rinka,0,0,60,,For Kansai, it has to be takoyaki,
+Dialogue: 0,0:24:19.17,0:24:19.73,Default,Ouchi Rinka,0,0,60,,though—
+Dialogue: 0,0:24:19.81,0:24:22.65,Default,Ouchi Rinka,0,0,60,,and I want to have a tako-party with Risaki!
+Dialogue: 0,0:24:22.73,0:24:23.31,Default,Ouchi Rinka,0,0,60,,I wanna!
+Dialogue: 0,0:24:23.71,0:24:24.03,Default,Oba Risaki,0,0,60,,Let's!
+Dialogue: 0,0:24:24.43,0:24:25.97,Default,Ouchi Rinka,0,0,60,,Then bring an apple over,
+Dialogue: 0,0:24:26.05,0:24:27.01,Default,Ouchi Rinka,0,0,60,,and let's put it inside!
+Dialogue: 0,0:24:27.09,0:24:27.77,Default,Ouchi Rinka,0,0,60,,Nooo!
+Dialogue: 0,0:24:29.11,0:24:30.23,Default,Ouchi Rinka,0,0,60,,I'll think about it.
+Dialogue: 0,0:24:30.75,0:24:32.67,Default,Ouchi Rinka,0,0,60,,Today I want to see lots of Risaki!
+Dialogue: 0,0:24:32.75,0:24:34.13,Default,Ouchi Rinka,0,0,60,,Please take care of us!
+Dialogue: 0,0:24:34.21,0:24:35.37,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:24:39.99,0:24:42.15,Default,Kuriyama Rina,0,0,60,,When you think Oita — hot springs, shiitake, pears, and Boss!
+Dialogue: 0,0:24:42.23,0:24:44.69,Default,Kuriyama Rina,0,0,60,,From Oita Prefecture, age 24 — I'm Kuriyama Rina!
+Dialogue: 0,0:24:44.77,0:24:45.53,Default,Kuriyama Rina,0,0,60,,Rina-san!
+Dialogue: 0,0:24:46.63,0:24:50.21,Default,Kuriyama Rina,0,0,60,,Yes — I know! Thank you!
+Dialogue: 0,0:24:51.25,0:24:53.25,Default,Kuriyama Rina,0,0,60,,Mine is Akafuku,
+Dialogue: 0,0:24:54.45,0:24:56.03,Default,Kuriyama Rina,0,0,60,,I really love Akafuku,
+Dialogue: 0,0:24:56.11,0:24:57.89,Default,Kuriyama Rina,0,0,60,,and fun fact about Akafuku—
+Dialogue: 0,0:24:57.97,0:25:00.05,Default,Kuriyama Rina,0,0,60,,those wavy patterns on Akafuku
+Dialogue: 0,0:25:00.77,0:25:04.17,Default,Kuriyama Rina,0,0,60,,are made by hand, waving them like this,
+Dialogue: 0,0:25:04.97,0:25:08.89,Default,Kuriyama Rina,0,0,60,,So when I graduate HKT, I want to be someone who makes those Akafuku waves!
+Dialogue: 0,0:25:09.33,0:25:11.85,Default,Kuriyama Rina,0,0,60,,I'll work hard so I don't lose to everyone's energy!
+Dialogue: 0,0:25:11.93,0:25:13.15,Default,Kuriyama Rina,0,0,60,,Please look after us!
+Dialogue: 0,0:25:13.23,0:25:14.27,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:25:14.35,0:25:18.80,Default,Kuriyama Rina,0,0,60,,February 9 — Meat Day—
+Dialogue: 0,0:25:18.88,0:25:20.06,Default,Yasui Hina,0,0,60,,Beef tongue, pork tongue—
+Dialogue: 0,0:25:20.14,0:25:20.84,Default,Crowd,0,0,60,,Ohhh, amazing!
+Dialogue: 0,0:25:22.82,0:25:23.00,Default,Yasui Hina,0,0,60,,Thank you!
+Dialogue: 0,0:25:23.48,0:25:27.32,Default,Yasui Hina,0,0,60,,From Fukuoka Prefecture, 3rd year of junior high, age 14, Team KIV — I'm Yasui Hina!
+Dialogue: 0,0:25:27.40,0:25:28.34,Default,Yasui Hina,0,0,60,,Nooo!
+Dialogue: 0,0:25:28.42,0:25:31.08,Default,Crowd,0,0,60,,Thank you!
+Dialogue: 0,0:25:31.84,0:25:32.20,Default,Yasui Hina,0,0,60,,Thank you!
+Dialogue: 0,0:25:32.82,0:25:34.36,Default,Yasui Hina,0,0,60,,Hina's round favorite—
+Dialogue: 0,0:25:34.44,0:25:34.96,Default,Yasui Hina,0,0,60,,That was a slip.
+Dialogue: 0,0:25:35.48,0:25:37.42,Default,Yasui Hina,0,0,60,,My round food favorite is…
+Dialogue: 0,0:25:37.50,0:25:39.06,Default,Yasui Hina,0,0,60,,It's figs,
+Dialogue: 0,0:25:39.86,0:25:42.12,Default,Yasui Hina,0,0,60,,and I really, really like figs—
+Dialogue: 0,0:25:42.60,0:25:43.68,Default,Yasui Hina,0,0,60,,I really like them!
+Dialogue: 0,0:25:44.36,0:25:46.64,Default,Yasui Hina,0,0,60,,they're my favorite fruit,
+Dialogue: 0,0:25:47.58,0:25:49.48,Default,Yasui Hina,0,0,60,,but I like apples more,
+Dialogue: 0,0:25:49.56,0:25:50.36,Default,Yasui Hina,0,0,60,,No way!
+Dialogue: 0,0:25:50.44,0:25:51.60,Default,Yasui Hina,0,0,60,,That's not number one!
+Dialogue: 0,0:25:51.68,0:25:53.22,Default,Yasui Hina,0,0,60,,I like apples more, but—
+Dialogue: 0,0:25:53.60,0:25:56.02,Default,Yasui Hina,0,0,60,,—anyway, the point was I love figs too!
+Dialogue: 0,0:25:56.10,0:25:58.68,Default,Yasui Hina,0,0,60,,Today I want to celebrate Risaki lots!
+Dialogue: 0,0:25:58.76,0:26:01.94,Default,Yasui Hina,0,0,60,,Look after us today!
+Dialogue: 0,0:26:02.48,0:26:03.24,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:26:03.32,0:26:09.32,Default,Eguchi Kokoha,0,0,60,,Everyone — please look for Risaki!
+Dialogue: 0,0:26:09.91,0:26:11.09,Default,Eguchi Kokoha,0,0,60,,Where are you?
+Dialogue: 0,0:26:13.73,0:26:14.55,Default,Eguchi Kokoha,0,0,60,,Right here!
+Dialogue: 0,0:26:18.85,0:26:21.19,Default,Eguchi Kokoha,0,0,60,,These are Risaki goods!
+Dialogue: 0,0:26:21.61,0:26:22.67,Default,Eguchi Kokoha,0,0,60,,These are the ones on sale now.
+Dialogue: 0,0:26:22.87,0:26:23.07,Default,Eguchi Kokoha,0,0,60,,Yes.
+Dialogue: 0,0:26:23.61,0:26:24.85,Default,Eguchi Kokoha,0,0,60,,Uh—what was it—
+Dialogue: 0,0:26:25.27,0:26:26.65,Default,Eguchi Kokoha,0,0,60,,I'll always be waiting right here,
+Dialogue: 0,0:26:26.73,0:26:28.27,Default,Eguchi Kokoha,0,0,60,,so come see Risaki, okay?
+Dialogue: 0,0:26:28.35,0:26:30.55,Default,Eguchi Kokoha,0,0,60,,From Nagasaki Prefecture, 3rd year of high school,
+Dialogue: 0,0:26:31.27,0:26:33.19,Default,Eguchi Kokoha,0,0,60,,age 18 — I'm Eguchi — Koko-chan!
+Dialogue: 0,0:26:33.27,0:26:36.09,Default,Crowd,0,0,60,,Koko-chaan!
+Dialogue: 0,0:26:38.21,0:26:38.85,Default,Eguchi Kokoha,0,0,60,,Thank you, thank you!
+Dialogue: 0,0:26:38.93,0:26:42.81,Default,Eguchi Kokoha,0,0,60,,My favorite round food is ramen,
+Dialogue: 0,0:26:43.33,0:26:45.03,Default,Eguchi Kokoha,0,0,60,,because the bowl is round,
+Dialogue: 0,0:26:45.11,0:26:46.83,Default,Eguchi Kokoha,0,0,60,,so that counts as round, right?
+Dialogue: 0,0:26:46.91,0:26:50.27,Default,Eguchi Kokoha,0,0,60,,I don't eat it three meals a day, but
+Dialogue: 0,0:26:50.35,0:26:52.23,Default,Eguchi Kokoha,0,0,60,,I love it enough that I want to,
+Dialogue: 0,0:26:52.31,0:26:54.29,Default,Eguchi Kokoha,0,0,60,,though honestly I haven't had it much lately,
+Dialogue: 0,0:26:54.89,0:26:56.79,Default,Eguchi Kokoha,0,0,60,,Risaki likes ramen too—
+Dialogue: 0,0:26:56.87,0:26:58.47,Default,Eguchi Kokoha,0,0,60,,you know she likes it, right?
+Dialogue: 0,0:26:59.25,0:27:00.45,Default,Eguchi Kokoha,0,0,60,,You know, right?—you know.
+Dialogue: 0,0:27:00.53,0:27:01.91,Default,Eguchi Kokoha,0,0,60,,She loves ramen,
+Dialogue: 0,0:27:01.99,0:27:04.31,Default,Eguchi Kokoha,0,0,60,,so we promised to go eat ramen together,
+Dialogue: 0,0:27:04.39,0:27:06.09,Default,Eguchi Kokoha,0,0,60,,we've had that promise,
+Dialogue: 0,0:27:06.17,0:27:07.65,Default,Eguchi Kokoha,0,0,60,,for about a year now,
+Dialogue: 0,0:27:07.73,0:27:09.43,Default,Eguchi Kokoha,0,0,60,,and we still haven't gone even once,
+Dialogue: 0,0:27:09.51,0:27:11.39,Default,Eguchi Kokoha,0,0,60,,so I want to promise again for real
+Dialogue: 0,0:27:11.47,0:27:13.11,Default,Eguchi Kokoha,0,0,60,,and go someday!
+Dialogue: 0,0:27:13.19,0:27:14.49,Default,Eguchi Kokoha,0,0,60,,Please take care of us today!
+Dialogue: 0,0:27:14.93,0:27:16.55,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:27:18.19,0:27:20.73,Default,Fujino Kokoha,0,0,60,,When I say "se-no," please answer "Kokoha!"
+Dialogue: 0,0:27:21.25,0:27:22.23,Default,Fujino Kokoha,0,0,60,,Okay!
+Dialogue: 0,0:27:22.31,0:27:23.37,Default,Fujino Kokoha,0,0,60,,Where is this place?
+Dialogue: 0,0:27:23.45,0:27:24.23,Default,Fujino Kokoha,0,0,60,,Who am I?
+Dialogue: 0,0:27:24.45,0:27:25.09,Default,Fujino Kokoha,0,0,60,,Se-no!
+Dialogue: 0,0:27:25.17,0:27:26.49,Default,Crowd,0,0,60,,Kokoha!
+Dialogue: 0,0:27:28.43,0:27:31.69,Default,Fujino Kokoha,0,0,60,,From Fukuoka Prefecture, 2nd year of high school, age 16 — I'm Fujino Kokoha!
+Dialogue: 0,0:27:32.01,0:27:33.11,Default,Crowd,0,0,60,,Kokoha!
+Dialogue: 0,0:27:37.43,0:27:39.01,Default,Fujino Kokoha,0,0,60,,Mine is fried rice,
+Dialogue: 0,0:27:39.09,0:27:45.09,Default,Fujino Kokoha,0,0,60,,and Risaki's a ghost member of the fried-rice club who's been working hard at it,
+Dialogue: 0,0:27:45.55,0:27:47.73,Default,Fujino Kokoha,0,0,60,,So I also…
+Dialogue: 0,0:27:47.81,0:27:49.99,Default,Fujino Kokoha,0,0,60,,so when Gucci eats ramen, I want to feed Risaki fried rice too!
+Dialogue: 0,0:27:50.07,0:27:53.47,Default,Fujino Kokoha,0,0,60,,…is what I think. Please take care of us today!
+Dialogue: 0,0:27:53.55,0:27:54.55,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:27:57.59,0:27:59.77,Default,Izawa Miyu,0,0,60,,When I point the mic, please go "fuu!"
+Dialogue: 0,0:27:59.85,0:28:00.43,Default,Izawa Miyu,0,0,60,,Please!
+Dialogue: 0,0:28:02.59,0:28:04.05,Default,Izawa Miyu,0,0,60,,Warm-smile lead—
+Dialogue: 0,0:28:04.13,0:28:05.79,Default,Izawa Miyu,0,0,60,,I'll turn today into an eternal day for Richaki!
+Dialogue: 0,0:28:05.87,0:28:07.75,Default,Izawa Miyu,0,0,60,,I'll turn this day into an eternal one!
+Dialogue: 0,0:28:09.53,0:28:09.85,Default,Izawa Miyu,0,0,60,,Thank you!
+Dialogue: 0,0:28:10.43,0:28:11.49,Default,Izawa Miyu,0,0,60,,From Fukuoka Prefecture—
+Dialogue: 0,0:28:11.57,0:28:12.93,Default,Izawa Miyu,0,0,60,,summer-born, age 18—
+Dialogue: 0,0:28:13.01,0:28:13.65,Default,Izawa Miyu,0,0,60,,I'm Izawa Miyu!
+Dialogue: 0,0:28:13.73,0:28:14.51,Default,Izawa Miyu,0,0,60,,Please take care of us!
+Dialogue: 0,0:28:14.93,0:28:16.79,Default,Izawa Miyu,0,0,60,,Miyuu-chaan!
+Dialogue: 0,0:28:19.83,0:28:20.15,Default,Izawa Miyu,0,0,60,,Thank you!
+Dialogue: 0,0:28:21.51,0:28:23.99,Default,Izawa Miyu,0,0,60,,My round food I love is…
+Dialogue: 0,0:28:24.07,0:28:25.51,Default,Izawa Miyu,0,0,60,,It's gyoza,
+Dialogue: 0,0:28:25.59,0:28:28.61,Default,Izawa Miyu,0,0,60,,and when you wrap them a bit…
+Dialogue: 0,0:28:28.79,0:28:29.19,Default,Izawa Miyu,0,0,60,,Yes.
+Dialogue: 0,0:28:29.27,0:28:30.31,Default,Izawa Miyu,0,0,60,,they get round, right?
+Dialogue: 0,0:28:30.39,0:28:32.29,Default,Izawa Miyu,0,0,60,,Anything goes, huh.
+Dialogue: 0,0:28:34.17,0:28:36.33,Default,Izawa Miyu,0,0,60,,Ever since I can remember
+Dialogue: 0,0:28:36.41,0:28:38.33,Default,Izawa Miyu,0,0,60,,I've always loved gyoza.
+Dialogue: 0,0:28:38.41,0:28:40.99,Default,Izawa Miyu,0,0,60,,I've been alive 18 years now,
+Dialogue: 0,0:28:41.07,0:28:42.29,Default,Izawa Miyu,0,0,60,,from about age two—
+Dialogue: 0,0:28:42.37,0:28:44.01,Default,Izawa Miyu,0,0,60,,from about age three onward
+Dialogue: 0,0:28:44.09,0:28:45.15,Default,Izawa Miyu,0,0,60,,I've loved gyoza,
+Dialogue: 0,0:28:45.23,0:28:47.07,Default,Izawa Miyu,0,0,60,,so that's like 15 years of loving it!
+Dialogue: 0,0:28:47.15,0:28:49.01,Default,Izawa Miyu,0,0,60,,And with gyoza,
+Dialogue: 0,0:28:49.37,0:28:50.65,Default,Izawa Miyu,0,0,60,,you can fill them with minced meat,
+Dialogue: 0,0:28:50.73,0:28:52.25,Default,Izawa Miyu,0,0,60,,or even tuna,
+Dialogue: 0,0:28:52.33,0:28:54.01,Default,Izawa Miyu,0,0,60,,they can become anything,
+Dialogue: 0,0:28:54.09,0:28:55.55,Default,Izawa Miyu,0,0,60,,so I think gyoza are amazing—
+Dialogue: 0,0:28:55.63,0:28:57.53,Default,Izawa Miyu,0,0,60,,I want to become a gyoza wrapper too,
+Dialogue: 0,0:28:57.71,0:29:00.95,Default,Izawa Miyu,0,0,60,,I want to wrap everyone and Richaki up with care — I'll do my best!
+Dialogue: 0,0:29:01.03,0:29:02.83,Default,Member,0,0,60,,Yes — please take care of me today too!
+Dialogue: 0,0:29:03.39,0:29:05.09,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:29:07.43,0:29:09.53,Default,Member,0,0,60,,Yes — if you say "angel little devil,"
+Dialogue: 0,0:29:10.07,0:29:11.71,Default,Crowd,0,0,60,,Karen-ren!
+Dialogue: 0,0:29:11.79,0:29:13.91,Default,Fukui Karen,0,0,60,,the girl who wants to be Risaki's angel!
+Dialogue: 0,0:29:13.99,0:29:15.19,Default,Crowd,0,0,60,,Woo!
+Dialogue: 0,0:29:15.27,0:29:15.49,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,0:29:16.18,0:29:20.06,Default,Fukui Karen,0,0,60,,I'm Fukui Karen — Karen-ren!
+Dialogue: 0,0:29:25.44,0:29:27.66,Default,Fukui Karen,0,0,60,,Mine is onigiri,
+Dialogue: 0,0:29:27.84,0:29:32.40,Default,Fukui Karen,0,0,60,,Risaki's handmade onigiri look kinda salty and delicious, don't they?
+Dialogue: 0,0:29:32.78,0:29:33.70,Default,Fukui Karen,0,0,60,,I look salty?
+Dialogue: 0,0:29:33.78,0:29:35.28,Default,Fukui Karen,0,0,60,,Wait—you mean sweaty hands?!
+Dialogue: 0,0:29:36.96,0:29:38.80,Default,Fukui Karen,0,0,60,,No—just a little!
+Dialogue: 0,0:29:38.88,0:29:39.62,Default,Fukui Karen,0,0,60,,The salt, I mean.
+Dialogue: 0,0:29:40.60,0:29:44.26,Default,Fukui Karen,0,0,60,,So I want to eat Risaki's round onigiri!
+Dialogue: 0,0:29:44.36,0:29:45.90,Default,Fukui Karen,0,0,60,,Please look after us today!
+Dialogue: 0,0:29:46.56,0:29:48.58,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:29:50.39,0:29:52.80,Default,Tachibana Kokoro,0,0,60,,Yes — always in everyone's hearts…
+Dialogue: 0,0:29:52.88,0:29:53.60,Default,Tachibana Kokoro,0,0,60,,Kokoro!
+Dialogue: 0,0:29:54.30,0:29:56.24,Default,Tachibana Kokoro,0,0,60,,With this smile, energy into everyone's hearts!
+Dialogue: 0,0:29:56.82,0:29:57.18,Default,Tachibana Kokoro,0,0,60,,—feel it!
+Dialogue: 0,0:29:57.76,0:29:59.14,Default,Tachibana Kokoro,0,0,60,,I'll deliver lots of smiles!
+Dialogue: 0,0:29:59.22,0:30:01.44,Default,Tachibana Kokoro,0,0,60,,From Kagawa Prefecture, 1st year of high school, age 15—
+Dialogue: 0,0:30:01.52,0:30:03.02,Default,Tachibana Kokoro,0,0,60,,I'm Tachibana Kokoro — Koko-ppe!
+Dialogue: 0,0:30:03.10,0:30:07.08,Default,Tachibana Kokoro,0,0,60,,From Kagawa Prefecture, 1st year of high school, age 15—
+Dialogue: 0,0:30:07.70,0:30:09.08,Default,Tachibana Kokoro,0,0,60,,Yes — mine is…
+Dialogue: 0,0:30:09.16,0:30:12.44,Default,Tachibana Kokoro,0,0,60,,The cookies Risaki made me for Valentine's this year—
+Dialogue: 0,0:30:12.52,0:30:14.35,Default,Tachibana Kokoro,0,0,60,,they're cookies,
+Dialogue: 0,0:30:14.43,0:30:17.81,Default,Tachibana Kokoro,0,0,60,,They looked pretty different from what I'd imagined, but
+Dialogue: 0,0:30:17.89,0:30:20.33,Default,Tachibana Kokoro,0,0,60,,they tasted better than anything — seriously delicious,
+Dialogue: 0,0:30:20.63,0:30:24.05,Default,Member,0,0,60,,If I'm picky — a little sweeter and it'd be even tastier, I think.
+Dialogue: 0,0:30:24.47,0:30:26.11,Default,Member,0,0,60,,Today I want to celebrate Risaki a lot!
+Dialogue: 0,0:30:26.19,0:30:27.09,Default,Member,0,0,60,,Please take care of us!
+Dialogue: 0,0:30:27.73,0:30:30.07,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:30:32.03,0:30:34.27,Default,Member,0,0,60,,Yes — everyone, clap and call along!
+Dialogue: 0,0:30:34.39,0:30:34.87,Default,Tachibana Kokoro,0,0,60,,Please!
+Dialogue: 0,0:30:35.81,0:30:38.37,Default,Tachibana Kokoro,0,0,60,,Se-no — please!
+Dialogue: 0,0:30:39.73,0:30:41.03,Default,Morisaki Saaya,0,0,60,,Sharp as ever today—
+Dialogue: 0,0:30:41.11,0:30:42.85,Default,Morisaki Saaya,0,0,60,,Saaya!
+Dialogue: 0,0:30:42.93,0:30:43.28,Default,Morisaki Saaya,0,0,60,,Coloring your mind — Saaya!
+Dialogue: 0,0:30:43.36,0:30:44.85,Default,Morisaki Saaya,0,0,60,,Richaki — happy birthday!
+Dialogue: 0,0:30:44.93,0:30:45.99,Default,Morisaki Saaya,0,0,60,,Ooh—Saaya!
+Dialogue: 0,0:30:47.43,0:30:50.93,Default,Morisaki Saaya,0,0,60,,From Kumamoto Prefecture, age 20, Team KIV — I'm Morisaki Saaya!
+Dialogue: 0,0:30:51.93,0:30:52.93,Default,Crowd,0,0,60,,Saaya!
+Dialogue: 0,0:30:59.43,0:31:03.85,Default,Morisaki Saaya,0,0,60,,The round food I love is…
+Dialogue: 0,0:31:03.93,0:31:06.35,Default,Morisaki Saaya,0,0,60,,It's karashi-renkon (mustard lotus root),
+Dialogue: 0,0:31:06.43,0:31:08.93,Default,Morisaki Saaya,0,0,60,,and the cross-section is round!
+Dialogue: 0,0:31:09.49,0:31:15.35,Default,Morisaki Saaya,0,0,60,,Karashi-renkon — they use a whole lotus root,
+Dialogue: 0,0:31:15.43,0:31:19.79,Default,Morisaki Saaya,0,0,60,,stuffed with mustard miso, battered and fried.
+Dialogue: 0,0:31:20.09,0:31:21.41,Default,Morisaki Saaya,0,0,60,,What I like is…
+Dialogue: 0,0:31:21.70,0:31:23.98,Default,Morisaki Saaya,0,0,60,,These are the end pieces from the cut,
+Dialogue: 0,0:31:24.06,0:31:25.62,Default,Morisaki Saaya,0,0,60,,where there's the most coating,
+Dialogue: 0,0:31:25.70,0:31:27.58,Default,Morisaki Saaya,0,0,60,,so maybe…
+Dialogue: 0,0:31:27.66,0:31:29.96,Default,Morisaki Saaya,0,0,60,,so when you eat karashi-renkon with me,
+Dialogue: 0,0:31:30.04,0:31:31.20,Default,Morisaki Saaya,0,0,60,,there's only two,
+Dialogue: 0,0:31:31.28,0:31:34.02,Default,Morisaki Saaya,0,0,60,,so I'd love it if you'd share!
+Dialogue: 0,0:31:34.10,0:31:36.72,Default,Morisaki Saaya,0,0,60,,I'll celebrate Richaki lots!
+Dialogue: 0,0:31:36.80,0:31:37.28,Default,Morisaki Saaya,0,0,60,,Please look after us!
+Dialogue: 0,0:31:37.36,0:31:37.78,Default,Morisaki Saaya,0,0,60,,Please!
+Dialogue: 0,0:31:37.86,0:31:40.36,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:31:42.08,0:31:43.76,Default,Imamura Maria,0,0,60,,From Gunma Prefecture, age 21—
+Dialogue: 0,0:31:43.84,0:31:45.00,Default,Imamura Maria,0,0,60,,Team KIV — I'm Imamura Maria!
+Dialogue: 0,0:31:45.08,0:31:46.38,Default,Imamura Maria,0,0,60,,I'm Maria!
+Dialogue: 0,0:31:48.85,0:31:49.17,Default,Imamura Maria,0,0,60,,Thank you!
+Dialogue: 0,0:31:51.21,0:31:53.05,Default,Imamura Maria,0,0,60,,Mine is karaage,
+Dialogue: 0,0:31:53.43,0:31:54.63,Default,Imamura Maria,0,0,60,,It's round-ish, right?
+Dialogue: 0,0:31:55.95,0:31:57.85,Default,Imamura Maria,0,0,60,,I'm about to say something cute—
+Dialogue: 0,0:31:57.93,0:31:59.93,Default,Imamura Maria,0,0,60,,The karaage Mom makes
+Dialogue: 0,0:32:00.01,0:32:01.23,Default,Imamura Maria,0,0,60,,is my favorite!
+Dialogue: 0,0:32:02.71,0:32:03.03,Default,Imamura Maria,0,0,60,,Thank you!
+Dialogue: 0,0:32:04.39,0:32:06.13,Default,Imamura Maria,0,0,60,,So I want to learn to make it,
+Dialogue: 0,0:32:06.21,0:32:07.45,Default,Imamura Maria,0,0,60,,but I'm probably bad at fried food—
+Dialogue: 0,0:32:07.53,0:32:09.01,Default,Imamura Maria,0,0,60,,I'm scared of fire, so it's hard,
+Dialogue: 0,0:32:09.41,0:32:11.43,Default,Imamura Maria,0,0,60,,but coating them in starch looks fun,
+Dialogue: 0,0:32:11.51,0:32:12.59,Default,Imamura Maria,0,0,60,,so I want to do that part!
+Dialogue: 0,0:32:12.95,0:32:13.81,Default,Imamura Maria,0,0,60,,Look after us today!
+Dialogue: 0,0:32:13.89,0:32:16.69,Default,Imamura Maria,0,0,60,,Please take care of us! Yay!
+Dialogue: 0,0:32:18.19,0:32:20.05,Default,Tanaka Iori,0,0,60,,Birthday is August 31—
+Dialogue: 0,0:32:20.13,0:32:20.69,Default,Tanaka Iori,0,0,60,,Vegetable Day!
+Dialogue: 0,0:32:20.77,0:32:21.93,Default,Tanaka Iori,0,0,60,,What I (dago) love is cucumber!
+Dialogue: 0,0:32:22.01,0:32:23.53,Default,Tanaka Iori,0,0,60,,From Kumamoto Prefecture — I'm Tanaka Iori!
+Dialogue: 0,0:32:23.95,0:32:25.63,Default,Crowd,0,0,60,,Iori!
+Dialogue: 0,0:32:27.69,0:32:28.01,Default,Tanaka Iori,0,0,60,,Thank you!
+Dialogue: 0,0:32:28.57,0:32:28.89,Default,Tanaka Iori,0,0,60,,Thank you!
+Dialogue: 0,0:32:29.45,0:32:29.99,Default,Tanaka Iori,0,0,60,,My…
+Dialogue: 0,0:32:30.07,0:32:31.21,Default,Tanaka Iori,0,0,60,,favorite round food is…
+Dialogue: 0,0:32:31.29,0:32:32.51,Default,Tanaka Iori,0,0,60,,It's cucumber, of course,
+Dialogue: 0,0:32:32.89,0:32:34.39,Default,Tanaka Iori,0,0,60,,Isn't cucumber stick-shaped?
+Dialogue: 0,0:32:34.47,0:32:35.59,Default,Tanaka Iori,0,0,60,,you might think,
+Dialogue: 0,0:32:35.67,0:32:37.29,Default,Tanaka Iori,0,0,60,,but sliced into rounds it is round!
+Dialogue: 0,0:32:37.73,0:32:38.81,Default,Tanaka Iori,0,0,60,,Yes — round!
+Dialogue: 0,0:32:38.89,0:32:40.89,Default,Tanaka Iori,0,0,60,,I really love cucumber,
+Dialogue: 0,0:32:40.97,0:32:42.39,Default,Tanaka Iori,0,0,60,,but this morning
+Dialogue: 0,0:32:42.71,0:32:43.39,Default,Tanaka Iori,0,0,60,,I didn't eat cucumber—
+Dialogue: 0,0:32:43.47,0:32:44.73,Default,Tanaka Iori,0,0,60,,I ate an apple instead,
+Dialogue: 0,0:32:44.81,0:32:45.85,Default,Tanaka Iori,0,0,60,,so today, on apple power,
+Dialogue: 0,0:32:45.93,0:32:47.61,Default,Tanaka Iori,0,0,60,,I want to celebrate Richaki lots!
+Dialogue: 0,0:32:47.69,0:32:49.49,Default,Tanaka Iori,0,0,60,,Please take care of us today!
+Dialogue: 0,0:32:50.05,0:32:51.39,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:32:53.30,0:32:54.86,Default,Akiyoshi Yuka,0,0,60,,When I say what I want to become, please say it with me!
+Dialogue: 0,0:32:54.94,0:32:55.92,Default,Akiyoshi Yuka,0,0,60,,Please say "I want to become…!"
+Dialogue: 0,0:32:56.22,0:32:56.50,Default,Akiyoshi Yuka,0,0,60,,Please!
+Dialogue: 0,0:32:58.78,0:33:01.50,Default,Akiyoshi Yuka,0,0,60,,I want to be a gentle flower blooming in Hakata!
+Dialogue: 0,0:33:01.58,0:33:01.86,Default,Akiyoshi Yuka,0,0,60,,Yes.
+Dialogue: 0,0:33:02.88,0:33:03.26,Default,Akiyoshi Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:33:05.24,0:33:06.84,Default,Akiyoshi Yuka,0,0,60,,I love acting and guitar—
+Dialogue: 0,0:33:06.92,0:33:08.34,Default,Akiyoshi Yuka,0,0,60,,I'm Akiyoshi Yuka — Yuka-chan!
+Dialogue: 0,0:33:08.42,0:33:09.52,Default,Crowd,0,0,60,,Yuka-chaan!
+Dialogue: 0,0:33:13.29,0:33:13.67,Default,Akiyoshi Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:33:14.63,0:33:16.87,Default,Akiyoshi Yuka,0,0,60,,My favorite round thing is…
+Dialogue: 0,0:33:17.27,0:33:18.87,Default,Akiyoshi Yuka,0,0,60,,It's miso balls!
+Dialogue: 0,0:33:18.95,0:33:21.73,Default,Akiyoshi Yuka,0,0,60,,Do you know miso balls?
+Dialogue: 0,0:33:22.87,0:33:25.05,Default,Akiyoshi Yuka,0,0,60,,When you want miso soup,
+Dialogue: 0,0:33:25.13,0:33:26.95,Default,Akiyoshi Yuka,0,0,60,,making miso soup from scratch is a hassle, right?
+Dialogue: 0,0:33:28.19,0:33:31.25,Default,Akiyoshi Yuka,0,0,60,,So you make it into a ball—
+Dialogue: 0,0:33:32.39,0:33:36.55,Default,Akiyoshi Yuka,0,0,60,,miso, dried wakame, dashi and such—
+Dialogue: 0,0:33:37.73,0:33:41.23,Default,Akiyoshi Yuka,0,0,60,,you roll them up and freeze them — that's a miso ball, but
+Dialogue: 0,0:33:41.91,0:33:45.83,Default,Akiyoshi Yuka,0,0,60,,then you just pour hot water from a pot — done!
+Dialogue: 0,0:33:45.91,0:33:47.39,Default,Akiyoshi Yuka,0,0,60,,Please try it!
+Dialogue: 0,0:33:47.93,0:33:51.19,Default,Akiyoshi Yuka,0,0,60,,And the portrait cookies I got from Richaki—
+Dialogue: 0,0:33:51.63,0:33:53.23,Default,Akiyoshi Yuka,0,0,60,,I'll never forget them,
+Dialogue: 0,0:33:54.15,0:33:55.47,Default,Akiyoshi Yuka,0,0,60,,like, a Valentine like that
+Dialogue: 0,0:33:55.87,0:33:57.67,Default,Akiyoshi Yuka,0,0,60,,felt like a first-and-last kind of
+Dialogue: 0,0:33:58.07,0:33:59.89,Default,Akiyoshi Yuka,0,0,60,,impactful face on them!
+Dialogue: 0,0:33:59.97,0:34:01.75,Default,Akiyoshi Yuka,0,0,60,,So like those portrait cookies,
+Dialogue: 0,0:34:01.83,0:34:03.91,Default,Akiyoshi Yuka,0,0,60,,today I want to work with a wonderful smile!
+Dialogue: 0,0:34:03.99,0:34:04.49,Default,Akiyoshi Yuka,0,0,60,,Please take care of us!
+Dialogue: 0,0:34:04.57,0:34:05.07,Default,Akiyoshi Yuka,0,0,60,,Please look after us!
+Dialogue: 0,0:34:05.59,0:34:06.93,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:34:09.04,0:34:12.60,Default,Member,0,0,60,,HKT48 Team KIV — Koko ni Datte Tenshi wa Iru!
+Dialogue: 0,0:34:12.68,0:34:14.20,Default,Member,0,0,60,,Those are the members bringing you the show!
+Dialogue: 0,0:34:14.90,0:34:16.74,Default,Member,0,0,60,,Everyone — still ready to get even more hyped?
+Dialogue: 0,0:34:20.32,0:34:22.60,Default,Member,0,0,60,,Ready to celebrate Richaki?!
+Dialogue: 0,0:34:25.25,0:34:25.57,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,0:34:25.95,0:34:27.65,Default,Member,0,0,60,,Keep that energy all the way to the end!
+Dialogue: 0,0:34:27.73,0:34:29.61,Default,Member,0,0,60,,Next up — various units take the stage!
+Dialogue: 0,0:34:29.69,0:34:30.95,Default,Member,0,0,60,,Starting with this unit!
+
+; ===== mc1 =====
+Dialogue: 0,0:56:54.98,0:56:55.74,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:56:55.82,0:56:58.46,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:57:00.79,0:57:01.15,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,0:57:02.42,0:57:03.46,Default,Ouchi Rinka,0,0,60,,Yume no Dead Body
+Dialogue: 0,0:57:03.54,0:57:04.40,Default,Ouchi Rinka,0,0,60,,Nando mo Nerae!
+Dialogue: 0,0:57:04.48,0:57:05.40,Default,Ouchi Rinka,0,0,60,,ONEW no Uwabaki
+Dialogue: 0,0:57:05.48,0:57:07.49,Default,Ouchi Rinka,0,0,60,,Kono Sekai ga Yuki no Naka ni Umoreru Mae ni
+Dialogue: 0,0:57:07.57,0:57:09.69,Default,Ouchi Rinka,0,0,60,,You've just heard Zipper -- five songs in a row.
+Dialogue: 0,0:57:09.77,0:57:10.45,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,0:57:11.27,0:57:11.63,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,0:57:15.35,0:57:16.37,Default,Ouchi Rinka,0,0,60,,So then -- Risaki-chan,
+Dialogue: 0,0:57:16.45,0:57:17.63,Default,Ouchi Rinka,0,0,60,,Yume no Dead Body...
+Dialogue: 0,0:57:17.71,0:57:21.24,Default,Eguchi Kokoha,0,0,60,,That was so cool!
+Dialogue: 0,0:57:21.32,0:57:21.76,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,0:57:23.96,0:57:26.06,Default,Oba Risaki,0,0,60,,I was really nervous,
+Dialogue: 0,0:57:26.50,0:57:28.18,Default,Oba Risaki,0,0,60,,I could barely sleep since the day before yesterday,
+Dialogue: 0,0:57:28.26,0:57:29.20,Default,Oba Risaki,0,0,60,,I was that nervous.
+Dialogue: 0,0:57:31.48,0:57:32.30,Default,Oba Risaki,0,0,60,,Since I was little...
+Dialogue: 0,0:57:32.38,0:57:34.24,Default,Oba Risaki,0,0,60,,I've been terrible at instruments since I was little.
+Dialogue: 0,0:57:34.76,0:57:36.82,Default,Oba Risaki,0,0,60,,I even took piano lessons,
+Dialogue: 0,0:57:37.22,0:57:38.38,Default,Oba Risaki,0,0,60,,but I was so bad,
+Dialogue: 0,0:57:38.46,0:57:40.04,Default,Oba Risaki,0,0,60,,and even though I kept at it,
+Dialogue: 0,0:57:40.42,0:57:42.62,Default,Oba Risaki,0,0,60,,I couldn't even memorize do-re-mi-fa-so-la-ti-do,
+Dialogue: 0,0:57:43.36,0:57:45.30,Default,Oba Risaki,0,0,60,,so I memorized by finger numbers...
+Dialogue: 0,0:57:45.38,0:57:46.78,Default,Oba Risaki,0,0,60,,like 1-2-3-4,
+Dialogue: 0,0:57:47.34,0:57:49.92,Default,Oba Risaki,0,0,60,,so it was really hard,
+Dialogue: 0,0:57:50.00,0:57:51.16,Default,Oba Risaki,0,0,60,,I'm glad.
+Dialogue: 0,0:57:52.20,0:57:52.56,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,0:57:53.70,0:57:54.52,Default,Fukui Karen,0,0,60,,That was so cool!
+Dialogue: 0,0:57:55.66,0:57:56.50,Default,Fukui Karen,0,0,60,,You know...
+Dialogue: 0,0:57:56.58,0:57:58.58,Default,Fukui Karen,0,0,60,,I've been watching from the wings since rehearsal,
+Dialogue: 0,0:57:58.66,0:57:59.64,Default,Fukui Karen,0,0,60,,and I almost cried.
+Dialogue: 0,0:58:01.82,0:58:03.00,Default,Tachibana Kokoro,0,0,60,,You've been finding that feeling,
+Dialogue: 0,0:58:03.08,0:58:04.20,Default,Tachibana Kokoro,0,0,60,,you've been working so hard,
+Dialogue: 0,0:58:04.28,0:58:06.04,Default,Tachibana Kokoro,0,0,60,,But you know...
+Dialogue: 0,0:58:06.12,0:58:07.76,Default,Tachibana Kokoro,0,0,60,,Karen-ren doesn't seem like she'd cry,
+Dialogue: 0,0:58:07.84,0:58:08.74,Default,Tachibana Kokoro,0,0,60,,and yet...
+Dialogue: 0,0:58:08.82,0:58:11.64,Default,Oba Risaki,0,0,60,,watching Risaki's Yume no Dead Body, she looked like she was about to cry.
+Dialogue: 0,0:58:12.48,0:58:13.18,Default,Tachibana Kokoro,0,0,60,,I almost cried.
+Dialogue: 0,0:58:15.36,0:58:16.36,Default,Tachibana Kokoro,0,0,60,,I'm not crying, okay?
+Dialogue: 0,0:58:16.44,0:58:17.30,Default,Tachibana Kokoro,0,0,60,,Don't say that.
+Dialogue: 0,0:58:18.88,0:58:21.46,Default,Oba Risaki,0,0,60,,I looked at your eyes -- you weren't crying at all.
+Dialogue: 0,0:58:22.36,0:58:23.22,Default,Oba Risaki,0,0,60,,You weren't crying.
+Dialogue: 0,0:58:23.78,0:58:25.06,Default,Oba Risaki,0,0,60,,Were you really about to cry?
+Dialogue: 0,0:58:25.26,0:58:26.36,Default,Oba Risaki,0,0,60,,Your eyes were watery.
+Dialogue: 0,0:58:26.44,0:58:28.48,Default,Ihara Hanna,0,0,60,,Sounds fake.
+Dialogue: 0,0:58:28.56,0:58:30.34,Default,Ihara Hanna,0,0,60,,Suspicious -- but somehow...
+Dialogue: 0,0:58:31.48,0:58:33.12,Default,Ihara Hanna,0,0,60,,I was also torn about Zipper,
+Dialogue: 0,0:58:33.20,0:58:34.24,Default,Ihara Hanna,0,0,60,,and then...
+Dialogue: 0,0:58:34.32,0:58:35.80,Default,Ihara Hanna,0,0,60,,without calling Fujikoko,
+Dialogue: 0,0:58:36.46,0:58:38.66,Default,Ihara Hanna,0,0,60,,she'd do two songs, so I hesitated, right?
+Dialogue: 0,0:58:39.18,0:58:40.02,Default,Oba Risaki,0,0,60,,Karen-ren's...
+Dialogue: 0,0:58:40.10,0:58:41.66,Default,Oba Risaki,0,0,60,,uh, what was it...
+Dialogue: 0,0:58:41.74,0:58:43.02,Default,Oba Risaki,0,0,60,,from Karen-ren...
+Dialogue: 0,0:58:43.86,0:58:45.66,Default,Oba Risaki,0,0,60,,try saying that proposal...
+Dialogue: 0,0:58:45.74,0:58:48.38,Default,Fukui Karen,0,0,60,,don't call Fujikoko — call a trainee,
+Dialogue: 0,0:58:48.46,0:58:50.04,Default,Fukui Karen,0,0,60,,do two songs herself — Zipper too…
+Dialogue: 0,0:58:50.12,0:58:53.00,Default,Oba Risaki,0,0,60,,she was saying that.
+Dialogue: 0,0:58:53.08,0:58:53.66,Default,Oba Risaki,0,0,60,,You're the worst.
+Dialogue: 0,0:58:53.74,0:58:56.22,Default,Oba Risaki,0,0,60,,Fujikoko was so looking forward to it,
+Dialogue: 0,0:58:56.30,0:58:58.82,Default,Oba Risaki,0,0,60,,Fujikoko's been asking forever...
+Dialogue: 0,0:58:58.90,0:59:00.98,Default,Oba Risaki,0,0,60,,"Risaki, who are you calling for your birthday set?"
+Dialogue: 0,0:59:01.06,0:59:01.41,Default,Oba Risaki,0,0,60,,...like that.
+Dialogue: 0,0:59:01.49,0:59:02.62,Default,Oba Risaki,0,0,60,,You said that, right?
+Dialogue: 0,0:59:04.78,0:59:06.58,Default,Oba Risaki,0,0,60,,So I didn't want to call her, but...
+Dialogue: 0,0:59:06.66,0:59:07.08,Default,Oba Risaki,0,0,60,,She said that.
+Dialogue: 0,0:59:08.70,0:59:09.42,Default,Fujino Kokoha,0,0,60,,So then...
+Dialogue: 0,0:59:09.50,0:59:10.70,Default,Fujino Kokoha,0,0,60,,Actually...
+Dialogue: 0,0:59:11.42,0:59:13.92,Default,Fujino Kokoha,0,0,60,,I called her because I felt bad for her... kind of,
+Dialogue: 0,0:59:14.00,0:59:16.04,Default,Fujino Kokoha,0,0,60,,but actually I love her.
+Dialogue: 0,0:59:16.56,0:59:18.08,Default,Fujino Kokoha,0,0,60,,Good, good.
+Dialogue: 0,0:59:19.10,0:59:20.46,Default,Fujino Kokoha,0,0,60,,The new look suited you!
+Dialogue: 0,0:59:20.54,0:59:21.70,Default,Fujino Kokoha,0,0,60,,No way, right?
+Dialogue: 0,0:59:22.62,0:59:23.62,Default,Jitoe Nene,0,0,60,,That's definitely a lie.
+Dialogue: 0,0:59:24.66,0:59:25.28,Default,Ouchi Rinka,0,0,60,,I'm happy!
+Dialogue: 0,0:59:26.02,0:59:26.42,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,0:59:26.90,0:59:29.18,Default,Ouchi Rinka,0,0,60,,We've still got a little time, so…
+Dialogue: 0,0:59:29.32,0:59:30.34,Default,Ouchi Rinka,0,0,60,,About Risaki...
+Dialogue: 0,0:59:30.42,0:59:31.64,Default,Ouchi Rinka,0,0,60,,who knows her best?
+Dialogue: 0,0:59:31.72,0:59:35.80,Default,Ouchi Rinka,0,0,60,,As always, Risaki-chan will quiz us...
+Dialogue: 0,0:59:35.88,0:59:36.96,Default,Ouchi Rinka,0,0,60,,please give us a question!
+Dialogue: 0,0:59:37.04,0:59:37.90,Default,Ouchi Rinka,0,0,60,,Please!
+Dialogue: 0,0:59:38.50,0:59:40.94,Default,Ouchi Rinka,0,0,60,,Question 1 is easy.
+Dialogue: 0,0:59:41.02,0:59:42.32,Default,Ouchi Rinka,0,0,60,,If you really love me,
+Dialogue: 0,0:59:42.90,0:59:44.88,Default,Ouchi Rinka,0,0,60,,what's the dish I've gotten into
+Dialogue: 0,0:59:44.96,0:59:46.74,Default,Ouchi Rinka,0,0,60,,making lately?
+Dialogue: 0,0:59:46.82,0:59:47.70,Default,Ouchi Rinka,0,0,60,,What is it?
+Dialogue: 0,0:59:47.78,0:59:48.96,Default,Ouchi Rinka,0,0,60,,You can cook?!
+Dialogue: 0,0:59:51.12,0:59:53.34,Default,Ouchi Rinka,0,0,60,,Maybe you don't know me that well.
+Dialogue: 0,0:59:53.42,0:59:54.46,Default,Ouchi Rinka,0,0,60,,Maybe I don't know.
+Dialogue: 0,0:59:54.54,0:59:56.44,Default,Ouchi Rinka,0,0,60,,What could it be?
+Dialogue: 0,0:59:56.52,0:59:57.94,Default,Ouchi Rinka,0,0,60,,It's recent, right? Recent.
+Dialogue: 0,0:59:58.90,0:59:59.56,Default,Ouchi Rinka,0,0,60,,Real cooking...
+Dialogue: 0,0:59:59.64,1:00:01.06,Default,Ouchi Rinka,0,0,60,,not cup ramen,
+Dialogue: 0,1:00:01.90,1:00:04.44,Default,Oba Risaki,0,0,60,,No — I write about cooking in emails a lot, so…
+Dialogue: 0,1:00:04.52,1:00:05.48,Default,Ouchi Rinka,0,0,60,,For real?
+Dialogue: 0,1:00:05.76,1:00:06.90,Default,Ouchi Rinka,0,0,60,,I see them and still don't get it.
+Dialogue: 0,1:00:06.98,1:00:08.20,Default,Ouchi Rinka,0,0,60,,Even though I see them...
+Dialogue: 0,1:00:08.28,1:00:09.48,Default,Ouchi Rinka,0,0,60,,What could it be?
+Dialogue: 0,1:00:12.76,1:00:14.30,Default,Fujino Kokoha,0,0,60,,There's no way she cooks.
+Dialogue: 0,1:00:14.38,1:00:15.58,Default,Fujino Kokoha,0,0,60,,Maybe she does cook.
+Dialogue: 0,1:00:15.66,1:00:16.74,Default,Fujino Kokoha,0,0,60,,She's a fried-rice club ghost member, after all.
+Dialogue: 0,1:00:18.12,1:00:19.30,Default,Oba Risaki,0,0,60,,Want to take a guess?
+Dialogue: 0,1:00:19.68,1:00:20.58,Default,Oba Risaki,0,0,60,,Starting with Koko-ppe...
+Dialogue: 0,1:00:21.86,1:00:22.94,Default,Oba Risaki,0,0,60,,Sweets stuff.
+Dialogue: 0,1:00:23.94,1:00:25.48,Default,Jitoe Nene,0,0,60,,That sounded sweets-related.
+Dialogue: 0,1:00:26.44,1:00:26.80,Default,Jitoe Nene,0,0,60,,Okay...
+Dialogue: 0,1:00:28.90,1:00:29.68,Default,Jitoe Nene,0,0,60,,Lately Risaki's been into...
+Dialogue: 0,1:00:29.76,1:00:30.58,Default,Jitoe Nene,0,0,60,,Rice flour?
+Dialogue: 0,1:00:30.96,1:00:33.62,Default,Jitoe Nene,0,0,60,,rice-flour stuff...
+Dialogue: 0,1:00:35.04,1:00:36.40,Default,Jitoe Nene,0,0,60,,Like donuts...
+Dialogue: 0,1:00:36.48,1:00:37.16,Default,Jitoe Nene,0,0,60,,Around there.
+Dialogue: 0,1:00:37.24,1:00:38.66,Default,Jitoe Nene,0,0,60,,Donuts, huh.
+Dialogue: 0,1:00:38.74,1:00:42.68,Default,Ouchi Rinka,0,0,60,,Thinking about Risaki's personality,
+Dialogue: 0,1:00:42.76,1:00:43.42,Default,Ouchi Rinka,0,0,60,,thinking it through...
+Dialogue: 0,1:00:44.12,1:00:45.14,Default,Ouchi Rinka,0,0,60,,Like tamagoyaki...
+Dialogue: 0,1:00:46.10,1:00:47.46,Default,Ouchi Rinka,0,0,60,,Something that seems easy.
+Dialogue: 0,1:00:47.54,1:00:49.66,Default,Oba Risaki,0,0,60,,I'm kind of mom-like,
+Dialogue: 0,1:00:49.74,1:00:51.84,Default,Oba Risaki,0,0,60,,I'm mom-like, and—
+Dialogue: 0,1:00:54.72,1:00:56.00,Default,Fujino Kokoha,0,0,60,,Like pasta...
+Dialogue: 0,1:00:56.92,1:00:59.40,Default,Fujino Kokoha,0,0,60,,feels like she could make that.
+Dialogue: 0,1:00:59.48,1:01:00.04,Default,Fujino Kokoha,0,0,60,,Han-chan?
+Dialogue: 0,1:01:00.44,1:01:01.78,Default,Fujino Kokoha,0,0,60,,Like candy apples...
+Dialogue: 0,1:01:02.86,1:01:04.32,Default,Fujino Kokoha,0,0,60,,It is apple, after all.
+Dialogue: 0,1:01:04.40,1:01:07.44,Default,Fujino Kokoha,0,0,60,,Okay -- the answer is...
+Dialogue: 0,1:01:08.00,1:01:09.22,Default,Oba Risaki,0,0,60,,gluten-free
+Dialogue: 0,1:01:09.30,1:01:10.26,Default,Oba Risaki,0,0,60,,rice-flour…
+Dialogue: 0,1:01:10.34,1:01:11.08,Default,Oba Risaki,0,0,60,,pan!
+Dialogue: 0,1:01:12.41,1:01:13.93,Default,Oba Risaki,0,0,60,,It's not donuts!
+Dialogue: 0,1:01:14.01,1:01:16.63,Default,Oba Risaki,0,0,60,,I've never made donuts.
+Dialogue: 0,1:01:16.71,1:01:17.53,Default,Oba Risaki,0,0,60,,Never made them.
+Dialogue: 0,1:01:18.44,1:01:19.70,Default,Oba Risaki,0,0,60,,So — bzzt!
+Dialogue: 0,1:01:19.78,1:01:20.74,Default,Oba Risaki,0,0,60,,Bzzt!
+Dialogue: 0,1:01:20.82,1:01:22.02,Default,Oba Risaki,0,0,60,,Bzzt, all of you!
+Dialogue: 0,1:01:22.10,1:01:22.95,Default,Oba Risaki,0,0,60,,That was hard.
+Dialogue: 0,1:01:23.03,1:01:25.37,Default,Oba Risaki,0,0,60,,What should I do...
+Dialogue: 0,1:01:25.85,1:01:26.97,Default,Oba Risaki,0,0,60,,Okay, next...
+Dialogue: 0,1:01:28.61,1:01:30.43,Default,Oba Risaki,0,0,60,,Among us here,
+Dialogue: 0,1:01:30.51,1:01:31.47,Default,Oba Risaki,0,0,60,,one-on-one...
+Dialogue: 0,1:01:31.55,1:01:33.23,Default,Oba Risaki,0,0,60,,someone I've never hung out with one-on-one
+Dialogue: 0,1:01:33.31,1:01:34.85,Default,Oba Risaki,0,0,60,,Someone you don't want to go with?
+Dialogue: 0,1:01:35.81,1:01:37.83,Default,Oba Risaki,0,0,60,,someone I've never gone out with just the two of us
+Dialogue: 0,1:01:37.91,1:01:38.93,Default,Oba Risaki,0,0,60,,Someone you haven't gone with?
+Dialogue: 0,1:01:39.03,1:01:40.71,Default,Oba Risaki,0,0,60,,You should know.
+Dialogue: 0,1:01:40.79,1:01:42.23,Default,Oba Risaki,0,0,60,,You know?
+Dialogue: 0,1:01:42.95,1:01:43.77,Default,Oba Risaki,0,0,60,,Which is it?
+Dialogue: 0,1:01:46.63,1:01:49.25,Default,Oba Risaki,0,0,60,,Among us, there's exactly one person
+Dialogue: 0,1:01:49.33,1:01:50.79,Default,Oba Risaki,0,0,60,,I've never hung out with one-on-one.
+Dialogue: 0,1:01:52.41,1:01:53.13,Default,Fujino Kokoha,0,0,60,,That's not it.
+Dialogue: 0,1:01:53.21,1:01:54.63,Default,Fujino Kokoha,0,0,60,,Starting with Koko-ppe...
+Dialogue: 0,1:01:55.10,1:01:55.64,Default,Member,0,0,60,,Rinka?
+Dialogue: 0,1:01:55.72,1:01:56.30,Default,Member,0,0,60,,Huh?
+Dialogue: 0,1:01:56.44,1:01:57.06,Default,Member,0,0,60,,Oh, really.
+Dialogue: 0,1:01:57.14,1:01:57.62,Default,Member,0,0,60,,Wait—?
+Dialogue: 0,1:01:58.58,1:01:59.14,Default,Ouchi Rinka,0,0,60,,I don't know.
+Dialogue: 0,1:02:00.22,1:02:01.06,Default,Member,0,0,60,,What about Rinka?
+Dialogue: 0,1:02:01.72,1:02:02.44,Default,Ouchi Rinka,0,0,60,,Then me…
+Dialogue: 0,1:02:02.98,1:02:03.34,Default,Member,0,0,60,,Huh?
+Dialogue: 0,1:02:03.84,1:02:04.88,Default,Ouchi Rinka,0,0,60,,Not Koko-ppe…?
+Dialogue: 0,1:02:04.98,1:02:05.86,Default,Member,0,0,60,,Then Fujikoko?
+Dialogue: 0,1:02:05.94,1:02:06.56,Default,Member,0,0,60,,Koko-ppe.
+Dialogue: 0,1:02:06.64,1:02:07.16,Default,Member,0,0,60,,What about Karen?
+Dialogue: 0,1:02:07.30,1:02:07.82,Default,Member,0,0,60,,Then Rinka…
+Dialogue: 0,1:02:07.90,1:02:10.22,Default,Oba Risaki,0,0,60,,Rinka, we went out to play, didn't we?
+Dialogue: 0,1:02:10.30,1:02:11.76,Default,Oba Risaki,0,0,60,,We went out to play.
+Dialogue: 0,1:02:11.84,1:02:12.20,Default,Member,0,0,60,,Yeah.
+Dialogue: 0,1:02:12.90,1:02:13.25,Default,Member,0,0,60,,What…
+Dialogue: 0,1:02:13.33,1:02:14.12,Default,Member,0,0,60,,Weird.
+Dialogue: 0,1:02:14.40,1:02:17.20,Default,Oba Risaki,0,0,60,,I — like, karaoke… yeah.
+Dialogue: 0,1:02:17.28,1:02:19.88,Default,Oba Risaki,0,0,60,,that practice run — yeah.
+Dialogue: 0,1:02:19.96,1:02:21.50,Default,Fujino Kokoha,0,0,60,,HKT48's Moneka…
+Dialogue: 0,1:02:21.58,1:02:23.08,Default,Fujino Kokoha,0,0,60,,Buri Buri Banbanbon,
+Dialogue: 0,1:02:23.16,1:02:23.98,Default,Fujino Kokoha,0,0,60,,just the two of us,
+Dialogue: 0,1:02:24.06,1:02:24.98,Default,Fujino Kokoha,0,0,60,,we'd been practicing it at karaoke,
+Dialogue: 0,1:02:25.06,1:02:25.48,Default,Fujino Kokoha,0,0,60,,since we had,
+Dialogue: 0,1:02:25.56,1:02:26.94,Default,Fujino Kokoha,0,0,60,,we danced hard, and yet
+Dialogue: 0,1:02:27.02,1:02:27.98,Default,Fujino Kokoha,0,0,60,,Buri Buri Banbanbon...
+Dialogue: 0,1:02:28.06,1:02:33.87,Default,Ouchi Rinka,0,0,60,,Someone I've never hung out with?
+Dialogue: 0,1:02:34.39,1:02:35.09,Default,Ouchi Rinka,0,0,60,,Didn't we?
+Dialogue: 0,1:02:35.71,1:02:37.55,Default,Ouchi Rinka,0,0,60,,I feel like we did hang out just us two,
+Dialogue: 0,1:02:37.63,1:02:38.55,Default,Ouchi Rinka,0,0,60,,I have a memory of it,
+Dialogue: 0,1:02:38.63,1:02:40.41,Default,Ouchi Rinka,0,0,60,,Memory of what?
+Dialogue: 0,1:02:40.89,1:02:41.93,Default,Ouchi Rinka,0,0,60,,Do you remember what we did?
+Dialogue: 0,1:02:42.29,1:02:43.39,Default,Ouchi Rinka,0,0,60,,I don't know, but...
+Dialogue: 0,1:02:44.87,1:02:46.75,Default,Ouchi Rinka,0,0,60,,Let's all go hang out!
+Dialogue: 0,1:02:46.83,1:02:47.77,Default,Ouchi Rinka,0,0,60,,Let's hang out!
+Dialogue: 0,1:02:49.73,1:02:51.05,Default,Ouchi Rinka,0,0,60,,Who won?
+Dialogue: 0,1:02:51.79,1:02:52.73,Default,Ouchi Rinka,0,0,60,,Fujikoko?
+Dialogue: 0,1:02:52.83,1:02:53.77,Default,Ouchi Rinka,0,0,60,,Okay - Fujikoko it is.
+Dialogue: 0,1:02:53.85,1:02:56.43,Default,Ouchi Rinka,0,0,60,,Fujikoko wins!
+Dialogue: 0,1:02:56.51,1:02:57.09,Default,Ouchi Rinka,0,0,60,,Yay!
+Dialogue: 0,1:02:59.09,1:02:59.45,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,1:03:00.69,1:03:03.01,Default,Ouchi Rinka,0,0,60,,HKT48 Risaki's birthday celebration...
+Dialogue: 0,1:03:03.10,1:03:06.40,Default,Ouchi Rinka,0,0,60,,HKT48 Koko ni Datte Tenshi wa Iru — Part 2!
+Dialogue: 0,1:03:06.48,1:03:07.27,Default,Ouchi Rinka,0,0,60,,Risaki's birthday celebration!
+Dialogue: 0,1:03:07.35,1:03:08.71,Default,Ouchi Rinka,0,0,60,,Can we get even more hyped?!
+Dialogue: 0,1:03:09.03,1:03:13.36,Default,Ouchi Rinka,0,0,60,,Can you cheer even harder for Risaki?
+Dialogue: 0,1:03:15.45,1:03:15.73,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,1:03:16.57,1:03:18.15,Default,Ouchi Rinka,0,0,60,,Next up, this song...
+Dialogue: 0,1:03:18.23,1:03:18.71,Default,Takemoto Kurumi,0,0,60,,Here you go.
+
+; ===== mc2 =====
+Dialogue: 0,1:15:52.54,1:15:55.46,Default,Member,0,0,60,,Hajimete no Hoshi, 100-nen Saki demo, Ribbon nante Niawanai
+Dialogue: 0,1:15:55.54,1:15:57.42,Default,Member,0,0,60,,You've just heard those three songs in a row—
+Dialogue: 0,1:15:57.50,1:15:58.73,Default,Member,0,0,60,,How's it been so far?
+Dialogue: 0,1:15:59.34,1:16:01.16,Default,Oba Risaki,0,0,60,,Thank you so much for coming today,
+Dialogue: 0,1:16:01.24,1:16:02.77,Default,Oba Risaki,0,0,60,,and thank you for watching on DMM!
+Dialogue: 0,1:16:02.84,1:16:03.54,Default,Crowd,0,0,60,,Thank you!
+Dialogue: 0,1:16:07.50,1:16:11.74,Default,Oba Risaki,0,0,60,,I've kept telling everyone in KIV how nervous I was,
+Dialogue: 0,1:16:11.82,1:16:13.26,Default,Oba Risaki,0,0,60,,and in those moments they'd kindly say,
+Dialogue: 0,1:16:13.34,1:16:17.38,Default,Oba Risaki,0,0,60,,"Risaki, you'll be fine"—I love that about them,
+Dialogue: 0,1:16:17.46,1:16:20.34,Default,Oba Risaki,0,0,60,,and I really love how warm all of you are,
+Dialogue: 0,1:16:20.42,1:16:21.36,Default,Oba Risaki,0,0,60,,so I'm happy every day.
+Dialogue: 0,1:16:21.44,1:16:26.96,Default,Oba Risaki,0,0,60,,If you feel happy being at this birthday celebration today, that would make me glad.
+Dialogue: 0,1:16:27.04,1:16:28.70,Default,Oba Risaki,0,0,60,,Just a little longer — please take care of us!
+Dialogue: 0,1:16:33.49,1:16:36.08,Default,Member,0,0,60,,Okay — next up is the last song.
+Dialogue: 0,1:16:38.74,1:16:39.10,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,1:16:40.26,1:16:41.32,Default,Member,0,0,60,,Please listen to…
+Dialogue: 0,1:16:41.72,1:16:42.82,Default,Member,0,0,60,,Degas to Ballerina.
+
+; ===== mc3 =====
+Dialogue: 0,1:31:49.02,1:31:52.06,Default,Jitoe Nene,0,0,60,,You've just heard Passion Highway -- thank you for the encore, everyone!
+Dialogue: 0,1:31:53.48,1:31:53.88,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,1:32:03.39,1:32:04.53,Default,Jitoe Nene,0,0,60,,Shall we switch?
+Dialogue: 0,1:32:04.61,1:32:05.85,Default,Yasui Hina,0,0,60,,Yes — let's switch.
+Dialogue: 0,1:32:05.93,1:32:08.31,Default,Jitoe Nene,0,0,60,,Sorry — for the real MC, it's me.
+Dialogue: 0,1:32:10.61,1:32:12.37,Default,Yasui Hina,0,0,60,,Today is Richaki's birthday celebration!
+Dialogue: 0,1:32:16.17,1:32:18.59,Default,Yasui Hina,0,0,60,,Stories about Risaki, and such...
+Dialogue: 0,1:32:20.29,1:32:24.29,Default,Ouchi Rinka,0,0,60,,Risaki loves my hands, you know.
+Dialogue: 0,1:32:24.37,1:32:27.01,Default,Ouchi Rinka,0,0,60,,She's always saying she loves my hands,
+Dialogue: 0,1:32:27.47,1:32:30.47,Default,Ouchi Rinka,0,0,60,,and she's always touching my hands,
+Dialogue: 0,1:32:30.95,1:32:33.31,Default,Ouchi Rinka,0,0,60,,and Risaki even said on SHOWROOM
+Dialogue: 0,1:32:33.39,1:32:35.51,Default,Ouchi Rinka,0,0,60,,Rinka's hands feel so good,
+Dialogue: 0,1:32:35.59,1:32:37.55,Default,Ouchi Rinka,0,0,60,,"everyone please go to the handshake events,"
+Dialogue: 0,1:32:37.63,1:32:39.91,Default,Ouchi Rinka,0,0,60,,promoting me -- and fans actually came.
+Dialogue: 0,1:32:39.99,1:32:41.15,Default,Ouchi Rinka,0,0,60,,Risaki's fans would say,
+Dialogue: 0,1:32:41.53,1:32:44.05,Default,Ouchi Rinka,0,0,60,,"I came to check Rinka-chan's hands."
+Dialogue: 0,1:32:45.07,1:32:45.63,Default,Eguchi Kokoha,0,0,60,,Amazing.
+Dialogue: 0,1:32:45.71,1:32:47.35,Default,Ouchi Rinka,0,0,60,,So much pressure,
+Dialogue: 0,1:32:47.43,1:32:48.51,Default,Ouchi Rinka,0,0,60,,Aren't they nice?
+Dialogue: 0,1:32:48.59,1:32:49.35,Default,Ouchi Rinka,0,0,60,,like they *have* to feel good...
+Dialogue: 0,1:32:50.57,1:32:53.39,Default,Ouchi Rinka,0,0,60,,But thinking that made me sweat more and more,
+Dialogue: 0,1:32:54.09,1:32:55.57,Default,Ouchi Rinka,0,0,60,,I was like, this is bad,
+Dialogue: 0,1:32:55.65,1:32:56.95,Default,Ouchi Rinka,0,0,60,,and when I said thank you,
+Dialogue: 0,1:32:57.03,1:32:58.19,Default,Ouchi Rinka,0,0,60,,"Ahh, they're moist..."
+Dialogue: 0,1:32:58.27,1:32:59.43,Default,Eguchi Kokoha,0,0,60,,What are you doing?!
+Dialogue: 0,1:33:00.03,1:33:00.83,Default,Eguchi Kokoha,0,0,60,,I hate that.
+Dialogue: 0,1:33:00.91,1:33:03.05,Default,Eguchi Kokoha,0,0,60,,It's moist!
+Dialogue: 0,1:33:03.47,1:33:04.81,Default,Takemoto Kurumi,0,0,60,,But in a good way, right?
+Dialogue: 0,1:33:04.93,1:33:05.79,Default,Takemoto Kurumi,0,0,60,,Stay positive.
+Dialogue: 0,1:33:05.87,1:33:09.13,Default,Ouchi Rinka,0,0,60,,When I went "I hate moist!",
+Dialogue: 0,1:33:09.21,1:33:10.67,Default,Ouchi Rinka,0,0,60,,"In a good way! In a good way!"
+Dialogue: 0,1:33:12.17,1:33:14.95,Default,Akiyoshi Yuka,0,0,60,,Today in Cattleya no Hana o Miru Tabi,
+Dialogue: 0,1:33:15.45,1:33:16.97,Default,Akiyoshi Yuka,0,0,60,,we had a pair dance, and I thought,
+Dialogue: 0,1:33:17.81,1:33:19.35,Default,Akiyoshi Yuka,0,0,60,,they're mochi-soft compared to others.
+Dialogue: 0,1:33:20.35,1:33:21.73,Default,Tachibana Kokoro,0,0,60,,They are mochi-soft.
+Dialogue: 0,1:33:21.81,1:33:24.09,Default,Ouchi Rinka,0,0,60,,Risaki has always loved mochi-soft hands,
+Dialogue: 0,1:33:24.17,1:33:26.41,Default,Ouchi Rinka,0,0,60,,but she also likes Ryuto's hands,
+Dialogue: 0,1:33:26.49,1:33:28.19,Default,Ouchi Rinka,0,0,60,,and lately her favorite-hands list grew,
+Dialogue: 0,1:33:28.27,1:33:28.62,Default,Ouchi Rinka,0,0,60,,Ahh.
+Dialogue: 0,1:33:28.70,1:33:30.59,Default,Ouchi Rinka,0,0,60,,so I'm a little lonely,
+Dialogue: 0,1:33:30.67,1:33:32.27,Default,Ouchi Rinka,0,0,60,,but oh well,
+Dialogue: 0,1:33:32.85,1:33:34.43,Default,Ouchi Rinka,0,0,60,,I'll keep my mochi-hands up.
+Dialogue: 0,1:33:34.51,1:33:35.21,Default,Yasui Hina,0,0,60,,I'll keep the mochi going.
+Dialogue: 0,1:33:35.29,1:33:37.61,Default,Yasui Hina,0,0,60,,Anyone else have something?
+Dialogue: 0,1:33:37.85,1:33:38.69,Default,Member,0,0,60,,Akiyoshi-san.
+Dialogue: 0,1:33:38.77,1:33:40.93,Default,Akiyoshi Yuka,0,0,60,,When Richaki and I did radio just us two,
+Dialogue: 0,1:33:41.01,1:33:42.81,Default,Akiyoshi Yuka,0,0,60,,my birthday was coming up,
+Dialogue: 0,1:33:42.89,1:33:46.91,Default,Akiyoshi Yuka,0,0,60,,and Richaki went out of her way to buy me a birthday present.
+Dialogue: 0,1:33:46.99,1:33:48.47,Default,Akiyoshi Yuka,0,0,60,,We recorded together,
+Dialogue: 0,1:33:48.55,1:33:51.51,Default,Akiyoshi Yuka,0,0,60,,and she said "I have a birthday present for you,"
+Dialogue: 0,1:33:51.59,1:33:53.25,Default,Akiyoshi Yuka,0,0,60,,and when I went "What is it?!",
+Dialogue: 0,1:33:53.61,1:33:55.99,Default,Akiyoshi Yuka,0,0,60,,she said she'd hand it over secretly after recording.
+Dialogue: 0,1:33:57.11,1:33:59.21,Default,Akiyoshi Yuka,0,0,60,,So she wouldn't give it on air --
+Dialogue: 0,1:33:59.29,1:34:01.11,Default,Akiyoshi Yuka,0,0,60,,that was a rare move, true.
+Dialogue: 0,1:34:01.19,1:34:01.83,Default,Akiyoshi Yuka,0,0,60,,Right.
+Dialogue: 0,1:34:02.75,1:34:05.15,Default,Akiyoshi Yuka,0,0,60,,I thought maybe it was something wild,
+Dialogue: 0,1:34:06.05,1:34:09.65,Default,Akiyoshi Yuka,0,0,60,,but it was just fluffy socks and a lip pack.
+Dialogue: 0,1:34:09.73,1:34:12.79,Default,Akiyoshi Yuka,0,0,60,,Yeah -- normally happy.
+Dialogue: 0,1:34:12.87,1:34:16.03,Default,Akiyoshi Yuka,0,0,60,,So does Richaki like Akiyoshi-san's lips then?
+Dialogue: 0,1:34:16.73,1:34:17.85,Default,Eguchi Kokoha,0,0,60,,Okay okay okay.
+Dialogue: 0,1:34:18.89,1:34:20.21,Default,Ouchi Rinka,0,0,60,,I want to ask her later.
+Dialogue: 0,1:34:20.85,1:34:21.47,Default,Ouchi Rinka,0,0,60,,True.
+Dialogue: 0,1:34:21.55,1:34:23.05,Default,Fujino Kokoha,0,0,60,,Got something?
+Dialogue: 0,1:34:23.13,1:34:25.81,Default,Fujino Kokoha,0,0,60,,But I'm on today, right?
+Dialogue: 0,1:34:25.89,1:34:27.67,Default,Fujino Kokoha,0,0,60,,And even just now in Any Time Smile,
+Dialogue: 0,1:34:27.75,1:34:30.77,Default,Fujino Kokoha,0,0,60,,she said she originally wasn't going to call me,
+Dialogue: 0,1:34:30.85,1:34:31.35,Default,Fujino Kokoha,0,0,60,,...like that.
+Dialogue: 0,1:34:31.43,1:34:33.05,Default,Fujino Kokoha,0,0,60,,I got told that.
+Dialogue: 0,1:34:34.27,1:34:35.09,Default,Fujino Kokoha,0,0,60,,I was sad,
+Dialogue: 0,1:34:35.17,1:34:36.57,Default,Fujino Kokoha,0,0,60,,but then from Risaki,
+Dialogue: 0,1:34:36.65,1:34:39.15,Default,Fujino Kokoha,0,0,60,,"I chose Fujikoko -- heart heart,"
+Dialogue: 0,1:34:39.23,1:34:40.11,Default,Fujino Kokoha,0,0,60,,a message came,
+Dialogue: 0,1:34:40.89,1:34:43.29,Default,Fujino Kokoha,0,0,60,,I thought maybe I'm the only one she'd pick,
+Dialogue: 0,1:34:43.37,1:34:45.19,Default,Fujino Kokoha,0,0,60,,and I came excited,
+Dialogue: 0,1:34:45.27,1:34:46.59,Default,Fujino Kokoha,0,0,60,,and then I get told that,
+Dialogue: 0,1:34:46.67,1:34:47.61,Default,Fujino Kokoha,0,0,60,,points deducted.
+Dialogue: 0,1:34:50.29,1:34:51.29,Default,Ihara Hanna,0,0,60,,So roughly
+Dialogue: 0,1:34:51.37,1:34:51.85,Default,Ihara Hanna,0,0,60,,I got shut down.
+Dialogue: 0,1:34:53.55,1:34:55.23,Default,Fukui Karen,0,0,60,,Risaki probably didn't say that.
+Dialogue: 0,1:34:55.34,1:34:57.13,Default,Member,0,0,60,,Karen tried suggesting that.
+Dialogue: 0,1:34:57.21,1:34:57.73,Default,Fukui Karen,0,0,60,,Stop it.
+Dialogue: 0,1:34:58.21,1:34:58.53,Default,Fukui Karen,0,0,60,,Wait...
+Dialogue: 0,1:35:01.41,1:35:01.97,Default,Fujino Kokoha,0,0,60,,I'm sad.
+Dialogue: 0,1:35:02.05,1:35:03.85,Default,Fujino Kokoha,0,0,60,,But today at every chance,
+Dialogue: 0,1:35:03.93,1:35:05.85,Default,Fujino Kokoha,0,0,60,,I'd go next to Risaki for photos,
+Dialogue: 0,1:35:05.93,1:35:09.15,Default,Fujino Kokoha,0,0,60,,and even changing beside her -- monopolizing Risaki.
+Dialogue: 0,1:35:09.23,1:35:10.79,Default,Fujino Kokoha,0,0,60,,I've been doing that.
+Dialogue: 0,1:35:11.47,1:35:12.17,Default,Fujino Kokoha,0,0,60,,You're jealous, right?
+Dialogue: 0,1:35:12.25,1:35:14.69,Default,Fukui Karen,0,0,60,,That spot next to her was mine...
+Dialogue: 0,1:35:17.25,1:35:19.39,Default,Jitoe Nene,0,0,60,,Fujikoko appearing today is rare,
+Dialogue: 0,1:35:19.47,1:35:20.29,Default,Jitoe Nene,0,0,60,,isn't it?
+Dialogue: 0,1:35:20.37,1:35:21.67,Default,Jitoe Nene,0,0,60,,so I asked Fujikoko,
+Dialogue: 0,1:35:21.75,1:35:24.95,Default,Jitoe Nene,0,0,60,,"Want to take a photo together?"
+Dialogue: 0,1:35:25.03,1:35:26.57,Default,Jitoe Nene,0,0,60,,and she went "Why?"
+Dialogue: 0,1:35:27.69,1:35:28.41,Default,Jitoe Nene,0,0,60,,Cold.
+Dialogue: 0,1:35:28.49,1:35:29.77,Default,Jitoe Nene,0,0,60,,No no no.
+Dialogue: 0,1:35:30.75,1:35:32.57,Default,Fujino Kokoha,0,0,60,,And she even said Fujino-san,
+Dialogue: 0,1:35:32.65,1:35:34.25,Default,Fujino Kokoha,0,0,60,,when I said Fujino-san,
+Dialogue: 0,1:35:34.33,1:35:35.41,Default,Fujino Kokoha,0,0,60,,"What is it?"
+Dialogue: 0,1:35:36.11,1:35:36.97,Default,Fujino Kokoha,0,0,60,,Why?
+Dialogue: 0,1:35:37.67,1:35:38.87,Default,Fujino Kokoha,0,0,60,,I just wanted a photo.
+Dialogue: 0,1:35:38.95,1:35:39.39,Default,Fujino Kokoha,0,0,60,,Thank you!
+Dialogue: 0,1:35:41.55,1:35:43.41,Default,Takemoto Kurumi,0,0,60,,You two are kind of alike.
+Dialogue: 0,1:35:45.27,1:35:46.31,Default,Fujino Kokoha,0,0,60,,Yeah, our wavelengths match.
+Dialogue: 0,1:35:46.39,1:35:47.63,Default,Fujino Kokoha,0,0,60,,I don't think so though.
+Dialogue: 0,1:35:47.71,1:35:50.31,Default,Fujino Kokoha,0,0,60,,What's with her...
+Dialogue: 0,1:35:50.95,1:35:51.31,Default,Takemoto Kurumi,0,0,60,,Wait...
+Dialogue: 0,1:35:51.39,1:35:52.09,Default,Takemoto Kurumi,0,0,60,,Wait...
+Dialogue: 0,1:35:54.41,1:35:55.51,Default,Fujino Kokoha,0,0,60,,It's true!
+Dialogue: 0,1:35:55.59,1:35:57.63,Default,Fujino Kokoha,0,0,60,,Sorry sorry -- thank you as always!
+Dialogue: 0,1:35:59.07,1:35:59.87,Default,Yasui Hina,0,0,60,,Okay then,
+Dialogue: 0,1:35:59.95,1:36:01.61,Default,Yasui Hina,0,0,60,,please get along!
+Dialogue: 0,1:36:02.51,1:36:04.15,Default,Yasui Hina,0,0,60,,Next -- the second-half group!
+Dialogue: 0,1:36:04.23,1:36:04.69,Default,Yasui Hina,0,0,60,,Go ahead.
+Dialogue: 0,1:36:06.77,1:36:12.77,Default,Eguchi Kokoha,0,0,60,,The second half is these members,
+Dialogue: 0,1:36:13.17,1:36:14.31,Default,Tanaka Iori,0,0,60,,and we'd like to talk.
+Dialogue: 0,1:36:15.71,1:36:18.11,Default,Tanaka Iori,0,0,60,,First, the star of the day --
+Dialogue: 0,1:36:18.19,1:36:19.41,Default,Oba Risaki,0,0,60,,Risaki, how is it?
+Dialogue: 0,1:36:19.59,1:36:21.67,Default,Oba Risaki,0,0,60,,Well, until the guitar bit,
+Dialogue: 0,1:36:21.75,1:36:24.01,Default,Oba Risaki,0,0,60,,I was really nervous,
+Dialogue: 0,1:36:24.09,1:36:26.19,Default,Oba Risaki,0,0,60,,and the moment the guitar ended everyone said,
+Dialogue: 0,1:36:26.27,1:36:27.77,Default,Oba Risaki,0,0,60,,"Your smile is huge,"
+Dialogue: 0,1:36:27.85,1:36:29.61,Default,Oba Risaki,0,0,60,,and yes, really,
+Dialogue: 0,1:36:29.69,1:36:30.81,Default,Oba Risaki,0,0,60,,I'm having so much fun today.
+Dialogue: 0,1:36:30.89,1:36:31.79,Default,Oba Risaki,0,0,60,,I'm glad.
+Dialogue: 0,1:36:32.53,1:36:32.97,Default,Eguchi Kokoha,0,0,60,,Thank you!
+Dialogue: 0,1:36:34.43,1:36:36.97,Default,Oba Risaki,0,0,60,,Again I felt how much I love KIV,
+Dialogue: 0,1:36:37.05,1:36:38.81,Default,Oba Risaki,0,0,60,,I really do,
+Dialogue: 0,1:36:38.89,1:36:41.83,Default,Oba Risaki,0,0,60,,and I love all of you too.
+Dialogue: 0,1:36:41.91,1:36:43.19,Default,Oba Risaki,0,0,60,,Thank you so much!
+Dialogue: 0,1:36:44.73,1:36:45.53,Default,Eguchi Kokoha,0,0,60,,Lovely.
+Dialogue: 0,1:36:45.61,1:36:46.41,Default,Eguchi Kokoha,0,0,60,,Lovely.
+Dialogue: 0,1:36:46.87,1:36:48.93,Default,Tanaka Iori,0,0,60,,Rina-chi, anything to share?
+Dialogue: 0,1:36:49.59,1:36:52.17,Default,Kuriyama Rina,0,0,60,,It's about Risaki growing --
+Dialogue: 0,1:36:52.25,1:36:53.55,Default,Kuriyama Rina,0,0,60,,our bond getting deeper.
+Dialogue: 0,1:36:53.63,1:36:54.47,Default,Kuriyama Rina,0,0,60,,That's the story.
+Dialogue: 0,1:36:56.29,1:36:57.81,Default,Fukui Karen,0,0,60,,Lately for the June 1
+Dialogue: 0,1:36:57.89,1:36:59.67,Default,Fukui Karen,0,0,60,,event rehearsal,
+Dialogue: 0,1:37:00.11,1:37:01.35,Default,Fukui Karen,0,0,60,,and in rehearsal,
+Dialogue: 0,1:37:02.15,1:37:03.93,Default,Fukui Karen,0,0,60,,in the setlist,
+Dialogue: 0,1:37:04.01,1:37:05.23,Default,Fukui Karen,0,0,60,,I won't name it,
+Dialogue: 0,1:37:05.31,1:37:07.95,Default,Fukui Karen,0,0,60,,there's a song with tough dance parts.
+Dialogue: 0,1:37:08.03,1:37:08.53,Default,Fukui Karen,0,0,60,,Hard.
+Dialogue: 0,1:37:08.61,1:37:10.49,Default,Kuriyama Rina,0,0,60,,It's a hard song,
+Dialogue: 0,1:37:10.91,1:37:12.99,Default,Kuriyama Rina,0,0,60,,and during rehearsal Risaki and I
+Dialogue: 0,1:37:13.07,1:37:15.91,Default,Kuriyama Rina,0,0,60,,were near the same exit spot,
+Dialogue: 0,1:37:16.43,1:37:17.15,Default,Kuriyama Rina,0,0,60,,and when it was like,
+Dialogue: 0,1:37:17.23,1:37:19.07,Default,Kuriyama Rina,0,0,60,,"please dance,"
+Dialogue: 0,1:37:19.59,1:37:21.03,Default,Kuriyama Rina,0,0,60,,Risaki suddenly said to me,
+Dialogue: 0,1:37:21.11,1:37:22.51,Default,Kuriyama Rina,0,0,60,,Kurina-san,
+Dialogue: 0,1:37:22.59,1:37:25.17,Default,Kuriyama Rina,0,0,60,,"you can't dance either, right?"
+Dialogue: 0,1:37:26.33,1:37:27.25,Default,Eguchi Kokoha,0,0,60,,That's not true!
+Dialogue: 0,1:37:27.33,1:37:29.33,Default,Oba Risaki,0,0,60,,And the members asked to
+Dialogue: 0,1:37:29.41,1:37:31.77,Default,Oba Risaki,0,0,60,,think up dance bits were
+Dialogue: 0,1:37:31.85,1:37:33.89,Default,Oba Risaki,0,0,60,,Kurina-san, me, and Koko-ppe.
+Dialogue: 0,1:37:33.97,1:37:34.67,Default,Oba Risaki,0,0,60,,Wait...
+Dialogue: 0,1:37:35.21,1:37:36.83,Default,Oba Risaki,0,0,60,,Aren't you nervous with that lineup?
+Dialogue: 0,1:37:36.91,1:37:38.49,Default,Oba Risaki,0,0,60,,I wondered if we'd be okay,
+Dialogue: 0,1:37:39.07,1:37:39.87,Default,Kuriyama Rina,0,0,60,,but somehow,
+Dialogue: 0,1:37:40.81,1:37:43.17,Default,Ouchi Rinka,0,0,60,,seniors teasing me has happened before,
+Dialogue: 0,1:37:43.25,1:37:44.23,Default,Ouchi Rinka,0,0,60,,that's normal,
+Dialogue: 0,1:37:44.31,1:37:47.23,Default,Ouchi Rinka,0,0,60,,but juniors teasing me like that
+Dialogue: 0,1:37:47.31,1:37:49.49,Default,Ouchi Rinka,0,0,60,,is rare -- I felt trusted,
+Dialogue: 0,1:37:49.59,1:37:51.69,Default,Ouchi Rinka,0,0,60,,maybe that's why she teased me,
+Dialogue: 0,1:37:51.77,1:37:52.47,Default,Ouchi Rinka,0,0,60,,um,
+Dialogue: 0,1:37:53.25,1:37:54.71,Default,Ouchi Rinka,0,0,60,,and I was a little happy.
+Dialogue: 0,1:37:54.79,1:37:56.39,Default,Oba Risaki,0,0,60,,Good, good.
+Dialogue: 0,1:37:56.47,1:38:00.29,Default,Tachibana Kokoro,0,0,60,,It's because I really trust Kurina-san
+Dialogue: 0,1:38:01.05,1:38:02.01,Default,Oba Risaki,0,0,60,,that I tease her.
+Dialogue: 0,1:38:02.43,1:38:02.93,Default,Oba Risaki,0,0,60,,Really.
+Dialogue: 0,1:38:03.49,1:38:05.25,Default,Oba Risaki,0,0,60,,Actually you're really good at dance.
+Dialogue: 0,1:38:05.33,1:38:06.15,Default,Member,0,0,60,,You don't think that, do you?
+Dialogue: 0,1:38:07.27,1:38:08.15,Default,Oba Risaki,0,0,60,,I do, I do!
+Dialogue: 0,1:38:08.23,1:38:10.85,Default,Oba Risaki,0,0,60,,Your sharpness is amazing,
+Dialogue: 0,1:38:10.93,1:38:13.25,Default,Jitoe Nene,0,0,60,,I love that about you,
+Dialogue: 0,1:38:13.87,1:38:15.57,Default,Jitoe Nene,0,0,60,,and I also love our connection.
+Dialogue: 0,1:38:15.65,1:38:15.89,Default,Oba Risaki,0,0,60,,Why?
+Dialogue: 0,1:38:17.41,1:38:21.54,Default,Eguchi Kokoha,0,0,60,,That's all exactly why.
+Dialogue: 0,1:38:21.70,1:38:23.20,Default,Izawa Miyu,0,0,60,,She's saying something -- I'll do my best.
+Dialogue: 0,1:38:23.72,1:38:24.70,Default,Izawa Miyu,0,0,60,,That's exactly why.
+Dialogue: 0,1:38:24.78,1:38:27.60,Default,Izawa Miyu,0,0,60,,um,
+Dialogue: 0,1:38:27.68,1:38:29.20,Default,Izawa Miyu,0,0,60,,a few of us 6th gens
+Dialogue: 0,1:38:29.58,1:38:31.40,Default,Izawa Miyu,0,0,60,,were talking about whether hypnosis really works,
+Dialogue: 0,1:38:31.48,1:38:32.74,Default,Izawa Miyu,0,0,60,,that conversation.
+Dialogue: 0,1:38:32.82,1:38:34.72,Default,Izawa Miyu,0,0,60,,Then on YouTube
+Dialogue: 0,1:38:34.80,1:38:37.54,Default,Izawa Miyu,0,0,60,,there was a "hands won't open" hypnosis video,
+Dialogue: 0,1:38:37.62,1:38:39.02,Default,Izawa Miyu,0,0,60,,about a five-minute video
+Dialogue: 0,1:38:39.10,1:38:40.74,Default,Izawa Miyu,0,0,60,,about five of us watched.
+Dialogue: 0,1:38:41.16,1:38:43.24,Default,Izawa Miyu,0,0,60,,We clenched our palms like this,
+Dialogue: 0,1:38:43.32,1:38:45.36,Default,Izawa Miyu,0,0,60,,then "five minutes are up,"
+Dialogue: 0,1:38:45.44,1:38:46.66,Default,Izawa Miyu,0,0,60,,and when we opened,
+Dialogue: 0,1:38:46.74,1:38:48.26,Default,Izawa Miyu,0,0,60,,everyone's opened,
+Dialogue: 0,1:38:48.34,1:38:49.86,Default,Izawa Miyu,0,0,60,,except Richaki's wouldn't,
+Dialogue: 0,1:38:50.96,1:38:51.92,Default,Izawa Miyu,0,0,60,,only Richaki,
+Dialogue: 0,1:38:52.00,1:38:53.96,Default,Izawa Miyu,0,0,60,,nothing would open them after that.
+Dialogue: 0,1:38:54.04,1:38:56.08,Default,Oba Risaki,0,0,60,,Halfway through I felt it,
+Dialogue: 0,1:38:56.16,1:38:57.18,Default,Oba Risaki,0,0,60,,"this might be bad,"
+Dialogue: 0,1:38:57.26,1:38:59.26,Default,Oba Risaki,0,0,60,,and they really wouldn't open.
+Dialogue: 0,1:38:59.34,1:39:01.56,Default,Oba Risaki,0,0,60,,Zawa-chan and the others forced them open.
+Dialogue: 0,1:39:02.18,1:39:03.02,Default,Oba Risaki,0,0,60,,By force.
+Dialogue: 0,1:39:03.10,1:39:05.80,Default,Oba Risaki,0,0,60,,We were running short on time,
+Dialogue: 0,1:39:06.28,1:39:08.10,Default,Izawa Miyu,0,0,60,,and because of the hypnosis
+Dialogue: 0,1:39:08.18,1:39:09.58,Default,Izawa Miyu,0,0,60,,she couldn't do makeup.
+Dialogue: 0,1:39:09.66,1:39:11.52,Default,Oba Risaki,0,0,60,,What do I do...
+Dialogue: 0,1:39:11.60,1:39:13.82,Default,Izawa Miyu,0,0,60,,She ended up as the one under.
+Dialogue: 0,1:39:13.90,1:39:14.82,Default,Oba Risaki,0,0,60,,I ended up as the one under.
+Dialogue: 0,1:39:15.22,1:39:17.20,Default,Oba Risaki,0,0,60,,Weird, right? That was close.
+Dialogue: 0,1:39:18.68,1:39:20.18,Default,Oba Risaki,0,0,60,,Everyone -- please don't try this,
+Dialogue: 0,1:39:20.26,1:39:21.38,Default,Oba Risaki,0,0,60,,be careful.
+Dialogue: 0,1:39:22.56,1:39:23.66,Default,Oba Risaki,0,0,60,,But it was fun.
+Dialogue: 0,1:39:24.02,1:39:24.98,Default,Oba Risaki,0,0,60,,Let's do it again.
+Dialogue: 0,1:39:26.56,1:39:27.88,Default,Imamura Maria,0,0,60,,When there's spare time she gets curious.
+Dialogue: 0,1:39:27.96,1:39:30.76,Default,Eguchi Kokoha,0,0,60,,Maybe she's easy to hypnotize?
+Dialogue: 0,1:39:31.50,1:39:31.85,Default,Eguchi Kokoha,0,0,60,,I...
+Dialogue: 0,1:39:31.93,1:39:33.48,Default,Eguchi Kokoha,0,0,60,,There's a Risaki story --
+Dialogue: 0,1:39:33.56,1:39:35.96,Default,Eguchi Kokoha,0,0,60,,Risaki's nicknames for people
+Dialogue: 0,1:39:36.04,1:39:37.90,Default,Eguchi Kokoha,0,0,60,,how she calls me
+Dialogue: 0,1:39:37.98,1:39:38.88,Default,Eguchi Kokoha,0,0,60,,is really funny.
+Dialogue: 0,1:39:38.96,1:39:40.76,Default,Eguchi Kokoha,0,0,60,,Normally people say Egu-chan,
+Dialogue: 0,1:39:40.84,1:39:43.22,Default,Eguchi Kokoha,0,0,60,,but she calls me darling.
+Dialogue: 0,1:39:43.86,1:39:45.38,Default,Eguchi Kokoha,0,0,60,,We're not even married,
+Dialogue: 0,1:39:45.46,1:39:46.94,Default,Eguchi Kokoha,0,0,60,,and she calls me darling,
+Dialogue: 0,1:39:48.34,1:39:49.22,Default,Oba Risaki,0,0,60,,calling me darling -- me, darling!
+Dialogue: 0,1:39:50.66,1:39:52.40,Default,Oba Risaki,0,0,60,,Karen-ren and Rinka too,
+Dialogue: 0,1:39:52.48,1:39:54.20,Default,Oba Risaki,0,0,60,,everyone's darling.
+Dialogue: 0,1:39:54.82,1:39:55.38,Default,Oba Risaki,0,0,60,,So you see...
+Dialogue: 0,1:39:55.46,1:39:57.94,Default,Oba Risaki,0,0,60,,There's a bunch of us -- you're all darlings too.
+Dialogue: 0,1:39:59.42,1:40:00.48,Default,Member,0,0,60,,So if she just calls out,
+Dialogue: 0,1:40:00.56,1:40:01.24,Default,Tachibana Kokoro,0,0,60,,won't everyone come?
+Dialogue: 0,1:40:01.32,1:40:03.64,Default,Tachibana Kokoro,0,0,60,,If she says "come here, darling,"
+Dialogue: 0,1:40:03.72,1:40:04.94,Default,Oba Risaki,0,0,60,,You're waiting~, huh?
+Dialogue: 0,1:40:05.64,1:40:06.38,Default,Eguchi Kokoha,0,0,60,,That's cheating!
+Dialogue: 0,1:40:07.06,1:40:10.86,Default,Tanaka Iori,0,0,60,,Richaki the cheater, but
+Dialogue: 0,1:40:10.94,1:40:11.62,Default,Tanaka Iori,0,0,60,,From here on too...
+Dialogue: 0,1:40:11.70,1:40:13.88,Default,Tanaka Iori,0,0,60,,I want us all to keep loving each other.
+Dialogue: 0,1:40:13.96,1:40:15.94,Default,Tanaka Iori,0,0,60,,Next up, this song.
+Dialogue: 0,1:40:16.02,1:40:16.46,Default,Tanaka Iori,0,0,60,,Go ahead.
+
+; ===== mc4_birthday =====
+Dialogue: 0,1:48:28.33,1:48:29.69,Default,Jitoe Nene,0,0,60,,Sukoshi Nigai Jinsei Sodan
+Dialogue: 0,1:48:29.77,1:48:30.95,Default,Jitoe Nene,0,0,60,,Fumo no Tochi o Mankan ni…
+Dialogue: 0,1:48:31.03,1:48:32.65,Default,Jitoe Nene,0,0,60,,you've been listening back to back,
+Dialogue: 0,1:48:32.73,1:48:34.27,Default,Jitoe Nene,0,0,60,,Everyone having fun?!
+Dialogue: 0,1:48:37.33,1:48:37.69,Default,Jitoe Nene,0,0,60,,Thank you!!
+Dialogue: 0,1:48:38.89,1:48:40.45,Default,Jitoe Nene,0,0,60,,Fun time flies,
+Dialogue: 0,1:48:40.53,1:48:42.15,Default,Jitoe Nene,0,0,60,,and next is really the last...
+Dialogue: 0,1:48:42.23,1:48:43.07,Default,Jitoe Nene,0,0,60,,Wait wait!
+Dialogue: 0,1:48:43.15,1:48:48.99,Default,Fukui Karen,0,0,60,,What what? What do you think it is?
+Dialogue: 0,1:48:49.91,1:48:52.41,Default,Fukui Karen,0,0,60,,Does everyone know what day it is today?!
+Dialogue: 0,1:48:53.39,1:48:54.11,Default,Kuriyama Rina,0,0,60,,Okay!!
+Dialogue: 0,1:48:54.65,1:48:57.43,Default,Fukui Karen,0,0,60,,That's right -- on April 23,
+Dialogue: 0,1:48:57.51,1:48:59.37,Default,Fukui Karen,0,0,60,,she turned 20,
+Dialogue: 0,1:48:59.45,1:49:01.87,Default,Fukui Karen,0,0,60,,it's Oba Risaki-chan's birthday celebration!
+Dialogue: 0,1:49:01.95,1:49:02.79,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,1:49:05.22,1:49:08.56,Default,Fukui Karen,0,0,60,,Everyone, let's say happy birthday to Risaki!
+Dialogue: 0,1:49:08.64,1:49:10.26,Default,Fukui Karen,0,0,60,,Risaki -- happy birthday
+Dialogue: 0,1:49:11.40,1:49:12.33,Default,Eguchi Kokoha,0,0,60,,Happy birthday!!
+Dialogue: 0,1:49:52.43,1:49:56.35,Default,Member,0,0,60,,So — everyone, one more time!
+Dialogue: 0,1:49:56.43,1:49:59.11,Default,Fukui Karen,0,0,60,,Let's sing Happy Birthday to You!
+Dialogue: 0,1:49:59.69,1:50:00.67,Default,Fukui Karen,0,0,60,,Se-no!!
+Dialogue: 0,1:50:00.75,1:50:03.25,Default,Fukui Karen,0,0,60,,Happy birthday!…
+Dialogue: 0,1:50:04.09,1:50:06.81,Default,Oba Risaki,0,0,60,,Happy birthday…
+Dialogue: 0,1:50:07.07,1:50:08.67,Default,Oba Risaki,0,0,60,,Happy birthday!!!!
+Dialogue: 0,1:50:08.75,1:50:14.73,Default,Eguchi Kokoha,0,0,60,,Dear Richaki
+Dialogue: 0,1:50:14.95,1:50:18.69,Default,Member,0,0,60,,Happy birthday to you
+Dialogue: 0,1:50:21.70,1:50:27.70,Default,Jitoe Nene,0,0,60,,What wish to the gods...
+Dialogue: 0,1:50:31.59,1:50:33.61,Default,Jitoe Nene,0,0,60,,So, what did you wish for?
+Dialogue: 0,1:50:34.90,1:50:35.80,Default,Oba Risaki,0,0,60,,I didn't put a wish in?
+Dialogue: 0,1:50:36.36,1:50:37.24,Default,Oba Risaki,0,0,60,,No way!
+Dialogue: 0,1:50:37.32,1:50:37.92,Default,Oba Risaki,0,0,60,,With love...
+Dialogue: 0,1:50:39.48,1:50:40.88,Default,Oba Risaki,0,0,60,,All together...
+Dialogue: 0,1:50:41.10,1:50:42.12,Default,Oba Risaki,0,0,60,,Make a wish...
+Dialogue: 0,1:50:42.20,1:50:43.38,Default,Ihara Hanna,0,0,60,,You blew them out!
+Dialogue: 0,1:50:44.38,1:50:44.82,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,1:50:46.38,1:50:48.42,Default,Ihara Hanna,0,0,60,,So you're 20 now --
+Dialogue: 0,1:50:48.50,1:50:49.88,Default,Ihara Hanna,0,0,60,,how does it feel being 20?
+Dialogue: 0,1:50:50.12,1:50:53.40,Default,Ihara Hanna,0,0,60,,Um, turning 20 really hit me,
+Dialogue: 0,1:50:53.48,1:50:54.52,Default,Ihara Hanna,0,0,60,,like, I'm an adult now,
+Dialogue: 0,1:50:54.60,1:50:56.50,Default,Ihara Hanna,0,0,60,,and for the first time,
+Dialogue: 0,1:50:56.58,1:50:58.42,Default,Ihara Hanna,0,0,60,,I tried alcohol.
+Dialogue: 0,1:50:59.26,1:51:01.04,Default,Ihara Hanna,0,0,60,,What did I drink?
+Dialogue: 0,1:51:01.12,1:51:03.86,Default,Ihara Hanna,0,0,60,,Of course -- chestnut and apple sour.
+Dialogue: 0,1:51:03.94,1:51:04.40,Default,Ihara Hanna,0,0,60,,That's the one.
+Dialogue: 0,1:51:04.48,1:51:05.36,Default,Takemoto Kurumi,0,0,60,,Of course.
+Dialogue: 0,1:51:05.44,1:51:06.98,Default,Takemoto Kurumi,0,0,60,,I don't want to know.
+Dialogue: 0,1:51:07.06,1:51:07.70,Default,Takemoto Kurumi,0,0,60,,I don't know.
+Dialogue: 0,1:51:07.78,1:51:09.74,Default,Oba Risaki,0,0,60,,I figured the first one should be apple,
+Dialogue: 0,1:51:09.82,1:51:11.48,Default,Oba Risaki,0,0,60,,so I drank apple.
+Dialogue: 0,1:51:11.56,1:51:12.88,Default,Oba Risaki,0,0,60,,I'm not sure about chestnut,
+Dialogue: 0,1:51:12.96,1:51:14.26,Default,Oba Risaki,0,0,60,,maybe Kuriyama Rina-san?
+Dialogue: 0,1:51:15.48,1:51:18.14,Default,Oba Risaki,0,0,60,,I don't really get it, so please don't put me on the spot.
+Dialogue: 0,1:51:19.10,1:51:20.48,Default,Oba Risaki,0,0,60,,Yes -- chestnut and apple.
+Dialogue: 0,1:51:21.00,1:51:23.12,Default,Fukui Karen,0,0,60,,So what were you doing the moment you turned 20?
+Dialogue: 0,1:51:23.22,1:51:24.84,Default,Fukui Karen,0,0,60,,That moment -- for the first time
+Dialogue: 0,1:51:24.92,1:51:27.72,Default,Fukui Karen,0,0,60,,I did a midnight-crossing stream on SHOWROOM,
+Dialogue: 0,1:51:27.80,1:51:29.78,Default,Fukui Karen,0,0,60,,and spent it with everyone.
+Dialogue: 0,1:51:32.47,1:51:33.47,Default,Fukui Karen,0,0,60,,Looks like we did.
+Dialogue: 0,1:51:35.43,1:51:36.57,Default,Fukui Karen,0,0,60,,Okay then,
+Dialogue: 0,1:51:36.65,1:51:37.61,Default,Fujino Kokoha,0,0,60,,A photo—
+Dialogue: 0,1:51:37.69,1:51:38.09,Default,Fukui Karen,0,0,60,,Yes.!
+Dialogue: 0,1:51:38.17,1:51:39.05,Default,Fukui Karen,0,0,60,,let's take them!
+Dialogue: 0,1:51:39.13,1:51:39.55,Default,Fukui Karen,0,0,60,,Yes.…
+Dialogue: 0,1:51:39.63,1:51:40.35,Default,Fukui Karen,0,0,60,,Okay!…
+Dialogue: 0,1:51:42.03,1:51:43.83,Default,Kuriyama Rina,0,0,60,,Whoa -- Richaki might drop -- you okay?
+Dialogue: 0,1:51:44.29,1:51:45.89,Default,Kuriyama Rina,0,0,60,,Munch munch munch...
+Dialogue: 0,1:51:45.97,1:51:46.51,Default,Kuriyama Rina,0,0,60,,Are you eating?
+Dialogue: 0,1:51:46.61,1:51:48.13,Default,Kuriyama Rina,0,0,60,,You ate it all!
+Dialogue: 0,1:51:48.21,1:51:49.87,Default,Eguchi Kokoha,0,0,60,,Ate it all.
+Dialogue: 0,1:51:52.04,1:51:53.38,Default,Kuriyama Rina,0,0,60,,Is this okay? Really?
+Dialogue: 0,1:51:54.32,1:51:56.56,Default,Kuriyama Rina,0,0,60,,Maybe I was wrong to say that.
+Dialogue: 0,1:51:57.14,1:51:57.76,Default,Kuriyama Rina,0,0,60,,Yes -- cake!
+Dialogue: 0,1:51:57.84,1:52:00.86,Default,Oba Risaki,0,0,60,,The cake came back to life again.
+Dialogue: 0,1:52:01.52,1:52:02.20,Default,Member,0,0,60,,What do you mean?
+Dialogue: 0,1:52:02.56,1:52:04.28,Default,Ihara Hanna,0,0,60,,Pose time?
+Dialogue: 0,1:52:04.36,1:52:05.54,Default,Ihara Hanna,0,0,60,,What pose is good?
+Dialogue: 0,1:52:05.98,1:52:06.68,Default,Ihara Hanna,0,0,60,,Uh, what to do...
+Dialogue: 0,1:52:07.10,1:52:08.60,Default,Oba Risaki,0,0,60,,Then — fried-rice club, so… just in case?
+Dialogue: 0,1:52:08.68,1:52:09.74,Default,Oba Risaki,0,0,60,,I'll make fried rice.
+Dialogue: 0,1:52:09.82,1:52:10.17,Default,Oba Risaki,0,0,60,,Just in case!
+Dialogue: 0,1:52:10.25,1:52:11.80,Default,Oba Risaki,0,0,60,,Just in case… yeah, just in case.
+Dialogue: 0,1:52:11.88,1:52:12.64,Default,Oba Risaki,0,0,60,,What is it.
+Dialogue: 0,1:52:12.72,1:52:14.68,Default,Oba Risaki,0,0,60,,The club president's next to me so I have to make it.
+Dialogue: 0,1:52:22.33,1:52:24.61,Default,Ihara Hanna,0,0,60,,Okay -- age 20, age 20, please!
+Dialogue: 0,1:52:24.69,1:52:25.15,Default,Member,0,0,60,,Please!
+Dialogue: 0,1:52:33.52,1:52:35.38,Default,Tachibana Kokoro,0,0,60,,Let's stare at this cake.
+Dialogue: 0,1:52:37.38,1:52:38.06,Default,Tachibana Kokoro,0,0,60,,Make a wish...
+Dialogue: 0,1:52:38.14,1:52:39.34,Default,Member,0,0,60,,With a wish…
+Dialogue: 0,1:52:50.96,1:52:51.36,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,1:52:54.10,1:52:57.08,Default,Fukui Karen,0,0,60,,These photos go on sale in the lobby after the show,
+Dialogue: 0,1:52:57.16,1:52:59.80,Default,Fukui Karen,0,0,60,,so please stop by for a souvenir today!
+Dialogue: 0,1:53:00.68,1:53:01.08,Default,Fukui Karen,0,0,60,,Please!
+Dialogue: 0,1:53:02.90,1:53:04.22,Default,Fukui Karen,0,0,60,,Your wish will come true
+Dialogue: 0,1:53:04.70,1:53:05.64,Default,Fukui Karen,0,0,60,,if you buy this.
+Dialogue: 0,1:53:05.72,1:53:06.07,Default,Fukui Karen,0,0,60,,Alright.
+Dialogue: 0,1:53:06.15,1:53:09.80,Default,Fukui Karen,0,0,60,,Today we've prepared a special segment!
+Dialogue: 0,1:53:09.88,1:53:11.74,Default,Kuriyama Rina,0,0,60,,Yay!
+Dialogue: 0,1:53:11.82,1:53:12.17,Default,Kuriyama Rina,0,0,60,,What is it?
+Dialogue: 0,1:53:12.25,1:53:14.94,Default,Oba Risaki,0,0,60,,It's called Apple Gnocchi!
+Dialogue: 0,1:53:15.60,1:53:18.28,Default,Oba Risaki,0,0,60,,What is that? You'll figure it out.
+Dialogue: 0,1:53:18.36,1:53:18.78,Default,Oba Risaki,0,0,60,,Yes.…
+Dialogue: 0,1:53:18.86,1:53:20.70,Default,Oba Risaki,0,0,60,,I'll explain.
+Dialogue: 0,1:53:20.78,1:53:23.08,Default,Oba Risaki,0,0,60,,Wait, that's a thing?
+Dialogue: 0,1:53:24.18,1:53:26.88,Default,Oba Risaki,0,0,60,,There's an amazing Takenoko Gnocchi
+Dialogue: 0,1:53:28.77,1:53:31.17,Default,Oba Risaki,0,0,60,,and this is Risaki's remixed version.
+Dialogue: 0,1:53:31.83,1:53:34.61,Default,Oba Risaki,0,0,60,,First, members put on apple headbands
+Dialogue: 0,1:53:34.69,1:53:35.67,Default,Oba Risaki,0,0,60,,and become apples.
+Dialogue: 0,1:53:37.61,1:53:39.31,Default,Oba Risaki,0,0,60,,I made these myself.
+Dialogue: 0,1:53:39.39,1:53:39.74,Default,Member,0,0,60,,I drew it!
+Dialogue: 0,1:53:39.82,1:53:40.69,Default,Member,0,0,60,,You drew this?
+Dialogue: 0,1:53:40.81,1:53:41.29,Default,Member,0,0,60,,Whaaat!
+Dialogue: 0,1:53:41.37,1:53:42.09,Default,Member,0,0,60,,Amazing!
+Dialogue: 0,1:53:43.23,1:53:43.83,Default,Member,0,0,60,,So cool!
+Dialogue: 0,1:53:43.91,1:53:44.69,Default,Member,0,0,60,,So cool!
+Dialogue: 0,1:53:44.77,1:53:45.61,Default,Member,0,0,60,,Too funny!
+Dialogue: 0,1:53:46.39,1:53:47.21,Default,Member,0,0,60,,Cute!
+Dialogue: 0,1:53:47.29,1:53:48.35,Default,Member,0,0,60,,So cute!
+Dialogue: 0,1:53:48.43,1:53:48.79,Default,Member,0,0,60,,So cool!
+Dialogue: 0,1:53:49.39,1:53:50.39,Default,Member,0,0,60,,So cute!
+Dialogue: 0,1:53:52.43,1:53:53.87,Default,Jitoe Nene,0,0,60,,There's no who-is-who,
+Dialogue: 0,1:53:53.95,1:53:57.85,Default,Jitoe Nene,0,0,60,,pick one that looks like your face.
+Dialogue: 0,1:53:58.63,1:54:00.13,Default,Oba Risaki,0,0,60,,Nene-san, that face looks like you.
+Dialogue: 0,1:54:00.21,1:54:00.53,Default,Oba Risaki,0,0,60,,Thanks.!
+Dialogue: 0,1:54:01.17,1:54:01.89,Default,Oba Risaki,0,0,60,,It looks alike.
+Dialogue: 0,1:54:03.37,1:54:04.77,Default,Oba Risaki,0,0,60,,Kuriyama-san, that looks like you.
+Dialogue: 0,1:54:04.85,1:54:05.63,Default,Oba Risaki,0,0,60,,It does.
+Dialogue: 0,1:54:06.93,1:54:07.31,Default,Member,0,0,60,,Thanks!
+Dialogue: 0,1:54:09.99,1:54:10.89,Default,Member,0,0,60,,So cute!
+Dialogue: 0,1:54:11.51,1:54:13.21,Default,Jitoe Nene,0,0,60,,Shall we stand up, then — apples?
+Dialogue: 0,1:54:13.30,1:54:15.30,Default,Jitoe Nene,0,0,60,,How are the apples -- standing up?
+Dialogue: 0,1:54:15.38,1:54:15.78,Default,Jitoe Nene,0,0,60,,They're standing.
+Dialogue: 0,1:54:15.86,1:54:17.24,Default,Jitoe Nene,0,0,60,,The apple is wilted.
+Dialogue: 0,1:54:18.14,1:54:19.00,Default,Jitoe Nene,0,0,60,,It's wilted.
+Dialogue: 0,1:54:19.08,1:54:19.80,Default,Jitoe Nene,0,0,60,,Somehow wilted.
+Dialogue: 0,1:54:19.88,1:54:22.58,Default,Jitoe Nene,0,0,60,,Akiyoshi-san's apple looks wilted.
+Dialogue: 0,1:54:22.66,1:54:23.32,Default,Jitoe Nene,0,0,60,,Ahh.
+Dialogue: 0,1:54:23.40,1:54:24.44,Default,Oba Risaki,0,0,60,,Aah, Ringo-chan…
+Dialogue: 0,1:54:25.38,1:54:26.80,Default,Oba Risaki,0,0,60,,more firmly like this,
+Dialogue: 0,1:54:27.66,1:54:28.76,Default,Member,0,0,60,,Okay, good.
+Dialogue: 0,1:54:28.84,1:54:29.34,Default,Member,0,0,60,,Done!
+Dialogue: 0,1:54:29.42,1:54:32.06,Default,Akiyoshi Yuka,0,0,60,,True -- there are tiny ones.
+Dialogue: 0,1:54:32.14,1:54:33.06,Default,Oba Risaki,0,0,60,,It's true.
+Dialogue: 0,1:54:33.14,1:54:34.24,Default,Oba Risaki,0,0,60,,Not enough hair.
+Dialogue: 0,1:54:35.66,1:54:41.66,Default,Member,0,0,60,,There's no way someone never got hit with that.
+Dialogue: 0,1:54:43.62,1:54:44.68,Default,Oba Risaki,0,0,60,,With that hairstyle,
+Dialogue: 0,1:54:45.40,1:54:46.68,Default,Oba Risaki,0,0,60,,Green apple — whoa.
+Dialogue: 0,1:54:47.10,1:54:48.90,Default,Oba Risaki,0,0,60,,Good though — you stand out.
+Dialogue: 0,1:54:50.32,1:54:51.08,Default,Oba Risaki,0,0,60,,So that's how it is.
+Dialogue: 0,1:54:51.79,1:54:54.01,Default,Oba Risaki,0,0,60,,You've formed a half-circle,
+Dialogue: 0,1:54:54.67,1:54:56.49,Default,Oba Risaki,0,0,60,,so with everyone in the venue and the members —
+Dialogue: 0,1:54:56.57,1:54:57.31,Default,Oba Risaki,0,0,60,,apples —
+Dialogue: 0,1:54:59.07,1:54:59.43,Default,Oba Risaki,0,0,60,,just a sec —
+Dialogue: 0,1:55:00.47,1:55:04.43,Default,Oba Risaki,0,0,60,,we start by shouting "ringo ringo gnocchi-kki!"
+Dialogue: 0,1:55:05.67,1:55:07.91,Default,Oba Risaki,0,0,60,,First, let's practice that once.
+Dialogue: 0,1:55:08.49,1:55:10.03,Default,Oba Risaki,0,0,60,,When I say "se-no,"
+Dialogue: 0,1:55:10.11,1:55:13.01,Default,Oba Risaki,0,0,60,,everyone shout "ringo ringo gnocchi-kki!"
+Dialogue: 0,1:55:13.11,1:55:18.35,Default,Oba Risaki,0,0,60,,Okay -- se-no! Ringo ringo gnocchi-kki!
+Dialogue: 0,1:55:18.43,1:55:18.78,Default,Kuriyama Rina,0,0,60,,Kkii!
+Dialogue: 0,1:55:18.86,1:55:20.71,Default,Kuriyama Rina,0,0,60,,Well done!
+Dialogue: 0,1:55:21.43,1:55:21.93,Default,Kuriyama Rina,0,0,60,,Thank you!
+Dialogue: 0,1:55:24.23,1:55:25.45,Default,Oba Risaki,0,0,60,,That's the spirit!
+Dialogue: 0,1:55:26.31,1:55:32.31,Default,Oba Risaki,0,0,60,,The first person says "1 ringo gnocchi" and raises a hand.
+Dialogue: 0,1:55:33.29,1:55:39.29,Default,Oba Risaki,0,0,60,,Then 2 ringo gnocchi, 3 ringo gnocchi, and so on.
+Dialogue: 0,1:55:40.35,1:55:46.35,Default,Oba Risaki,0,0,60,,Who says when isn't decided -- time it so you don't overlap.
+Dialogue: 0,1:55:46.77,1:55:52.49,Default,Oba Risaki,0,0,60,,People who say it without overlapping advance.
+Dialogue: 0,1:55:53.87,1:55:59.87,Default,Oba Risaki,0,0,60,,Overlaps and last remaining draw Mystery Apple cards.
+Dialogue: 0,1:56:01.83,1:56:02.15,Default,Oba Risaki,0,0,60,,What's this?
+Dialogue: 0,1:56:08.30,1:56:14.30,Default,Oba Risaki,0,0,60,,Okay, let's do half and half from here,
+Dialogue: 0,1:56:17.97,1:56:19.25,Default,Oba Risaki,0,0,60,,starting with this side.
+Dialogue: 0,1:56:20.19,1:56:21.41,Default,Oba Risaki,0,0,60,,I'm so nervous.
+Dialogue: 0,1:56:21.49,1:56:22.45,Default,Oba Risaki,0,0,60,,Excited!
+Dialogue: 0,1:56:23.69,1:56:25.33,Default,Oba Risaki,0,0,60,,Please time it carefully.
+Dialogue: 0,1:56:25.41,1:56:28.59,Default,Jitoe Nene,0,0,60,,So overlapping is bad AND being left is bad?
+Dialogue: 0,1:56:28.71,1:56:29.49,Default,Jitoe Nene,0,0,60,,Being left is bad.
+Dialogue: 0,1:56:29.57,1:56:30.93,Default,Jitoe Nene,0,0,60,,Overlaps and leftovers
+Dialogue: 0,1:56:31.01,1:56:32.99,Default,Jitoe Nene,0,0,60,,the last one left is out.
+Dialogue: 0,1:56:33.35,1:56:35.25,Default,Jitoe Nene,0,0,60,,Last one draws Mystery Apple card?
+Dialogue: 0,1:56:35.35,1:56:35.70,Default,Member,0,0,60,,Yes.…
+Dialogue: 0,1:56:35.78,1:56:36.43,Default,Fujino Kokoha,0,0,60,,And overlaps?
+Dialogue: 0,1:56:36.73,1:56:37.93,Default,Jitoe Nene,0,0,60,,Overlaps are out too.
+Dialogue: 0,1:56:38.01,1:56:39.49,Default,Jitoe Nene,0,0,60,,If we overlap, we go again?
+Dialogue: 0,1:56:39.89,1:56:40.89,Default,Jitoe Nene,0,0,60,,Overlap -- go again.
+Dialogue: 0,1:56:41.05,1:56:43.75,Default,Oba Risaki,0,0,60,,Overlappers are out -- for example.
+Dialogue: 0,1:56:44.39,1:56:46.07,Default,Oba Risaki,0,0,60,,Bring out the Mystery Apple cards too.
+Dialogue: 0,1:56:46.15,1:56:47.37,Default,Oba Risaki,0,0,60,,We've got Mystery Apple cards.
+Dialogue: 0,1:56:47.45,1:56:48.67,Default,Member,0,0,60,,Got it.
+Dialogue: 0,1:56:48.75,1:56:50.73,Default,Member,0,0,60,,We're going here!
+Dialogue: 0,1:56:50.81,1:56:55.25,Default,Oba Risaki,0,0,60,,When I say se-no, shout ringo gnocchi-kki!
+Dialogue: 0,1:56:55.63,1:56:56.79,Default,Oba Risaki,0,0,60,,Ringo-gnocchi!
+Dialogue: 0,1:56:56.87,1:56:57.22,Default,Oba Risaki,0,0,60,,Yes.…
+Dialogue: 0,1:56:57.30,1:57:00.15,Default,Member,0,0,60,,Here we go — se-no!
+Dialogue: 0,1:57:00.23,1:57:03.23,Default,Jitoe Nene,0,0,60,,Ringo ringo gnocchi-kki!
+Dialogue: 0,1:57:03.31,1:57:04.25,Default,Jitoe Nene,0,0,60,,One ringo gnocchi!!
+Dialogue: 0,1:57:04.33,1:57:10.33,Default,Member,0,0,60,,Are we doing this?
+Dialogue: 0,1:57:11.66,1:57:13.46,Default,Member,0,0,60,,We're going consecutive.
+Dialogue: 0,1:57:13.54,1:57:15.08,Default,Member,0,0,60,,The numbers are going up,
+Dialogue: 0,1:57:16.26,1:57:17.56,Default,Member,0,0,60,,but for now, stay put.
+Dialogue: 0,1:57:18.18,1:57:19.64,Default,Member,0,0,60,,Okay, one more time — one more!
+Dialogue: 0,1:57:23.90,1:57:27.66,Default,Jitoe Nene,0,0,60,,Kuriyama-chan's 1-ringo-gnocchi is locked in.
+Dialogue: 0,1:57:27.74,1:57:29.78,Default,Jitoe Nene,0,0,60,,Nobody steal the 1-ringo-gnocchi!
+Dialogue: 0,1:57:31.98,1:57:33.14,Default,Member,0,0,60,,From 2, consecutive.
+Dialogue: 0,1:57:33.22,1:57:33.46,Default,Jitoe Nene,0,0,60,,Yes.…
+Dialogue: 0,1:57:33.80,1:57:34.62,Default,Fukui Karen,0,0,60,,Se-no!
+Dialogue: 0,1:57:34.94,1:57:37.64,Default,Ouchi Rinka,0,0,60,,Ringo ringo gnocchi-kki!
+Dialogue: 0,1:57:37.72,1:57:38.96,Default,Member,0,0,60,,Apple lucky!
+Dialogue: 0,1:57:41.62,1:57:43.98,Default,Akiyoshi Yuka,0,0,60,,Imamura-chan will say 1-ringo-gnocchi.
+Dialogue: 0,1:57:44.48,1:57:46.54,Default,Akiyoshi Yuka,0,0,60,,Because we said start from 2-ringo-gnocchi.
+Dialogue: 0,1:57:47.12,1:57:48.84,Default,Member,0,0,60,,It's a fight from 2.
+Dialogue: 0,1:57:49.84,1:57:52.44,Default,Member,0,0,60,,So these two are locked — shall we go from 3?
+Dialogue: 0,1:57:52.52,1:57:54.68,Default,Member,0,0,60,,Okay — from 1… from 3.
+Dialogue: 0,1:57:54.76,1:57:56.04,Default,Member,0,0,60,,Say 1, say 2,
+Dialogue: 0,1:57:56.12,1:57:57.58,Default,Member,0,0,60,,Here we go.!
+Dialogue: 0,1:57:57.66,1:57:58.66,Default,Oba Risaki,0,0,60,,Se-no!
+Dialogue: 0,1:57:58.74,1:58:01.60,Default,Oba Risaki,0,0,60,,Ringo ringo gnocchi-kki!
+Dialogue: 0,1:58:01.68,1:58:05.04,Default,Oba Risaki,0,0,60,,One ringo gnocchi!…
+Dialogue: 0,1:58:05.12,1:58:08.96,Default,Eguchi Kokoha,0,0,60,,Ringo ringo gnocchi-kki!
+Dialogue: 0,1:58:09.04,1:58:15.04,Default,Eguchi Kokoha,0,0,60,,Three ringo gnocchi!
+Dialogue: 0,1:58:18.93,1:58:19.95,Default,Member,0,0,60,,No more — that's enough!
+Dialogue: 0,1:58:20.03,1:58:21.91,Default,Imamura Maria,0,0,60,,No no — ringo gnocchi!
+Dialogue: 0,1:58:22.23,1:58:25.35,Default,Imamura Maria,0,0,60,,So Kurina-chan and Rinka can drop out, right?
+Dialogue: 0,1:58:25.63,1:58:27.15,Default,Member,0,0,60,,That side's the "done" zone.
+Dialogue: 0,1:58:27.23,1:58:30.93,Default,Member,0,0,60,,Oh no, they're running out! Oh no, oh no!
+Dialogue: 0,1:58:31.93,1:58:33.53,Default,Member,0,0,60,,The last person can't fail either!
+Dialogue: 0,1:58:34.23,1:58:35.83,Default,Member,0,0,60,,You're not gonna say "nya"?
+Dialogue: 0,1:58:36.23,1:58:38.33,Default,Member,0,0,60,,You're not gonna say "nya"?
+Dialogue: 0,1:58:39.77,1:58:40.71,Default,Fujino Kokoha,0,0,60,,From the top. From the top.
+Dialogue: 0,1:58:41.89,1:58:42.67,Default,Member,0,0,60,,Se-no!
+Dialogue: 0,1:58:42.99,1:58:45.41,Default,Eguchi Kokoha,0,0,60,,Ringo, ringo, gnocchi, kki.
+Dialogue: 0,1:58:45.49,1:58:46.17,Default,Eguchi Kokoha,0,0,60,,One ringo gnocchi.
+Dialogue: 0,1:58:46.25,1:58:46.83,Default,Eguchi Kokoha,0,0,60,,Two ringo gnocchi.
+Dialogue: 0,1:58:46.93,1:58:47.75,Default,Eguchi Kokoha,0,0,60,,Three ringo gnocchi.
+Dialogue: 0,1:58:49.73,1:58:50.23,Default,Member,0,0,60,,Kurumi-ringo — oh no!
+Dialogue: 0,1:58:52.53,1:58:53.63,Default,Member,0,0,60,,Ah — like wrapping it up as Kuru-mi!
+Dialogue: 0,1:58:54.93,1:58:57.13,Default,Member,0,0,60,,Kurumi-ringo — over here!
+Dialogue: 0,1:58:58.43,1:59:01.43,Default,Member,0,0,60,,I drew Mystery!
+Dialogue: 0,1:59:02.63,1:59:04.53,Default,Member,0,0,60,,Okay — next is round two!
+Dialogue: 0,1:59:04.63,1:59:06.95,Default,Member,0,0,60,,This is hard. I got nervous.
+Dialogue: 0,1:59:07.03,1:59:08.43,Default,Member,0,0,60,,Everyone in round two.
+Dialogue: 0,1:59:09.73,1:59:12.05,Default,Member,0,0,60,,Mystery is tough!
+Dialogue: 0,1:59:12.13,1:59:12.63,Default,Ihara Hanna,0,0,60,,Do your best!
+Dialogue: 0,1:59:12.71,1:59:13.07,Default,Member,0,0,60,,Please do it!
+Dialogue: 0,1:59:14.07,1:59:15.53,Default,Member,0,0,60,,Mystery Apple — pop it!
+Dialogue: 0,1:59:15.93,1:59:16.23,Default,Member,0,0,60,,Here we go!
+Dialogue: 0,1:59:17.35,1:59:18.27,Default,Member,0,0,60,,Se-no — go!
+Dialogue: 0,1:59:18.71,1:59:20.97,Default,Member,0,0,60,,Ringo Gnocchi!
+Dialogue: 0,1:59:21.87,1:59:22.67,Default,Member,0,0,60,,One-apple gnocchi!
+Dialogue: 0,1:59:22.75,1:59:23.33,Default,Member,0,0,60,,Two-apple gnocchi!
+Dialogue: 0,1:59:23.41,1:59:24.63,Default,Member,0,0,60,,Three-apple gnocchi!
+Dialogue: 0,1:59:26.63,1:59:27.95,Default,Member,0,0,60,,Yo — that was everyone!
+Dialogue: 0,1:59:28.03,1:59:30.91,Default,Member,0,0,60,,Yo — that was everyone!
+Dialogue: 0,1:59:30.99,1:59:32.97,Default,Member,0,0,60,,Yo — hey!
+Dialogue: 0,1:59:33.23,1:59:35.23,Default,Member,0,0,60,,What's this — only Akiyoshi-san left behind?
+Dialogue: 0,1:59:36.83,1:59:39.33,Default,Member,0,0,60,,Ah — she's being called, she's being called!
+Dialogue: 0,1:59:40.83,1:59:42.65,Default,Member,0,0,60,,If you keep waiting, there are a lot.
+Dialogue: 0,1:59:42.73,1:59:44.43,Default,Member,0,0,60,,One more time?
+Dialogue: 0,1:59:44.63,1:59:45.15,Default,Member,0,0,60,,Let's do it one more time.
+Dialogue: 0,1:59:45.23,1:59:47.93,Default,Member,0,0,60,,Alright! Alright! Alright!
+Dialogue: 0,1:59:48.01,1:59:49.13,Default,Member,0,0,60,,There's still a chance!
+Dialogue: 0,1:59:49.67,1:59:52.57,Default,Member,0,0,60,,By the way — how many Mystery Apples are there?
+Dialogue: 0,1:59:52.65,1:59:53.39,Default,Jitoe Nene,0,0,60,,There are three cards.
+Dialogue: 0,1:59:53.57,1:59:55.63,Default,Tachibana Kokoro,0,0,60,,It's sudden death.
+Dialogue: 0,1:59:57.99,2:00:03.05,Default,Oba Risaki,0,0,60,,Let's do this -- if nobody goes, the last three left will come up, okay?
+Dialogue: 0,2:00:03.13,2:00:03.73,Default,Member,0,0,60,,I'll try!
+Dialogue: 0,2:00:04.23,2:00:06.23,Default,Member,0,0,60,,Everyone, better say it early!
+Dialogue: 0,2:00:08.63,2:00:10.45,Default,Member,0,0,60,,Here we go — se-no!
+Dialogue: 0,2:00:10.53,2:00:12.75,Default,Member,0,0,60,,Ringo ringo gnocchi!
+Dialogue: 0,2:00:12.83,2:00:13.61,Default,Member,0,0,60,,Ichi ringo gnocchi!
+Dialogue: 0,2:00:13.69,2:00:15.33,Default,Member,0,0,60,,Aaaah~
+Dialogue: 0,2:00:15.77,2:00:17.35,Default,Member,0,0,60,,Ah — we got played!
+Dialogue: 0,2:00:17.43,2:00:19.49,Default,Member,0,0,60,,Lots of ichi-ringo…
+Dialogue: 0,2:00:20.29,2:00:21.53,Default,Member,0,0,60,,No way — can't do it.
+Dialogue: 0,2:00:21.61,2:00:24.19,Default,Member,0,0,60,,So if we pick three from these bad apples…
+Dialogue: 0,2:00:24.27,2:00:25.85,Default,Member,0,0,60,,Who did the ichi-ringo gnocchi?
+Dialogue: 0,2:00:25.93,2:00:26.39,Default,Member,0,0,60,,Ichi-ringo gnocchi!
+Dialogue: 0,2:00:26.47,2:00:28.31,Default,Member,0,0,60,,Wait — exactly three?
+Dialogue: 0,2:00:28.39,2:00:29.63,Default,Member,0,0,60,,Huh…
+Dialogue: 0,2:00:29.71,2:00:31.27,Default,Member,0,0,60,,Oh — there's Karen-chan.
+Dialogue: 0,2:00:31.35,2:00:32.13,Default,Member,0,0,60,,Oh, really.
+Dialogue: 0,2:00:32.21,2:00:34.63,Default,Member,0,0,60,,There's the worst apple.
+Dialogue: 0,2:00:34.71,2:00:35.73,Default,Member,0,0,60,,Oh — for real.
+Dialogue: 0,2:00:37.15,2:00:38.85,Default,Member,0,0,60,,Mystery Apple candidates.
+Dialogue: 0,2:00:39.73,2:00:41.95,Default,Member,0,0,60,,Alright — pick three from those four.
+Dialogue: 0,2:00:42.57,2:00:43.77,Default,Kuriyama Rina,0,0,60,,Safe ringo gnocchi — come here!
+Dialogue: 0,2:00:45.51,2:00:47.59,Default,Member,0,0,60,,How should we decide…!
+Dialogue: 0,2:00:47.67,2:00:49.11,Default,Member,0,0,60,,Rock-paper-scissors!!
+Dialogue: 0,2:00:49.71,2:00:50.59,Default,Member,0,0,60,,Rock-paper-scissors!…
+Dialogue: 0,2:00:52.95,2:00:54.51,Default,Member,0,0,60,,Should I be the one to decide?
+Dialogue: 0,2:00:54.59,2:00:55.35,Default,Member,0,0,60,,What do we do?
+Dialogue: 0,2:00:56.03,2:00:56.77,Default,Member,0,0,60,,How should we decide……
+Dialogue: 0,2:00:56.85,2:00:59.99,Default,Member,0,0,60,,Richaki too — do it with five of you!
+Dialogue: 0,2:01:01.02,2:01:01.50,Default,Jitoe Nene,0,0,60,,I'm happy!
+Dialogue: 0,2:01:01.76,2:01:02.22,Default,Akiyoshi Yuka,0,0,60,,I'm happy!
+Dialogue: 0,2:01:02.60,2:01:03.46,Default,Akiyoshi Yuka,0,0,60,,You wanted to do that.
+Dialogue: 0,2:01:03.54,2:01:04.08,Default,Akiyoshi Yuka,0,0,60,,I wanted to do that.
+Dialogue: 0,2:01:04.16,2:01:04.94,Default,Akiyoshi Yuka,0,0,60,,Okay, last...
+Dialogue: 0,2:01:09.56,2:01:11.28,Default,Member,0,0,60,,One-apple gnocchi, two-apple gnocchi
+Dialogue: 0,2:01:14.76,2:01:16.44,Default,Tachibana Kokoro,0,0,60,,Isn't this Karen's solo win?
+Dialogue: 0,2:01:16.60,2:01:20.50,Default,Tachibana Kokoro,0,0,60,,Karen won, and Risaki is the star, so three more is fine, right?
+Dialogue: 0,2:01:21.93,2:01:22.75,Default,Member,0,0,60,,Bad-apple gnocchi — congrats!
+Dialogue: 0,2:01:22.83,2:01:25.33,Default,Member,0,0,60,,Bad-apple gnocchi!
+Dialogue: 0,2:01:26.63,2:01:27.43,Default,Member,0,0,60,,You look happy.
+Dialogue: 0,2:01:28.53,2:01:29.93,Default,Member,0,0,60,,Wilted-ringo gnocchi.
+Dialogue: 0,2:01:32.76,2:01:33.66,Default,Akiyoshi Yuka,0,0,60,,Scatter and recover.
+Dialogue: 0,2:01:33.74,2:01:34.72,Default,Akiyoshi Yuka,0,0,60,,You're wilted.
+Dialogue: 0,2:01:35.88,2:01:38.18,Default,Jitoe Nene,0,0,60,,We'll cheer up Akiyoshi Apple-san.
+Dialogue: 0,2:01:39.03,2:01:41.95,Default,Member,0,0,60,,Okay — good-apple gnocchi, surround the bad-apple gnocchi!
+Dialogue: 0,2:01:42.03,2:01:44.53,Default,Member,0,0,60,,Yeah, let's surround them — everyone, good-apple gnocchi!
+Dialogue: 0,2:01:45.43,2:01:47.73,Default,Member,0,0,60,,Everyone looks cute with apples on.
+Dialogue: 0,2:01:49.33,2:01:51.23,Default,Member,0,0,60,,We're the ones being made to wear them!
+Dialogue: 0,2:01:51.93,2:01:55.03,Default,Member,0,0,60,,Okay — draw the thing you like!
+Dialogue: 0,2:01:57.23,2:01:59.05,Default,Member,0,0,60,,"Mystery" is scary.
+Dialogue: 0,2:01:59.13,2:02:00.25,Default,Member,0,0,60,,It's written pretty densely.
+Dialogue: 0,2:02:00.33,2:02:02.63,Default,Member,0,0,60,,Okay — starting with Saa-chan!
+Dialogue: 0,2:02:02.76,2:02:03.92,Default,Oba Risaki,0,0,60,,What does it say?
+Dialogue: 0,2:02:04.00,2:02:06.04,Default,Ihara Hanna,0,0,60,,Risaki-chan, look this way.
+Dialogue: 0,2:02:06.48,2:02:07.24,Default,Ihara Hanna,0,0,60,,Your butt.
+Dialogue: 0,2:02:08.24,2:02:14.74,Default,Morisaki Saaya,0,0,60,,Okay. You go down the stage-right runway, Richaki down the stage-left one —
+Dialogue: 0,2:02:14.82,2:02:20.71,Default,Morisaki Saaya,0,0,60,,skip toward each other, meet in the middle, then hug. Ehehe, it says.
+Dialogue: 0,2:02:24.44,2:02:25.48,Default,Member,0,0,60,,Shall we move?
+Dialogue: 0,2:02:26.60,2:02:28.10,Default,Member,0,0,60,,Sawa-chan over this way?
+Dialogue: 0,2:02:30.32,2:02:31.54,Default,Member,0,0,60,,So excited—
+Dialogue: 0,2:02:32.78,2:02:33.70,Default,Member,0,0,60,,Nooo—
+Dialogue: 0,2:02:33.78,2:02:36.12,Default,Member,0,0,60,,That was close!
+Dialogue: 0,2:02:36.62,2:02:38.52,Default,Akiyoshi Yuka,0,0,60,,A plan Apple Princess will love.
+Dialogue: 0,2:02:38.60,2:02:38.90,Default,Member,0,0,60,,Anyway —
+Dialogue: 0,2:02:40.38,2:02:41.54,Default,Member,0,0,60,,Ready?
+Dialogue: 0,2:02:42.14,2:02:42.90,Default,Member,0,0,60,,Okay!……
+Dialogue: 0,2:02:42.98,2:02:44.06,Default,Member,0,0,60,,Okay-ringo!
+Dialogue: 0,2:02:45.90,2:02:46.78,Default,Member,0,0,60,,Alright — here we go……
+Dialogue: 0,2:02:46.86,2:02:50.04,Default,Member,0,0,60,,Ringo ringo ringo!
+Dialogue: 0,2:02:50.12,2:02:50.66,Default,Member,0,0,60,,Waa!
+Dialogue: 0,2:02:50.74,2:02:53.16,Default,Member,0,0,60,,Adorable!
+Dialogue: 0,2:02:54.74,2:02:56.46,Default,Member,0,0,60,,Too cute!
+Dialogue: 0,2:02:56.54,2:02:57.84,Default,Member,0,0,60,,Cute!
+Dialogue: 0,2:02:58.77,2:03:01.19,Default,Member,0,0,60,,Well — bye-bye, green apple!
+Dialogue: 0,2:03:02.81,2:03:04.03,Default,Member,0,0,60,,Fujikoko won't draw!
+Dialogue: 0,2:03:04.73,2:03:06.53,Default,Kuriyama Rina,0,0,60,,You're drawing, Fujikoko!
+Dialogue: 0,2:03:07.50,2:03:08.92,Default,Kuriyama Rina,0,0,60,,Don't look at me with those cold eyes.
+Dialogue: 0,2:03:09.70,2:03:10.45,Default,Akiyoshi Yuka,0,0,60,,Hey -- face contour.
+Dialogue: 0,2:03:10.53,2:03:13.85,Default,Member,0,0,60,,This apple too — that apple looks a little sad.
+Dialogue: 0,2:03:13.93,2:03:15.03,Default,Member,0,0,60,,Yeah, it's okay, it's okay.
+Dialogue: 0,2:03:16.23,2:03:17.43,Default,Member,0,0,60,,Kinda feels like "don't drag me into this."
+Dialogue: 0,2:03:17.93,2:03:19.83,Default,Member,0,0,60,,Maria-san — what's written?
+Dialogue: 0,2:03:20.25,2:03:22.33,Default,Imamura Maria,0,0,60,,Hold hands with Richaki for ten seconds.
+Dialogue: 0,2:03:22.77,2:03:25.07,Default,Imamura Maria,0,0,60,,Richaki's a hand fetishist — so grin.
+Dialogue: 0,2:03:26.11,2:03:26.83,Default,Jitoe Nene,0,0,60,,Oof — no thanks!
+Dialogue: 0,2:03:28.43,2:03:29.25,Default,Member,0,0,60,,Ten seconds?
+Dialogue: 0,2:03:29.33,2:03:31.13,Default,Member,0,0,60,,I don't know if I should say it, but… this is kinda creepy.
+Dialogue: 0,2:03:34.33,2:03:35.45,Default,Member,0,0,60,,Because she's the lead.
+Dialogue: 0,2:03:35.53,2:03:37.63,Default,Member,0,0,60,,I wanted to touch Maria-san's hand.
+Dialogue: 0,2:03:39.53,2:03:41.93,Default,Member,0,0,60,,Maria-san's apple is wilting too.
+Dialogue: 0,2:03:43.03,2:03:44.33,Default,Member,0,0,60,,Okay, I'll count.
+Dialogue: 0,2:03:45.63,2:03:46.25,Default,Member,0,0,60,,Alright — here we go!
+Dialogue: 0,2:03:46.33,2:03:47.65,Default,Member,0,0,60,,And… go!
+Dialogue: 0,2:03:47.73,2:03:48.95,Default,Member,0,0,60,,One!
+Dialogue: 0,2:03:49.03,2:03:50.85,Default,Member,0,0,60,,Two, three!
+Dialogue: 0,2:03:50.93,2:03:56.93,Default,Member,0,0,60,,Three, four, five, six, seven, eight, nine, ten!
+Dialogue: 0,2:03:59.73,2:04:00.43,Default,Member,0,0,60,,Apple!…
+Dialogue: 0,2:04:02.53,2:04:05.53,Default,Member,0,0,60,,Amazing. Thank you so much!
+Dialogue: 0,2:04:07.24,2:04:09.32,Default,Oba Risaki,0,0,60,,Nice -- that was a good move.
+Dialogue: 0,2:04:10.53,2:04:13.03,Default,Member,0,0,60,,Last is Akiyoshi-san.
+Dialogue: 0,2:04:14.83,2:04:16.23,Default,Member,0,0,60,,Yuka-ringo.
+Dialogue: 0,2:04:16.93,2:04:17.63,Default,Member,0,0,60,,I'll read it.
+Dialogue: 0,2:04:17.81,2:04:22.35,Default,Akiyoshi Yuka,0,0,60,,Say what you like about each other looking into each other's eyes -- heart...
+Dialogue: 0,2:04:27.17,2:04:28.25,Default,Oba Risaki,0,0,60,,Wait a second —
+Dialogue: 0,2:04:28.37,2:04:32.19,Default,Oba Risaki,0,0,60,,I've been looking Akiyoshi-san in the eye a lot while talking — I'm getting nervous.
+Dialogue: 0,2:04:32.87,2:04:33.59,Default,Oba Risaki,0,0,60,,Why?
+Dialogue: 0,2:04:34.89,2:04:35.95,Default,Oba Risaki,0,0,60,,And the apple too…
+Dialogue: 0,2:04:36.03,2:04:38.61,Default,Oba Risaki,0,0,60,,Wilted-apple, anything you like about them? You okay?
+Dialogue: 0,2:04:38.77,2:04:39.55,Default,Oba Risaki,0,0,60,,Of course I do.
+Dialogue: 0,2:04:39.63,2:04:39.95,Default,Oba Risaki,0,0,60,,I do too.
+Dialogue: 0,2:04:41.69,2:04:42.97,Default,Ihara Hanna,0,0,60,,Shall we?
+Dialogue: 0,2:04:44.01,2:04:45.15,Default,Member,0,0,60,,Let's go.
+Dialogue: 0,2:04:46.83,2:04:47.51,Default,Member,0,0,60,,So close.
+Dialogue: 0,2:04:50.79,2:04:52.71,Default,Oba Risaki,0,0,60,,Maybe we can't do light pink or something?
+Dialogue: 0,2:04:53.53,2:04:54.73,Default,Member,0,0,60,,Can you do it?
+Dialogue: 0,2:04:56.53,2:04:58.43,Default,Member,0,0,60,,Sorry — thank you!
+Dialogue: 0,2:04:59.83,2:05:00.93,Default,Member,0,0,60,,What is this?
+Dialogue: 0,2:05:03.73,2:05:08.03,Default,Oba Risaki,0,0,60,,I think Yuka-ringo likes tangerines.
+Dialogue: 0,2:05:08.37,2:05:12.15,Default,Oba Risaki,0,0,60,,But I'm apple -- we both like round things.
+Dialogue: 0,2:05:12.23,2:05:15.03,Default,Member,0,0,60,,I love your heart so, so much!
+Dialogue: 0,2:05:19.43,2:05:20.63,Default,Member,0,0,60,,First — thank you.
+Dialogue: 0,2:05:21.83,2:05:22.85,Default,Member,0,0,60,,Thank you too.
+Dialogue: 0,2:05:22.93,2:05:26.33,Default,Member,0,0,60,,I thought they'd talk about my inner self,
+Dialogue: 0,2:05:27.23,2:05:29.13,Default,Member,0,0,60,,but it was pretty much the outside,
+Dialogue: 0,2:05:29.83,2:05:31.25,Default,Member,0,0,60,,so I'm a little surprised,
+Dialogue: 0,2:05:31.33,2:05:32.63,Default,Member,0,0,60,,and I like that part too.
+Dialogue: 0,2:05:34.43,2:05:38.73,Default,Member,0,0,60,,I still think Risaki is really fluffy,
+Dialogue: 0,2:05:39.73,2:05:45.53,Default,Member,0,0,60,,but when I thought maybe she has a solid core —
+Dialogue: 0,2:05:45.61,2:05:49.51,Default,Member,0,0,60,,the fluffy part is still what I find cute.
+Dialogue: 0,2:05:49.59,2:05:52.21,Default,Member,0,0,60,,So — I love you.
+Dialogue: 0,2:05:52.48,2:05:53.24,Default,Member,0,0,60,,I love you!
+Dialogue: 0,2:05:53.32,2:05:55.18,Default,Member,0,0,60,,I love you too!!
+Dialogue: 0,2:05:57.88,2:05:58.92,Default,Member,0,0,60,,I'm so happy!!
+Dialogue: 0,2:05:59.00,2:05:59.60,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,2:06:00.56,2:06:02.20,Default,Member,0,0,60,,What even is this moment?
+Dialogue: 0,2:06:03.08,2:06:04.54,Default,Member,0,0,60,,I'm getting so embarrassed…
+Dialogue: 0,2:06:04.62,2:06:05.20,Default,Member,0,0,60,,Much appreciated!
+Dialogue: 0,2:06:06.53,2:06:07.97,Default,Member,0,0,60,,I'm so happy~
+Dialogue: 0,2:06:08.05,2:06:10.45,Default,Member,0,0,60,,Thank goodness — thank goodness.
+Dialogue: 0,2:06:11.23,2:06:11.73,Default,Member,0,0,60,,So then —
+Dialogue: 0,2:06:12.77,2:06:14.09,Default,Member,0,0,60,,That was Ringo Gnocchi.
+Dialogue: 0,2:06:14.63,2:06:14.91,Default,Member,0,0,60,,Thank you very much!
+Dialogue: 0,2:06:16.27,2:06:16.55,Default,Member,0,0,60,,Much appreciated!
+Dialogue: 0,2:06:18.01,2:06:18.89,Default,Member,0,0,60,,Leave this on?
+Dialogue: 0,2:06:18.97,2:06:20.59,Default,Member,0,0,60,,We're going with it left on?
+Dialogue: 0,2:06:20.67,2:06:24.67,Default,Member,0,0,60,,But if you worry your hair will fall apart,
+Dialogue: 0,2:06:24.75,2:06:25.59,Default,Member,0,0,60,,you can take it off —
+Dialogue: 0,2:06:25.67,2:06:26.15,Default,Member,0,0,60,,So kind.
+Dialogue: 0,2:06:26.99,2:06:27.51,Default,Fukui Karen,0,0,60,,Thank you…
+Dialogue: 0,2:06:32.39,2:06:32.74,Default,Fukui Karen,0,0,60,,Thanks.…
+Dialogue: 0,2:06:32.82,2:06:37.57,Default,Member,0,0,60,,Today we've received a letter from someone.
+Dialogue: 0,2:06:37.65,2:06:39.19,Default,Member,0,0,60,,Fujikoko — please!
+Dialogue: 0,2:06:43.29,2:06:43.91,Default,Member,0,0,60,,Fujino was there!
+Dialogue: 0,2:06:43.99,2:06:44.99,Default,Member,0,0,60,,Probably Fujino!
+Dialogue: 0,2:06:45.07,2:06:46.19,Default,Member,0,0,60,,Thank goodness — Fujikoko!
+Dialogue: 0,2:06:46.65,2:06:47.67,Default,Member,0,0,60,,Good, right?
+Dialogue: 0,2:06:47.75,2:06:48.33,Default,Member,0,0,60,,Having fun?
+Dialogue: 0,2:06:48.67,2:06:49.47,Default,Member,0,0,60,,Yeah, I'm having fun.
+Dialogue: 0,2:06:49.55,2:06:50.05,Default,Member,0,0,60,,Good.
+Dialogue: 0,2:06:53.71,2:06:54.75,Default,Member,0,0,60,,Can you open it?
+Dialogue: 0,2:06:54.85,2:06:55.20,Default,Member,0,0,60,,It's fine.
+Dialogue: 0,2:06:55.28,2:06:56.05,Default,Member,0,0,60,,Got it open!
+Dialogue: 0,2:06:56.13,2:06:57.37,Default,Member,0,0,60,,Smile!
+Dialogue: 0,2:06:57.45,2:06:58.13,Default,Member,0,0,60,,It suits you.
+Dialogue: 0,2:06:58.21,2:06:58.87,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,2:07:01.91,2:07:02.67,Default,Member,0,0,60,,I'll read it…
+Dialogue: 0,2:07:04.49,2:07:09.05,Default,Fujino Kokoha,0,0,60,,Dear Risaki. I first met you at the 6th-gen audition camp.
+Dialogue: 0,2:07:09.37,2:07:15.87,Default,Fujino Kokoha,0,0,60,,You may not remember, but I was too shy to talk to anyone, all on my own —
+Dialogue: 0,2:07:15.95,2:07:18.75,Default,Fujino Kokoha,0,0,60,,you were the one who asked me to practice together.
+Dialogue: 0,2:07:19.13,2:07:20.15,Default,Fujino Kokoha,0,0,60,,Do you remember?
+Dialogue: 0,2:07:20.37,2:07:21.51,Default,Fujino Kokoha,0,0,60,,Maybe not!
+Dialogue: 0,2:07:22.19,2:07:22.91,Default,Fujino Kokoha,0,0,60,,Right.
+Dialogue: 0,2:07:24.41,2:07:25.35,Default,Fujino Kokoha,0,0,60,,Yeah.
+Dialogue: 0,2:07:25.91,2:07:26.53,Default,Fujino Kokoha,0,0,60,,But really...
+Dialogue: 0,2:07:26.61,2:07:31.01,Default,Member,0,0,60,,I was so happy — Risaki looked like a goddess then.
+Dialogue: 0,2:07:31.13,2:07:31.81,Default,Member,0,0,60,,Oh — good!
+Dialogue: 0,2:07:32.31,2:07:36.75,Default,Member,0,0,60,,Risaki's always smiling, so cute, and such a hard worker.
+Dialogue: 0,2:07:36.95,2:07:43.45,Default,Member,0,0,60,,Her words light everyone up — and juggling uni too is so cool.
+Dialogue: 0,2:07:43.91,2:07:47.17,Default,Fujino Kokoha,0,0,60,,Watching Risaki always pushes me to try harder.
+Dialogue: 0,2:07:50.05,2:07:52.19,Default,Member,0,0,60,,Risaki and I often go to cafés together, but
+Dialogue: 0,2:07:52.57,2:07:54.79,Default,Member,0,0,60,,we both run late every time,
+Dialogue: 0,2:07:56.39,2:07:59.11,Default,Member,0,0,60,,and we miss the café we wanted — or rush desserts.
+Dialogue: 0,2:07:59.63,2:08:01.35,Default,Member,0,0,60,,One day we hit three cafés in a day!
+Dialogue: 0,2:08:01.67,2:08:03.69,Default,Fujino Kokoha,0,0,60,,to take photos for SNS —
+Dialogue: 0,2:08:03.79,2:08:07.53,Default,Member,0,0,60,,Wanting clothes at every shop, we walked around Tokyo with huge bags.
+Dialogue: 0,2:08:08.77,2:08:11.65,Default,Member,0,0,60,,When I hang with Risaki somehow something always happens,
+Dialogue: 0,2:08:11.73,2:08:13.85,Default,Member,0,0,60,,it feels like an adventure — and it's fun.
+Dialogue: 0,2:08:14.39,2:08:16.77,Default,Member,0,0,60,,She's a crybaby sometimes, sharp-tongued too,
+Dialogue: 0,2:08:16.85,2:08:18.85,Default,Member,0,0,60,,always sleepy-looking and friendly.
+Dialogue: 0,2:08:18.93,2:08:25.11,Default,Fujino Kokoha,0,0,60,,Friendly, extra caring, a kind reliable onee-chan —
+Dialogue: 0,2:08:25.43,2:08:27.21,Default,Fujino Kokoha,0,0,60,,I'm glad I know so many sides of you.
+Dialogue: 0,2:08:27.57,2:08:33.45,Default,Fujino Kokoha,0,0,60,,I'm glad I know more of you. Let's stay close.
+Dialogue: 0,2:08:33.53,2:08:35.75,Default,Fujino Kokoha,0,0,60,,Looking forward to adult Risaki.
+Dialogue: 0,2:08:35.91,2:08:37.13,Default,Fujino Kokoha,0,0,60,,From Fujino Kokoha.
+Dialogue: 0,2:08:37.45,2:08:38.25,Default,Fujino Kokoha,0,0,60,,I'm happy. Thank you.
+Dialogue: 0,2:08:38.33,2:08:38.79,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,2:08:40.05,2:08:40.77,Default,Member,0,0,60,,Come here!
+Dialogue: 0,2:08:41.97,2:08:42.71,Default,Member,0,0,60,,I'm so happy!…
+Dialogue: 0,2:08:44.57,2:08:48.25,Default,Member,0,0,60,,Getting a letter from Fujikoko — first time, right?
+Dialogue: 0,2:08:48.49,2:08:49.17,Default,Member,0,0,60,,Maybe the first!
+Dialogue: 0,2:08:49.25,2:08:51.85,Default,Member,0,0,60,,And her hands were shaking so much.
+Dialogue: 0,2:08:51.93,2:08:53.57,Default,Member,0,0,60,,Really? Thank you.
+Dialogue: 0,2:08:53.65,2:08:55.51,Default,Member,0,0,60,,Your face looked like this — a lot!
+Dialogue: 0,2:08:57.78,2:09:01.19,Default,Oba Risaki,0,0,60,,I love you too, Fujikoko!
+Dialogue: 0,2:09:01.27,2:09:01.87,Default,Oba Risaki,0,0,60,,Were you moved?
+Dialogue: 0,2:09:01.99,2:09:02.55,Default,Oba Risaki,0,0,60,,I was.
+Dialogue: 0,2:09:02.63,2:09:03.57,Default,Oba Risaki,0,0,60,,I got a little teary.
+Dialogue: 0,2:09:03.65,2:09:04.35,Default,Oba Risaki,0,0,60,,I'm really glad.
+Dialogue: 0,2:09:04.64,2:09:06.28,Default,Fujino Kokoha,0,0,60,,Grateful!
+Dialogue: 0,2:09:06.36,2:09:08.82,Default,Fujino Kokoha,0,0,60,,Thanks loads!
+Dialogue: 0,2:09:13.27,2:09:13.55,Default,Member,0,0,60,,Thanks.…
+Dialogue: 0,2:09:18.31,2:09:18.71,Default,Fukui Karen,0,0,60,,Okay...
+Dialogue: 0,2:09:20.75,2:09:21.55,Default,Fukui Karen,0,0,60,,Time for the speech?
+Dialogue: 0,2:09:23.79,2:09:24.91,Default,Fukui Karen,0,0,60,,Please, this person.
+Dialogue: 0,2:09:24.99,2:09:25.41,Default,Member,0,0,60,,Go on, please!
+Dialogue: 0,2:09:25.49,2:09:26.19,Default,Member,0,0,60,,Alright — here we go………
+Dialogue: 0,2:09:26.27,2:09:30.43,Default,Member,0,0,60,,Heave-ho!
+Dialogue: 0,2:09:31.19,2:09:33.23,Default,Member,0,0,60,,Put it in the middle —
+Dialogue: 0,2:09:33.85,2:09:35.47,Default,Oba Risaki,0,0,60,,Good evening, everyone.
+Dialogue: 0,2:09:36.03,2:09:36.95,Default,Eguchi Kokoha,0,0,60,,Good evening.
+Dialogue: 0,2:09:38.01,2:09:39.65,Default,Oba Risaki,0,0,60,,I'm 20-year-old Ringo-chan.
+Dialogue: 0,2:09:40.15,2:09:42.41,Default,Oba Risaki,0,0,60,,Are you enjoying the birthday celebration?
+Dialogue: 0,2:09:44.47,2:09:44.83,Default,Oba Risaki,0,0,60,,Big thanks!
+Dialogue: 0,2:09:46.37,2:09:48.59,Default,Oba Risaki,0,0,60,,I wrote this on Children's Day.
+Dialogue: 0,2:09:49.09,2:09:50.83,Default,Oba Risaki,0,0,60,,Richaki is already 20 -- an adult.
+Dialogue: 0,2:09:51.76,2:09:52.98,Default,Oba Risaki,0,0,60,,Looking back,
+Dialogue: 0,2:09:53.06,2:09:55.42,Default,Oba Risaki,0,0,60,,at 19 I challenged lots of things,
+Dialogue: 0,2:09:57.74,2:10:01.56,Default,Oba Risaki,0,0,60,,starting daily SHOWROOM streams was huge for me.
+Dialogue: 0,2:10:02.07,2:10:03.89,Default,Oba Risaki,0,0,60,,I think it was a big deal for me.
+Dialogue: 0,2:10:04.49,2:10:06.65,Default,Oba Risaki,0,0,60,,People often ask what got me started, but…
+Dialogue: 0,2:10:06.73,2:10:08.97,Default,Oba Risaki,0,0,60,,SHOWROOM President Maeda's words —
+Dialogue: 0,2:10:09.05,2:10:11.11,Default,Oba Risaki,0,0,60,,that sticking with it every day has meaning,
+Dialogue: 0,2:10:11.19,2:10:14.99,Default,Oba Risaki,0,0,60,,and that SHOWROOM was built so everyone's efforts can come true —
+Dialogue: 0,2:10:15.07,2:10:18.63,Default,Oba Risaki,0,0,60,,those words moved me so much. That's how it started.
+Dialogue: 0,2:10:19.76,2:10:22.80,Default,Member,0,0,60,,I'm the type who starts the moment I decide,
+Dialogue: 0,2:10:22.88,2:10:26.68,Default,Oba Risaki,0,0,60,,so by about the next day, before I knew it, I was streaming every day.
+Dialogue: 0,2:10:27.72,2:10:29.98,Default,Tachibana Kokoro,0,0,60,,My mindset changed a lot
+Dialogue: 0,2:10:30.06,2:10:32.40,Default,Tachibana Kokoro,0,0,60,,and I think that was the trigger.
+Dialogue: 0,2:10:34.40,2:10:40.40,Default,Oba Risaki,0,0,60,,That one line made me realize continuing everyday things,
+Dialogue: 0,2:10:41.70,2:10:44.34,Default,Member,0,0,60,,Even if not everything comes true, believing that 1% chance
+Dialogue: 0,2:10:44.42,2:10:46.72,Default,Member,0,0,60,,and working for it — that matters, I realized again.
+Dialogue: 0,2:10:49.34,2:10:51.76,Default,Yasui Hina,0,0,60,,With university and work every day,
+Dialogue: 0,2:10:51.84,2:10:54.94,Default,Yasui Hina,0,0,60,,finding time to stream
+Dialogue: 0,2:10:55.02,2:10:58.08,Default,Yasui Hina,0,0,60,,was hard at first,
+Dialogue: 0,2:10:58.50,2:11:00.62,Default,Yasui Hina,0,0,60,,but fans who liked me through streams,
+Dialogue: 0,2:11:00.70,2:11:03.86,Default,Yasui Hina,0,0,60,,thinking how to make streams fun,
+Dialogue: 0,2:11:03.94,2:11:06.54,Default,Yasui Hina,0,0,60,,that creative time was fun,
+Dialogue: 0,2:11:06.62,2:11:08.52,Default,Yasui Hina,0,0,60,,and I couldn't stop.
+Dialogue: 0,2:11:11.41,2:11:12.80,Default,Oba Risaki,0,0,60,,Until now every day
+Dialogue: 0,2:11:12.88,2:11:16.07,Default,Oba Risaki,0,0,60,,I'd act tough — I'm energetic, always smiling —
+Dialogue: 0,2:11:16.15,2:11:21.41,Default,Oba Risaki,0,0,60,,but streaming every day gave away that I'm the type who sweats from the eyes.
+Dialogue: 0,2:11:22.46,2:11:23.16,Default,Oba Risaki,0,0,60,,I'm frustrated.
+Dialogue: 0,2:11:24.90,2:11:30.77,Default,Oba Risaki,0,0,60,,But then I felt how kind the fans are — you're all wonderful people —
+Dialogue: 0,2:11:30.85,2:11:32.83,Default,Oba Risaki,0,0,60,,I got to feel that, so I'll call it good.
+Dialogue: 0,2:11:33.98,2:11:38.18,Default,Tachibana Kokoro,0,0,60,,and I wanted to become someone who gives everyone even more energy.
+Dialogue: 0,2:11:39.96,2:11:42.80,Default,Oba Risaki,0,0,60,,Like the Fairy Godmother in Cinderella,
+Dialogue: 0,2:11:43.16,2:11:44.32,Default,Oba Risaki,0,0,60,,I can't use magic,
+Dialogue: 0,2:11:44.40,2:11:48.72,Default,Oba Risaki,0,0,60,,but I'll work to cheer you up like magic -- leave it to me.
+Dialogue: 0,2:11:49.52,2:11:51.78,Default,Oba Risaki,0,0,60,,Maybe I can use magic too,
+Dialogue: 0,2:11:51.86,2:11:54.62,Default,Oba Risaki,0,0,60,,so I might practice bibbidi-bobbidi-boo.
+Dialogue: 0,2:11:55.84,2:11:58.64,Default,Oba Risaki,0,0,60,,Lately you call me Ringo-chan,
+Dialogue: 0,2:11:58.72,2:12:00.94,Default,Oba Risaki,0,0,60,,but Fairy Godmother is fine too.
+Dialogue: 0,2:12:02.78,2:12:07.38,Default,Oba Risaki,0,0,60,,I also worked hard at things I could do.
+Dialogue: 0,2:12:08.18,2:12:10.22,Default,Oba Risaki,0,0,60,,To grow my singing,
+Dialogue: 0,2:12:10.30,2:12:13.70,Default,Oba Risaki,0,0,60,,I'd always request voice-training days when offered,
+Dialogue: 0,2:12:13.78,2:12:16.98,Default,Yasui Hina,0,0,60,,tried reading aloud for the first time,
+Dialogue: 0,2:12:17.06,2:12:17.92,Default,Oba Risaki,0,0,60,,and more.
+Dialogue: 0,2:12:18.00,2:12:18.68,Default,Oba Risaki,0,0,60,,I did lots too.
+Dialogue: 0,2:12:20.02,2:12:21.46,Default,Oba Risaki,0,0,60,,Those challenges
+Dialogue: 0,2:12:21.54,2:12:23.36,Default,Oba Risaki,0,0,60,,didn't all come true,
+Dialogue: 0,2:12:23.44,2:12:25.76,Default,Oba Risaki,0,0,60,,but I feel them bearing fruit little by little.
+Dialogue: 0,2:12:26.81,2:12:29.15,Default,Oba Risaki,0,0,60,,being picked for song lineups,
+Dialogue: 0,2:12:31.35,2:12:33.05,Default,Oba Risaki,0,0,60,,getting to appear,
+Dialogue: 0,2:12:33.13,2:12:35.35,Default,Oba Risaki,0,0,60,,and The First Ondoku's very first edition —
+Dialogue: 0,2:12:35.43,2:12:37.15,Default,Oba Risaki,0,0,60,,getting selected for that,
+Dialogue: 0,2:12:37.76,2:12:39.18,Default,Oba Risaki,0,0,60,,compared to age 19, little by little
+Dialogue: 0,2:12:39.26,2:12:41.60,Default,Oba Risaki,0,0,60,,I feel my activities are widening,
+Dialogue: 0,2:12:41.68,2:12:42.72,Default,Oba Risaki,0,0,60,,I think.
+Dialogue: 0,2:12:43.50,2:12:45.44,Default,Oba Risaki,0,0,60,,I'm truly grateful,
+Dialogue: 0,2:12:45.52,2:12:47.08,Default,Oba Risaki,0,0,60,,full of thanks.
+Dialogue: 0,2:12:47.16,2:12:47.88,Default,Oba Risaki,0,0,60,,Thanks!!
+Dialogue: 0,2:12:53.80,2:12:55.40,Default,Tachibana Kokoro,0,0,60,,And most recently
+Dialogue: 0,2:12:55.48,2:12:57.08,Default,Tachibana Kokoro,0,0,60,,what made me happiest was
+Dialogue: 0,2:12:57.16,2:12:58.82,Default,Tachibana Kokoro,0,0,60,,appearing at Hakata Dontaku Port Festival.
+Dialogue: 0,2:12:58.90,2:12:59.94,Default,Tachibana Kokoro,0,0,60,,Getting to perform there.
+Dialogue: 0,2:13:00.02,2:13:03.50,Default,Yasui Hina,0,0,60,,Actually among a 16-member selection
+Dialogue: 0,2:13:03.73,2:13:06.23,Default,Yasui Hina,0,0,60,,getting into the selection to dance was a first for me.
+Dialogue: 0,2:13:06.43,2:13:09.75,Default,Member,0,0,60,,So when it was decided I'd be on the show, I was really surprised,
+Dialogue: 0,2:13:09.83,2:13:11.25,Default,Member,0,0,60,,and truly happy,
+Dialogue: 0,2:13:11.33,2:13:16.33,Default,Member,0,0,60,,but even more than that, being able to give the fans happy news
+Dialogue: 0,2:13:19.23,2:13:21.53,Default,Member,0,0,60,,might have been what made me happiest.
+Dialogue: 0,2:13:22.51,2:13:27.59,Default,Member,0,0,60,,Actually from rehearsal till now I've been stiff with nerves — the most yet.
+Dialogue: 0,2:13:29.05,2:13:33.33,Default,Member,0,0,60,,For me it was my hometown dream stage, and also
+Dialogue: 0,2:13:33.41,2:13:35.95,Default,Member,0,0,60,,people who were as happy as I was —
+Dialogue: 0,2:13:39.67,2:13:44.57,Default,Member,0,0,60,,fans, and people seeing HKT for the first time —
+Dialogue: 0,2:13:44.65,2:13:47.17,Default,Member,0,0,60,,I wanted them to love us even more,
+Dialogue: 0,2:13:47.25,2:13:49.77,Default,Member,0,0,60,,and thinking all that made my chest race.
+Dialogue: 0,2:13:51.17,2:13:53.25,Default,Member,0,0,60,,And precisely because I'm not a senbatsu member,
+Dialogue: 0,2:13:53.33,2:13:55.65,Default,Member,0,0,60,,being chosen by the members means…
+Dialogue: 0,2:13:55.73,2:13:58.59,Default,Oba Risaki,0,0,60,,It's not a given — there's that much weight to it,
+Dialogue: 0,2:13:58.67,2:14:01.91,Default,Oba Risaki,0,0,60,,which I've been feeling through all kinds of work lately,
+Dialogue: 0,2:14:02.07,2:14:03.73,Default,Oba Risaki,0,0,60,,so I think that's why I got nervous.
+Dialogue: 0,2:14:04.93,2:14:07.45,Default,Member,0,0,60,,But the fact I got that nervous
+Dialogue: 0,2:14:07.53,2:14:08.75,Default,Member,0,0,60,,means I want to try even harder,
+Dialogue: 0,2:14:08.83,2:14:11.55,Default,Member,0,0,60,,and I want to give everyone energy and see their smiles —
+Dialogue: 0,2:14:11.63,2:14:12.65,Default,Member,0,0,60,,I have that feeling,
+Dialogue: 0,2:14:12.73,2:14:15.13,Default,Member,0,0,60,,and I could confirm it again.
+Dialogue: 0,2:14:16.43,2:14:18.15,Default,Member,0,0,60,,Even in that after-nerves,
+Dialogue: 0,2:14:18.23,2:14:21.23,Default,Member,0,0,60,,the view from the stage was truly sparkling.
+Dialogue: 0,2:14:23.29,2:14:27.47,Default,Oba Risaki,0,0,60,,Dancing was so much fun — I felt like the happiest in the world.
+Dialogue: 0,2:14:28.01,2:14:30.71,Default,Oba Risaki,0,0,60,,Thank you so much for making me feel that way.
+Dialogue: 0,2:14:33.30,2:14:34.48,Default,Eguchi Kokoha,0,0,60,,Congratulations!!
+Dialogue: 0,2:14:36.26,2:14:38.94,Default,Member,0,0,60,,But at the same time I noticed my own greed growing.
+Dialogue: 0,2:14:39.52,2:14:41.16,Default,Member,0,0,60,,I wanted to do more events
+Dialogue: 0,2:14:41.24,2:14:43.26,Default,Member,0,0,60,,and taste this feeling again,
+Dialogue: 0,2:14:43.34,2:14:46.12,Default,Member,0,0,60,,and seeing senbatsu up close — everyone's sparkle —
+Dialogue: 0,2:14:46.20,2:14:49.56,Default,Member,0,0,60,,I wanted to become someone who shines more too.
+Dialogue: 0,2:14:49.64,2:14:52.02,Default,Member,0,0,60,,I want to see the fans' smiles more,
+Dialogue: 0,2:14:52.10,2:14:54.40,Default,Member,0,0,60,,and make so many more memories.
+Dialogue: 0,2:14:55.46,2:14:59.12,Default,Member,0,0,60,,So I can meet you all in lots of places again,
+Dialogue: 0,2:14:59.58,2:15:01.16,Default,Member,0,0,60,,And without saying what exactly,
+Dialogue: 0,2:15:01.24,2:15:06.64,Default,Member,0,0,60,,I'll work harder to get closer to that place I look up to,
+Dialogue: 0,2:15:06.72,2:15:09.84,Default,Member,0,0,60,,I danced that stage thinking: I'll put in so much effort.
+Dialogue: 0,2:15:10.68,2:15:12.24,Default,Member,0,0,60,,I hope those feelings reached you.
+Dialogue: 0,2:15:12.82,2:15:15.18,Default,Member,0,0,60,,And I hope you like us even more.
+Dialogue: 0,2:15:15.76,2:15:16.76,Default,Member,0,0,60,,So we can meet again in that place,
+Dialogue: 0,2:15:17.28,2:15:19.80,Default,Member,0,0,60,,and in lots of other places too,
+Dialogue: 0,2:15:19.88,2:15:21.72,Default,Member,0,0,60,,I'll keep giving it everything from here on,
+Dialogue: 0,2:15:21.80,2:15:23.68,Default,Member,0,0,60,,so please wait for me, always.
+Dialogue: 0,2:15:25.08,2:15:26.06,Default,Member,0,0,60,,Sorry that ran long,
+Dialogue: 0,2:15:26.14,2:15:27.86,Default,Member,0,0,60,,but the reason I can try hard every day,
+Dialogue: 0,2:15:28.38,2:15:31.72,Default,Member,0,0,60,,and stay happy, is you fans who support us.
+Dialogue: 0,2:15:31.91,2:15:33.51,Default,Oba Risaki,0,0,60,,my beloved Team KIV,
+Dialogue: 0,2:15:33.59,2:15:35.15,Default,Oba Risaki,0,0,60,,and my beloved family,
+Dialogue: 0,2:15:35.23,2:15:36.55,Default,Oba Risaki,0,0,60,,the staff, and my friends —
+Dialogue: 0,2:15:36.89,2:15:39.53,Default,Oba Risaki,0,0,60,,I think it's because so many people support me.
+Dialogue: 0,2:15:42.01,2:15:43.45,Default,Oba Risaki,0,0,60,,Truly, thank you always.
+Dialogue: 0,2:15:44.81,2:15:45.17,Default,Member,0,0,60,,Cheers!
+Dialogue: 0,2:15:48.89,2:15:54.89,Default,Oba Risaki,0,0,60,,I won't forget thanks to you -- I want age 20 to be a happy year together.
+Dialogue: 0,2:15:55.79,2:15:56.51,Default,Oba Risaki,0,0,60,,Please take care of us!!
+Dialogue: 0,2:15:57.13,2:16:02.33,Default,Oba Risaki,0,0,60,,I love everyone who always supports me and lets me live happy days.
+Dialogue: 0,2:16:03.05,2:16:09.05,Default,Oba Risaki,0,0,60,,Thank you so much for opening this happy birthday celebration for me, coming to see it, and watching on DMM.
+Dialogue: 0,2:16:11.17,2:16:12.45,Default,Oba Risaki,0,0,60,,From twenty-year-old Risaki.
+Dialogue: 0,2:16:21.77,2:16:23.09,Default,Member,0,0,60,,Happy 20th!
+Dialogue: 0,2:16:23.17,2:16:23.69,Default,Member,0,0,60,,Thanks.
+Dialogue: 0,2:16:23.77,2:16:24.73,Default,Member,0,0,60,,Wilted apple!
+Dialogue: 0,2:16:26.65,2:16:28.57,Default,Fukui Karen,0,0,60,,Hey — so, Risaki,
+Dialogue: 0,2:16:29.23,2:16:30.07,Default,Fukui Karen,0,0,60,,you always, you know...
+Dialogue: 0,2:16:31.57,2:16:32.31,Default,Eguchi Kokoha,0,0,60,,Don't cry.
+Dialogue: 0,2:16:32.89,2:16:34.31,Default,Oba Risaki,0,0,60,,I feel like she's really crying.
+Dialogue: 0,2:16:34.95,2:16:35.59,Default,Eguchi Kokoha,0,0,60,,You think so?
+Dialogue: 0,2:16:36.13,2:16:36.41,Default,Eguchi Kokoha,0,0,60,,Yeah.
+Dialogue: 0,2:16:39.12,2:16:39.97,Default,Oba Risaki,0,0,60,,Thank you for crying for me.
+Dialogue: 0,2:16:40.05,2:16:41.91,Default,Oba Risaki,0,0,60,,I'm really happy.
+Dialogue: 0,2:16:42.01,2:16:43.25,Default,Oba Risaki,0,0,60,,You're so cute.
+Dialogue: 0,2:16:46.07,2:16:47.47,Default,Oba Risaki,0,0,60,,You okay? Can you say it?
+Dialogue: 0,2:16:47.69,2:16:49.45,Default,Member,0,0,60,,Even when things are hard,
+Dialogue: 0,2:16:51.33,2:16:53.23,Default,Member,0,0,60,,you're always smiling,
+Dialogue: 0,2:16:57.05,2:16:59.17,Default,Member,0,0,60,,you've been busy lately too,
+Dialogue: 0,2:16:59.25,2:17:00.21,Default,Member,0,0,60,,uni as well —
+Dialogue: 0,2:17:00.73,2:17:03.17,Default,Member,0,0,60,,with so much on your plate,
+Dialogue: 0,2:17:04.59,2:17:07.29,Default,Member,0,0,60,,you still talk with a smile when we meet,
+Dialogue: 0,2:17:07.37,2:17:08.29,Default,Member,0,0,60,,and I'm glad —
+Dialogue: 0,2:17:09.23,2:17:10.47,Default,Fukui Karen,0,0,60,,Lately...
+Dialogue: 0,2:17:12.75,2:17:14.75,Default,Fukui Karen,0,0,60,,when it's just the two of us,
+Dialogue: 0,2:17:14.91,2:17:20.65,Default,Ihara Hanna,0,0,60,,we can talk about work, and about deeper things,
+Dialogue: 0,2:17:20.73,2:17:23.07,Default,Ihara Hanna,0,0,60,,and that makes me happy.
+Dialogue: 0,2:17:25.35,2:17:27.01,Default,Fukui Karen,0,0,60,,I love Risaki.
+Dialogue: 0,2:17:27.19,2:17:28.03,Default,Member,0,0,60,,You're cute.
+Dialogue: 0,2:17:29.31,2:17:30.73,Default,Oba Risaki,0,0,60,,I love you too.
+Dialogue: 0,2:17:30.85,2:17:31.63,Default,Oba Risaki,0,0,60,,Thank you.
+Dialogue: 0,2:17:31.97,2:17:35.57,Default,Ihara Hanna,0,0,60,,I'll work so Risaki can always smile.
+Dialogue: 0,2:17:36.43,2:17:38.63,Default,Oba Risaki,0,0,60,,Gambaringo (do-your-best + apple) — thank you!
+Dialogue: 0,2:17:39.13,2:17:40.19,Default,Oba Risaki,0,0,60,,Happy birthday!!!…
+Dialogue: 0,2:17:40.27,2:17:41.75,Default,Oba Risaki,0,0,60,,Thank you -- I'm happy!
+Dialogue: 0,2:17:42.55,2:17:42.89,Default,Member,0,0,60,,Much appreciated…
+Dialogue: 0,2:17:43.69,2:17:47.43,Default,Fukui Karen,0,0,60,,Kurumi-san, please!
+Dialogue: 0,2:17:48.11,2:17:51.43,Default,Fukui Karen,0,0,60,,Sorry -- once more?
+Dialogue: 0,2:17:51.51,2:17:52.29,Default,Fukui Karen,0,0,60,,Ah, right.
+Dialogue: 0,2:17:55.07,2:17:56.43,Default,Fukui Karen,0,0,60,,Let's say happy birthday!
+Dialogue: 0,2:17:56.91,2:17:59.21,Default,Fukui Karen,0,0,60,,Risaki-chan's 20th birthday
+Dialogue: 0,2:17:59.53,2:18:05.53,Default,Takemoto Kurumi,0,0,60,,Congratulations!…
+Dialogue: 0,2:18:08.49,2:18:11.87,Default,Member,0,0,60,,Richaki really is like the sun,
+Dialogue: 0,2:18:11.95,2:18:12.79,Default,Member,0,0,60,,I'm happy.
+Dialogue: 0,2:18:12.87,2:18:14.81,Default,Member,0,0,60,,Let's keep going at uni together —
+Dialogue: 0,2:18:15.23,2:18:16.83,Default,Member,0,0,60,,you're working so hard, so the tough parts…
+Dialogue: 0,2:18:16.91,2:18:20.07,Default,Takemoto Kurumi,0,0,60,,missing rehearsals and feeling you can't keep up,
+Dialogue: 0,2:18:20.15,2:18:21.69,Default,Takemoto Kurumi,0,0,60,,I think that happens,
+Dialogue: 0,2:18:21.77,2:18:22.59,Default,Takemoto Kurumi,0,0,60,,I'll consult,
+Dialogue: 0,2:18:22.67,2:18:23.82,Default,Takemoto Kurumi,0,0,60,,Me too.
+Dialogue: 0,2:18:23.93,2:18:26.71,Default,Takemoto Kurumi,0,0,60,,Anytime is fine — please lean on everyone lots.
+Dialogue: 0,2:18:26.82,2:18:27.60,Default,Oba Risaki,0,0,60,,Yes — I will.
+Dialogue: 0,2:18:27.71,2:18:29.48,Default,Takemoto Kurumi,0,0,60,,Alright everyone, lastly —
+Dialogue: 0,2:18:30.56,2:18:34.43,Default,Takemoto Kurumi,0,0,60,,Ready to send Richaki a big love call?
+Dialogue: 0,2:18:36.73,2:18:39.33,Default,Takemoto Kurumi,0,0,60,,Like that, your love won't get through to Richaki!
+Dialogue: 0,2:18:39.51,2:18:41.43,Default,Takemoto Kurumi,0,0,60,,Yay!
+Dialogue: 0,2:18:42.94,2:18:45.28,Default,Oba Risaki,0,0,60,,Who thinks Risaki is the strongest idol?!
+Dialogue: 0,2:18:46.02,2:18:46.66,Default,Oba Risaki,0,0,60,,Yes!
+Dialogue: 0,2:18:47.00,2:18:47.74,Default,Oba Risaki,0,0,60,,Wait a sec.
+Dialogue: 0,2:18:47.82,2:18:48.62,Default,Oba Risaki,0,0,60,,Risaki!
+Dialogue: 0,2:18:48.82,2:18:49.35,Default,Member,0,0,60,,Go Risaki!
+Dialogue: 0,2:18:49.43,2:18:53.03,Default,Member,0,0,60,,Do your best! Anyone who wants their shoelaces tied!
+Dialogue: 0,2:18:55.23,2:18:56.73,Default,Member,0,0,60,,Anyone whose shoelaces came undone?
+Dialogue: 0,2:18:57.13,2:18:59.65,Default,Member,0,0,60,,No — only Richaki ties them.
+Dialogue: 0,2:18:59.73,2:19:04.03,Default,Member,0,0,60,,Huh — leave it for next time?
+Dialogue: 0,2:19:04.63,2:19:06.05,Default,Member,0,0,60,,Let's go — let's go with this.
+Dialogue: 0,2:19:06.13,2:19:08.63,Default,Member,0,0,60,,Thank you so, so much.
+Dialogue: 0,2:19:09.43,2:19:10.53,Default,Member,0,0,60,,Okay — may I?
+Dialogue: 0,2:19:12.15,2:19:13.07,Default,Member,0,0,60,,Okay -- may I?
+Dialogue: 0,2:19:13.15,2:19:13.61,Default,Member,0,0,60,,Here we go.…
+Dialogue: 0,2:19:14.27,2:19:15.69,Default,Eguchi Kokoha,0,0,60,,Strongest idol!
+Dialogue: 0,2:19:16.35,2:19:16.79,Default,Eguchi Kokoha,0,0,60,,Please take care of us!…
+
+; ===== outro =====
+Dialogue: 0,2:25:54.68,2:25:57.57,Default,Member,0,0,60,,se-no -- the show's over!
+Dialogue: 0,2:25:58.84,2:25:59.96,Default,Member,0,0,60,,Congratulations!
+Dialogue: 0,2:26:01.99,2:26:05.15,Default,Member,0,0,60,,Today we're surrounded by so many cute Ringo-sans.
+Dialogue: 0,2:26:08.17,2:26:13.75,Default,Member,0,0,60,,The three who lost the game, the hosts, and the letter-readers are gathered.
+Dialogue: 0,2:26:14.39,2:26:16.31,Default,Oba Risaki,0,0,60,,How was it? Was the game fun?
+Dialogue: 0,2:26:16.39,2:26:17.35,Default,Member,0,0,60,,It was fun!
+Dialogue: 0,2:26:17.49,2:26:18.21,Default,Oba Risaki,0,0,60,,Glad to hear it.
+Dialogue: 0,2:26:18.35,2:26:19.01,Default,Oba Risaki,0,0,60,,Richaki gnocchi.
+Dialogue: 0,2:26:20.91,2:26:23.81,Default,Oba Risaki,0,0,60,,Everyone, please try making these headbands too!
+Dialogue: 0,2:26:24.27,2:26:26.47,Default,Oba Risaki,0,0,60,,And thank you so much for coming.
+Dialogue: 0,2:26:27.17,2:26:30.89,Default,Oba Risaki,0,0,60,,I'm glad I got to meet everyone in my beloved KIV, and all of you.
+Dialogue: 0,2:26:31.65,2:26:36.27,Default,Oba Risaki,0,0,60,,So I'll keep working hard -- please keep supporting us!
+Dialogue: 0,2:26:37.33,2:26:40.41,Default,Oba Risaki,0,0,60,,Yoroshiku — I'm Ringo! (please treat me well)
+Dialogue: 0,2:26:40.49,2:26:44.81,Default,Oba Risaki,0,0,60,,So please look forward to the next show too!
+Dialogue: 0,2:26:47.49,2:26:48.79,Default,Oba Risaki,0,0,60,,Bye-ringo! (bye + apple)

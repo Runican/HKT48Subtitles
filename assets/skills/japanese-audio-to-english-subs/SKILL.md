@@ -127,7 +127,7 @@ Pin the ASR engine used for each `asr.json` / `asr_pass2.json` in NOTES or in th
 - Default: **no visual overlap.** Tiny accidental overlaps (even ~80–250 ms) paint on the same baseline and look “overimpressed” — **de-collide** them (trim earlier `end` or delay later `start`) with ≥ **60–80 ms** gap. Do **not** keep tiny overlaps just because Layer differs.
 - True concurrent speech (`overlap_ok=true`): separate ASS **Layer** values **and** different vertical placement (`MarginV` or `\an`/`\pos`) so lines do not share one baseline. Layer alone is not enough.
 - Separate cues for adjacent different speakers even when they do not overlap in time — do not merge into one line.
-- Max cue duration ≈ **5.5–6.5 s**. Prefer **2–5 s** phrase units. Target on-screen time ≈ speech duration for that cue.
+- Max cue duration ≈ **5.5–6.5 s**. Prefer **2–5 s** phrase units. Target on-screen time ≈ speech duration for that cue. Speech past the cap → **tail cue**, not a mid-clause ellipsis (do not park the leftover only in the Japanese field).
 - Gap between consecutive non-overlap cues ≥ **60–80 ms**.
 - Empty ASR windows of ~8s+ on audio that silence-detect says is not quiet are **dropouts**, not songs.
 - Idol **intro catchphrase chants** (call-and-response before a name line) are not optional decoration — transcribe and subtitle them. Do not skip as “song” without confirming.
@@ -162,6 +162,7 @@ If silence is rare but ASR later has long empty blocks → Pass D.
 - diarization on if available (ids are not names)
 - short-ish segments; reject engines that emit one caption per ~8s of mixed speech
 - If `vad_filter=True` creates empty blocks that silence-detect says are not quiet, re-ASR those spans with `vad_filter=False`
+- Full-pass VAD on is fine (it cuts cheer mush). **Tight-slice VAD off:** when a cue looks cut mid-phrase (ends on a bare verb or particle, sits soft under cheers, or the Japanese is shorter than the ear), re-ASR that crop with `vad_filter=False`. Do **not** turn VAD off for the whole show.
 
 Normalize entries to:
 
@@ -174,8 +175,9 @@ Normalize entries to:
 1. Collect proper nouns from intros (prefecture, age, team, nickname, catchphrase).
 2. Research domain sources when a domain hint is given (e.g. HKT48). Official nicknames and published catchcopies beat ASR soup. Enlist a research teammate if available and the domain is dense.
 3. Write `glossary.json` (stable romanizations + catchphrase JA/EN when known).
-4. Rewrite `text_ja` with glossary. **Do not translate yet.**
+4. Rewrite `text_ja` with glossary. **Do not translate yet.** Cleanup = obvious ASR mush to the **same** person, or strip ASCII junk — **no** nick↔nick maps and **no** meaning rewrites from context.
 5. Build `speakers.json` from dialogue cues only; unmapped → `generic`.
+6. **No EN phrasebook** in show scripts. Hard-coded `if ja: return "…"` tables are banned; they freeze wrong English and bypass the glossary. Pass E translates from the Japanese plus glossary only. Show scripts are not a second glossary.
 
 ### Pass D — dropout repair (highest priority after first ASR)
 
@@ -367,7 +369,9 @@ scripts/
 - After a wrong nick locks, re-scan **nearby Name tags and -san/-chan lines** in that beat — consistency pass spreads errors.
 - VM / box updates wipe `/workspace/.venv` — **don’t wait for the user to warn.** Before any ASR job (and immediately when import fails), verify `faster-whisper` imports; if broken, recreate the venv and reinstall `faster-whisper`, then continue.
 - Pass G energy continuity: cheap RMS/VAD flags for hot-after-cue, yay-glued starts, silent holes in hot bands — **hints only**, softer in cheer/HB/photo zones.
-- Pass H conversation coherence: walk cues in order; structural non sequitur / EN stub / copy-forward / mashed JA → **auto re-ASR+repair** until the stretch makes sense (soft on stammer/overlap/nonsense; no inventing over silence).
+- Pass H conversation coherence: walk cues in order; structural non sequitur / EN stub / copy-forward / mashed JA → **auto re-ASR+repair** until the stretch makes sense (soft on stammer/overlap/nonsense; no inventing over silence). N-song undercount and mid-clause fragments are this pass — no separate setlist rule.
+- **Cheer-gap phantoms:** delete sub-~0.4s cues whose Japanese is a whole question (or other full clause) parked on applause or noise between real lines — do not ship them.
+- **Show scripts are not a glossary:** no nick↔nick rewrite tables and no hard-coded English phrasebooks in job builders. Context guesses stay doubts.
 - Trailing EN `—`/`…` with fuller JA = truncation stub — complete or split before ship (Pass H). Bare **name+em-dash** (`Airi—`) with JA continuing (〜さんが…) counts as dubious stub.
 - Two-/N-song encore announce: if EN/JA says "two songs" / 2曲 but only one title is named, **re-ASR** — first title is often in a timing hole (Mokugekisha I'm Crying + Zutto Zutto).
 - Trailing EN name+`—` alone (e.g. `Airi—` / `Aichi—`) with fuller JA (あいちーさんが…) = **dubious stub** — complete from JA or split; Pass H truncation-stub gate.

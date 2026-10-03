@@ -33,9 +33,15 @@ hkt48/
 - Cast: **Amiyun** (Ishikawa Amiyu) — never Ayumi; **both Kokoha** on cast (Fujino ここは/Fujikoko vs Eguchi ここちゃん/Egu-chan).
 - **Kure-chan** ≠ Kurumi (くるちゃん↔くれちゃん ASR trap); photo pose ask → Kure when she answers.
 - **Fuchigami Mai** on rest (same-gen with Yuka-tan) — confirmed referent; formal rest news post-dates show.
-- Catchcopies: Hina **beef/pork tongue — Hina-tan**; Yuka **gentle flower in Hakata** (not みかん-lead); Eguchi **look-for / Right here!** (not Fujino ここはどこ); Yui-pan **mentaiko French** locked; Mari-tan marshmallow **provisional**.
+- Catchcopies: Hina **beef/pork tongue — Hina-tan**; Yuka **gentle flower in Hakata** (not みかん-lead); Eguchi **look-for / Right here!** (not Fujino ここはどこ); Yui-pan **mentaiko French** locked; Mari-tan marshmallow/macaron **locked** (2026-10-02 human ear).
 - Provisional: mc1 **Kanshasai live** (not invented Ai-ya title). Chant JA stays **小悪魔** (EN little devil).
 
 ## Recent locks (2026-09-30 Mokugekisha)
 - EN defaults: **Aichi**; **rehearsal** (リハ — not riha/reh); **new position** (シンポジ — not shin posi / symposium); Sae-san ≠ Sayashi. No everyday JA (村民).
 - Gen shorthand **ロッキー／ななき** → ASS EN **6th gen(s)** / **7th gen(s)** — never Rokky/Nanaki romaji in ASS.
+
+## Recent locks (2026-10-03 Tenshi 250506)
+- Cast: Team KIV 4th「ここにだって天使はいる」, Oba Risaki 20th. **Both Kokoha** (Fujino ここは/Fujikoko vs Eguchi ここちゃん). Takemoto Kurumi **on**; Kure Yuna **not**. Imamura Maria ≠ Yamakawa Mari-tan.
+- Catches: Kurumi birthday form **りちゃきのハートをくるみたい**; Risaki morning-to-night / ohayou; Kokoro smile-charge / Koko-ppe; Saaya live 3rd **天使公演よろしくね**; Iori Vegetable Day + cucumber via **だご＝I** (reject fused “Dago-loving Ii-ko”).
+- Dialogue, not catches: Fujino fried-rice-club **ghost member**; Yuka **portrait cookies** (reject ASR 隠れ桃汁). Radio-name mush 大森咲 → Oba Risaki.
+- Spoken forms: **栗奈** → Kurina, **栗山** → Kuriyama, given-name chant → Rina. ASS EN **trainees** for 研究生 (never on-screen Kenkyuusei).

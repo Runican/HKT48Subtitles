@@ -94,6 +94,10 @@ Under `work/<slug>/segment_finder/`:
 
 - **Optional `post_song_sketch` → ASS:** emit `translate:true` only if a short **speech-density / VAD** gate shows clear talk (not song bed / cheer mush). Otherwise `translate:false` or omit from the JA→EN cut list. Blind Ramune 2026-09-29: optional sketch FP vs gold with no human counterpart.
 
+## Lesson — spoken bits inside song beds
+
+- Some setlist songs embed a short spoken letter, radio-name reading, or end-of-song sketch in the song bed. When birthday or letter context applies, probe those songs for spoken prose; do not assume the bed is lyric-only.
+
 ## Do not
 
 - Replace a human segment map with finder candidates for production ASS without review
