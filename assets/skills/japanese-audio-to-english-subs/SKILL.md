@@ -225,7 +225,7 @@ Machine:
 - First cue start ≈ `OFFSET_SEC`; last end ≤ `OFFSET_SEC + DUR + 0.5`
 - Density and reading-speed guards above
 - Every former dropout range either has cues or is listed in `NOTES.md`
-- **Copy-forward / topic-paste gate (must FAIL before ship):** run `scripts/check_cues.py` (or equivalent). Fail when (a) identical EN appears on ≥3 cues whose JA strings are not all equal, or (b) consecutive identical EN ≥3 except allowlisted ritual closers (`Thank you!` / `Yay!` / `Okay!` / よろしくお願いします-class) **and** JA matches the ritual, or (c) EN is a short topic noun/phrase (≤~3 words) while JA is long and not that noun. Soft-flagging these into doubts is **not** enough — repair first
+- **Copy-forward / topic-paste gate (must FAIL before ship):** run `assets/scripts/check_cues.py` (live copy: `/workspace/scripts/check_cues.py`). Fail when (a) identical EN appears on ≥3 cues whose JA strings are not all equal, or (b) consecutive identical EN ≥3 except allowlisted ritual closers (`Thank you!` / `Yay!` / `Okay!` / よろしくお願いします-class) **and** JA matches the ritual, or (c) EN is a short topic noun/phrase (≤~3 words) while JA is long and not that noun. Soft-flagging these into doubts is **not** enough — repair first
 
 Watch-through (agent):
 
@@ -265,12 +265,21 @@ work/<slug>/
   REVIEW_FIXES.md
   full_EN_offset.ass          # stitched after all segments signed off
   <segment>/…_EN_offset.ass  # per-segment workdirs when doing a full show
-scripts/
+scripts/   # copy from assets/scripts/ (public) or /workspace/scripts/ (live)
   asr_whisper.py
-  cut_gaps.py
+  asr_chunked.py
+  asr_all.py
+  check_cues.py
+  cleanup_ja.py
+  build_cues.py
+  build_cues_from_asr.py
+  pipeline_after_asr.py
   snap_cues.py
   write_ass.py
+  stitch.py
 ```
+
+Runnable scripts are published in this repo at `assets/scripts/` and mirrored from the live toolset at `/workspace/scripts/`. When `/workspace/scripts/` changes, re-publish scrubbed copies into `assets/scripts/`. For a job, copy `assets/scripts/` into `work/<slug>/scripts/` or call the repo copies in place. Glossary checks use `assets/hkt48/glossary.json` (`check_cues.py --glossary`, `cleanup_ja.py --glossary`, `write_ass.py` for the ASS).
 
 ## Do not repeat (lessons from live attempts)
 
