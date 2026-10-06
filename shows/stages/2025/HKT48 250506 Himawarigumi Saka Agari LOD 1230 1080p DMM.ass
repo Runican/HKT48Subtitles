@@ -1,0 +1,976 @@
+[Script Info]
+Title: HKT48 250506 Himawarigumi Saka Agari LOD 1230 1080p DMM
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,56,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+; ===== sketch =====
+Dialogue: 0,0:00:09.62,0:00:10.32,Default,Generic,0,0,60,,Sketch.
+Dialogue: 0,0:00:11.16,0:00:14.42,Default,Generic,0,0,60,,If the manager's no good, neither are the part-timers.
+Dialogue: 0,0:00:18.08,0:00:19.50,Default,Generic,0,0,60,,Yes, I'll be right with you.
+Dialogue: 0,0:00:20.52,0:00:21.56,Default,Generic,0,0,60,,Ah, got it.
+Dialogue: 0,0:00:21.64,0:00:22.52,Default,Generic,0,0,60,,Sorry.
+Dialogue: 0,0:00:22.96,0:00:23.96,Default,Generic,0,0,60,,Yes, I'm on my way.
+Dialogue: 0,0:00:24.62,0:00:26.92,Default,Generic,0,0,60,,That place was good, right?
+Dialogue: 0,0:00:27.00,0:00:27.84,Default,Generic,0,0,60,,Where, where?
+Dialogue: 0,0:00:27.92,0:00:29.20,Default,Generic,0,0,60,,Over there, over there.
+Dialogue: 0,0:00:29.28,0:00:30.08,Default,Generic,0,0,60,,What was it called?
+Dialogue: 0,0:00:30.16,0:00:31.80,Default,Generic,0,0,60,,That Ninoni place.
+Dialogue: 0,0:00:31.88,0:00:33.26,Default,Generic,0,0,60,,No.
+Dialogue: 0,0:00:33.74,0:00:35.48,Default,Generic,0,0,60,,Isn't Ninoni a little strict?
+Dialogue: 0,0:00:35.56,0:00:37.52,Default,Generic,0,0,60,,No, over there, over there.
+Dialogue: 0,0:00:37.60,0:00:38.32,Default,Generic,0,0,60,,Where was it?
+Dialogue: 0,0:00:38.40,0:00:41.02,Default,Generic,0,0,60,,It was good, but...
+Dialogue: 0,0:00:41.10,0:00:42.88,Default,Generic,0,0,60,,I remember it being good.
+Dialogue: 0,0:00:43.68,0:00:44.64,Default,Generic,0,0,60,,What was it again?
+Dialogue: 0,0:00:45.20,0:00:51.70,Default,Generic,0,0,60,,Stop chatting and work.
+Dialogue: 0,0:00:53.39,0:00:56.58,Default,Generic,0,0,60,,If you don't stop talking and work,
+Dialogue: 0,0:00:56.66,0:00:58.17,Default,Generic,0,0,60,,we can't pay you.
+Dialogue: 0,0:00:58.25,0:00:59.95,Default,Generic,0,0,60,,Table 3 is calling.
+Dialogue: 0,0:01:00.03,0:01:02.09,Default,Generic,0,0,60,,I'll get the check.
+Dialogue: 0,0:01:02.73,0:01:08.23,Default,Generic,0,0,60,,I'll get the check. The manager's such an idiot, right? That's why we end up working for free.
+Dialogue: 0,0:01:09.31,0:01:13.34,Default,Generic,0,0,60,,Um, is the person in charge here?
+Dialogue: 0,0:01:15.57,0:01:17.17,Default,Generic,0,0,60,,Who's in charge?
+Dialogue: 0,0:01:17.25,0:01:17.69,Default,Generic,0,0,60,,Yes —
+Dialogue: 0,0:01:17.77,0:01:18.14,Default,Generic,0,0,60,,oh,
+Dialogue: 0,0:01:18.22,0:01:19.40,Default,Generic,0,0,60,,the manager.
+Dialogue: 0,0:01:19.48,0:01:20.66,Default,Generic,0,0,60,,The manager?
+Dialogue: 0,0:01:20.74,0:01:22.90,Default,Generic,0,0,60,,What can I do for you?
+Dialogue: 0,0:01:23.50,0:01:27.74,Default,Generic,0,0,60,,Um, a tiny... there was a foreign object in what I ordered.
+Dialogue: 0,0:01:27.82,0:01:31.56,Default,Generic,0,0,60,,A foreign object, yes, a foreign object, the object was...
+Dialogue: 0,0:01:31.64,0:01:33.40,Default,Generic,0,0,60,,The thing, the foreign object — what do I do?
+Dialogue: 0,0:01:34.23,0:01:35.79,Default,Generic,0,0,60,,There was something that didn't belong in it.
+Dialogue: 0,0:01:35.87,0:01:37.31,Default,Generic,0,0,60,,What are you laughing at?
+Dialogue: 0,0:01:38.86,0:01:39.86,Default,Generic,0,0,60,,There's something in it.
+Dialogue: 0,0:01:40.38,0:01:42.11,Default,Generic,0,0,60,,I'm sorry.
+Dialogue: 0,0:01:44.83,0:01:45.25,Default,Generic,0,0,60,,By the way, what was it?
+Dialogue: 0,0:01:45.33,0:01:47.57,Default,Generic,0,0,60,,Please don't hold hands.
+Dialogue: 0,0:01:48.33,0:01:49.99,Default,Generic,0,0,60,,In the Kuru-tan noodles,
+Dialogue: 0,0:01:50.85,0:01:51.73,Default,Generic,0,0,60,,a betting slip.
+Dialogue: 0,0:01:51.81,0:01:53.41,Default,Generic,0,0,60,,A betting slip, oh no.
+Dialogue: 0,0:01:53.49,0:01:55.97,Default,Generic,0,0,60,,There was a betting slip in it?
+Dialogue: 0,0:01:56.05,0:01:58.41,Default,Generic,0,0,60,,That's pretty convenient, isn't it?
+Dialogue: 0,0:01:58.49,0:02:00.33,Default,Generic,0,0,60,,And it lost.
+Dialogue: 0,0:02:01.51,0:02:02.79,Default,Generic,0,0,60,,You looked?
+Dialogue: 0,0:02:02.87,0:02:04.29,Default,Generic,0,0,60,,I already looked.
+Dialogue: 0,0:02:04.37,0:02:06.05,Default,Generic,0,0,60,,What if it had won?
+Dialogue: 0,0:02:06.13,0:02:06.85,Default,Generic,0,0,60,,Wait a second.
+Dialogue: 0,0:02:08.75,0:02:09.63,Default,Generic,0,0,60,,This might be bad.
+Dialogue: 0,0:02:10.93,0:02:11.63,Default,Generic,0,0,60,,What do we do?
+Dialogue: 0,0:02:11.71,0:02:12.35,Default,Generic,0,0,60,,Eat it.
+Dialogue: 0,0:02:12.43,0:02:14.41,Default,Generic,0,0,60,,Maybe I should just do it.
+Dialogue: 0,0:02:15.49,0:02:17.17,Default,Generic,0,0,60,,Let's save that as a last resort.
+Dialogue: 0,0:02:17.25,0:02:19.71,Default,Generic,0,0,60,,It's faster if you apologize yourself.
+Dialogue: 0,0:02:19.79,0:02:21.75,Default,Generic,0,0,60,,No way, it wasn't on purpose.
+Dialogue: 0,0:02:21.83,0:02:23.41,Default,Generic,0,0,60,,Even if it wasn't on purpose.
+Dialogue: 0,0:02:25.75,0:02:26.59,Default,Generic,0,0,60,,They'll stay friends with you.
+Dialogue: 0,0:02:26.67,0:02:28.61,Default,Generic,0,0,60,,We're always
+Dialogue: 0,0:02:28.69,0:02:29.83,Default,Generic,0,0,60,,Aichi's best friends, so
+Dialogue: 0,0:02:30.85,0:02:31.61,Default,Generic,0,0,60,,we won't betray you.
+Dialogue: 0,0:02:32.23,0:02:33.31,Default,Generic,0,0,60,,Besties, besties.
+Dialogue: 0,0:02:34.03,0:02:34.95,Default,Generic,0,0,60,,We will never betray you.
+Dialogue: 0,0:02:35.03,0:02:35.63,Default,Generic,0,0,60,,Thanks.
+Dialogue: 0,0:02:36.13,0:02:36.95,Default,Generic,0,0,60,,Wait, wait.
+Dialogue: 0,0:02:37.03,0:02:40.35,Default,Generic,0,0,60,,Um, a foreign object, a betting slip,
+Dialogue: 0,0:02:40.43,0:02:44.35,Default,Generic,0,0,60,,apparently got in there, but I don't know.
+Dialogue: 0,0:02:44.43,0:02:44.93,Default,Generic,0,0,60,,No, I—
+Dialogue: 0,0:02:45.01,0:02:45.53,Default,Generic,0,0,60,,Don't "I don't know" me.
+Dialogue: 0,0:02:45.61,0:02:46.01,Default,Generic,0,0,60,,What?
+Dialogue: 0,0:02:46.09,0:02:46.95,Default,Generic,0,0,60,,I don't know.
+Dialogue: 0,0:02:47.03,0:02:48.07,Default,Generic,0,0,60,,I don't know.
+Dialogue: 0,0:02:48.15,0:02:48.99,Default,Generic,0,0,60,,Just now,
+Dialogue: 0,0:02:49.07,0:02:50.41,Default,Generic,0,0,60,,I don't really get it, but
+Dialogue: 0,0:02:50.49,0:02:52.35,Default,Generic,0,0,60,,something about a ticket,
+Dialogue: 0,0:02:52.43,0:02:54.09,Default,Generic,0,0,60,,and they were showing it up top.
+Dialogue: 0,0:02:54.17,0:02:55.21,Default,Generic,0,0,60,,Are they wishing for something?
+Dialogue: 0,0:02:56.01,0:02:58.81,Default,Generic,0,0,60,,I was saying I'd take the customer out.
+Dialogue: 0,0:02:58.89,0:02:59.29,Default,Generic,0,0,60,,Take them out?
+Dialogue: 0,0:02:59.37,0:03:01.49,Default,Generic,0,0,60,,We promised not to say that.
+Dialogue: 0,0:03:01.57,0:03:01.92,Default,Generic,0,0,60,,No.
+Dialogue: 0,0:03:02.00,0:03:02.67,Default,Generic,0,0,60,,It's not a ticket.
+Dialogue: 0,0:03:02.75,0:03:03.87,Default,Generic,0,0,60,,You're the only one here.
+Dialogue: 0,0:03:04.31,0:03:05.91,Default,Generic,0,0,60,,A betting slip.
+Dialogue: 0,0:03:06.30,0:03:10.82,Default,Generic,0,0,60,,Just because it lost, you can't say you'll take the customer out.
+Dialogue: 0,0:03:12.08,0:03:12.82,Default,Generic,0,0,60,,They're mad, right?
+Dialogue: 0,0:03:12.90,0:03:15.76,Default,Generic,0,0,60,,If we apologize, maybe they'll forgive us?
+Dialogue: 0,0:03:16.18,0:03:17.52,Default,Generic,0,0,60,,We can hear you.
+Dialogue: 0,0:03:18.48,0:03:19.98,Default,Generic,0,0,60,,Stop making that "please forgive me" face.
+Dialogue: 0,0:03:20.06,0:03:21.00,Default,Generic,0,0,60,,What face?
+Dialogue: 0,0:03:21.22,0:03:23.06,Default,Generic,0,0,60,,I won't forgive you. Absolutely not.
+Dialogue: 0,0:03:23.14,0:03:24.84,Default,Generic,0,0,60,,So let's go apologize.
+Dialogue: 0,0:03:24.92,0:03:25.76,Default,Generic,0,0,60,,Do your best!
+Dialogue: 0,0:03:25.84,0:03:26.50,Default,Generic,0,0,60,,You can do it.
+Dialogue: 0,0:03:26.58,0:03:27.36,Default,Generic,0,0,60,,Go on.
+Dialogue: 0,0:03:27.44,0:03:30.84,Default,Generic,0,0,60,,Well, we are truly,
+Dialogue: 0,0:03:32.04,0:03:34.56,Default,Generic,0,0,60,,deeply sorry.
+Dialogue: 0,0:03:34.98,0:03:36.40,Default,Generic,0,0,60,,What kind of apology is that?
+Dialogue: 0,0:03:36.48,0:03:37.38,Default,Generic,0,0,60,,The customer's still mad.
+Dialogue: 0,0:03:37.46,0:03:38.10,Default,Generic,0,0,60,,Oh no, the manager.
+Dialogue: 0,0:03:38.18,0:03:38.70,Default,Generic,0,0,60,,I'm sorry.
+Dialogue: 0,0:03:39.70,0:03:41.48,Default,Generic,0,0,60,,Um, is that betting slip yours?
+Dialogue: 0,0:03:42.40,0:03:45.02,Default,Generic,0,0,60,,Well, it lost, so it's probably mine.
+Dialogue: 0,0:03:45.98,0:03:46.80,Default,Generic,0,0,60,,A loser. It lost.
+Dialogue: 0,0:03:46.88,0:03:48.48,Default,Generic,0,0,60,,Why did it end up in there?
+Dialogue: 0,0:03:50.20,0:03:51.06,Default,Generic,0,0,60,,Sorry about that.
+Dialogue: 0,0:03:51.14,0:03:51.52,Default,Generic,0,0,60,,A horse, a horse...
+Dialogue: 0,0:03:52.14,0:03:53.04,Default,Generic,0,0,60,,My apologies.
+Dialogue: 0,0:03:53.12,0:03:53.92,Default,Generic,0,0,60,,You're not being threatened, are you?
+Dialogue: 0,0:03:54.26,0:03:54.62,Default,Generic,0,0,60,,Huh?
+Dialogue: 0,0:03:54.96,0:03:56.44,Default,Generic,0,0,60,,The first 5 isn't strong? That opening 5.
+Dialogue: 0,0:03:56.52,0:03:58.24,Default,Generic,0,0,60,,Everyone, everyone, everyone.
+Dialogue: 0,0:03:58.32,0:03:58.67,Default,Generic,0,0,60,,Don't.
+Dialogue: 0,0:03:58.75,0:03:59.28,Default,Generic,0,0,60,,Scrub, scrub, scrub.
+Dialogue: 0,0:03:59.36,0:04:00.66,Default,Generic,0,0,60,,Apologize — all of us, a little.
+Dialogue: 0,0:04:00.74,0:04:03.62,Default,Generic,0,0,60,,Our faces alone
+Dialogue: 0,0:04:03.70,0:04:05.16,Default,Generic,0,0,60,,don't look forgivable, so
+Dialogue: 0,0:04:05.24,0:04:06.02,Default,Generic,0,0,60,,that freshness after all.
+Dialogue: 0,0:04:06.10,0:04:07.28,Default,Generic,0,0,60,,The freshness of
+Dialogue: 0,0:04:07.46,0:04:08.04,Default,Generic,0,0,60,,No, no.
+Dialogue: 0,0:04:08.12,0:04:08.80,Default,Generic,0,0,60,,The freshness of
+Dialogue: 0,0:04:08.88,0:04:11.80,Default,Generic,0,0,60,,that "I'm so sorry" feeling.
+Dialogue: 0,0:04:12.40,0:04:13.56,Default,Generic,0,0,60,,Like a little squeak.
+Dialogue: 0,0:04:13.64,0:04:14.60,Default,Generic,0,0,60,,We don't need the kyuru face either.
+Dialogue: 0,0:04:14.68,0:04:15.66,Default,Generic,0,0,60,,Absolutely, absolutely.
+Dialogue: 0,0:04:15.74,0:04:16.64,Default,Generic,0,0,60,,I want to see it.
+Dialogue: 0,0:04:16.72,0:04:18.60,Default,Generic,0,0,60,,We are truly,
+Dialogue: 0,0:04:19.12,0:04:20.20,Default,Generic,0,0,60,,sorry.
+Dialogue: 0,0:04:20.28,0:04:21.16,Default,Generic,0,0,60,,Forgive me.
+Dialogue: 0,0:04:21.24,0:04:22.52,Default,Generic,0,0,60,,Where are you looking?
+Dialogue: 0,0:04:22.96,0:04:24.32,Default,Generic,0,0,60,,Apologize over here.
+Dialogue: 0,0:04:24.40,0:04:24.80,Default,Generic,0,0,60,,So sorry.
+Dialogue: 0,0:04:24.88,0:04:25.64,Default,Generic,0,0,60,,I'm sorry!
+Dialogue: 0,0:04:26.10,0:04:27.42,Default,Generic,0,0,60,,What's that red lamp?
+Dialogue: 0,0:04:27.82,0:04:28.82,Default,Generic,0,0,60,,Where are you looking?
+Dialogue: 0,0:04:30.02,0:04:31.60,Default,Generic,0,0,60,,No, we're really sorry.
+Dialogue: 0,0:04:31.68,0:04:33.48,Default,Generic,0,0,60,,But we'll bring a new one.
+Dialogue: 0,0:04:33.88,0:04:34.23,Default,Generic,0,0,60,,Please.
+Dialogue: 0,0:04:34.31,0:04:35.18,Default,Generic,0,0,60,,Wait, wait.
+Dialogue: 0,0:04:35.26,0:04:35.88,Default,Generic,0,0,60,,But, well,
+Dialogue: 0,0:04:35.96,0:04:36.38,Default,Generic,0,0,60,,fun...
+Dialogue: 0,0:04:36.83,0:04:38.43,Default,Generic,0,0,60,,You're Ibu-san, right?
+Dialogue: 0,0:04:38.51,0:04:39.95,Default,Generic,0,0,60,,How do you know that?
+Dialogue: 0,0:04:40.17,0:04:42.59,Default,Generic,0,0,60,,Kind of a surprise.
+Dialogue: 0,0:04:42.67,0:04:44.97,Default,Generic,0,0,60,,Please bring a new one, quickly.
+Dialogue: 0,0:04:45.43,0:04:45.87,Default,Generic,0,0,60,,Hold on.
+Dialogue: 0,0:04:46.53,0:04:47.99,Default,Generic,0,0,60,,But
+Dialogue: 0,0:04:48.07,0:04:50.25,Default,Generic,0,0,60,,we don't even have the money to make a new one right now.
+Dialogue: 0,0:04:50.33,0:04:51.77,Default,Generic,0,0,60,,That's because you bought betting slips.
+Dialogue: 0,0:04:51.85,0:04:52.83,Default,Generic,0,0,60,,It's not the slip's fault?
+Dialogue: 0,0:04:53.53,0:04:54.71,Default,Generic,0,0,60,,So let's win one.
+Dialogue: 0,0:04:54.79,0:04:58.03,Default,Generic,0,0,60,,Yeah, but we're a little broke,
+Dialogue: 0,0:04:58.11,0:05:00.53,Default,Generic,0,0,60,,and I feel kinda sick.
+Dialogue: 0,0:05:01.11,0:05:02.25,Default,Generic,0,0,60,,At a yakiniku place,
+Dialogue: 0,0:05:02.33,0:05:03.09,Default,Generic,0,0,60,,just a bit.
+Dialogue: 0,0:05:03.89,0:05:05.25,Default,Generic,0,0,60,,We'll hold a reflection meeting.
+Dialogue: 0,0:05:05.33,0:05:06.79,Default,Generic,0,0,60,,You do have money.
+Dialogue: 0,0:05:06.87,0:05:07.99,Default,Generic,0,0,60,,I want to eat.
+Dialogue: 0,0:05:08.07,0:05:09.87,Default,Generic,0,0,60,,That's already
+Dialogue: 0,0:05:09.95,0:05:11.73,Default,Generic,0,0,60,,Let's win it back.
+Dialogue: 0,0:05:12.69,0:05:13.95,Default,Generic,0,0,60,,If we make it back, it's fine.
+Dialogue: 0,0:05:16.52,0:05:17.84,Default,Generic,0,0,60,,Customers! There are customers!
+Dialogue: 0,0:05:18.26,0:05:19.14,Default,Generic,0,0,60,,Hey, hey, customers!
+Dialogue: 0,0:05:20.16,0:05:21.60,Default,Generic,0,0,60,,Wait, I'm alone?
+Dialogue: 0,0:05:21.68,0:05:23.52,Default,Generic,0,0,60,,Scary. Lonely.
+Dialogue: 0,0:05:23.96,0:05:26.26,Default,Generic,0,0,60,,Oh, there's a whole crowd.
+Dialogue: 0,0:05:26.72,0:05:27.66,Default,Generic,0,0,60,,Well, uh,
+Dialogue: 0,0:05:27.74,0:05:30.00,Default,Generic,0,0,60,,I've caused a foreign-object incident too.
+Dialogue: 0,0:05:31.08,0:05:32.04,Default,Generic,0,0,60,,Oh, you have?
+Dialogue: 0,0:05:32.12,0:05:33.42,Default,Generic,0,0,60,,I have, but
+Dialogue: 0,0:05:34.00,0:05:35.12,Default,Generic,0,0,60,,at times like that,
+Dialogue: 0,0:05:35.20,0:05:36.70,Default,Generic,0,0,60,,when I look at this show,
+Dialogue: 0,0:05:36.78,0:05:39.24,Default,Generic,0,0,60,,my heart just gets happy.
+Dialogue: 0,0:05:40.90,0:05:41.96,Default,Generic,0,0,60,,Everyone,
+Dialogue: 0,0:05:42.04,0:05:43.62,Default,Generic,0,0,60,,Everyone, can you make some noise?
+Dialogue: 0,0:05:45.92,0:05:48.12,Default,Generic,0,0,60,,Let's get loud together!
+
+; ===== photo =====
+Dialogue: 0,0:24:57.81,0:24:59.05,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,0:25:00.78,0:25:01.88,Default,Generic,0,0,60,,Hello, everyone!
+Dialogue: 0,0:25:03.16,0:25:05.00,Default,Generic,0,0,60,,We're HKT48!
+Dialogue: 0,0:25:11.27,0:25:14.37,Default,Generic,0,0,60,,HKT48's Saka Agari show has started —
+Dialogue: 0,0:25:14.45,0:25:15.97,Default,Generic,0,0,60,,are you all fired up?
+Dialogue: 0,0:25:18.78,0:25:19.18,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:25:19.94,0:25:21.58,Default,Generic,0,0,60,,First up: Tenohira,
+Dialogue: 0,0:25:22.00,0:25:23.98,Default,Generic,0,0,60,,Saka Agari, Hitei no Requiem,
+Dialogue: 0,0:25:24.06,0:25:27.54,Default,Generic,0,0,60,,and Sono Ase wa Uso wo Tsukanai — four songs in a row.
+Dialogue: 0,0:25:27.62,0:25:30.38,Default,Generic,0,0,60,,From here we'd like to take photos.
+Dialogue: 0,0:25:30.46,0:25:32.52,Default,Generic,0,0,60,,Cameraman, please.
+Dialogue: 0,0:25:33.40,0:25:33.92,Default,Generic,0,0,60,,Please.
+Dialogue: 0,0:25:34.40,0:25:36.57,Default,Generic,0,0,60,,Kure-chan?
+Dialogue: 0,0:25:36.65,0:25:37.23,Default,Generic,0,0,60,,Yes.
+Dialogue: 0,0:25:44.84,0:25:47.34,Default,Generic,0,0,60,,So, what pose should we do?
+Dialogue: 0,0:25:47.58,0:25:49.90,Default,Generic,0,0,60,,I want to do the Saka Agari pose.
+Dialogue: 0,0:25:50.72,0:25:51.38,Default,Generic,0,0,60,,Okay!
+Dialogue: 0,0:25:59.62,0:26:00.06,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:26:03.11,0:26:03.95,Default,Generic,0,0,60,,Okay, Ikuno.
+Dialogue: 0,0:26:05.82,0:26:08.90,Default,Generic,0,0,60,,A pose you think is cute.
+Dialogue: 0,0:26:20.04,0:26:20.48,Default,Generic,0,0,60,,Okay,
+Dialogue: 0,0:26:20.56,0:26:23.34,Default,Generic,0,0,60,,ah, Shibui.
+Dialogue: 0,0:26:23.42,0:26:23.96,Default,Generic,0,0,60,,Yes.
+Dialogue: 0,0:26:25.30,0:26:26.52,Default,Generic,0,0,60,,Right?
+Dialogue: 0,0:26:26.60,0:26:29.40,Default,Generic,0,0,60,,Golden Week.
+Dialogue: 0,0:26:29.48,0:26:31.54,Default,Generic,0,0,60,,GW.
+Dialogue: 0,0:26:32.36,0:26:33.28,Default,Generic,0,0,60,,It's hard, isn't it?
+Dialogue: 0,0:26:38.68,0:26:40.82,Default,Generic,0,0,60,,Don't make it complicated.
+Dialogue: 0,0:26:43.34,0:26:44.88,Default,Generic,0,0,60,,It's a cooperation round, you know.
+Dialogue: 0,0:26:44.96,0:26:45.74,Default,Generic,0,0,60,,A cooperation round.
+Dialogue: 0,0:26:53.21,0:26:54.31,Default,Generic,0,0,60,,Do it for them, come on.
+Dialogue: 0,0:26:54.39,0:26:55.87,Default,Generic,0,0,60,,It's okay, I'll try.
+Dialogue: 0,0:27:04.14,0:27:04.46,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:27:08.26,0:27:08.58,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:27:10.61,0:27:13.61,Default,Generic,0,0,60,,These photos will be sold in the theater lobby,
+Dialogue: 0,0:27:13.69,0:27:14.91,Default,Generic,0,0,60,,so please stop by.
+Dialogue: 0,0:27:14.99,0:27:16.19,Default,Generic,0,0,60,,Please look after us!
+
+; ===== intro =====
+Dialogue: 0,0:27:23.73,0:27:29.73,Default,Generic,0,0,60,,Thank you. From here we'll each introduce ourselves on today's theme.
+Dialogue: 0,0:27:32.03,0:27:37.41,Default,Generic,0,0,60,,If you were reborn, what would you want to be? Starting with Rara-pa, please.
+Dialogue: 0,0:27:37.93,0:27:41.03,Default,Generic,0,0,60,,If I ask "what percent?", please say "Rara percent!"
+Dialogue: 0,0:27:42.75,0:27:44.43,Default,Generic,0,0,60,,What's today's mood, in percent?
+Dialogue: 0,0:27:44.91,0:27:46.29,Default,Generic,0,0,60,,Rara percent!
+Dialogue: 0,0:27:46.91,0:27:50.22,Default,Generic,0,0,60,,How many percent is Rara's love? Rara percent!
+Dialogue: 0,0:27:50.78,0:27:52.58,Default,Generic,0,0,60,,And Rara's dancing — 100 percent?
+Dialogue: 0,0:27:53.14,0:27:55.70,Default,Generic,0,0,60,,200 percent? Rara percent!
+Dialogue: 0,0:27:56.58,0:27:56.98,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:27:58.26,0:28:02.40,Default,Generic,0,0,60,,From Nagasaki, 14 — Rara-pa, Nagano Rara. Please take care of me.
+Dialogue: 0,0:28:03.70,0:28:04.10,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:28:08.28,0:28:11.62,Default,Generic,0,0,60,,If I were reborn, I'd want to be a giant.
+Dialogue: 0,0:28:12.92,0:28:15.22,Default,Generic,0,0,60,,Giants are huge, right?
+Dialogue: 0,0:28:16.68,0:28:17.90,Default,Generic,0,0,60,,So, like...
+Dialogue: 0,0:28:18.32,0:28:22.32,Default,Generic,0,0,60,,The view from up on the buildings, walking along like this...
+Dialogue: 0,0:28:22.40,0:28:27.60,Default,Generic,0,0,60,,I want to see it with my own eyes. Please take care of me today.
+Dialogue: 0,0:28:28.06,0:28:29.26,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,0:28:31.44,0:28:36.66,Default,Generic,0,0,60,,I love cherry tomatoes, smiles, and laughter! Mina will make everyone smile, so keep your eyes on me!
+Dialogue: 0,0:28:36.74,0:28:41.56,Default,Generic,0,0,60,,From Tokyo, second-year high school, 16 — Shibui Mina. Mina-chan!
+Dialogue: 0,0:28:44.34,0:28:44.70,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:28:45.50,0:28:51.66,Default,Generic,0,0,60,,What I want to be is a dog. A dog, you know...
+Dialogue: 0,0:28:51.74,0:28:58.12,Default,Generic,0,0,60,,People might say the barking is noisy, but they look cute, so it turns into "cute," right?
+Dialogue: 0,0:28:58.92,0:29:03.32,Default,Generic,0,0,60,,If I became a dog, no matter how much I talked, I think they'd still call me cute, right?
+Dialogue: 0,0:29:03.50,0:29:06.00,Default,Generic,0,0,60,,If you became a dog, they'd say you're noisy!
+Dialogue: 0,0:29:06.72,0:29:12.84,Default,Generic,0,0,60,,But dogs really are cute. And everyone is gentle with them.
+Dialogue: 0,0:29:12.92,0:29:15.96,Default,Generic,0,0,60,,Even Nene-san, saying all this, would still end up...
+Dialogue: 0,0:29:16.04,0:29:21.02,Default,Generic,0,0,60,,totally head over heels for me — and I'm really looking forward to that.
+Dialogue: 0,0:29:21.10,0:29:26.98,Default,Generic,0,0,60,,I want to become a dog soon and get fussed over. Please take care of me today.
+Dialogue: 0,0:29:27.52,0:29:28.52,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,0:29:31.24,0:29:32.86,Default,Generic,0,0,60,,Always, in everyone's hearts—
+Dialogue: 0,0:29:33.44,0:29:34.18,Default,Generic,0,0,60,,Kokoro!
+Dialogue: 0,0:29:35.00,0:29:36.62,Default,Generic,0,0,60,,With this smile, I'll charge everyone's hearts with energy.
+Dialogue: 0,0:29:37.40,0:29:43.44,Default,Generic,0,0,60,,I'll deliver lots of smiles. From Fukuoka, first-year high school, 15 — Koko-ppe, Tachibana Kokoro.
+Dialogue: 0,0:29:43.52,0:29:44.90,Default,Crowd,0,0,60,,Koko-ppe!
+Dialogue: 0,0:29:46.18,0:29:46.50,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:29:48.24,0:29:51.94,Default,Generic,0,0,60,,If I were reborn, I'd want to be Rinka.
+Dialogue: 0,0:29:52.02,0:29:56.50,Default,Generic,0,0,60,,Rin-rin Rinka — lately there's the calculated-cute police and all.
+Dialogue: 0,0:29:57.04,0:30:01.38,Default,Generic,0,0,60,,She's got a ton of weapons, including sharp Kansai comebacks.
+Dialogue: 0,0:30:01.46,0:30:07.34,Default,Generic,0,0,60,,So I want to be reborn having stolen every one of them. I'll do my best today.
+Dialogue: 0,0:30:07.42,0:30:09.06,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,0:30:11.62,0:30:17.02,Default,Generic,0,0,60,,When I point the mic, please shout "south-south-facing, southwest!"
+Dialogue: 0,0:30:17.58,0:30:19.48,Default,Generic,0,0,60,,Of north, south, east, and west, my favorite direction is...
+Dialogue: 0,0:30:19.98,0:30:20.18,Default,Generic,0,0,60,,South!
+Dialogue: 0,0:30:21.08,0:30:23.90,Default,Generic,0,0,60,,When I look for a room, south-facing.
+Dialogue: 0,0:30:24.46,0:30:26.68,Default,Generic,0,0,60,,When I look for a cute girl, southwest.
+Dialogue: 0,0:30:27.88,0:30:32.10,Default,Generic,0,0,60,,Thank you. From Fukuoka, 16 — Mii-na, Nakano Minami. Please take care of me.
+Dialogue: 0,0:30:36.83,0:30:37.23,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:30:38.51,0:30:43.73,Default,Generic,0,0,60,,If I were reborn, I'd want to be a baseball player.
+Dialogue: 0,0:30:44.23,0:30:46.13,Default,Generic,0,0,60,,There's a reason.
+Dialogue: 0,0:30:46.21,0:30:50.73,Default,Generic,0,0,60,,On the Ramune no Nomikata stage, in Winning Ball,
+Dialogue: 0,0:30:50.81,0:30:52.93,Default,Generic,0,0,60,,I hit a signed ball —
+Dialogue: 0,0:30:53.01,0:30:58.67,Default,Generic,0,0,60,,if it doesn't go in, a fan takes it home —
+Dialogue: 0,0:30:58.85,0:31:01.61,Default,Generic,0,0,60,,and I almost always whiff.
+Dialogue: 0,0:31:02.19,0:31:06.65,Default,Generic,0,0,60,,So I want to become a baseball player and hit home runs. Please take care of me today.
+Dialogue: 0,0:31:07.35,0:31:08.73,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,0:31:11.54,0:31:14.80,Default,Generic,0,0,60,,When I point the mic, please say "Ibuki!"
+Dialogue: 0,0:31:15.46,0:31:15.82,Default,Generic,0,0,60,,Yes.
+Dialogue: 0,0:31:16.60,0:31:17.90,Default,Generic,0,0,60,,Ibu-ibu-ibu-ibu!
+Dialogue: 0,0:31:18.36,0:31:22.78,Default,Generic,0,0,60,,Ibuki! Thank you. I'll blow a new wind into HKT.
+Dialogue: 0,0:31:22.86,0:31:27.36,Default,Generic,0,0,60,,I love kickboxing. From Fukuoka — Ishibashi Ibuki. Ibuki!
+Dialogue: 0,0:31:30.70,0:31:32.12,Default,Generic,0,0,60,,Thank you, thank you!
+Dialogue: 0,0:31:32.50,0:31:38.56,Default,Generic,0,0,60,,I thought really hard about what I want to be, and...
+Dialogue: 0,0:31:38.64,0:31:43.82,Default,Generic,0,0,60,,there wasn't one single thing, so I figured Ibuki can just stay Ibuki — but
+Dialogue: 0,0:31:43.90,0:31:48.24,Default,Generic,0,0,60,,the more I thought, the more I wanted to be Ikuno-chan.
+Dialogue: 0,0:31:48.54,0:31:54.40,Default,Generic,0,0,60,,Ikuno-chan does spins and stuff — she's amazing, right?
+Dialogue: 0,0:31:54.48,0:31:58.56,Default,Generic,0,0,60,,So I want to spin through the air with her, at least once.
+Dialogue: 0,0:31:58.64,0:32:01.20,Default,Generic,0,0,60,,I want Ikuno-chan's athletic sense.
+Dialogue: 0,0:32:01.60,0:32:08.06,Default,Generic,0,0,60,,I want to become that athletic sense. Today I'll show you the super-coordinated side.
+Dialogue: 0,0:32:08.64,0:32:11.24,Default,Generic,0,0,60,,Please take care of me! Yay!
+Dialogue: 0,0:32:14.83,0:32:20.85,Default,Generic,0,0,60,,When I point the mic, "magokoro," then Amiyun — and on se-no, Amiyun, please.
+Dialogue: 0,0:32:21.39,0:32:26.84,Default,Generic,0,0,60,,Shiritori, here we go — little devil.
+Dialogue: 0,0:32:27.55,0:32:28.32,Default,Generic,0,0,60,,Sincere heart — magokoro.
+Dialogue: 0,0:32:28.40,0:32:29.96,Default,Generic,0,0,60,,Long hair.
+Dialogue: 0,0:32:30.04,0:32:33.22,Default,Generic,0,0,60,,Ready — Amiyun!
+Dialogue: 0,0:32:33.76,0:32:37.34,Default,Generic,0,0,60,,Fukuoka's lucky girl is—? Amiyun!
+Dialogue: 0,0:32:37.42,0:32:38.22,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:32:38.65,0:32:44.41,Default,Generic,0,0,60,,From Fukuoka, 13 — Amiyun, Ishikawa Amiyu. Please take care of me. Amiyun!
+Dialogue: 0,0:32:48.25,0:32:54.19,Default,Generic,0,0,60,,Thank you. What I want to be is a cat. Cats can come down from high places,
+Dialogue: 0,0:32:54.27,0:32:59.94,Default,Generic,0,0,60,,and climb up, and most of all — Yanase Reia-san loves cats, so I want them to spoil me a lot.
+Dialogue: 0,0:33:00.02,0:33:01.90,Default,Generic,0,0,60,,Yes — please take care of me today.
+Dialogue: 0,0:33:02.32,0:33:03.92,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:33:08.17,0:33:10.17,Default,Generic,0,0,60,,From Miyazaki Prefecture — Team KIV's Jitoe Nene.
+Dialogue: 0,0:33:14.17,0:33:14.45,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:33:15.15,0:33:18.51,Default,Generic,0,0,60,,Like Ibuki, nothing really came to mind, but
+Dialogue: 0,0:33:18.97,0:33:23.87,Default,Generic,0,0,60,,if Shibui wants to be reborn as a dog, maybe I'll be reborn as Shibui's owner.
+Dialogue: 0,0:33:24.27,0:33:30.77,Default,Generic,0,0,60,,Even now, if I say she's noisy she stays noisy, and if I say "back to your seat" she keeps running around.
+Dialogue: 0,0:33:31.43,0:33:37.15,Default,Generic,0,0,60,,So I want to teach her paw, sit, and house soon. Please take care of me today.
+Dialogue: 0,0:33:37.23,0:33:38.33,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,0:33:38.41,0:33:43.80,Default,Generic,0,0,60,,Speaking of Oita: hot springs, shiitake, pears, and kabosu — Oita.
+Dialogue: 0,0:33:43.88,0:33:45.84,Default,Generic,0,0,60,,24 years old — Kurina.
+Dialogue: 0,0:33:46.16,0:33:51.11,Default,Generic,0,0,60,,Thank you so much.
+Dialogue: 0,0:33:51.69,0:33:54.51,Default,Generic,0,0,60,,If I were reborn, I'd want to be rich.
+Dialogue: 0,0:33:55.03,0:33:58.69,Default,Generic,0,0,60,,I've got a bad spending habit, so this life looks hopeless.
+Dialogue: 0,0:33:59.13,0:34:03.17,Default,Generic,0,0,60,,I'll stack up good deeds so I can be rich in the next life.
+Dialogue: 0,0:34:03.53,0:34:05.39,Default,Generic,0,0,60,,First I want to get through today's daytime show.
+Dialogue: 0,0:34:06.01,0:34:08.23,Default,Generic,0,0,60,,Please take care of me! Yay!
+Dialogue: 0,0:34:09.86,0:34:15.04,Default,Generic,0,0,60,,From Fukuoka, third-year junior high, 14, Team H — Ikuno Rina. Please take care of me.
+Dialogue: 0,0:34:15.70,0:34:16.54,Default,Generic,0,0,60,,Ikuno Rina!
+Dialogue: 0,0:34:21.18,0:34:25.56,Default,Generic,0,0,60,,I had a lot of ideas, but I wanted to be Amiyun.
+Dialogue: 0,0:34:26.28,0:34:31.40,Default,Generic,0,0,60,,She really brightens everyone up, and when I was down she gave me so much energy.
+Dialogue: 0,0:34:31.48,0:34:36.48,Default,Generic,0,0,60,,I want to become that kind of person. Please take care of me today.
+Dialogue: 0,0:34:40.84,0:34:42.14,Default,Generic,0,0,60,,From Fukuoka.
+Dialogue: 0,0:34:42.62,0:34:46.82,Default,Generic,0,0,60,,If I say "kure-kure kure-kure," please answer "Kure Yuna."
+Dialogue: 0,0:34:48.60,0:34:54.42,Default,Generic,0,0,60,,From Fukuoka, 13, 100-yen-shop lover Yuu-chan — kure-kure kure-kure.
+Dialogue: 0,0:34:54.50,0:34:55.90,Default,Crowd,0,0,60,,Kure Yuna!
+Dialogue: 0,0:34:56.60,0:35:00.04,Default,Generic,0,0,60,,I'll give you love — now recruiting oshi! Please take care of me.
+Dialogue: 0,0:35:06.62,0:35:09.72,Default,Generic,0,0,60,,What I'd want to be if I were reborn...
+Dialogue: 0,0:35:10.42,0:35:14.34,Default,Generic,0,0,60,,Just my brain.
+Dialogue: 0,0:35:15.02,0:35:16.60,Default,Generic,0,0,60,,Reborn, and...
+Dialogue: 0,0:35:17.36,0:35:22.80,Default,Generic,0,0,60,,the moment I was born, I'd already be saying "good morning."
+Dialogue: 0,0:35:22.88,0:35:28.54,Default,Generic,0,0,60,,Nice, nice — that's a top-tier character.
+Dialogue: 0,0:35:29.28,0:35:33.62,Default,Generic,0,0,60,,I want to be able to do addition and multiplication from age zero.
+Dialogue: 0,0:35:33.70,0:35:35.94,Default,Generic,0,0,60,,Please take care of me today.
+Dialogue: 0,0:35:36.62,0:35:38.08,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,0:35:40.80,0:35:44.24,Default,Generic,0,0,60,,When I point the mic, please say "Yuka, Yuka, and Yuka."
+Dialogue: 0,0:35:45.02,0:35:48.62,Default,Generic,0,0,60,,Yes — always-cheerful Yuka! This is—
+Dialogue: 0,0:35:48.70,0:35:49.78,Default,Generic,0,0,60,,The floor!
+Dialogue: 0,0:35:49.86,0:35:51.50,Default,Generic,0,0,60,,I'm Yuka.
+Dialogue: 0,0:35:52.22,0:35:52.62,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:35:53.28,0:35:56.86,Default,Generic,0,0,60,,I want to score a goal in everyone's hearts with a ball made of smiles.
+Dialogue: 0,0:35:57.42,0:36:01.82,Default,Generic,0,0,60,,From Fukuoka, second-year junior high, 14 — Eura Yuka. Please take care of me.
+Dialogue: 0,0:36:02.42,0:36:03.04,Default,Generic,0,0,60,,Yuka!
+Dialogue: 0,0:36:05.62,0:36:06.02,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:36:08.16,0:36:13.04,Default,Generic,0,0,60,,What I want to be is a mermaid princess.
+Dialogue: 0,0:36:13.60,0:36:18.00,Default,Generic,0,0,60,,I can only swim 25 meters, so as a mermaid princess, for once...
+Dialogue: 0,0:36:19.56,0:36:22.80,Default,Generic,0,0,60,,I want to swim as much as I like, and if I had a mermaid princess's fin,
+Dialogue: 0,0:36:23.34,0:36:29.18,Default,Generic,0,0,60,,I think even I could swim anywhere fast. I want to try being a mermaid princess.
+Dialogue: 0,0:36:29.26,0:36:30.80,Default,Generic,0,0,60,,Today, please take care of me.
+Dialogue: 0,0:36:37.32,0:36:38.54,Default,Generic,0,0,60,,Rin-rin.
+Dialogue: 0,0:36:40.18,0:36:44.28,Default,Generic,0,0,60,,Little by little, step by step — my charm point is these big sparkly eyes.
+Dialogue: 0,0:36:45.80,0:36:49.04,Default,Generic,0,0,60,,From Hyogo, third-year high school, 17 — Ouchi Rinka.
+Dialogue: 0,0:36:50.55,0:36:51.50,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:36:53.80,0:36:59.50,Default,Generic,0,0,60,,I want to be reborn as a really, really funny Kansai comedian.
+Dialogue: 0,0:36:59.98,0:37:06.26,Default,Generic,0,0,60,,If I get a laugh in the MC I'm thrilled, but if I were a really funny comedian,
+Dialogue: 0,0:37:06.34,0:37:11.24,Default,Generic,0,0,60,,the audience would laugh every time, and I'd feel happy the whole time.
+Dialogue: 0,0:37:11.32,0:37:15.78,Default,Generic,0,0,60,,I'll work to get as funny as those comedians. Please take care of me today.
+Dialogue: 0,0:37:16.40,0:37:16.90,Default,Generic,0,0,60,,Please take care of me!
+Dialogue: 0,0:37:21.30,0:37:22.98,Default,Generic,0,0,60,,I want to wrap your heart up as Kuru-mi!
+Dialogue: 0,0:37:24.62,0:37:27.12,Default,Generic,0,0,60,,Thank you. I'm Kuru-tan — Takemoto Kurumi.
+Dialogue: 0,0:37:34.40,0:37:40.76,Default,Generic,0,0,60,,If I were reborn, I'd still want to be an idol.
+Dialogue: 0,0:37:40.84,0:37:45.48,Default,Generic,0,0,60,,What sparkles about idols is the songs.
+Dialogue: 0,0:37:45.76,0:37:49.52,Default,Generic,0,0,60,,I'm the type who gets really hit by the lyrics.
+Dialogue: 0,0:37:50.62,0:37:54.00,Default,Generic,0,0,60,,But I can't make music. There was something I meant to say...
+Dialogue: 0,0:37:55.38,0:37:56.44,Default,Generic,0,0,60,,Give me a second.
+Dialogue: 0,0:37:56.92,0:38:02.42,Default,Generic,0,0,60,,I'm flustered — I forgot the line. If I were reborn, a talented composer...
+Dialogue: 0,0:38:02.54,0:38:03.54,Default,Generic,0,0,60,,and a lyricist.
+Dialogue: 0,0:38:04.36,0:38:09.46,Default,Generic,0,0,60,,I want my favorite idols to sing the idol songs I love.
+Dialogue: 0,0:38:09.54,0:38:11.20,Default,Generic,0,0,60,,Please take care of me today.
+Dialogue: 0,0:38:15.76,0:38:19.34,Default,Generic,0,0,60,,Team H's Sae-chan — Kurihara Sae.
+Dialogue: 0,0:38:25.06,0:38:27.92,Default,Generic,0,0,60,,Thank you. If I were reborn, a princess, or...
+Dialogue: 0,0:38:28.46,0:38:33.80,Default,Generic,0,0,60,,a carp streamer. Yesterday was...
+Dialogue: 0,0:38:33.88,0:38:38.64,Default,Generic,0,0,60,,Children's Day, and I've been seeing a lot of carp streamers lately.
+Dialogue: 0,0:38:38.72,0:38:41.44,Default,Generic,0,0,60,,A carp streamer, kind of, in the sky,
+Dialogue: 0,0:38:41.52,0:38:46.78,Default,Generic,0,0,60,,swaying...
+Dialogue: 0,0:38:46.86,0:38:50.20,Default,Generic,0,0,60,,swaying, swaying,
+Dialogue: 0,0:38:50.28,0:38:50.92,Default,Generic,0,0,60,,looking so happy.
+Dialogue: 0,0:38:51.00,0:38:53.32,Default,Generic,0,0,60,,That's what I thought — but it rained from last night,
+Dialogue: 0,0:38:53.40,0:38:56.40,Default,Generic,0,0,60,,and this morning when I looked, the carp streamer had gone all limp.
+Dialogue: 0,0:38:56.50,0:39:00.84,Default,Generic,0,0,60,,So only on sunny days I'd be a carp streamer — the rest of the time I want to stay a princess.
+Dialogue: 0,0:39:01.02,0:39:02.20,Default,Generic,0,0,60,,Please look after me today.
+Dialogue: 0,0:39:02.80,0:39:04.96,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,0:39:06.84,0:39:10.62,Default,Generic,0,0,60,,Safety first, health first — everyone's Aichi!
+Dialogue: 0,0:39:10.70,0:39:14.02,Default,Generic,0,0,60,,Thank you. From Kanagawa—
+Dialogue: 0,0:39:14.10,0:39:15.48,Default,Generic,0,0,60,,Aichi — Ichimura Airi.
+Dialogue: 0,0:39:17.82,0:39:21.56,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:39:21.64,0:39:28.12,Default,Generic,0,0,60,,I thought really hard, and I landed on Dad.
+Dialogue: 0,0:39:29.04,0:39:33.50,Default,Generic,0,0,60,,Dad's a great cook, and he's so kind,
+Dialogue: 0,0:39:34.04,0:39:37.86,Default,Generic,0,0,60,,kind enough that I've never once been scolded, but
+Dialogue: 0,0:39:37.94,0:39:41.38,Default,Generic,0,0,60,,I've been a daddy's girl since I was little. I love my dad, so
+Dialogue: 0,0:39:42.34,0:39:47.68,Default,Generic,0,0,60,,a dad who gets adored by a daughter this cute...
+Dialogue: 0,0:39:48.20,0:39:50.00,Default,Generic,0,0,60,,"You're saying that yourself?" "I said it myself."
+Dialogue: 0,0:39:51.02,0:39:55.14,Default,Generic,0,0,60,,But if I became Airi-chan's dad, I'd have to tie Airi-chan's shoelaces, right?
+Dialogue: 0,0:39:56.20,0:39:57.70,Default,Generic,0,0,60,,No way. And her nails...
+Dialogue: 0,0:39:57.78,0:40:03.20,Default,Generic,0,0,60,,Apparently Dad gets down and ties her shoelaces like this.
+Dialogue: 0,0:40:03.28,0:40:04.98,Default,Generic,0,0,60,,Isn't your daughter too much?
+Dialogue: 0,0:40:06.36,0:40:11.48,Default,Generic,0,0,60,,"That's how cute she is." "She's that cute?" "Exactly. Please take care of me today."
+Dialogue: 0,0:40:12.08,0:40:13.96,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,0:40:16.08,0:40:21.88,Default,Generic,0,0,60,,Born on February 9 — Meat Day. Beef tongue, pork tongue, Hina-tan! Thank you.
+Dialogue: 0,0:40:22.38,0:40:28.06,Default,Generic,0,0,60,,From Fukuoka, third-year junior high, 14, Team KIV — Hina. Hina-tan!
+Dialogue: 0,0:40:29.74,0:40:30.08,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,0:40:31.10,0:40:32.78,Default,Generic,0,0,60,,If Hina were reborn...
+Dialogue: 0,0:40:34.12,0:40:37.92,Default,Generic,0,0,60,,it absolutely has to be the SoftBank Hawks.
+Dialogue: 0,0:40:39.06,0:40:40.74,Default,Generic,0,0,60,,A baseball, though.
+Dialogue: 0,0:40:41.90,0:40:47.26,Default,Generic,0,0,60,,They're in pretty good form lately, so I want lots of Hina-tans to become balls
+Dialogue: 0,0:40:47.34,0:40:53.28,Default,Generic,0,0,60,,and run hard until they turn into home runs. A ball isn't supposed to run, right?
+Dialogue: 0,0:40:53.36,0:40:54.32,Default,Generic,0,0,60,,You're not supposed to run!
+Dialogue: 0,0:40:56.80,0:40:57.36,Default,Generic,0,0,60,,Fly a whole lot,
+Dialogue: 0,0:40:58.26,0:40:59.98,Default,Generic,0,0,60,,Let's be carp streamers together!
+Dialogue: 0,0:41:00.06,0:41:06.42,Default,Generic,0,0,60,,Fly a lot, hit home runs, and I want to wish the Hawks a championship.
+Dialogue: 0,0:41:06.80,0:41:08.48,Default,Generic,0,0,60,,Please take care of me today.
+Dialogue: 0,0:41:14.12,0:41:19.22,Default,Generic,0,0,60,,That's the Saka Agari show, from these members. Are you ready to keep it going?
+Dialogue: 0,0:41:21.94,0:41:23.16,Default,Generic,0,0,60,,Not quite enough.
+Dialogue: 0,0:41:23.24,0:41:27.00,Default,Generic,0,0,60,,Golden Week, everyone — are you ready to have the best time?
+Dialogue: 0,0:41:29.22,0:41:29.96,Default,Generic,0,0,60,,This is your chance.
+Dialogue: 0,0:41:30.04,0:41:32.54,Default,Generic,0,0,60,,Then next is this unit. Go ahead.
+
+; ===== post_song_sketch =====
+Dialogue: 0,0:50:13.00,0:50:14.46,Default,Generic,0,0,60,,Amiyu, how old are you?
+Dialogue: 0,0:50:14.72,0:50:16.32,Default,Generic,0,0,60,,I'm thirteen right now.
+Dialogue: 0,0:50:16.40,0:50:18.36,Default,Generic,0,0,60,,I want to stay thirteen.
+Dialogue: 0,0:50:19.00,0:50:20.10,Default,Generic,0,0,60,,That's impossible, right?
+Dialogue: 0,0:50:20.20,0:50:21.62,Default,Generic,0,0,60,,No, no, no — I want to.
+Dialogue: 0,0:50:21.70,0:50:22.96,Default,Generic,0,0,60,,So selfish.
+Dialogue: 0,0:50:23.04,0:50:25.34,Default,Generic,0,0,60,,Huh? "Shining like a shooting star"?
+Dialogue: 0,0:50:25.42,0:50:27.14,Default,Generic,0,0,60,,They said you shine like a shooting star.
+Dialogue: 0,0:50:27.22,0:50:28.10,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,0:50:30.10,0:50:31.16,Default,Generic,0,0,60,,First time we've talked, but...
+Dialogue: 0,0:50:31.24,0:50:33.68,Default,Generic,0,0,60,,what a selfish, high-maintenance senpai.
+
+; ===== mc1 =====
+Dialogue: 0,1:04:45.50,1:04:46.12,Default,Generic,0,0,60,,I was such a beginner I didn't even know where to enter.
+Dialogue: 0,1:04:46.20,1:04:48.45,Default,Generic,0,0,60,,End Roll, Wagamama na Nagareboshi,
+Dialogue: 0,1:04:48.99,1:04:49.77,Default,Generic,0,0,60,,Ai no Iro,
+Dialogue: 0,1:04:49.85,1:04:52.25,Default,Generic,0,0,60,,Dakishimeraretara, Mushi no Ballad.
+Dialogue: 0,1:04:52.33,1:04:54.89,Default,Generic,0,0,60,,Five songs in a row —
+Dialogue: 0,1:04:54.97,1:04:56.61,Default,Generic,0,0,60,,everyone having fun?
+Dialogue: 0,1:04:57.00,1:04:57.97,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,1:04:59.67,1:05:00.07,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,1:05:00.81,1:05:04.19,Default,Generic,0,0,60,,From here we'd like to talk with these members.
+Dialogue: 0,1:05:04.71,1:05:05.43,Default,Generic,0,0,60,,Yes, hello.
+Dialogue: 0,1:05:05.51,1:05:06.29,Default,Generic,0,0,60,,Hello.
+Dialogue: 0,1:05:08.23,1:05:08.63,Default,Generic,0,0,60,,Hello.
+Dialogue: 0,1:05:09.89,1:05:10.85,Default,Generic,0,0,60,,Nice to meet you.
+Dialogue: 0,1:05:10.93,1:05:12.09,Default,Generic,0,0,60,,Nice to meet you.
+Dialogue: 0,1:05:12.17,1:05:12.81,Default,Generic,0,0,60,,Yes.
+Dialogue: 0,1:05:15.73,1:05:17.47,Default,Generic,0,0,60,,Talking with Kure-chan, even
+Dialogue: 0,1:05:17.55,1:05:19.61,Default,Generic,0,0,60,,one second feels long, you know.
+Dialogue: 0,1:05:20.12,1:05:22.76,Default,Generic,0,0,60,,You get pulled into Kure-chan's leisurely pace.
+Dialogue: 0,1:05:23.37,1:05:24.31,Default,Generic,0,0,60,,So, Kure-chan, how was it?
+Dialogue: 0,1:05:24.39,1:05:28.47,Default,Generic,0,0,60,,Ai no Iro is a pretty grown-up song,
+Dialogue: 0,1:05:28.55,1:05:29.09,Default,Generic,0,0,60,,today
+Dialogue: 0,1:05:29.17,1:05:30.95,Default,Generic,0,0,60,,it was hard to express,
+Dialogue: 0,1:05:31.45,1:05:33.91,Default,Generic,0,0,60,,so I studied my face and expressions in the mirror,
+Dialogue: 0,1:05:33.99,1:05:35.79,Default,Generic,0,0,60,,I was studying that, but
+Dialogue: 0,1:05:36.37,1:05:38.23,Default,Generic,0,0,60,,and the heels are pretty high,
+Dialogue: 0,1:05:38.31,1:05:40.77,Default,Generic,0,0,60,,so I felt like I got taller,
+Dialogue: 0,1:05:40.85,1:05:42.05,Default,Generic,0,0,60,,and that made me happy.
+Dialogue: 0,1:05:42.13,1:05:43.31,Default,Generic,0,0,60,,Good for you.
+Dialogue: 0,1:05:43.39,1:05:44.05,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,1:05:44.57,1:05:45.35,Default,Generic,0,0,60,,You worked hard.
+Dialogue: 0,1:05:47.25,1:05:49.19,Default,Generic,0,0,60,,What was Kure-chan's solo part again?
+Dialogue: 0,1:05:49.27,1:05:50.95,Default,Generic,0,0,60,,Looking like she was having fun.
+Dialogue: 0,1:05:51.03,1:05:51.83,Default,Generic,0,0,60,,Right, here.
+Dialogue: 0,1:05:51.91,1:05:53.39,Default,Generic,0,0,60,,With how good the singing is here,
+Dialogue: 0,1:05:53.47,1:05:55.79,Default,Generic,0,0,60,,the gap between Kure-chan and the rest of us humans
+Dialogue: 0,1:05:55.87,1:05:57.09,Default,Generic,0,0,60,,gets shoved in your face.
+Dialogue: 0,1:05:57.17,1:05:58.05,Default,Generic,0,0,60,,I mean,
+Dialogue: 0,1:05:58.13,1:05:59.73,Default,Generic,0,0,60,,I've only got one part, you know.
+Dialogue: 0,1:05:59.90,1:06:01.76,Default,Generic,0,0,60,,I mean, you only get to dance it once.
+Dialogue: 0,1:06:01.84,1:06:04.84,Default,Generic,0,0,60,,That's where the level's different.
+Dialogue: 0,1:06:05.78,1:06:06.18,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,1:06:06.76,1:06:07.68,Default,Generic,0,0,60,,You're really good.
+Dialogue: 0,1:06:08.50,1:06:10.30,Default,Generic,0,0,60,,But Nene-san, today's your first time too, right?
+Dialogue: 0,1:06:10.38,1:06:12.42,Default,Generic,0,0,60,,That's right — it's my first time today too.
+Dialogue: 0,1:06:12.50,1:06:15.22,Default,Generic,0,0,60,,I got to perform Ai no Iro.
+Dialogue: 0,1:06:16.16,1:06:16.56,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,1:06:18.20,1:06:22.78,Default,Generic,0,0,60,,I just could not remember the Ai no Iro choreography.
+Dialogue: 0,1:06:23.24,1:06:26.88,Default,Generic,0,0,60,,For the first time in my life, Kurina taught me the dance.
+Dialogue: 0,1:06:27.58,1:06:27.94,Default,Generic,0,0,60,,Right.
+Dialogue: 0,1:06:28.60,1:06:29.44,Default,Generic,0,0,60,,I worked hard.
+Dialogue: 0,1:06:29.98,1:06:30.86,Default,Generic,0,0,60,,For the first time, yeah.
+Dialogue: 0,1:06:31.10,1:06:32.66,Default,Generic,0,0,60,,Suddenly, from Nene-san,
+Dialogue: 0,1:06:32.74,1:06:33.18,Default,Generic,0,0,60,,um,
+Dialogue: 0,1:06:33.80,1:06:36.56,Default,Generic,0,0,60,,she said, Kuriyama, can you teach me the Ai no Iro dance?
+Dialogue: 0,1:06:37.02,1:06:38.22,Default,Generic,0,0,60,,I was a little unsure too, so
+Dialogue: 0,1:06:38.64,1:06:40.80,Default,Generic,0,0,60,,while I taught her I was peeking at my phone.
+Dialogue: 0,1:06:40.88,1:06:41.24,Default,Generic,0,0,60,,Right.
+Dialogue: 0,1:06:41.71,1:06:45.20,Default,Generic,0,0,60,,She's had this position since day one — well, day two —
+Dialogue: 0,1:06:45.28,1:06:47.72,Default,Generic,0,0,60,,and she was still watching while doing it.
+Dialogue: 0,1:06:47.80,1:06:50.25,Default,Generic,0,0,60,,Sae-chan had only done this spot once or twice,
+Dialogue: 0,1:06:50.33,1:06:55.17,Default,Generic,0,0,60,,and while Kuriyama-chan was teaching me, she called from behind, "Kuriyama-chan, that's wrong."
+Dialogue: 0,1:06:55.51,1:07:00.13,Default,Generic,0,0,60,,Ahhh. She said cut it out, that's wrong,
+Dialogue: 0,1:07:00.21,1:07:02.60,Default,Generic,0,0,60,,and I think Nene-san heard it too.
+Dialogue: 0,1:07:02.68,1:07:03.04,Default,Generic,0,0,60,,Sorry,
+Dialogue: 0,1:07:03.12,1:07:03.91,Default,Generic,0,0,60,,I messed up.
+Dialogue: 0,1:07:03.99,1:07:04.42,Default,Generic,0,0,60,,Please,
+Dialogue: 0,1:07:04.50,1:07:04.93,Default,Generic,0,0,60,,enough.
+Dialogue: 0,1:07:05.01,1:07:06.89,Default,Generic,0,0,60,,But thanks to being taught,
+Dialogue: 0,1:07:06.97,1:07:09.57,Default,Generic,0,0,60,,I think I just barely didn't mess up.
+Dialogue: 0,1:07:09.65,1:07:10.56,Default,Generic,0,0,60,,Thank you.
+Dialogue: 0,1:07:10.64,1:07:11.84,Default,Generic,0,0,60,,And Nene-san,
+Dialogue: 0,1:07:11.92,1:07:14.60,Default,Generic,0,0,60,,even on a first-timer level,
+Dialogue: 0,1:07:14.68,1:07:15.88,Default,Generic,0,0,60,,leaned on me.
+Dialogue: 0,1:07:15.96,1:07:18.74,Default,Generic,0,0,60,,While we waited for the song,
+Dialogue: 0,1:07:18.82,1:07:21.80,Default,Generic,0,0,60,,the center solo is pretty long,
+Dialogue: 0,1:07:21.88,1:07:22.39,Default,Generic,0,0,60,,right?
+Dialogue: 0,1:07:22.47,1:07:23.67,Default,Generic,0,0,60,,In rehearsal,
+Dialogue: 0,1:07:23.75,1:07:24.85,Default,Generic,0,0,60,,just a bit —
+Dialogue: 0,1:07:24.93,1:07:27.16,Default,Generic,0,0,60,,Nene-san's lyrics got fuzzy.
+Dialogue: 0,1:07:27.24,1:07:30.13,Default,Generic,0,0,60,,So right before we went on she said,
+Dialogue: 0,1:07:30.21,1:07:31.12,Default,Generic,0,0,60,,if I forget,
+Dialogue: 0,1:07:31.20,1:07:32.43,Default,Generic,0,0,60,,sing it for me.
+Dialogue: 0,1:07:32.89,1:07:34.55,Default,Generic,0,0,60,,My trust level might have gone up.
+Dialogue: 0,1:07:37.82,1:07:39.74,Default,Generic,0,0,60,,She says it to me a lot.
+Dialogue: 0,1:07:39.82,1:07:44.48,Default,Generic,0,0,60,,On this other show there's a solo song called First Star,
+Dialogue: 0,1:07:44.56,1:07:46.48,Default,Generic,0,0,60,,and I have a part in it.
+Dialogue: 0,1:07:46.56,1:07:48.94,Default,Generic,0,0,60,,Even if Nene-san can't go on,
+Dialogue: 0,1:07:49.02,1:07:51.15,Default,Generic,0,0,60,,I always say I'll sing it.
+Dialogue: 0,1:07:51.23,1:07:51.91,Default,Generic,0,0,60,,If I try,
+Dialogue: 0,1:07:51.99,1:07:53.02,Default,Generic,0,0,60,,I really can.
+Dialogue: 0,1:07:53.10,1:07:55.58,Default,Generic,0,0,60,,Basically, that's what I think.
+Dialogue: 0,1:07:56.16,1:07:57.86,Default,Generic,0,0,60,,But she can come in.
+Dialogue: 0,1:07:57.94,1:08:01.07,Default,Generic,0,0,60,,So I learned that part just in case,
+Dialogue: 0,1:08:01.15,1:08:04.36,Default,Generic,0,0,60,,and at a young-members concert test,
+Dialogue: 0,1:08:05.60,1:08:11.11,Default,Generic,0,0,60,,only the person who placed first got to sing that solo.
+Dialogue: 0,1:08:11.19,1:08:13.04,Default,Generic,0,0,60,,In rehearsal I kept
+Dialogue: 0,1:08:13.12,1:08:17.24,Default,Generic,0,0,60,,joking to everyone, I'll sing this part — and then I really had to.
+Dialogue: 0,1:08:19.06,1:08:23.84,Default,Generic,0,0,60,,I was first, yeah. So you really should practice.
+Dialogue: 0,1:08:23.92,1:08:25.88,Default,Generic,0,0,60,,Koko-ppe's on a new position too.
+Dialogue: 0,1:08:25.96,1:08:27.20,Default,Generic,0,0,60,,Oh, right — End Roll.
+Dialogue: 0,1:08:27.66,1:08:28.80,Default,Generic,0,0,60,,Indeed.
+Dialogue: 0,1:08:30.86,1:08:31.23,Default,Generic,0,0,60,,Yeah.
+Dialogue: 0,1:08:31.31,1:08:36.23,Default,Generic,0,0,60,,On the hanamichi there's that bit where you free-dance,
+Dialogue: 0,1:08:36.31,1:08:39.58,Default,Generic,0,0,60,,and watching Karen-ren and Nene-san,
+Dialogue: 0,1:08:41.42,1:08:42.28,Default,Generic,0,0,60,,I got called out for copying.
+Dialogue: 0,1:08:46.16,1:08:47.78,Default,Generic,0,0,60,,But I copied Karen-ren too.
+Dialogue: 0,1:08:50.68,1:08:52.70,Default,Generic,0,0,60,,Karen-ren always uses the wall.
+Dialogue: 0,1:08:53.26,1:08:54.64,Default,Generic,0,0,60,,She uses the wall, so I copied it.
+Dialogue: 0,1:08:54.72,1:08:55.44,Default,Generic,0,0,60,,I copied it too.
+Dialogue: 0,1:08:57.62,1:08:58.10,Default,Generic,0,0,60,,Amazing.
+Dialogue: 0,1:08:59.08,1:09:04.56,Default,Generic,0,0,60,,Every time I get put on End Roll I feel this despair.
+Dialogue: 0,1:09:04.64,1:09:10.22,Default,Generic,0,0,60,,I mean, you wouldn't think I'd be on End Roll on opening day.
+Dialogue: 0,1:09:10.30,1:09:10.96,Default,Generic,0,0,60,,Yes.
+Dialogue: 0,1:09:13.32,1:09:15.00,Default,Generic,0,0,60,,Nobody answered, though.
+Dialogue: 0,1:09:15.08,1:09:16.60,Default,Generic,0,0,60,,It's kind of bad if nobody does, right?
+Dialogue: 0,1:09:17.32,1:09:19.16,Default,Generic,0,0,60,,If you don't answer, the talk can't move on.
+Dialogue: 0,1:09:19.66,1:09:21.68,Default,Generic,0,0,60,,Nene-san didn't even go "hmm" just now.
+Dialogue: 0,1:09:22.86,1:09:23.64,Default,Generic,0,0,60,,That's a lie.
+Dialogue: 0,1:09:23.72,1:09:24.32,Default,Generic,0,0,60,,Really.
+Dialogue: 0,1:09:24.40,1:09:25.82,Default,Generic,0,0,60,,Come on, give me an "mm" — an "mm"!
+Dialogue: 0,1:09:26.90,1:09:30.42,Default,Generic,0,0,60,,I feel that despair, so I thought I'd copy it, but
+Dialogue: 0,1:09:30.50,1:09:33.06,Default,Generic,0,0,60,,I'm not in the front position, so I don't go to the wall,
+Dialogue: 0,1:09:33.96,1:09:35.44,Default,Generic,0,0,60,,and I never get to touch the wall.
+Dialogue: 0,1:09:36.62,1:09:38.22,Default,Generic,0,0,60,,Someday, when I get promoted.
+Dialogue: 0,1:09:38.30,1:09:40.60,Default,Generic,0,0,60,,Right. I'll work on the dance.
+Dialogue: 0,1:09:41.36,1:09:43.58,Default,Generic,0,0,60,,Let's all use the wall together.
+Dialogue: 0,1:09:44.66,1:09:46.86,Default,Generic,0,0,60,,There's still a second half, everyone,
+Dialogue: 0,1:09:46.94,1:09:49.04,Default,Generic,0,0,60,,can you still make some noise?
+Dialogue: 0,1:09:52.12,1:09:54.04,Default,Generic,0,0,60,,Can you give more, more?
+Dialogue: 0,1:09:55.75,1:09:58.55,Default,Generic,0,0,60,,My throat broke over the Golden Week break —
+Dialogue: 0,1:09:58.63,1:10:02.03,Default,Generic,0,0,60,,bad enough that if I told the company, they'd forgive me.
+Dialogue: 0,1:10:02.49,1:10:04.37,Default,Generic,0,0,60,,I didn't understand a single word of that.
+Dialogue: 0,1:10:04.45,1:10:09.25,Default,Generic,0,0,60,,Anyway, everyone, let's get loud and enjoy it together.
+Dialogue: 0,1:10:09.33,1:10:10.71,Default,Generic,0,0,60,,Next up, over here.
+Dialogue: 0,1:10:14.63,1:10:16.39,Default,Generic,0,0,60,,Shibui, focus, please.
+Dialogue: 0,1:10:16.81,1:10:17.67,Default,Generic,0,0,60,,Yes, sorry.
+Dialogue: 0,1:10:21.03,1:10:22.75,Default,Generic,0,0,60,,Kuriyama, could you take it?
+Dialogue: 0,1:10:22.83,1:10:23.75,Default,Generic,0,0,60,,Leave it to me.
+Dialogue: 0,1:10:24.54,1:10:27.68,Default,Generic,0,0,60,,The second half is this song. Here we go.
+
+; ===== mc2a =====
+Dialogue: 0,1:24:42.00,1:24:47.84,Default,Generic,0,0,60,,Furishite Maneshite, Umi wo Watare!, and Machikado no Party — three songs in a row. Everybody fired up?
+Dialogue: 0,1:24:51.00,1:24:55.00,Default,Generic,0,0,60,,Thanks. Today is Kure-chan's first time out — how was it?
+Dialogue: 0,1:24:56.22,1:24:59.92,Default,Generic,0,0,60,,At first I was nervous the whole time,
+Dialogue: 0,1:25:00.00,1:25:05.10,Default,Generic,0,0,60,,but the senpai and my 7th-gen mates all met my eyes,
+Dialogue: 0,1:25:05.18,1:25:11.13,Default,Generic,0,0,60,,and before the show they said "do your best," so the nerves melted.
+Dialogue: 0,1:25:11.21,1:25:12.02,Default,Generic,0,0,60,,I'm glad.
+Dialogue: 0,1:25:15.70,1:25:18.90,Default,Generic,0,0,60,,Your voice is settling in, huh? Hehe.
+Dialogue: 0,1:25:20.36,1:25:24.42,Default,Generic,0,0,60,,Yeah, it's really fun. Super fun.
+Dialogue: 0,1:25:26.86,1:25:30.88,Default,Generic,0,0,60,,It's nice we get to talk in the MC too.
+Dialogue: 0,1:25:30.96,1:25:33.82,Default,Generic,0,0,60,,My impression of Kure-chan —
+Dialogue: 0,1:25:33.90,1:25:35.58,Default,Generic,0,0,60,,on social media,
+Dialogue: 0,1:25:36.50,1:25:39.72,Default,Generic,0,0,60,,When the 7th-gen posts started showing up,
+Dialogue: 0,1:25:39.80,1:25:46.00,Default,Generic,0,0,60,,one girl opened with "thank you for always taking care of me." It was Kure-chan.
+Dialogue: 0,1:25:46.08,1:25:47.33,Default,Generic,0,0,60,,A kid that small,
+Dialogue: 0,1:25:47.41,1:25:49.06,Default,Generic,0,0,60,,using words like that?
+Dialogue: 0,1:25:49.14,1:25:52.64,Default,Generic,0,0,60,,I wondered if she had a ghostwriter —
+Dialogue: 0,1:25:52.72,1:25:56.10,Default,Generic,0,0,60,,but you were writing them yourself?
+Dialogue: 0,1:25:56.44,1:26:02.56,Default,Generic,0,0,60,,So you're smart? Then you're smarter than Hina-tan, huh.
+Dialogue: 0,1:26:04.60,1:26:08.32,Default,Generic,0,0,60,,Ahahaha!
+Dialogue: 0,1:26:08.40,1:26:09.48,Default,Generic,0,0,60,,That one spread a little.
+Dialogue: 0,1:26:09.56,1:26:10.08,Default,Generic,0,0,60,,Then Hina's the smarter one, right?
+Dialogue: 0,1:26:10.16,1:26:12.22,Default,Generic,0,0,60,,Age has nothing to do with it.
+Dialogue: 0,1:26:12.30,1:26:16.92,Default,Generic,0,0,60,,What was it again, just now?
+Dialogue: 0,1:26:17.00,1:26:18.62,Default,Generic,0,0,60,,Oh no, I forgot the story.
+Dialogue: 0,1:26:18.98,1:26:23.62,Default,Generic,0,0,60,,Hina didn't know "thank you for always taking care of me," and at first she was like, what is that?
+Dialogue: 0,1:26:23.70,1:26:25.18,Default,Generic,0,0,60,,Whoa — that's bad.
+Dialogue: 0,1:26:25.26,1:26:29.38,Default,Generic,0,0,60,,Are you actually using it?
+Dialogue: 0,1:26:29.46,1:26:32.50,Default,Generic,0,0,60,,Maybe we shouldn't ask any further.
+Dialogue: 0,1:26:33.00,1:26:35.36,Default,Generic,0,0,60,,Might be risky.
+Dialogue: 0,1:26:35.44,1:26:37.10,Default,Generic,0,0,60,,Sorry, sorry.
+Dialogue: 0,1:26:37.18,1:26:39.80,Default,Generic,0,0,60,,I haven't seen that line lately, so...
+Dialogue: 0,1:26:40.30,1:26:40.82,Default,Generic,0,0,60,,True.
+Dialogue: 0,1:26:40.90,1:26:41.25,Default,Generic,0,0,60,,Yeah,
+Dialogue: 0,1:26:41.33,1:26:47.60,Default,Generic,0,0,60,,I want to use "thank you for always taking care of me" in a lot of places.
+Dialogue: 0,1:26:47.68,1:26:51.28,Default,Generic,0,0,60,,I want to use it.
+Dialogue: 0,1:26:51.36,1:26:53.28,Default,Generic,0,0,60,,That's proper polite speech, sensei.
+Dialogue: 0,1:26:53.36,1:26:56.12,Default,Generic,0,0,60,,As expected, sensei.
+Dialogue: 0,1:26:57.06,1:26:57.70,Default,Generic,0,0,60,,Amazing.
+Dialogue: 0,1:26:57.78,1:26:59.26,Default,Generic,0,0,60,,You're smarter than Hina-tan after all.
+Dialogue: 0,1:27:00.34,1:27:01.92,Default,Generic,0,0,60,,You're already switching them up.
+Dialogue: 0,1:27:02.00,1:27:04.32,Default,Generic,0,0,60,,From here on. Everyone else might start using it too.
+Dialogue: 0,1:27:04.40,1:27:05.00,Default,Generic,0,0,60,,We'll watch you grow.
+Dialogue: 0,1:27:05.86,1:27:06.76,Default,Generic,0,0,60,,So, me, next —
+Dialogue: 0,1:27:06.84,1:27:08.76,Default,Generic,0,0,60,,this month, maybe?
+Dialogue: 0,1:27:09.06,1:27:11.56,Default,Generic,0,0,60,,Around 6pm on Showroom,
+Dialogue: 0,1:27:11.64,1:27:13.66,Default,Generic,0,0,60,,the 7th-gen show started, right?
+Dialogue: 0,1:27:13.74,1:27:14.12,Default,Generic,0,0,60,,Right.
+Dialogue: 0,1:27:14.20,1:27:17.22,Default,Generic,0,0,60,,I ended up hosting episode two,
+Dialogue: 0,1:27:18.14,1:27:18.50,Default,Generic,0,0,60,,but
+Dialogue: 0,1:27:19.24,1:27:21.94,Default,Generic,0,0,60,,the members are Tsutsumi-chan and Kure-chan.
+Dialogue: 0,1:27:22.02,1:27:22.38,Default,Generic,0,0,60,,Oh.
+Dialogue: 0,1:27:22.46,1:27:25.06,Default,Generic,0,0,60,,Today's the first show we've done together,
+Dialogue: 0,1:27:25.14,1:27:27.74,Default,Generic,0,0,60,,and I still don't know much about Kure-chan,
+Dialogue: 0,1:27:28.14,1:27:29.78,Default,Generic,0,0,60,,so I wanted to ask a few things.
+Dialogue: 0,1:27:29.86,1:27:30.32,Default,Generic,0,0,60,,Nice, nice.
+Dialogue: 0,1:27:31.10,1:27:33.76,Default,Generic,0,0,60,,First: what's your favorite food?
+Dialogue: 0,1:27:34.24,1:27:35.52,Default,Generic,0,0,60,,Favorite food...
+Dialogue: 0,1:27:36.02,1:27:37.28,Default,Generic,0,0,60,,Sour things,
+Dialogue: 0,1:27:37.86,1:27:39.72,Default,Generic,0,0,60,,and I love yakiniku.
+Dialogue: 0,1:27:40.52,1:27:41.52,Default,Generic,0,0,60,,Amiyun?
+Dialogue: 0,1:27:41.82,1:27:43.20,Default,Generic,0,0,60,,For me, cherries and
+Dialogue: 0,1:27:43.28,1:27:44.16,Default,Generic,0,0,60,,omurice.
+Dialogue: 0,1:27:44.24,1:27:45.76,Default,Generic,0,0,60,,Cute.
+Dialogue: 0,1:27:45.84,1:27:47.14,Default,Generic,0,0,60,,So idol.
+Dialogue: 0,1:27:48.52,1:27:51.12,Default,Generic,0,0,60,,And Kuriyama, your favorite food?
+Dialogue: 0,1:27:51.28,1:27:52.00,Default,Generic,0,0,60,,Natto over rice.
+Dialogue: 0,1:27:54.56,1:27:56.08,Default,Generic,0,0,60,,That's the most delicious, you know.
+Dialogue: 0,1:27:56.16,1:27:57.02,Default,Generic,0,0,60,,I've been into it lately.
+Dialogue: 0,1:27:57.10,1:27:58.22,Default,Generic,0,0,60,,Very healthy.
+Dialogue: 0,1:28:01.04,1:28:01.66,Default,Generic,0,0,60,,Nice.
+Dialogue: 0,1:28:02.54,1:28:03.72,Default,Generic,0,0,60,,So this one, probably
+Dialogue: 0,1:28:03.80,1:28:06.24,Default,Generic,0,0,60,,every 7th gen who's been on this show
+Dialogue: 0,1:28:06.32,1:28:07.48,Default,Generic,0,0,60,,has been asked, but
+Dialogue: 0,1:28:07.56,1:28:11.78,Default,Generic,0,0,60,,who's your favorite — the senpai you respect most?
+Dialogue: 0,1:28:13.24,1:28:18.00,Default,Generic,0,0,60,,That would be Ikuno Rina, who I've looked up to from the start.
+Dialogue: 0,1:28:19.20,1:28:23.30,Default,Generic,0,0,60,,Wow.
+Dialogue: 0,1:28:23.38,1:28:27.54,Default,Generic,0,0,60,,You've been saying that forever, and I was looking forward to today the whole time too.
+Dialogue: 0,1:28:28.86,1:28:29.98,Default,Generic,0,0,60,,Interacting?
+Dialogue: 0,1:28:30.58,1:28:31.46,Default,Generic,0,0,60,,Any interactions so far?
+Dialogue: 0,1:28:31.54,1:28:33.00,Default,Generic,0,0,60,,Not many interactions.
+Dialogue: 0,1:28:33.08,1:28:33.43,Default,Generic,0,0,60,,Not many?
+Dialogue: 0,1:28:33.51,1:28:34.98,Default,Generic,0,0,60,,You should tell her.
+Dialogue: 0,1:28:35.06,1:28:38.42,Default,Generic,0,0,60,,But we got to interact just now in Machikado no Party,
+Dialogue: 0,1:28:38.50,1:28:40.18,Default,Generic,0,0,60,,so I was really happy.
+Dialogue: 0,1:28:40.26,1:28:41.18,Default,Generic,0,0,60,,Aww, cute.
+Dialogue: 0,1:28:41.26,1:28:42.02,Default,Generic,0,0,60,,What?
+Dialogue: 0,1:28:42.42,1:28:43.02,Default,Generic,0,0,60,,Cute.
+Dialogue: 0,1:28:43.10,1:28:45.06,Default,Generic,0,0,60,,Good — but that Machikado no Party...
+Dialogue: 0,1:28:45.14,1:28:45.86,Default,Generic,0,0,60,,I was there too.
+Dialogue: 0,1:28:47.60,1:28:48.00,Default,Generic,0,0,60,,Huh?
+Dialogue: 0,1:28:49.58,1:28:50.92,Default,Generic,0,0,60,,I was really happy.
+Dialogue: 0,1:28:51.00,1:28:53.46,Default,Generic,0,0,60,,Sorry — forgive me, we share the name Rina.
+Dialogue: 0,1:28:54.34,1:28:55.12,Default,Generic,0,0,60,,Right.
+Dialogue: 0,1:28:56.38,1:28:57.42,Default,Generic,0,0,60,,Perfect timing.
+Dialogue: 0,1:28:57.50,1:28:59.54,Default,Generic,0,0,60,,But Ikuno-chan is really popular, huh.
+Dialogue: 0,1:28:59.62,1:29:00.32,Default,Generic,0,0,60,,Yeah.
+Dialogue: 0,1:29:00.96,1:29:03.50,Default,Generic,0,0,60,,I was with Amiyun the whole time today too.
+Dialogue: 0,1:29:03.58,1:29:04.68,Default,Generic,0,0,60,,Together.
+Dialogue: 0,1:29:04.76,1:29:05.10,Default,Generic,0,0,60,,You're close?
+Dialogue: 0,1:29:05.46,1:29:06.16,Default,Generic,0,0,60,,We are.
+Dialogue: 0,1:29:06.58,1:29:09.46,Default,Generic,0,0,60,,Amiyun respects Ikuno too.
+Dialogue: 0,1:29:10.42,1:29:11.02,Default,Generic,0,0,60,,Too fast.
+Dialogue: 0,1:29:12.00,1:29:14.78,Default,Generic,0,0,60,,Amiyun's is Yanase Reia-san.
+Dialogue: 0,1:29:14.86,1:29:15.92,Default,Generic,0,0,60,,Oh, right, right.
+Dialogue: 0,1:29:16.00,1:29:17.24,Default,Generic,0,0,60,,We don't even have to ask.
+Dialogue: 0,1:29:17.32,1:29:18.94,Default,Generic,0,0,60,,She's always going Reia-san, Reia-san.
+Dialogue: 0,1:29:19.02,1:29:20.12,Default,Generic,0,0,60,,Yeah, she does say that.
+Dialogue: 0,1:29:22.64,1:29:24.76,Default,Generic,0,0,60,,Hey, is there a senpai anyone calls Rina-san?
+Dialogue: 0,1:29:26.26,1:29:28.40,Default,Generic,0,0,60,,Among the 7th gen, anyone saying Kurina-san?
+Dialogue: 0,1:29:29.04,1:29:30.28,Default,Generic,0,0,60,,I do like Kurina-san, though.
+Dialogue: 0,1:29:30.36,1:29:33.08,Default,Generic,0,0,60,,I wanted to stop making the 7th gen feel they have to walk on eggshells.
+Dialogue: 0,1:29:37.88,1:29:39.94,Default,Generic,0,0,60,,But the only one I've got is Koko-ppe.
+Dialogue: 0,1:29:40.96,1:29:41.64,Default,Generic,0,0,60,,Eh?
+Dialogue: 0,1:29:41.72,1:29:43.00,Default,Generic,0,0,60,,Eh, Koko-ppe?
+Dialogue: 0,1:29:43.08,1:29:46.56,Default,Generic,0,0,60,,Koko-ppe's grown a bit too.
+Dialogue: 0,1:29:46.64,1:29:48.42,Default,Generic,0,0,60,,She was the one and only Koko-ppe.
+Dialogue: 0,1:29:48.50,1:29:49.72,Default,Generic,0,0,60,,She's getting more grown-up.
+Dialogue: 0,1:29:49.80,1:29:51.16,Default,Generic,0,0,60,,The way you think changes, too.
+Dialogue: 0,1:29:51.24,1:29:52.40,Default,Generic,0,0,60,,I'm already on Team Kurina.
+Dialogue: 0,1:29:53.60,1:29:54.56,Default,Generic,0,0,60,,Wow.
+Dialogue: 0,1:29:55.50,1:29:55.85,Default,Generic,0,0,60,,Good.
+Dialogue: 0,1:29:55.93,1:29:56.90,Default,Generic,0,0,60,,Let's get along.
+Dialogue: 0,1:29:57.43,1:29:58.55,Default,Generic,0,0,60,,Keep looking after me.
+Dialogue: 0,1:29:58.63,1:29:58.95,Default,Generic,0,0,60,,Please.
+Dialogue: 0,1:29:59.71,1:30:01.27,Default,Generic,0,0,60,,Watch out for being a clingy one.
+Dialogue: 0,1:30:03.53,1:30:04.17,Default,Generic,0,0,60,,So, with that,
+Dialogue: 0,1:30:04.25,1:30:05.77,Default,Generic,0,0,60,,let's move on to the second-half group.
+Dialogue: 0,1:30:05.85,1:30:06.49,Default,Generic,0,0,60,,Go ahead.
+
+; ===== mc2b =====
+Dialogue: 0,1:30:08.21,1:30:09.45,Default,Generic,0,0,60,,Yay!
+Dialogue: 0,1:30:13.00,1:30:14.04,Default,Generic,0,0,60,,Yay, yay, yay!
+Dialogue: 0,1:30:14.12,1:30:15.42,Default,Generic,0,0,60,,Mic check, please. Mics.
+Dialogue: 0,1:30:15.50,1:30:16.74,Default,Generic,0,0,60,,1, 2, 3, 4, 5, 6, 7, 8.
+Dialogue: 0,1:30:16.82,1:30:17.36,Default,Generic,0,0,60,,Is it on?
+Dialogue: 0,1:30:17.84,1:30:18.80,Default,Generic,0,0,60,,Nine people?
+Dialogue: 0,1:30:18.92,1:30:19.68,Default,Generic,0,0,60,,Huh? Who?
+Dialogue: 0,1:30:19.96,1:30:21.48,Default,Generic,0,0,60,,Nene-san, is your mic on?
+Dialogue: 0,1:30:21.68,1:30:23.46,Default,Generic,0,0,60,,It's on, but...
+Dialogue: 0,1:30:24.44,1:30:25.72,Default,Generic,0,0,60,,1, 2, 3, 4, 5, 6, 7.
+Dialogue: 0,1:30:25.80,1:30:27.36,Default,Generic,0,0,60,,Sorry about that.
+Dialogue: 0,1:30:29.22,1:30:30.06,Default,Generic,0,0,60,,Hey now.
+Dialogue: 0,1:30:30.76,1:30:31.50,Default,Generic,0,0,60,,Sorry.
+Dialogue: 0,1:30:31.58,1:30:31.96,Default,Generic,0,0,60,,Wait.
+Dialogue: 0,1:30:32.52,1:30:33.50,Default,Generic,0,0,60,,That was the worst.
+Dialogue: 0,1:30:33.58,1:30:33.94,Default,Generic,0,0,60,,And also,
+Dialogue: 0,1:30:34.02,1:30:39.32,Default,Generic,0,0,60,,by the way, I've done the Team H under slot too.
+Dialogue: 0,1:30:39.40,1:30:41.90,Default,Generic,0,0,60,,It's a thing, right?
+Dialogue: 0,1:30:41.98,1:30:42.54,Default,Generic,0,0,60,,No, but
+Dialogue: 0,1:30:42.62,1:30:43.36,Default,Generic,0,0,60,,it's rare.
+Dialogue: 0,1:30:43.48,1:30:44.70,Default,Generic,0,0,60,,The worst one, I thought,
+Dialogue: 0,1:30:44.78,1:30:45.72,Default,Generic,0,0,60,,was Nene-san
+Dialogue: 0,1:30:45.80,1:30:48.26,Default,Generic,0,0,60,,trying to pin it on Shibui.
+Dialogue: 0,1:30:49.40,1:30:50.12,Default,Generic,0,0,60,,No, that's not it.
+Dialogue: 0,1:30:50.20,1:30:51.62,Default,Generic,0,0,60,,Listen, Nene-san.
+Dialogue: 0,1:30:51.70,1:30:54.12,Default,Generic,0,0,60,,I think I'm pretty rare, you know.
+Dialogue: 0,1:30:54.20,1:30:55.44,Default,Generic,0,0,60,,Like this.
+Dialogue: 0,1:30:55.52,1:30:57.88,Default,Generic,0,0,60,,Today, next to me, she kept talking the whole time.
+Dialogue: 0,1:30:57.96,1:30:58.76,Default,Generic,0,0,60,,Our changing spots are next to each other.
+Dialogue: 0,1:30:58.84,1:30:59.96,Default,Generic,0,0,60,,When I messed up,
+Dialogue: 0,1:31:00.04,1:31:02.36,Default,Generic,0,0,60,,"who messed up, I wonder?"
+Dialogue: 0,1:31:02.90,1:31:05.64,Default,Generic,0,0,60,,"Would Nene-san really make a mistake like that?"
+Dialogue: 0,1:31:05.72,1:31:07.18,Default,Generic,0,0,60,,She kept saying that, so
+Dialogue: 0,1:31:07.26,1:31:09.30,Default,Generic,0,0,60,,I said I'll go on for the rest instead of Shibui.
+Dialogue: 0,1:31:09.40,1:31:10.06,Default,Generic,0,0,60,,That's what I told her.
+Dialogue: 0,1:31:10.14,1:31:11.48,Default,Generic,0,0,60,,You can't say that.
+Dialogue: 0,1:31:11.56,1:31:12.08,Default,Generic,0,0,60,,What?
+Dialogue: 0,1:31:12.42,1:31:13.26,Default,Generic,0,0,60,,Which of you?
+Dialogue: 0,1:31:13.96,1:31:15.76,Default,Generic,0,0,60,,And we might actually fool everyone.
+Dialogue: 0,1:31:15.84,1:31:16.36,Default,Generic,0,0,60,,True.
+Dialogue: 0,1:31:17.44,1:31:19.12,Default,Generic,0,0,60,,I'd make them put me on.
+Dialogue: 0,1:31:19.20,1:31:20.24,Default,Generic,0,0,60,,The other side is really pitiful.
+Dialogue: 0,1:31:20.32,1:31:21.46,Default,Generic,0,0,60,,Because she won't go on.
+Dialogue: 0,1:31:22.56,1:31:22.94,Default,Generic,0,0,60,,She won't go on.
+Dialogue: 0,1:31:24.84,1:31:26.16,Default,Generic,0,0,60,,There's a Nene-san story.
+Dialogue: 0,1:31:26.24,1:31:26.59,Default,Generic,0,0,60,,Oh, Rara-pa.
+Dialogue: 0,1:31:26.67,1:31:27.36,Default,Generic,0,0,60,,So, what is it?
+Dialogue: 0,1:31:27.56,1:31:30.46,Default,Generic,0,0,60,,That thing of mine.
+Dialogue: 0,1:31:30.54,1:31:31.56,Default,Generic,0,0,60,,Oh, was that it?
+Dialogue: 0,1:31:31.64,1:31:32.54,Default,Generic,0,0,60,,The 7th-gen room, right.
+Dialogue: 0,1:31:32.62,1:31:33.06,Default,Generic,0,0,60,,In the 7th-gen room,
+Dialogue: 0,1:31:33.14,1:31:35.70,Default,Generic,0,0,60,,I was with Eura and Nene-san.
+Dialogue: 0,1:31:36.10,1:31:39.32,Default,Generic,0,0,60,,In the dressing room I'd never talked to Nene-san.
+Dialogue: 0,1:31:39.40,1:31:40.32,Default,Generic,0,0,60,,That's right.
+Dialogue: 0,1:31:40.40,1:31:43.06,Default,Generic,0,0,60,,So she talked to me.
+Dialogue: 0,1:31:43.52,1:31:46.24,Default,Generic,0,0,60,,She asked what I like.
+Dialogue: 0,1:31:46.68,1:31:49.06,Default,Generic,0,0,60,,I like cheese, so I said cheese.
+Dialogue: 0,1:31:49.14,1:31:49.82,Default,Generic,0,0,60,,I was doing that, but
+Dialogue: 0,1:31:50.28,1:31:52.46,Default,Generic,0,0,60,,I can't really talk,
+Dialogue: 0,1:31:52.54,1:31:54.34,Default,Generic,0,0,60,,and I burn out right away.
+Dialogue: 0,1:31:54.88,1:31:55.54,Default,Generic,0,0,60,,Burn out.
+Dialogue: 0,1:31:56.06,1:31:57.70,Default,Generic,0,0,60,,The steam runs out immediately.
+Dialogue: 0,1:31:57.78,1:31:59.72,Default,Generic,0,0,60,,So Eura, next to me,
+Dialogue: 0,1:31:59.80,1:32:01.80,Default,Generic,0,0,60,,said no, you have to keep talking from here.
+Dialogue: 0,1:32:03.50,1:32:04.22,Default,Generic,0,0,60,,Amazing, amazing.
+Dialogue: 0,1:32:04.98,1:32:05.68,Default,Generic,0,0,60,,Communication.
+Dialogue: 0,1:32:05.92,1:32:06.78,Default,Generic,0,0,60,,So good.
+Dialogue: 0,1:32:06.86,1:32:10.98,Default,Generic,0,0,60,,Rara really puts on a cute act in front of senpai.
+Dialogue: 0,1:32:11.06,1:32:12.66,Default,Generic,0,0,60,,That's so true. That's so true.
+Dialogue: 0,1:32:12.74,1:32:13.24,Default,Generic,0,0,60,,Is that so?
+Dialogue: 0,1:32:14.32,1:32:15.44,Default,Generic,0,0,60,,That's not calm at all.
+Dialogue: 0,1:32:16.64,1:32:17.64,Default,Generic,0,0,60,,Is that really true?
+Dialogue: 0,1:32:17.72,1:32:21.30,Default,Generic,0,0,60,,Yeah. In the 7th-gen dressing room
+Dialogue: 0,1:32:21.38,1:32:24.32,Default,Generic,0,0,60,,she talks nonstop, loud as anything.
+Dialogue: 0,1:32:24.70,1:32:26.34,Default,Generic,0,0,60,,Probably louder than Shibui.
+Dialogue: 0,1:32:26.42,1:32:28.04,Default,Generic,0,0,60,,Pretty much.
+Dialogue: 0,1:32:28.12,1:32:29.16,Default,Generic,0,0,60,,There's someone like that?
+Dialogue: 0,1:32:30.74,1:32:31.50,Default,Generic,0,0,60,,But — right, right.
+Dialogue: 0,1:32:31.58,1:32:32.28,Default,Generic,0,0,60,,Maybe I can go too?
+Dialogue: 0,1:32:32.36,1:32:34.14,Default,Generic,0,0,60,,I've got a Rara-pa story, though.
+Dialogue: 0,1:32:34.22,1:32:36.72,Default,Generic,0,0,60,,Well, recently — three months ago, even —
+Dialogue: 0,1:32:36.80,1:32:37.78,Default,Generic,0,0,60,,it was my birthday.
+Dialogue: 0,1:32:38.24,1:32:42.50,Default,Generic,0,0,60,,And on my birthday a LINE popped in, one message.
+Dialogue: 0,1:32:42.58,1:32:45.00,Default,Generic,0,0,60,,I wondered who, and it was an icon I'd never seen.
+Dialogue: 0,1:32:45.08,1:32:46.82,Default,Generic,0,0,60,,Who is this, I thought,
+Dialogue: 0,1:32:46.90,1:32:49.52,Default,Generic,0,0,60,,and Rara-pa had gone and added me as a friend
+Dialogue: 0,1:32:49.60,1:32:52.80,Default,Generic,0,0,60,,and sent "happy birthday."
+Dialogue: 0,1:32:52.88,1:32:54.60,Default,Generic,0,0,60,,That's unusual, right?
+Dialogue: 0,1:32:54.68,1:32:56.22,Default,Generic,0,0,60,,I'm not really someone who gets told that,
+Dialogue: 0,1:32:56.30,1:32:59.76,Default,Generic,0,0,60,,and I didn't even think of myself as a senpai,
+Dialogue: 0,1:33:00.30,1:33:02.00,Default,Generic,0,0,60,,so for Rara-pa to send that
+Dialogue: 0,1:33:03.00,1:33:04.60,Default,Generic,0,0,60,,I was really happy.
+Dialogue: 0,1:33:04.68,1:33:05.75,Default,Generic,0,0,60,,But Rara-pa —
+Dialogue: 0,1:33:05.83,1:33:07.26,Default,Generic,0,0,60,,sorry to say it —
+Dialogue: 0,1:33:07.34,1:33:09.47,Default,Generic,0,0,60,,she kind of resembles me.
+Dialogue: 0,1:33:09.55,1:33:10.27,Default,Generic,0,0,60,,You know,
+Dialogue: 0,1:33:10.35,1:33:12.74,Default,Generic,0,0,60,,the "you look alike"...you know?
+Dialogue: 0,1:33:14.28,1:33:19.10,Default,Sae,0,0,60,,Hey — when you're stuck, quit looking at me. I don't get it either.
+Dialogue: 0,1:33:19.18,1:33:21.37,Default,Generic,0,0,60,,But it came from somewhere.
+Dialogue: 0,1:33:21.45,1:33:22.88,Default,Generic,0,0,60,,She says I'm loud,
+Dialogue: 0,1:33:22.96,1:33:27.08,Default,Generic,0,0,60,,but even in front of me she puts on the cute act,
+Dialogue: 0,1:33:27.26,1:33:29.17,Default,Generic,0,0,60,,I know Rara-pa is loud,
+Dialogue: 0,1:33:29.25,1:33:31.86,Default,Generic,0,0,60,,but she's quiet in front of me.
+Dialogue: 0,1:33:31.94,1:33:34.11,Default,Generic,0,0,60,,I wanted to draw that out,
+Dialogue: 0,1:33:34.19,1:33:35.50,Default,Generic,0,0,60,,so I was saying,
+Dialogue: 0,1:33:35.58,1:33:39.60,Default,Generic,0,0,60,,this girl has a little of the old Shibui smell.
+Dialogue: 0,1:33:39.68,1:33:42.86,Default,Generic,0,0,60,,Then Rara-pa was like, hmm, not really convinced.
+Dialogue: 0,1:33:43.78,1:33:44.14,Default,Generic,0,0,60,,Huh?
+Dialogue: 0,1:33:44.38,1:33:45.98,Default,Generic,0,0,60,,It was that kind of "hmm."
+Dialogue: 0,1:33:46.82,1:33:47.18,Default,Generic,0,0,60,,How was it?
+Dialogue: 0,1:33:47.52,1:33:47.88,Default,Generic,0,0,60,,Eh?
+Dialogue: 0,1:33:48.44,1:33:49.60,Default,Generic,0,0,60,,I was like that too, she said.
+Dialogue: 0,1:33:49.68,1:33:51.64,Default,Generic,0,0,60,,Yeah, Shibui, you really were like this.
+Dialogue: 0,1:33:51.78,1:33:53.68,Default,Generic,0,0,60,,And before I noticed, she'd turned into a monster.
+Dialogue: 0,1:33:53.76,1:33:54.04,Default,Generic,0,0,60,,Right.
+Dialogue: 0,1:33:55.30,1:33:55.92,Default,Generic,0,0,60,,Really.
+Dialogue: 0,1:33:56.30,1:33:56.96,Default,Generic,0,0,60,,Really, yeah.
+Dialogue: 0,1:33:57.36,1:34:01.10,Default,Generic,0,0,60,,See — there's a monster. I somehow ended up like this too.
+Dialogue: 0,1:34:01.18,1:34:04.84,Default,Generic,0,0,60,,Until now, Ibuki was the monster in my book,
+Dialogue: 0,1:34:05.88,1:34:11.24,Default,Generic,0,0,60,,but there's a loudness past Ibuki. Every generation has one monster.
+Dialogue: 0,1:34:11.32,1:34:12.82,Default,Generic,0,0,60,,I was shocked.
+Dialogue: 0,1:34:14.14,1:34:17.03,Default,Generic,0,0,60,,No way. I can't believe that just now.
+Dialogue: 0,1:34:17.11,1:34:18.85,Default,Generic,0,0,60,,This is honestly the worst.
+Dialogue: 0,1:34:19.45,1:34:21.65,Default,Generic,0,0,60,,But the monsters only show up in Team H, right?
+Dialogue: 0,1:34:22.87,1:34:25.96,Default,Generic,0,0,60,,Is Ryuto-chan admiring Shibui,
+Dialogue: 0,1:34:26.04,1:34:29.95,Default,Generic,0,0,60,,or admiring that main-character vibe?
+Dialogue: 0,1:34:30.55,1:34:30.95,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,1:34:32.37,1:34:33.49,Default,Generic,0,0,60,,She said that.
+Dialogue: 0,1:34:35.48,1:34:37.00,Default,Nene,0,0,60,,Because Shibui's a dog.
+Dialogue: 0,1:34:38.64,1:34:42.74,Default,Generic,0,0,60,,You say they don't come here, but Team KIV has monsters in all kinds of ways.
+Dialogue: 0,1:34:42.82,1:34:45.52,Default,Generic,0,0,60,,A monster called Kuriyama, for one.
+Dialogue: 0,1:34:45.60,1:34:47.68,Default,Generic,0,0,60,,A different species. Another kind.
+Dialogue: 0,1:34:47.76,1:34:50.42,Default,Generic,0,0,60,,But still better than the loud kind.
+Dialogue: 0,1:34:55.68,1:34:56.94,Default,Generic,0,0,60,,That's harsh.
+Dialogue: 0,1:34:57.02,1:34:57.48,Default,Generic,0,0,60,,What?
+Dialogue: 0,1:34:58.10,1:35:01.50,Default,Generic,0,0,60,,Tomorrow we're at 3 years, we're 4th-years, right?
+Dialogue: 0,1:35:01.58,1:35:02.10,Default,Generic,0,0,60,,Really?
+Dialogue: 0,1:35:03.52,1:35:04.94,Default,Generic,0,0,60,,Cut it out.
+Dialogue: 0,1:35:05.02,1:35:07.90,Default,Generic,0,0,60,,The trainees end up not wanting to go to either side.
+Dialogue: 0,1:35:07.98,1:35:08.72,Default,Generic,0,0,60,,That's right.
+Dialogue: 0,1:35:10.26,1:35:12.14,Default,Generic,0,0,60,,I'm the main character, so the middle is fine.
+Dialogue: 0,1:35:13.22,1:35:14.94,Default,Generic,0,0,60,,You can just say it as it is.
+Dialogue: 0,1:35:16.46,1:35:19.84,Default,Generic,0,0,60,,No — today is Shibui's last show.
+Dialogue: 0,1:35:21.52,1:35:23.06,Default,Generic,0,0,60,,Because she's going to be an actress from now on.
+Dialogue: 0,1:35:25.76,1:35:26.80,Default,Generic,0,0,60,,Amazing.
+Dialogue: 0,1:35:28.14,1:35:30.52,Default,Generic,0,0,60,,So she wants to talk and talk.
+Dialogue: 0,1:35:30.60,1:35:31.90,Default,Shibui,0,0,60,,I really haven't talked enough, have I.
+Dialogue: 0,1:35:32.58,1:35:33.90,Default,Generic,0,0,60,,You can talk a lot.
+Dialogue: 0,1:35:33.98,1:35:34.78,Default,Generic,0,0,60,,May I talk?
+Dialogue: 0,1:35:34.86,1:35:36.50,Default,Generic,0,0,60,,Sorry, the lamp came on.
+Dialogue: 0,1:35:38.24,1:35:39.26,Default,Generic,0,0,60,,It's over.
+Dialogue: 0,1:35:39.34,1:35:40.74,Default,Generic,0,0,60,,Please, another time.
+Dialogue: 0,1:35:41.66,1:35:43.26,Default,Generic,0,0,60,,We've been talking like this,
+Dialogue: 0,1:35:43.34,1:35:45.46,Default,Generic,0,0,60,,and could the first-half group come in too.
+Dialogue: 0,1:35:53.12,1:35:55.34,Default,Generic,0,0,60,,Next up is the last song.
+Dialogue: 0,1:35:57.14,1:35:57.50,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,1:35:59.28,1:36:00.06,Default,Generic,0,0,60,,Please listen.
+Dialogue: 0,1:36:00.14,1:36:01.24,Default,Generic,0,0,60,,Fan Letter.
+
+; ===== mc3 =====
+Dialogue: 0,1:54:28.22,1:54:30.86,Default,Generic,0,0,60,,You just heard Fugiri and Hanpa na Ikemen, two in a row.
+Dialogue: 0,1:54:30.94,1:54:32.38,Default,Generic,0,0,60,,Thank you for the encore, everyone!
+Dialogue: 0,1:54:33.48,1:54:33.80,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,1:54:40.42,1:54:42.72,Default,Generic,0,0,60,,We'd like to hear some thoughts now.
+Dialogue: 0,1:54:42.80,1:54:44.36,Default,Generic,0,0,60,,Kure-chan, on her first show.
+Dialogue: 0,1:54:44.98,1:54:45.30,Default,Generic,0,0,60,,Yes.
+Dialogue: 0,1:54:46.26,1:54:46.58,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,1:54:50.42,1:54:52.06,Default,Generic,0,0,60,,Thank you for always taking care of me.
+Dialogue: 0,1:54:53.90,1:54:54.44,Default,Generic,0,0,60,,That makes me happy.
+Dialogue: 0,1:54:54.52,1:54:55.06,Default,Generic,0,0,60,,Nice.
+Dialogue: 0,1:54:55.52,1:54:56.50,Default,Generic,0,0,60,,You can pull that off, huh.
+Dialogue: 0,1:54:57.38,1:55:00.12,Default,Generic,0,0,60,,Thank you for coming to today's Saka Agari show.
+Dialogue: 0,1:55:05.64,1:55:06.72,Default,Generic,0,0,60,,Ever since my
+Dialogue: 0,1:55:06.80,1:55:08.30,Default,Generic,0,0,60,,first performance was set,
+Dialogue: 0,1:55:08.58,1:55:10.34,Default,Generic,0,0,60,,nerves, worry, and excitement
+Dialogue: 0,1:55:10.42,1:55:13.90,Default,Generic,0,0,60,,were all churning in me every day,
+Dialogue: 0,1:55:14.72,1:55:19.22,Default,Generic,0,0,60,,but I enjoyed it so much the worry and nerves just blew away,
+Dialogue: 0,1:55:19.30,1:55:20.80,Default,Generic,0,0,60,,and I was really happy.
+Dialogue: 0,1:55:21.24,1:55:23.16,Default,Generic,0,0,60,,Please keep looking after me.
+Dialogue: 0,1:55:31.03,1:55:33.29,Default,Generic,0,0,60,,Thank you for Golden Week too, everyone.
+Dialogue: 0,1:55:33.37,1:55:34.59,Default,Generic,0,0,60,,Thank you for having us.
+Dialogue: 0,1:55:37.70,1:55:39.48,Default,Generic,0,0,60,,It's the last day of Golden Week,
+Dialogue: 0,1:55:40.00,1:55:42.40,Default,Generic,0,0,60,,and if this Golden Week you spent with us
+Dialogue: 0,1:55:42.48,1:55:46.06,Default,Generic,0,0,60,,becomes a really fun, precious memory, I'd be glad.
+Dialogue: 0,1:55:47.16,1:55:49.88,Default,Generic,0,0,60,,Everyone, you've got work from tomorrow, though—
+Dialogue: 0,1:55:49.96,1:55:51.77,Default,Generic,0,0,60,,For the last song, can we get some voices?
+Dialogue: 0,1:55:53.60,1:55:54.36,Default,Generic,0,0,60,,Thank you!
+Dialogue: 0,1:55:57.76,1:55:58.78,Default,Generic,0,0,60,,Please have a listen!
+Dialogue: 0,1:55:58.86,1:55:59.70,Default,Generic,0,0,60,,To be continued.
+
+; ===== outro =====
+Dialogue: 0,2:04:48.00,2:04:48.98,Default,Generic,0,0,60,,The second half's over!
+Dialogue: 0,2:04:51.90,2:04:54.16,Default,Generic,0,0,60,,First up, Kure-chan — her first show.
+Dialogue: 0,2:04:55.54,2:04:56.94,Default,Generic,0,0,60,,Toward the end,
+Dialogue: 0,2:04:57.02,2:05:00.46,Default,Generic,0,0,60,,the fans and the senpai,
+Dialogue: 0,2:05:00.54,2:05:01.58,Default,Generic,0,0,60,,and everyone in my generation —
+Dialogue: 0,2:05:01.66,2:05:02.80,Default,Generic,0,0,60,,their kindness...
+Dialogue: 0,2:05:04.36,2:05:04.86,Default,Generic,0,0,60,,Good work today!
+Dialogue: 0,2:05:04.94,2:05:05.98,Default,Generic,0,0,60,,Good work today!
+Dialogue: 0,2:05:07.48,2:05:08.48,Default,Generic,0,0,60,,You worked so hard.
+Dialogue: 0,2:05:08.56,2:05:10.08,Default,Generic,0,0,60,,Don't cry!
+Dialogue: 0,2:05:12.72,2:05:14.12,Default,Generic,0,0,60,,Thank you, really.
+Dialogue: 0,2:05:14.64,2:05:16.18,Default,Generic,0,0,60,,Good work today!
+Dialogue: 0,2:05:16.80,2:05:17.80,Default,Generic,0,0,60,,Good work today!
+Dialogue: 0,2:05:17.88,2:05:19.18,Default,Generic,0,0,60,,Good work today!
+Dialogue: 0,2:05:19.84,2:05:22.24,Default,Generic,0,0,60,,Will you come out next time too?
+Dialogue: 0,2:05:22.32,2:05:22.67,Default,Generic,0,0,60,,Yes.
+Dialogue: 0,2:05:22.75,2:05:24.58,Default,Generic,0,0,60,,Thanks.
+Dialogue: 0,2:05:26.12,2:05:27.34,Default,Generic,0,0,60,,Okay, Nene-san.
+Dialogue: 0,2:05:27.42,2:05:29.52,Default,Generic,0,0,60,,Why was I called?
+Dialogue: 0,2:05:30.38,2:05:32.40,Default,Generic,0,0,60,,I got it wrong.
+Dialogue: 0,2:05:32.48,2:05:33.56,Default,Generic,0,0,60,,That's not right, is it?
+Dialogue: 0,2:05:33.64,2:05:36.30,Default,Generic,0,0,60,,Shibui-san — what?
+Dialogue: 0,2:05:38.42,2:05:39.00,Default,Generic,0,0,60,,Rather—
+Dialogue: 0,2:05:39.08,2:05:40.02,Default,Generic,0,0,60,,The stage bit?
+Dialogue: 0,2:05:40.10,2:05:40.96,Default,Generic,0,0,60,,Oh, right.
+Dialogue: 0,2:05:41.04,2:05:41.90,Default,Generic,0,0,60,,More or less, yeah.
+Dialogue: 0,2:05:42.76,2:05:43.50,Default,Generic,0,0,60,,Is that really it?
+Dialogue: 0,2:05:43.60,2:05:45.12,Default,Generic,0,0,60,,Koko-ppe?
+Dialogue: 0,2:05:45.40,2:05:46.64,Default,Generic,0,0,60,,Koko-ppe is a new position.
+Dialogue: 0,2:05:46.72,2:05:48.46,Default,Generic,0,0,60,,I'm a new position too.
+Dialogue: 0,2:05:48.54,2:05:50.84,Default,Generic,0,0,60,,I did yay-yay for the first time.
+Dialogue: 0,2:05:52.28,2:05:53.72,Default,Generic,0,0,60,,My first yay-yay…
+Dialogue: 0,2:05:54.74,2:05:55.98,Default,Generic,0,0,60,,How was it?
+Dialogue: 0,2:05:57.30,2:05:59.28,Default,Nene,0,0,60,,She fit in so well I didn't realize it was her first time.
+Dialogue: 0,2:05:59.36,2:06:00.94,Default,Generic,0,0,60,,So, this kind of
+Dialogue: 0,2:06:01.84,2:06:03.04,Default,Generic,0,0,60,,curiosity, I guess.
+Dialogue: 0,2:06:03.12,2:06:04.52,Default,Generic,0,0,60,,Everyone went "oohhh."
+Dialogue: 0,2:06:04.72,2:06:09.92,Default,Generic,0,0,60,,I mean, at that "oooh oooh ♬" part… what do I do?
+Dialogue: 0,2:06:10.08,2:06:11.78,Default,Kuriyama,0,0,60,,I really didn't think it was your first time.
+Dialogue: 0,2:06:11.86,2:06:12.92,Default,Generic,0,0,60,,From now on,
+Dialogue: 0,2:06:13.00,2:06:15.12,Default,Generic,0,0,60,,really praise the people who take it on.
+Dialogue: 0,2:06:15.20,2:06:16.96,Default,Generic,0,0,60,,Once I did it myself,
+Dialogue: 0,2:06:17.04,2:06:18.50,Default,Generic,0,0,60,,that's what I felt.
+Dialogue: 0,2:06:18.58,2:06:19.84,Default,Generic,0,0,60,,That was fun.
+Dialogue: 0,2:06:21.10,2:06:23.20,Default,Generic,0,0,60,,Everyone's first time — I want to know more.
+Dialogue: 0,2:06:24.50,2:06:25.40,Default,Generic,0,0,60,,It's sad.
+Dialogue: 0,2:06:25.52,2:06:26.78,Default,Generic,0,0,60,,It feels so good, though.
+Dialogue: 0,2:06:26.86,2:06:29.66,Default,Generic,0,0,60,,From May 21st through the 25th,
+Dialogue: 0,2:06:29.76,2:06:31.20,Default,Generic,0,0,60,,at Fukuoka Civic Hall's small theater,
+Dialogue: 0,2:06:31.28,2:06:36.04,Default,Generic,0,0,60,,I'll be in Gekidan Zigzag Bite's Kigurumi Occa Night, so
+Dialogue: 0,2:06:36.12,2:06:38.18,Default,Generic,0,0,60,,please come see it, everyone!
+Dialogue: 0,2:06:38.78,2:06:40.02,Default,Generic,0,0,60,,Please go check it out!
+Dialogue: 0,2:06:40.10,2:06:44.24,Default,Generic,0,0,60,,Theater shows are off for 20 days.
+Dialogue: 0,2:06:45.40,2:06:46.08,Default,Generic,0,0,60,,That's long!
+Dialogue: 0,2:06:46.80,2:06:47.58,Default,Generic,0,0,60,,Whoa!
+Dialogue: 0,2:06:47.66,2:06:49.22,Default,Generic,0,0,60,,For those 20 days off theater…
+Dialogue: 0,2:06:50.30,2:06:53.20,Default,Generic,0,0,60,,Team H might get quiet and you'll feel relief.
+Dialogue: 0,2:06:54.18,2:06:55.90,Default,Generic,0,0,60,,I want to go as much as I can after practice.
+Dialogue: 0,2:06:56.94,2:06:57.48,Default,Generic,0,0,60,,Whoa!
+Dialogue: 0,2:06:57.56,2:06:58.50,Default,Generic,0,0,60,,Scary!
+Dialogue: 0,2:06:58.58,2:06:59.66,Default,Generic,0,0,60,,So scary!
+Dialogue: 0,2:07:00.54,2:07:01.18,Default,Generic,0,0,60,,Terrifying!
+Dialogue: 0,2:07:01.60,2:07:02.42,Default,Generic,0,0,60,,I'll do my best.
+Dialogue: 0,2:07:02.50,2:07:04.36,Default,Generic,0,0,60,,We'll sing all kinds of things too.
+Dialogue: 0,2:07:05.00,2:07:05.40,Default,Generic,0,0,60,,Amazing!
+Dialogue: 0,2:07:05.74,2:07:06.14,Default,Generic,0,0,60,,I'll do my best.
+Dialogue: 0,2:07:06.22,2:07:07.20,Default,Generic,0,0,60,,Looking forward to it.
+Dialogue: 0,2:07:07.38,2:07:09.20,Default,Generic,0,0,60,,I want to give it my all in all kinds of places.
+Dialogue: 0,2:07:10.06,2:07:12.86,Default,Generic,0,0,60,,So — look forward to the next show too!
+Dialogue: 0,2:07:13.64,2:07:14.44,Default,Generic,0,0,60,,Bye-bye!
+Dialogue: 0,2:07:15.90,2:07:17.78,Default,Generic,0,0,60,,Tonight is Richaki's birthday show.

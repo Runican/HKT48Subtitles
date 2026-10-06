@@ -14,6 +14,7 @@ No show audio, cue JSON, or ASS intermediates belong in this directory. Scripts 
 | `find_gaps.py` | Flag ASR gaps that are not silence |
 | `cleanup_ja.py` | Glossary + domain replacements on `text_ja` |
 | `assign_speakers.py` | Heuristic speaker labels (name patterns + optional time windows) |
+| `assign_speakers_ramune.py` | Same heuristics, Kenkyuusei Ramune 7th-gen cast nick patterns |
 | `build_cues.py` | Merge ASR segments into phrase cues |
 | `build_cues_from_asr.py` | Split ASR into JA cue shells (`cues_ja.json`); EN filled later |
 | `pipeline_after_asr.py` | `cleanup_ja` then `build_cues_from_asr` for a list of slugs |
