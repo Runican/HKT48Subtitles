@@ -8,7 +8,7 @@ Shared knowledge for HKT48 Japanese→English subtitling: glossary locks, cast l
 hkt48/
   README.md              # this file
   SCHEMA.md              # field definitions
-  glossary.json          # locked + candidate terms (names/nicks/catchphrases)
+  glossary.json          # durable locked + candidate terms (names/nicks/catches/traps/songs); NOT night casts or verify diaries (those → sources/)
   cast_index.json        # members: full name, nick, team, lookalikes, status
   sources/               # curated research notes + URLs
   stage_templates/       # per-stage setlist + talk-slot priors for segment finding
