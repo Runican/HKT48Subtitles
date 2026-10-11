@@ -1,6 +1,6 @@
 # Pipeline scripts
 
-Public copies of the Japanese→English subtitle pipeline. These are the runnable tools (not just the skill write-up). When the live copies under `/workspace/scripts/` change, re-publish scrubbed copies here so this folder stays the public mirror.
+Public copies of the Japanese→English subtitle pipeline. These are the runnable tools (not just the skill write-up). When your live scripts folder changes, re-publish scrubbed copies here so this folder stays the public mirror.
 
 No show audio, cue JSON, or ASS intermediates belong in this directory. Scripts take paths on the command line; they do not hardcode a job directory.
 
@@ -19,6 +19,7 @@ No show audio, cue JSON, or ASS intermediates belong in this directory. Scripts 
 | `build_cues_from_asr.py` | Split ASR into JA cue shells (`cues_ja.json`); EN filled later |
 | `pipeline_after_asr.py` | `cleanup_ja` then `build_cues_from_asr` for a list of slugs |
 | `snap_cues.py` | Cap duration and insert a minimum gap |
+| `voicing.py` | Single-voice vs crowd-cheer check on short windows; times stock phrases (ありがとうございます) beside cheers |
 | `check_cues.py` | Machine gates: empty EN, overlaps, copy-forward, optional glossary / silence / ASS |
 | `write_ass.py` | Write offset ASS; refuses empty English |
 | `stitch.py` | Concatenate per-segment `*_EN_offset.ass` into `full_EN_offset.ass` |
@@ -46,4 +47,4 @@ python assets/scripts/stitch.py --work path/to/job --layout segments --order mc1
 python assets/scripts/divergence.py --fresh fresh.ass --gold gold.ass --out-dir path/to/qc
 ```
 
-On the box, the same files also live at `/workspace/scripts/`. For a job, copy this folder into `work/<slug>/scripts/` or call the repo copies in place. `pipeline_after_asr.py` always runs the scripts beside itself via `sys.executable`.
+The same files also live in your live scripts folder. For a job, copy this folder into `work/<slug>/scripts/` or call the repo copies in place. `pipeline_after_asr.py` always runs the scripts beside itself via `sys.executable`.

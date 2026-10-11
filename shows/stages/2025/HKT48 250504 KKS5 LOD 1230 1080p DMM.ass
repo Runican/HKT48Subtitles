@@ -1,0 +1,744 @@
+[Script Info]
+Title: HKT48 250504 KKS5 LOD 1230 — photo
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,56,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+; ===== photo =====
+Dialogue: 0,0:19:03.45,0:19:04.45,Default,All,0,0,60,,Hello, everyone!
+Dialogue: 0,0:19:05.35,0:19:08.67,Default,All,0,0,60,,We're the HKT48 7th gen trainees!
+Dialogue: 0,0:19:16.38,0:19:21.18,Default,Aya-chan,0,0,60,,The HKT48 7th Gen Trainees' Ramune no Nomikata stage has begun!
+Dialogue: 0,0:19:25.48,0:19:27.74,Default,Aya-chan,0,0,60,,Did everyone cheer a lot?
+Dialogue: 0,0:19:29.70,0:19:30.29,Default,Aya-chan,0,0,60,,Thank you!
+Dialogue: 0,0:19:30.82,0:19:31.96,Default,Aya-chan,0,0,60,,So, right away,
+Dialogue: 0,0:19:32.04,0:19:33.98,Default,Aya-chan,0,0,60,,we'll take a commemorative photo.
+Dialogue: 0,0:19:36.06,0:19:38.36,Default,Aya-chan,0,0,60,,Rara-pa, what day is it today?
+Dialogue: 0,0:19:39.42,0:19:41.30,Default,Rara-pa,0,0,60,,Today is actually Ramune Day!
+Dialogue: 0,0:19:43.38,0:19:46.38,Default,Rara-pa,0,0,60,,So, a drinking-Ramune pose! A Ramune-drinking pose!
+Dialogue: 0,0:19:46.66,0:19:47.25,Default,Aya-chan,0,0,60,,Thank you!
+Dialogue: 0,0:19:59.34,0:19:59.96,Default,Aya-chan,0,0,60,,Next...
+Dialogue: 0,0:20:01.24,0:20:03.24,Default,Aya-chan,0,0,60,,Yuka, your birthday was yesterday, right?
+Dialogue: 0,0:20:03.32,0:20:04.40,Default,Crowd,0,0,60,,Ahh!
+Dialogue: 0,0:20:06.72,0:20:07.31,Default,Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:20:08.56,0:20:10.38,Default,Aya-chan,0,0,60,,Is there a pose you want to do?
+Dialogue: 0,0:20:11.10,0:20:13.34,Default,Yuka,0,0,60,,Then let's all make hearts!
+Dialogue: 0,0:20:27.32,0:20:28.44,Default,Aya-chan,0,0,60,,And then, Sara too!
+Dialogue: 0,0:20:28.64,0:20:30.11,Default,All,0,0,60,,Happy birthday, Sara-tan!
+Dialogue: 0,0:20:30.68,0:20:32.20,Default,All,0,0,60,,Happy birthday!
+Dialogue: 0,0:20:33.04,0:20:33.64,Default,Sara-tan,0,0,60,,Thank you!
+Dialogue: 0,0:20:34.34,0:20:36.59,Default,Sara-tan,0,0,60,,Then the "To that destination!" pose, please!
+Dialogue: 0,0:20:36.69,0:20:38.44,Default,All,0,0,60,,"To that destination!" pose!
+Dialogue: 0,0:20:46.89,0:20:47.48,Default,Aya-chan,0,0,60,,Thank you!
+Dialogue: 0,0:20:53.64,0:20:56.68,Default,Aya-chan,0,0,60,,The photo we just took will be sold in the lobby after the show,
+Dialogue: 0,0:20:56.76,0:20:58.52,Default,Aya-chan,0,0,60,,so please stop by as a memento of today.
+Dialogue: 0,0:20:58.60,0:20:59.48,Default,Aya-chan,0,0,60,,Thank you!
+Dialogue: 0,0:21:00.44,0:21:01.96,Default,All,0,0,60,,Thank you!
+
+; ===== intro =====
+Dialogue: 0,0:21:08.96,0:21:11.60,Default,Aya-chan,0,0,60,,Now, let us introduce ourselves one by one.
+Dialogue: 0,0:21:11.68,0:21:14.56,Default,Aya-chan,0,0,60,,Today's topic is: our signature home-cooked dish.
+Dialogue: 0,0:21:16.24,0:21:18.52,Default,Aya-chan,0,0,60,,Okay then, starting with Rara-pa, please!
+Dialogue: 0,0:21:18.60,0:21:20.34,Default,Rara-pa,0,0,60,,What percent is today's mood?
+Dialogue: 0,0:21:21.00,0:21:22.34,Default,Crowd,0,0,60,,Rara percent!
+Dialogue: 0,0:21:22.94,0:21:25.00,Default,Rara-pa,0,0,60,,What percent is your love for Rara?
+Dialogue: 0,0:21:25.20,0:21:26.38,Default,Crowd,0,0,60,,Rara percent!
+Dialogue: 0,0:21:27.02,0:21:28.74,Default,Rara-pa,0,0,60,,Rara's dancing — 100%?
+Dialogue: 0,0:21:29.60,0:21:30.32,Default,Rara-pa,0,0,60,,200%?
+Dialogue: 0,0:21:30.94,0:21:31.92,Default,Crowd,0,0,60,,Rara percent!
+Dialogue: 0,0:21:33.70,0:21:34.48,Default,Rara-pa,0,0,60,,Thank you!
+Dialogue: 0,0:21:34.56,0:21:37.94,Default,Rara-pa,0,0,60,,From Nagasaki Prefecture, 14 — Rara-pa, Nagano Rara!
+Dialogue: 0,0:21:38.02,0:21:39.02,Default,Rara-pa,0,0,60,,Nice to meet you!
+Dialogue: 0,0:21:39.30,0:21:40.10,Default,Crowd,0,0,60,,Rara-pa!
+Dialogue: 0,0:21:43.10,0:21:44.05,Default,Rara-pa,0,0,60,,Thank you!
+Dialogue: 0,0:21:44.41,0:21:49.09,Default,Rara-pa,0,0,60,,I searched my head for my signature home-cooked dish.
+Dialogue: 0,0:21:50.01,0:21:53.59,Default,Rara-pa,0,0,60,,I wondered if I'd been cooking lately — and I haven't at all.
+Dialogue: 0,0:21:53.75,0:21:57.97,Default,Rara-pa,0,0,60,,I wondered if I even have a signature dish, and I really don't.
+Dialogue: 0,0:21:58.32,0:21:59.43,Default,Member,0,0,60,,Huh? Isn't it ramen?
+Dialogue: 0,0:21:59.51,0:22:00.27,Default,Member,0,0,60,,Ramen, right?
+Dialogue: 0,0:22:01.29,0:22:04.27,Default,Rara-pa,0,0,60,,Right — lately all I make is instant bagged noodles.
+Dialogue: 0,0:22:04.35,0:22:05.93,Default,Member,0,0,60,,Does that count as cooking?
+Dialogue: 0,0:22:07.41,0:22:10.15,Default,Rara-pa,0,0,60,,But there is one thing I'm good at—
+Dialogue: 0,0:22:10.23,0:22:11.67,Default,Rara-pa,0,0,60,,It's DIY candy kits.
+Dialogue: 0,0:22:11.75,0:22:12.57,Default,Member,0,0,60,,Ooh!
+Dialogue: 0,0:22:13.45,0:22:14.31,Default,Member,0,0,60,,Is that cooking?
+Dialogue: 0,0:22:14.41,0:22:14.99,Default,Member,0,0,60,,Cooking?
+Dialogue: 0,0:22:15.40,0:22:17.51,Default,Rara-pa,0,0,60,,DIY candy kits are amazing these days.
+Dialogue: 0,0:22:17.59,0:22:18.53,Default,Rara-pa,0,0,60,,There are all kinds.
+Dialogue: 0,0:22:18.61,0:22:20.14,Default,Member,0,0,60,,Let's count it as cooking.
+Dialogue: 0,0:22:22.35,0:22:26.09,Default,Rara-pa,0,0,60,,So anyone who wants DIY candy made can ask me, and I'll make it!
+Dialogue: 0,0:22:26.17,0:22:27.93,Default,Rara-pa,0,0,60,,Please take care of me today!
+Dialogue: 0,0:22:32.70,0:22:33.87,Default,Mei-mei,0,0,60,,Loves melon—
+Dialogue: 0,0:22:33.95,0:22:34.71,Default,Crowd,0,0,60,,Mei-mei!
+Dialogue: 0,0:22:34.79,0:22:35.77,Default,Mei-mei,0,0,60,,Always energetic—
+Dialogue: 0,0:22:35.85,0:22:36.55,Default,Crowd,0,0,60,,Mei-mei!
+Dialogue: 0,0:22:36.63,0:22:37.47,Default,Mei-mei,0,0,60,,Bright smile—
+Dialogue: 0,0:22:37.55,0:22:38.23,Default,Crowd,0,0,60,,Mei-mei!
+Dialogue: 0,0:22:38.40,0:22:39.15,Default,Mei-mei,0,0,60,,Thank you!
+Dialogue: 0,0:22:39.23,0:22:41.67,Default,Mei-mei,0,0,60,,From Yamaguchi Prefecture, 15 — Yoshida Mei, a.k.a.—
+Dialogue: 0,0:22:41.75,0:22:42.63,Default,Mei-mei,0,0,60,,Ah, wait a sec!
+Dialogue: 0,0:22:43.55,0:22:45.05,Default,Mei-mei,0,0,60,,Mei-mei, Yoshida Mei!
+Dialogue: 0,0:22:45.13,0:22:46.05,Default,Mei-mei,0,0,60,,Nice to meet you!
+Dialogue: 0,0:22:46.15,0:22:47.13,Default,Crowd,0,0,60,,Mei-mei!
+Dialogue: 0,0:22:51.00,0:22:52.10,Default,Mei-mei,0,0,60,,Thank you!
+Dialogue: 0,0:22:52.19,0:22:55.07,Default,Mei-mei,0,0,60,,My signature dish is nikujaga — meat and potatoes.
+Dialogue: 0,0:22:55.15,0:22:55.79,Default,Member,0,0,60,,Ohh.
+Dialogue: 0,0:22:55.87,0:22:57.19,Default,Member,0,0,60,,That's pretty impressive.
+Dialogue: 0,0:22:57.27,0:22:58.45,Default,Member,0,0,60,,Pretty impressive, huh?
+Dialogue: 0,0:22:58.53,0:23:01.19,Default,Member,0,0,60,,Coming right after DIY candy, that's impressive!
+Dialogue: 0,0:23:02.17,0:23:04.65,Default,Mei-mei,0,0,60,,Yeah — actually, I've only made it once.
+Dialogue: 0,0:23:04.73,0:23:10.21,Default,Mei-mei,0,0,60,,But I copied my grandma's cooking, and it came out super tasty,
+Dialogue: 0,0:23:10.29,0:23:12.19,Default,Mei-mei,0,0,60,,so next time, for all the 7th gen too—
+Dialogue: 0,0:23:12.27,0:23:12.98,Default,Member,0,0,60,,I want some!
+Dialogue: 0,0:23:13.06,0:23:13.77,Default,Mei-mei,0,0,60,,—I'll make nikujaga!
+Dialogue: 0,0:23:13.85,0:23:15.15,Default,Member,0,0,60,,We'll be waiting!
+Dialogue: 0,0:23:15.23,0:23:16.19,Default,Mei-mei,0,0,60,,You like it? Great!
+Dialogue: 0,0:23:16.27,0:23:18.06,Default,Mei-mei,0,0,60,,Then I'll make it.
+Dialogue: 0,0:23:18.14,0:23:19.84,Default,Mei-mei,0,0,60,,Please take care of me today!
+Dialogue: 0,0:23:20.27,0:23:21.43,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:23:24.05,0:23:26.63,Default,Aya-chan,0,0,60,,Sparkling eyes and round cheeks — that'd be…
+Dialogue: 0,0:23:27.01,0:23:28.03,Default,Crowd,0,0,60,,Aya-chan!
+Dialogue: 0,0:23:29.66,0:23:31.23,Default,Aya-chan,0,0,60,,My right cheek is full of charm,
+Dialogue: 0,0:23:31.31,0:23:33.11,Default,Aya-chan,0,0,60,,and my left cheek is packed with power!
+Dialogue: 0,0:23:33.19,0:23:35.77,Default,Aya-chan,0,0,60,,Today too, I'll deliver power to all of you!
+Dialogue: 0,0:23:36.60,0:23:37.80,Default,Aya-chan,0,0,60,,Thank you!
+Dialogue: 0,0:23:37.91,0:23:40.26,Default,Aya-chan,0,0,60,,From Nagasaki Prefecture, 14 — Ryuto Ayane!
+Dialogue: 0,0:23:40.34,0:23:41.05,Default,Aya-chan,0,0,60,,Nice to meet you!
+Dialogue: 0,0:23:41.13,0:23:42.21,Default,Crowd,0,0,60,,Aya-chan!
+Dialogue: 0,0:23:45.85,0:23:47.15,Default,Aya-chan,0,0,60,,Thank you!
+Dialogue: 0,0:23:47.25,0:23:51.11,Default,Aya-chan,0,0,60,,When I got this topic, I thought hard about it too, but…
+Dialogue: 0,0:23:51.19,0:23:53.23,Default,Aya-chan,0,0,60,,um, I don't have one either.
+Dialogue: 0,0:23:53.67,0:23:54.95,Default,Aya-chan,0,0,60,,It's embarrassing, but…
+Dialogue: 0,0:23:55.03,0:23:57.95,Default,Aya-chan,0,0,60,,if I had to name one, I can make omurice.
+Dialogue: 0,0:23:58.03,0:23:58.87,Default,Member,0,0,60,,That's nice!
+Dialogue: 0,0:23:58.95,0:24:02.73,Default,Aya-chan,0,0,60,,Yeah, but it's a bit too embarrassing to show you all,
+Dialogue: 0,0:24:02.81,0:24:06.47,Default,Aya-chan,0,0,60,,so I'd like to level up a bit more before I show you.
+Dialogue: 0,0:24:06.55,0:24:07.39,Default,Aya-chan,0,0,60,,I'll do my best!
+Dialogue: 0,0:24:07.47,0:24:09.33,Default,Aya-chan,0,0,60,,Please take care of me today!
+Dialogue: 0,0:24:09.91,0:24:11.19,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:24:13.94,0:24:16.62,Default,Mari-tan,0,0,60,,What you love — marshmallows? Macarons?
+Dialogue: 0,0:24:16.70,0:24:18.20,Default,Crowd,0,0,60,,Mari-tan!
+Dialogue: 0,0:24:18.85,0:24:19.65,Default,Mari-tan,0,0,60,,Thank you!
+Dialogue: 0,0:24:19.74,0:24:23.38,Default,Mari-tan,0,0,60,,19, but I still want to be pampered — Mari-tan, Yamakawa Maria!
+Dialogue: 0,0:24:23.46,0:24:25.18,Default,Crowd,0,0,60,,Mari-tan!
+Dialogue: 0,0:24:27.75,0:24:29.06,Default,Mari-tan,0,0,60,,Thank you! Thank you!
+Dialogue: 0,0:24:29.14,0:24:33.06,Default,Mari-tan,0,0,60,,My signature home-cooked dish is pizza.
+Dialogue: 0,0:24:34.04,0:24:38.06,Default,Mari-tan,0,0,60,,As it says on my profile, I'm good at making pizza.
+Dialogue: 0,0:24:38.14,0:24:42.52,Default,Mari-tan,0,0,60,,I've loved making pizza since around elementary school,
+Dialogue: 0,0:24:42.60,0:24:44.88,Default,Mari-tan,0,0,60,,so next time I'll bring some!
+Dialogue: 0,0:24:44.96,0:24:46.10,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:24:47.00,0:24:49.76,Default,Mari-tan,0,0,60,,Well — if it looks like I can, I'll bring some.
+Dialogue: 0,0:24:50.30,0:24:51.65,Default,Mari-tan,0,0,60,,Please take care of me!
+Dialogue: 0,0:24:53.20,0:24:55.26,Default,Mari-tan,0,0,60,,Please take care of me today!
+Dialogue: 0,0:24:55.72,0:24:57.14,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:24:59.12,0:25:00.82,Default,Moka-pi,0,0,60,,Born from a strawberry field—
+Dialogue: 0,0:25:01.12,0:25:02.26,Default,Crowd,0,0,60,,Moka-pi!
+Dialogue: 0,0:25:02.60,0:25:04.88,Default,Moka-pi,0,0,60,,Cute like a strawberry blossom today too?
+Dialogue: 0,0:25:04.96,0:25:06.26,Default,Crowd,0,0,60,,So cute!
+Dialogue: 0,0:25:07.22,0:25:10.15,Default,Moka-pi,0,0,60,,Fresh as a strawberry, 16 — Matsumoto Moka!
+Dialogue: 0,0:25:10.23,0:25:11.02,Default,Moka-pi,0,0,60,,Nice to meet you!
+Dialogue: 0,0:25:11.10,0:25:13.22,Default,Crowd,0,0,60,,Moka-pi!
+Dialogue: 0,0:25:14.45,0:25:15.95,Default,Moka-pi,0,0,60,,Thank you!
+Dialogue: 0,0:25:16.17,0:25:21.37,Default,Moka-pi,0,0,60,,I don't know if it counts as cooking, but I'm good at açaí bowls.
+Dialogue: 0,0:25:21.45,0:25:24.33,Default,Moka-pi,0,0,60,,Yeah, I've made them on a stream before,
+Dialogue: 0,0:25:24.41,0:25:28.53,Default,Moka-pi,0,0,60,,and at first it was hard, and I made a huge mess everywhere,
+Dialogue: 0,0:25:28.61,0:25:33.67,Default,Moka-pi,0,0,60,,but lately I've gotten efficient — bam-bam-bam — I can make them like a shop worker now,
+Dialogue: 0,0:25:33.77,0:25:36.39,Default,Moka-pi,0,0,60,,so I'm thinking I'll open a shop!
+Dialogue: 0,0:25:36.83,0:25:38.59,Default,Moka-pi,0,0,60,,Please take care of me today!
+Dialogue: 0,0:25:38.67,0:25:40.07,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:25:43.90,0:25:46.46,Default,Mii-na,0,0,60,,North, south, east, west — favorite direction?
+Dialogue: 0,0:25:46.54,0:25:46.90,Default,Crowd,0,0,60,,South!
+Dialogue: 0,0:25:48.02,0:25:49.20,Default,Mii-na,0,0,60,,Apartment hunting—
+Dialogue: 0,0:25:49.60,0:25:50.58,Default,Crowd,0,0,60,,South-facing!
+Dialogue: 0,0:25:51.22,0:25:52.22,Default,Mii-na,0,0,60,,Cute-girl hunting—
+Dialogue: 0,0:25:52.30,0:25:53.46,Default,Crowd,0,0,60,,Southwest!
+Dialogue: 0,0:25:54.94,0:25:57.86,Default,Mii-na,0,0,60,,Thank you! Hakata's Southern Cross — Mii-na, Nakano Minami!
+Dialogue: 0,0:25:57.94,0:25:59.10,Default,Crowd,0,0,60,,Twinkle, twinkle!
+Dialogue: 0,0:26:00.52,0:26:01.52,Default,Mii-na,0,0,60,,Nice to meet you!
+Dialogue: 0,0:26:01.70,0:26:02.11,Default,Crowd,0,0,60,,Minami!
+Dialogue: 0,0:26:06.30,0:26:07.35,Default,Mii-na,0,0,60,,Thank you!
+Dialogue: 0,0:26:07.76,0:26:13.42,Default,Mii-na,0,0,60,,My signature dish… when I heard this topic, I realized I've made way too many things.
+Dialogue: 0,0:26:13.50,0:26:14.50,Default,Member,0,0,60,,Huh, really?
+Dialogue: 0,0:26:15.16,0:26:20.36,Default,Mii-na,0,0,60,,I was torn. On my SHOWROOM streams I've made croquettes, fried rice, all sorts of things,
+Dialogue: 0,0:26:20.44,0:26:25.10,Default,Mii-na,0,0,60,,but when I thought about it, I realized I haven't made anything on my own.
+Dialogue: 0,0:26:25.18,0:26:25.60,Default,Member,0,0,60,,Huh?
+Dialogue: 0,0:26:26.76,0:26:31.06,Default,Mii-na,0,0,60,,So today I worked hard and made tamagoyaki at home by myself,
+Dialogue: 0,0:26:31.14,0:26:35.34,Default,Mii-na,0,0,60,,so my signature dish will be tamagoyaki, and I'll keep working at it!
+Dialogue: 0,0:26:35.42,0:26:36.77,Default,Mii-na,0,0,60,,Please take care of me!
+Dialogue: 0,0:26:37.30,0:26:39.70,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:26:41.62,0:26:43.00,Default,Yuka,0,0,60,,Always cheerful—
+Dialogue: 0,0:26:43.08,0:26:43.70,Default,Crowd,0,0,60,,Yuka!
+Dialogue: 0,0:26:43.85,0:26:44.52,Default,Yuka,0,0,60,,And this is?
+Dialogue: 0,0:26:44.60,0:26:45.60,Default,Crowd,0,0,60,,The floor — yuka!
+Dialogue: 0,0:26:45.76,0:26:46.40,Default,Yuka,0,0,60,,And I am?
+Dialogue: 0,0:26:46.66,0:26:47.40,Default,Crowd,0,0,60,,Yuka!
+Dialogue: 0,0:26:47.65,0:26:51.71,Default,Yuka,0,0,60,,Thank you! With a smile-ball, I want to score a goal in everyone's heart!
+Dialogue: 0,0:26:51.79,0:26:56.69,Default,Yuka,0,0,60,,From Fukuoka Prefecture, first-year junior high, 14 —
+Dialogue: 0,0:26:56.77,0:26:58.79,Default,Yuka,0,0,60,,Yuka, Eura Yuka! Nice to meet you!
+Dialogue: 0,0:26:59.37,0:27:00.23,Default,Crowd,0,0,60,,Yuka! Yuka!
+Dialogue: 0,0:27:03.10,0:27:03.95,Default,Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:27:04.10,0:27:10.22,Default,Yuka,0,0,60,,My signature home-cooked dish — like Minami, I can honestly make anything.
+Dialogue: 0,0:27:10.42,0:27:11.40,Default,Member,0,0,60,,Huh? No, no, no.
+Dialogue: 0,0:27:11.48,0:27:13.76,Default,Yuka,0,0,60,,I really can!
+Dialogue: 0,0:27:14.32,0:27:19.60,Default,Yuka,0,0,60,,And the tastiest thing I've made lately — my masterpiece — is cookies.
+Dialogue: 0,0:27:20.38,0:27:21.88,Default,Member,0,0,60,,Huh? They were burnt black!
+Dialogue: 0,0:27:21.96,0:27:23.65,Default,Yuka,0,0,60,,No, no, no, no, no!
+Dialogue: 0,0:27:23.73,0:27:25.12,Default,Member,0,0,60,,They were chocolate flavor, right?
+Dialogue: 0,0:27:25.20,0:27:25.50,Default,Yuka,0,0,60,,No!
+Dialogue: 0,0:27:25.90,0:27:30.98,Default,Yuka,0,0,60,,Let me explain! First I tried to make cream puffs,
+Dialogue: 0,0:27:31.06,0:27:34.23,Default,Yuka,0,0,60,,but they didn't puff up, and they turned into cookies.
+Dialogue: 0,0:27:35.06,0:27:40.00,Default,Yuka,0,0,60,,And they were really delicious — my family raved about them.
+Dialogue: 0,0:27:40.08,0:27:40.43,Default,Member,0,0,60,,Whoa.
+Dialogue: 0,0:27:40.51,0:27:46.26,Default,Yuka,0,0,60,,I served them as cookies instead of cream puffs, and everyone said they were really delicious!
+Dialogue: 0,0:27:46.34,0:27:50.44,Default,Yuka,0,0,60,,I made cookies like that, so my signature dish is cookies!
+Dialogue: 0,0:27:51.08,0:27:56.96,Default,Amiyun,0,0,60,,But looking at the photo, they were so flat you'd think they were meant to be cookies all along.
+Dialogue: 0,0:27:58.10,0:27:59.04,Default,Member,0,0,60,,They didn't rise.
+Dialogue: 0,0:27:59.12,0:28:02.12,Default,Yuka,0,0,60,,Right! So I gave up and put chocolate chips in too.
+Dialogue: 0,0:28:02.58,0:28:04.80,Default,Yuka,0,0,60,,Please take care of me today!
+Dialogue: 0,0:28:04.88,0:28:06.18,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:28:09.70,0:28:10.76,Default,Sara-tan,0,0,60,,If Sara wishes it…
+Dialogue: 0,0:28:11.61,0:28:12.78,Default,Crowd,0,0,60,,To that destination!
+Dialogue: 0,0:28:13.07,0:28:15.13,Default,Sara-tan,0,0,60,,I'm small, but make sure you find me!
+Dialogue: 0,0:28:15.21,0:28:16.43,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:28:16.51,0:28:22.41,Default,Sara-tan,0,0,60,,From Aichi Prefecture, first-year high school, 16 — Sara-tan, Katahira Sara! Nice to meet you!
+Dialogue: 0,0:28:22.49,0:28:23.69,Default,Crowd,0,0,60,,Sara-tan!
+Dialogue: 0,0:28:26.55,0:28:27.92,Default,Sara-tan,0,0,60,,Thank you!
+Dialogue: 0,0:28:28.00,0:28:34.28,Default,Sara-tan,0,0,60,,My signature home-cooked dish… I haven't cooked much, so I don't really have one,
+Dialogue: 0,0:28:34.36,0:28:39.40,Default,Sara-tan,0,0,60,,but even so, there's a tamagoyaki I've made since I was little,
+Dialogue: 0,0:28:39.86,0:28:43.60,Default,Sara-tan,0,0,60,,Yeah, that tamago— tamagoyaki, yes.
+Dialogue: 0,0:28:43.76,0:28:50.06,Default,Sara-tan,0,0,60,,of all the tamagoyaki — even if I make it 10 times, 7 times it gets burnt to a crisp,
+Dialogue: 0,0:28:50.14,0:28:50.54,Default,Member,0,0,60,,Ehh?
+Dialogue: 0,0:28:50.93,0:28:52.26,Default,Member,0,0,60,,And that's "good at it"?
+Dialogue: 0,0:28:52.34,0:28:54.96,Default,Sara-tan,0,0,60,,But I succeed 4 times, so—
+Dialogue: 0,0:28:55.46,0:28:56.57,Default,Member,0,0,60,,That's 3, actually.
+Dialogue: 0,0:28:56.98,0:29:00.10,Default,Sara-tan,0,0,60,,I succeed 3 times, so I'm good at it!
+Dialogue: 0,0:29:00.18,0:29:04.76,Default,Sara-tan,0,0,60,,So I'll work toward succeeding 10 out of 10 times!
+Dialogue: 0,0:29:05.98,0:29:07.88,Default,Sara-tan,0,0,60,,Please take care of me today!
+Dialogue: 0,0:29:07.96,0:29:09.96,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:29:13.13,0:29:16.35,Default,Rii-ritan,0,0,60,,My turn, your turn, everyone's turn is…
+Dialogue: 0,0:29:16.43,0:29:18.01,Default,Crowd,0,0,60,,Riria-turn!
+Dialogue: 0,0:29:18.91,0:29:23.61,Default,Rii-ritan,0,0,60,,Thank you! From Nagasaki, second-year junior high, 13 — Riria-turn, Ijima Riria!
+Dialogue: 0,0:29:24.11,0:29:25.43,Default,Crowd,0,0,60,,Riria-turn!
+Dialogue: 0,0:29:28.20,0:29:29.28,Default,Rii-ritan,0,0,60,,Thank you!
+Dialogue: 0,0:29:29.36,0:29:32.68,Default,Rii-ritan,0,0,60,,Um, so — my signature home-cooked dish…
+Dialogue: 0,0:29:32.76,0:29:38.32,Default,Rii-ritan,0,0,60,,I'm not exactly good at it, but the other day I made simmered hamburg steak with my mom.
+Dialogue: 0,0:29:39.72,0:29:45.72,Default,Rii-ritan,0,0,60,,I didn't know the recipe yet, but she taught me everything, and it was really fun,
+Dialogue: 0,0:29:45.80,0:29:51.44,Default,Rii-ritan,0,0,60,,so I'll work hard to get good at it, so I can make it for everyone!
+Dialogue: 0,0:29:51.52,0:29:53.30,Default,Rii-ritan,0,0,60,,Please take care of me today!
+Dialogue: 0,0:29:53.79,0:29:55.34,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:29:57.94,0:30:02.64,Default,Nacchi,0,0,60,,From Fukuoka Prefecture, 14 — a bit clumsy but full of smiles…
+Dialogue: 0,0:30:03.34,0:30:04.34,Default,Crowd,0,0,60,,Nacchi!
+Dialogue: 0,0:30:05.82,0:30:08.52,Default,Nacchi,0,0,60,,Thank you! Nacchi, Tsurukawa Nachi. Nice to meet you!
+Dialogue: 0,0:30:08.60,0:30:10.74,Default,Crowd,0,0,60,,Nacchi!
+Dialogue: 0,0:30:13.40,0:30:14.45,Default,Nacchi,0,0,60,,Thank you!
+Dialogue: 0,0:30:14.53,0:30:18.98,Default,Nacchi,0,0,60,,Um, I don't know if it counts as cooking, but, um… ho—
+Dialogue: 0,0:30:19.06,0:30:20.65,Default,Amiyun,0,0,60,,Hot sandwich?
+Dialogue: 0,0:30:20.73,0:30:21.61,Default,Amiyun,0,0,60,,Hot chicken?
+Dialogue: 0,0:30:21.78,0:30:26.00,Default,Amiyun,0,0,60,,Hot milk? Hot milk?
+Dialogue: 0,0:30:26.11,0:30:27.93,Default,Member,0,0,60,,Amiyun, let's keep quiet, okay?
+Dialogue: 0,0:30:28.37,0:30:29.43,Default,Amiyun,0,0,60,,Sorry!
+Dialogue: 0,0:30:31.01,0:30:35.31,Default,Nacchi,0,0,60,,It's not hot milk, but bacon and egg and…
+Dialogue: 0,0:30:35.39,0:30:37.13,Default,Member,0,0,60,,It's a hot sandwich! A hot sandwich!
+Dialogue: 0,0:30:37.21,0:30:39.10,Default,Nacchi,0,0,60,,Ah, right — hot sandwich! Sorry.
+Dialogue: 0,0:30:40.13,0:30:43.77,Default,Nacchi,0,0,60,,Yeah, a hot sandwich — with mayo, I think?
+Dialogue: 0,0:30:43.85,0:30:48.60,Default,Nacchi,0,0,60,,It's really delicious. I haven't made it lately, but in the mornings —
+Dialogue: 0,0:30:48.88,0:30:53.15,Default,Nacchi,0,0,60,,I used to make it in the mornings, together with my mom—
+Dialogue: 0,0:30:53.23,0:30:54.24,Default,Amiyun,0,0,60,,Whoa, so good — yum, yum!
+Dialogue: 0,0:30:54.32,0:30:55.00,Default,Member,0,0,60,,Yum? Sorry—
+Dialogue: 0,0:30:56.14,0:30:56.97,Default,Amiyun,0,0,60,,I need to stop.
+Dialogue: 0,0:30:57.05,0:30:57.40,Default,Member,0,0,60,,Amiyun-san…
+Dialogue: 0,0:30:57.48,0:30:57.83,Default,Amiyun,0,0,60,,I really need to stop.
+Dialogue: 0,0:30:57.91,0:30:59.81,Default,Member,0,0,60,,Amiyun's off in her own fantasy.
+Dialogue: 0,0:31:02.03,0:31:06.37,Default,Nacchi,0,0,60,,So yeah, at first my mom was making them, and she asked
+Dialogue: 0,0:31:06.45,0:31:09.19,Default,Nacchi,0,0,60,,if I wanted one, but at first I said no.
+Dialogue: 0,0:31:09.27,0:31:14.09,Default,Nacchi,0,0,60,,But later I tried one, and it was really delicious,
+Dialogue: 0,0:31:14.17,0:31:19.05,Default,Nacchi,0,0,60,,so I started copying her and making them, and for lunch or whatever,
+Dialogue: 0,0:31:19.13,0:31:24.51,Default,Nacchi,0,0,60,,when I'm a bit hungry, I can make them myself — they're easy, so please try them too!
+Dialogue: 0,0:31:25.09,0:31:28.63,Default,Nacchi,0,0,60,,Please take care of me today!
+Dialogue: 0,0:31:28.71,0:31:30.61,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:31:32.03,0:31:33.73,Default,Amiyun,0,0,60,,Okay!
+Dialogue: 0,0:31:34.18,0:31:38.22,Default,Amiyun,0,0,60,,When I say "Ready," I'd love it if you said it with me!
+Dialogue: 0,0:31:38.88,0:31:40.99,Default,Amiyun,0,0,60,,Shiritori (word chain) — here we go!
+Dialogue: 0,0:31:43.64,0:31:44.86,Default,Amiyun,0,0,60,,Little devil!
+Dialogue: 0,0:31:45.44,0:31:46.67,Default,Crowd,0,0,60,,Magokoro — sincerity!
+Dialogue: 0,0:31:47.06,0:31:47.90,Default,Amiyun,0,0,60,,Long hair!
+Dialogue: 0,0:31:47.98,0:31:49.24,Default,Amiyun,0,0,60,,Ready—
+Dialogue: 0,0:31:49.74,0:31:50.98,Default,Crowd,0,0,60,,Amiyun!
+Dialogue: 0,0:31:51.62,0:31:53.16,Default,Amiyun,0,0,60,,Fukuoka's lucky girl is—?
+Dialogue: 0,0:31:53.72,0:31:54.82,Default,Crowd,0,0,60,,Amiyun!
+Dialogue: 0,0:31:56.16,0:31:56.74,Default,Amiyun,0,0,60,,Thank you!
+Dialogue: 0,0:31:57.00,0:32:01.17,Default,Amiyun,0,0,60,,From Fukuoka Prefecture, 13 — Amiyun, Ishikawa Amiyu! Nice to meet you!
+Dialogue: 0,0:32:01.42,0:32:01.83,Default,Crowd,0,0,60,,Amiyun!
+Dialogue: 0,0:32:06.50,0:32:07.25,Default,Amiyun,0,0,60,,Thank you!
+Dialogue: 0,0:32:07.44,0:32:09.38,Default,Amiyun,0,0,60,,My signature dish is sōmen noodles.
+Dialogue: 0,0:32:09.46,0:32:11.88,Default,Member,0,0,60,,Sōmen? Sōmen?
+Dialogue: 0,0:32:11.96,0:32:17.44,Default,Amiyun,0,0,60,,For a whole week I'd been craving it, and kept begging Mom, but she'd go to the supermarket and come back
+Dialogue: 0,0:32:17.52,0:32:22.40,Default,Amiyun,0,0,60,,and say, "Oh, sōmen — I totally forgot!" so I never got to eat it. So in the end,
+Dialogue: 0,0:32:22.48,0:32:27.02,Default,Amiyun,0,0,60,,I bought it myself, boiled it properly myself, and kind of
+Dialogue: 0,0:32:27.10,0:32:31.88,Default,Amiyun,0,0,60,,did this — can you tell? Like this, like this, grabbing a bunch,
+Dialogue: 0,0:32:31.96,0:32:36.86,Default,Amiyun,0,0,60,,measured it, boiled it, and mid-boil I ate one strand — "still hard" —
+Dialogue: 0,0:32:36.94,0:32:38.71,Default,Amiyun,0,0,60,,like that, I adjusted it properly.
+Dialogue: 0,0:32:38.79,0:32:40.13,Default,Amiyun,0,0,60,,Please take care of me today!
+Dialogue: 0,0:32:40.21,0:32:42.04,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:32:47.30,0:32:52.85,Default,Yuu-chan,0,0,60,,From Fukuoka Prefecture, 13 — 100-yen-shop lover Yuu-chan, Kure-kure Kure-kure…
+Dialogue: 0,0:32:52.93,0:32:54.77,Default,Crowd,0,0,60,,Kure Yuna!
+Dialogue: 0,0:32:55.81,0:32:59.28,Default,Yuu-chan,0,0,60,,I'll give you love — now recruiting oshi! Nice to meet you!
+Dialogue: 0,0:33:00.07,0:33:00.97,Default,Crowd,0,0,60,,Yuu-chan!
+Dialogue: 0,0:33:04.50,0:33:09.95,Default,Yuu-chan,0,0,60,,Thank you! What I can make — my home-cooked dish…
+Dialogue: 0,0:33:10.39,0:33:14.85,Default,Yuu-chan,0,0,60,,My signature home-cooked dish is omurice. Since I was little,
+Dialogue: 0,0:33:14.93,0:33:16.53,Default,Yuu-chan,0,0,60,,I've made it with my grandma,
+Dialogue: 0,0:33:16.61,0:33:19.43,Default,Yuu-chan,0,0,60,,and I always failed at cracking the eggs.
+Dialogue: 0,0:33:20.42,0:33:23.92,Default,Yuu-chan,0,0,60,,Now I can crack them, so I think it's become my signature dish!
+Dialogue: 0,0:33:24.00,0:33:26.00,Default,Yuu-chan,0,0,60,,Please take care of me today!
+Dialogue: 0,0:33:26.08,0:33:28.71,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:33:31.20,0:33:32.66,Default,Yui,0,0,60,,The bread Yui loves is—
+Dialogue: 0,0:33:33.08,0:33:34.94,Default,Crowd,0,0,60,,Mentaiko French bread!
+Dialogue: 0,0:33:35.44,0:33:37.10,Default,Yui,0,0,60,,The bread that loves everyone is—
+Dialogue: 0,0:33:37.18,0:33:38.96,Default,Crowd,0,0,60,,Yui-pan!
+Dialogue: 0,0:33:39.54,0:33:43.18,Default,Yui,0,0,60,,Thank you! From Fukuoka Prefecture, 15 — Matsunaga Yui! Nice to meet you!
+Dialogue: 0,0:33:43.26,0:33:45.06,Default,Crowd,0,0,60,,Yui-pan!
+Dialogue: 0,0:33:49.40,0:33:53.12,Default,Yui,0,0,60,,Thank you! My signature dish has to be bread, right?
+Dialogue: 0,0:33:53.64,0:33:54.11,Default,Member,0,0,60,,Does it?
+Dialogue: 0,0:33:55.96,0:34:00.48,Default,Yui,0,0,60,,I thought bread, but that goes without saying,
+Dialogue: 0,0:34:01.12,0:34:04.40,Default,Yui,0,0,60,,so I'll say something else. There's a…
+Dialogue: 0,0:34:05.80,0:34:09.42,Default,Yui,0,0,60,,banana juice passed down from my grandma,
+Dialogue: 0,0:34:09.50,0:34:13.12,Default,Yui,0,0,60,,and I've gotten pretty good at it.
+Dialogue: 0,0:34:13.20,0:34:16.62,Default,Yui,0,0,60,,I'd like to teach it to the 7th gen
+Dialogue: 0,0:34:16.70,0:34:20.02,Default,Yui,0,0,60,,and have them carry it on.
+Dialogue: 0,0:34:20.62,0:34:26.62,Default,Yui,0,0,60,,So anyone who wants to make banana juice, just come tell me and I'll teach you.
+Dialogue: 0,0:34:26.70,0:34:27.56,Default,Member,0,0,60,,That'd be great!
+Dialogue: 0,0:34:27.66,0:34:28.24,Default,Yui,0,0,60,,Thank you!
+Dialogue: 0,0:34:29.72,0:34:32.96,Default,Yui,0,0,60,,I want to open a banana juice class!
+Dialogue: 0,0:34:33.04,0:34:34.58,Default,Yui,0,0,60,,Please take care of me today!
+Dialogue: 0,0:34:34.66,0:34:36.24,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:34:39.34,0:34:40.58,Default,Aa-tan,0,0,60,,Here I go!
+Dialogue: 0,0:34:40.66,0:34:42.39,Default,Aa-tan,0,0,60,,This tone color is—
+Dialogue: 0,0:34:42.47,0:34:43.68,Default,Crowd,0,0,60,,Ayane iro — Ayane's color!
+Dialogue: 0,0:34:43.76,0:34:46.38,Default,Aa-tan,0,0,60,,Your heart, too, is—
+Dialogue: 0,0:34:46.46,0:34:47.56,Default,Crowd,0,0,60,,Ayane iro!
+Dialogue: 0,0:34:47.64,0:34:51.28,Default,Aa-tan,0,0,60,,From Fukuoka Prefecture — a little sad to see everyone growing up —
+Dialogue: 0,0:34:51.36,0:34:53.02,Default,Aa-tan,0,0,60,,Eighteen!
+Dialogue: 0,0:34:54.04,0:34:55.80,Default,Aa-tan,0,0,60,,Ishii Ayane! Nice to meet you!
+Dialogue: 0,0:35:01.00,0:35:02.05,Default,Aa-tan,0,0,60,,Thank you!
+Dialogue: 0,0:35:02.15,0:35:07.03,Default,Aa-tan,0,0,60,,Okay, my signature bread— I mean, cooking: like everyone said, I can make anything,
+Dialogue: 0,0:35:09.21,0:35:13.65,Default,Aa-tan,0,0,60,,but if I had to pick, there are two.
+Dialogue: 0,0:35:14.09,0:35:15.81,Default,Aa-tan,0,0,60,,First is potatoes.
+Dialogue: 0,0:35:15.89,0:35:19.43,Default,Aa-tan,0,0,60,,French fries — they're amazing these days.
+Dialogue: 0,0:35:20.67,0:35:24.07,Default,Aa-tan,0,0,60,,If you set the temperature and the timer,
+Dialogue: 0,0:35:24.15,0:35:26.91,Default,Aa-tan,0,0,60,,and fry them before they burn—
+Dialogue: 0,0:35:26.99,0:35:28.78,Default,Member,0,0,60,,Isn't that the machine?
+Dialogue: 0,0:35:28.86,0:35:29.87,Default,Member,0,0,60,,That's the machine doing it, right?
+Dialogue: 0,0:35:29.95,0:35:32.87,Default,Aa-tan,0,0,60,,No, I fry them myself when it goes beep-beep-beep!
+Dialogue: 0,0:35:32.97,0:35:35.13,Default,Aa-tan,0,0,60,,Yeah, I'm really confident about that one.
+Dialogue: 0,0:35:35.21,0:35:36.83,Default,Aa-tan,0,0,60,,They don't burn now, either.
+Dialogue: 0,0:35:36.93,0:35:41.87,Default,Aa-tan,0,0,60,,They don't burn anymore. And the other one is fried rice!
+Dialogue: 0,0:35:43.11,0:35:47.75,Default,Aa-tan,0,0,60,,Fried rice — honestly, throw anything in and it turns into fried rice, right?
+Dialogue: 0,0:35:47.83,0:35:50.27,Default,Yui,0,0,60,,Ah, you'd better apologize to the Fried Rice Club!
+Dialogue: 0,0:35:50.35,0:35:51.57,Default,Aa-tan,0,0,60,,No, no, no, no, no!
+Dialogue: 0,0:35:52.83,0:35:55.85,Default,Aa-tan,0,0,60,,I mean, you can make something unique.
+Dialogue: 0,0:35:55.93,0:36:00.38,Default,Aa-tan,0,0,60,,I put in things like edamame,
+Dialogue: 0,0:36:00.46,0:36:01.39,Default,Member,0,0,60,,Ooh, nice!
+Dialogue: 0,0:36:01.47,0:36:04.59,Default,Aa-tan,0,0,60,,it's like, "throw in anything in the freezer."
+Dialogue: 0,0:36:04.67,0:36:06.45,Default,Member,0,0,60,,Yeah, it makes it nice and colorful!
+Dialogue: 0,0:36:06.53,0:36:08.65,Default,Aa-tan,0,0,60,,So everyone, someday—
+Dialogue: 0,0:36:09.31,0:36:11.45,Default,Aa-tan,0,0,60,,I might post it on X,
+Dialogue: 0,0:36:11.53,0:36:14.67,Default,Aa-tan,0,0,60,,so look at my recipe and give me a good scolding!
+Dialogue: 0,0:36:14.77,0:36:16.38,Default,Aa-tan,0,0,60,,Please take care of me today!
+Dialogue: 0,0:36:16.46,0:36:18.79,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:36:23.56,0:36:27.76,Default,Aa-tan,0,0,60,,HKT48 7th-gen trainees, Ramune no Nomikata show!
+Dialogue: 0,0:36:27.84,0:36:30.31,Default,Aa-tan,0,0,60,,We bring it to you with the members above!
+Dialogue: 0,0:36:30.50,0:36:31.28,Default,Aa-tan,0,0,60,,From here—
+Dialogue: 0,0:36:31.36,0:36:32.78,Default,Aa-tan,0,0,60,,Sorry!
+Dialogue: 0,0:36:32.86,0:36:35.44,Default,Aa-tan,0,0,60,,From here, various units will appear!
+Dialogue: 0,0:36:35.52,0:36:37.84,Default,Aa-tan,0,0,60,,Everyone, can you still cheer?
+Dialogue: 0,0:36:38.00,0:36:38.48,Default,Crowd,0,0,60,,Yeah!
+Dialogue: 0,0:36:40.30,0:36:43.18,Default,Aa-tan,0,0,60,,It's a Ramune day, so can you cheer even louder?!
+Dialogue: 0,0:36:43.36,0:36:44.64,Default,Crowd,0,0,60,,Yeah!
+Dialogue: 0,0:36:45.29,0:36:45.87,Default,Aa-tan,0,0,60,,Thank you!
+Dialogue: 0,0:36:46.35,0:36:47.88,Default,Aa-tan,0,0,60,,Here's the next unit!
+Dialogue: 0,0:36:47.96,0:36:48.49,Default,Aa-tan,0,0,60,,Go ahead!
+
+; ===== mc1 =====
+Dialogue: 0,0:57:32.98,0:57:35.04,Default,Aa-tan,0,0,60,,Cross, Finland Miracle,
+Dialogue: 0,0:57:35.12,0:57:36.16,Default,Aa-tan,0,0,60,,Manazashi Sayonara,
+Dialogue: 0,0:57:36.24,0:57:37.60,Default,Aa-tan,0,0,60,,Usotsuki na Dachou,
+Dialogue: 0,0:57:37.68,0:57:38.64,Default,Aa-tan,0,0,60,,and Nice to meet you!
+Dialogue: 0,0:57:38.72,0:57:41.70,Default,Aa-tan,0,0,60,,You just heard those five songs in a row.
+Dialogue: 0,0:57:42.24,0:57:43.36,Default,Aa-tan,0,0,60,,Just the two of us?
+Dialogue: 0,0:57:45.36,0:57:46.38,Default,Member,0,0,60,,Is that right?
+Dialogue: 0,0:57:47.20,0:57:48.34,Default,Yuu-chan,0,0,60,,Looks like it.
+Dialogue: 0,0:57:48.42,0:57:49.38,Default,Member,0,0,60,,So it's two of us today.
+Dialogue: 0,0:57:49.46,0:57:51.06,Default,Member,0,0,60,,Then today, the two of us—
+Dialogue: 0,0:57:51.52,0:57:54.50,Default,Aa-tan,0,0,60,,—would like to do the MC together!
+Dialogue: 0,0:57:57.69,0:58:00.65,Default,Aa-tan,0,0,60,,We're almost at our first anniversary.
+Dialogue: 0,0:58:01.99,0:58:03.88,Default,Aa-tan,0,0,60,,It's our first anniversary, but—
+Dialogue: 0,0:58:04.27,0:58:10.77,Default,Aa-tan,0,0,60,,my family is way too into the 7th gen.
+Dialogue: 0,0:58:11.53,0:58:15.87,Default,Aa-tan,0,0,60,,Whenever my mom sees a strawberry, she goes, "It's Moka-pi!"
+Dialogue: 0,0:58:17.61,0:58:19.97,Default,Aa-tan,0,0,60,,Maybe it's just my family, but
+Dialogue: 0,0:58:20.05,0:58:23.53,Default,Aa-tan,0,0,60,,we've always called 100-yen shops "hyakkin" for short.
+Dialogue: 0,0:58:23.61,0:58:27.67,Default,Aa-tan,0,0,60,,But maybe Kure-chan rubbed off on them — they started saying the full "100-yen shop"!
+Dialogue: 0,0:58:27.75,0:58:29.65,Default,Yuu-chan,0,0,60,,Yay, thank you! Thank you!
+Dialogue: 0,0:58:30.19,0:58:34.83,Default,Yuu-chan,0,0,60,,By the way, Ayane-chan, do you say the full "100-yen shop" for me?
+Dialogue: 0,0:58:36.17,0:58:38.05,Default,Aa-tan,0,0,60,,Sorry, um — I call it by the store's name.
+Dialogue: 0,0:58:38.13,0:58:40.13,Default,Aa-tan,0,0,60,,I say the store name. Sorry!
+Dialogue: 0,0:58:40.21,0:58:42.01,Default,Aa-tan,0,0,60,,I don't really say it, but—
+Dialogue: 0,0:58:42.09,0:58:45.25,Default,Yuu-chan,0,0,60,,Then from now on, everyone, let's all say "100-yen shop" in full!
+Dialogue: 0,0:58:45.35,0:58:45.94,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,0:58:47.09,0:58:48.92,Default,Aa-tan,0,0,60,,And recently, my little sister—
+Dialogue: 0,0:58:49.51,0:58:54.97,Default,Aa-tan,0,0,60,,you know how the Ramune no Nomikata show has five unit songs?
+Dialogue: 0,0:58:55.45,0:58:57.69,Default,Aa-tan,0,0,60,,Apparently she's been practicing them.
+Dialogue: 0,0:58:58.43,0:58:59.57,Default,Aa-tan,0,0,60,,Surprising, right?
+Dialogue: 0,0:58:59.65,0:59:02.43,Default,Aa-tan,0,0,60,,And I was all excited, since I do Nice to meet you!,
+Dialogue: 0,0:59:02.51,0:59:04.51,Default,Aa-tan,0,0,60,,like, "Which one did you learn?"
+Dialogue: 0,0:59:04.59,0:59:06.75,Default,Aa-tan,0,0,60,,I asked her, "Sis, which one did you learn?"
+Dialogue: 0,0:59:06.83,0:59:09.31,Default,Aa-tan,0,0,60,,and she said Usotsuki na Dachou!
+Dialogue: 0,0:59:10.39,0:59:12.17,Default,Aa-tan,0,0,60,,Yeah, it was so frustrating!
+Dialogue: 0,0:59:12.77,0:59:14.97,Default,Yuu-chan,0,0,60,,That happens, it happens.
+Dialogue: 0,0:59:16.25,0:59:18.08,Default,Yuu-chan,0,0,60,,It's not like it never happens—
+Dialogue: 0,0:59:18.91,0:59:19.73,Default,Yuu-chan,0,0,60,,Yeah, totally—
+Dialogue: 0,0:59:19.81,0:59:24.17,Default,Yuu-chan,0,0,60,,it happened to me too. I have a little brother, about this small,
+Dialogue: 0,0:59:25.31,0:59:28.95,Default,Yuu-chan,0,0,60,,and I asked him, too.
+Dialogue: 0,0:59:29.03,0:59:33.67,Default,Yuu-chan,0,0,60,,I asked, figuring he'd name the unit his big sister dances in,
+Dialogue: 0,0:59:33.75,0:59:36.43,Default,Yuu-chan,0,0,60,,and of all things, it was Finland Miracle!
+Dialogue: 0,0:59:38.53,0:59:40.95,Default,Yuu-chan,0,0,60,,When I asked him what made him like it—
+Dialogue: 0,0:59:41.49,0:59:43.08,Default,Yuu-chan,0,0,60,,at someone's birthday show,
+Dialogue: 0,0:59:43.51,0:59:47.31,Default,Yuu-chan,0,0,60,,Yuka-chan always brings snacks and toys as gifts, right?
+Dialogue: 0,0:59:47.39,0:59:51.29,Default,Yuu-chan,0,0,60,,I was playing with the toys by myself,
+Dialogue: 0,0:59:51.37,0:59:55.71,Default,Yuu-chan,0,0,60,,and my brother came over, saying he wanted to play too,
+Dialogue: 0,0:59:55.79,0:59:57.41,Default,Yuu-chan,0,0,60,,so we played together for a bit.
+Dialogue: 0,0:59:57.49,0:59:58.91,Default,Yuu-chan,0,0,60,,And then
+Dialogue: 0,0:59:59.03,1:00:00.61,Default,Yuu-chan,0,0,60,,he asked, "Who gave you this?"
+Dialogue: 0,1:00:00.71,1:00:02.69,Default,Yuu-chan,0,0,60,,and I said, "I got it from Yuka-chan,"
+Dialogue: 0,1:00:02.77,1:00:06.59,Default,Yuu-chan,0,0,60,,and then he said he wants to go to Finland!
+Dialogue: 0,1:00:06.67,1:00:09.33,Default,Yuu-chan,0,0,60,,It's not that he likes Finland Miracle —
+Dialogue: 0,1:00:09.41,1:00:10.94,Default,Yuu-chan,0,0,60,,he wants to go to Finland!
+Dialogue: 0,1:00:11.17,1:00:13.59,Default,Aa-tan,0,0,60,,Wow, as expected! As expected.
+Dialogue: 0,1:00:15.59,1:00:16.23,Default,Member,0,0,60,,Okay, so—
+Dialogue: 0,1:00:16.99,1:00:20.35,Default,Aa-tan,0,0,60,,since I flubbed a bit at the very end, here goes again:
+Dialogue: 0,1:00:22.07,1:00:26.63,Default,Aa-tan,0,0,60,,HKT48 7th-gen trainees, Ramune no Nomikata show —
+Dialogue: 0,1:00:26.71,1:00:28.89,Default,Aa-tan,0,0,60,,we now continue into the second half!
+Dialogue: 0,1:00:29.03,1:00:31.21,Default,Aa-tan,0,0,60,,Everyone, you can still cheer, right?
+Dialogue: 0,1:00:32.93,1:00:34.95,Default,Aa-tan,0,0,60,,Nobody's lost their voice, right?
+Dialogue: 0,1:00:37.47,1:00:37.82,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:00:37.90,1:00:39.63,Default,Aa-tan,0,0,60,,Here's the next song!
+Dialogue: 0,1:00:39.71,1:00:40.24,Default,Member,0,0,60,,Go ahead!
+
+; ===== mc2 =====
+Dialogue: 0,1:12:30.92,1:12:33.20,Default,Rara-pa,0,0,60,,Kodoku na Ballerina, Ima Kimi to Irareru Koto,
+Dialogue: 0,1:12:33.28,1:12:36.26,Default,Rara-pa,0,0,60,,and Winning Ball — you just heard three songs in a row.
+Dialogue: 0,1:12:36.34,1:12:37.58,Default,Rara-pa,0,0,60,,How was it, everyone?
+Dialogue: 0,1:12:39.46,1:12:40.05,Default,Rara-pa,0,0,60,,Thank you!
+Dialogue: 0,1:12:40.78,1:12:43.78,Default,Rara-pa,0,0,60,,From here, the seven of us would like to chat.
+Dialogue: 0,1:12:45.88,1:12:47.80,Default,Rara-pa,0,0,60,,So first — Amiyun!
+Dialogue: 0,1:12:47.88,1:12:48.82,Default,Amiyun,0,0,60,,Okay, here I go!
+Dialogue: 0,1:12:49.76,1:12:52.23,Default,Amiyun,0,0,60,,Something made me a little happy recently.
+Dialogue: 0,1:12:52.40,1:12:55.20,Default,Amiyun,0,0,60,,I was playing a game, and in that game,
+Dialogue: 0,1:12:55.28,1:12:58.48,Default,Amiyun,0,0,60,,there are eggs, and animals, like, hatch from them —
+Dialogue: 0,1:13:00.84,1:13:02.42,Default,Amiyun,0,0,60,,it lets you hatch them, sort of —
+Dialogue: 0,1:13:02.50,1:13:03.97,Default,Amiyun,0,0,60,,there's a game like that,
+Dialogue: 0,1:13:06.42,1:13:08.74,Default,Amiyun,0,0,60,,and I was hatching them, and got pandas,
+Dialogue: 0,1:13:08.82,1:13:10.80,Default,Amiyun,0,0,60,,and pandas are basically black, right?
+Dialogue: 0,1:13:10.88,1:13:13.04,Default,Amiyun,0,0,60,,And there are all kinds of faces, too, but —
+Dialogue: 0,1:13:13.14,1:13:16.10,Default,Amiyun,0,0,60,,I forgot what percent it was —
+Dialogue: 0,1:13:16.18,1:13:17.83,Default,Amiyun,0,0,60,,let's just say Rara percent.
+Dialogue: 0,1:13:18.94,1:13:22.34,Default,Amiyun,0,0,60,,There's a Rara-percent chance a brown panda comes out.
+Dialogue: 0,1:13:23.16,1:13:24.80,Default,Amiyun,0,0,60,,So I kept mass-producing them,
+Dialogue: 0,1:13:24.88,1:13:28.20,Default,Amiyun,0,0,60,,kept at it until it got easy,
+Dialogue: 0,1:13:28.28,1:13:30.06,Default,Amiyun,0,0,60,,and it finally came out!
+Dialogue: 0,1:13:30.14,1:13:31.80,Default,Amiyun,0,0,60,,I was like, "Yesss!"
+Dialogue: 0,1:13:32.26,1:13:34.82,Default,Amiyun,0,0,60,,And I decided to name it Riria-chan.
+Dialogue: 0,1:13:34.90,1:13:37.22,Default,Member,0,0,60,,Why'd you name it Riria?
+Dialogue: 0,1:13:37.30,1:13:39.50,Default,Amiyun,0,0,60,,Riria was sleeping over, you see,
+Dialogue: 0,1:13:39.58,1:13:42.24,Default,Amiyun,0,0,60,,going, "Egg, please, please!"
+Dialogue: 0,1:13:43.36,1:13:46.70,Default,Amiyun,0,0,60,,Then we changed spots, and a brown one came out on the first try!
+Dialogue: 0,1:13:46.80,1:13:47.15,Default,Member,0,0,60,,Amazing!
+Dialogue: 0,1:13:47.23,1:13:50.86,Default,Member,0,0,60,,So the spot you were pulling from was bad, huh.
+Dialogue: 0,1:13:50.94,1:13:53.16,Default,Amiyun,0,0,60,,I really thought, "So it was bad after all."
+Dialogue: 0,1:13:53.24,1:13:54.20,Default,Member,0,0,60,,No, it's fine.
+Dialogue: 0,1:13:54.28,1:13:56.92,Default,Rara-pa,0,0,60,,If you're near Rara, it's probably Rara percent, so—
+Dialogue: 0,1:13:57.00,1:13:58.18,Default,Member,0,0,60,,Is that how it works?
+Dialogue: 0,1:13:58.28,1:13:58.84,Default,Member,0,0,60,,Yeah, so—
+Dialogue: 0,1:13:58.92,1:14:01.04,Default,Amiyun,0,0,60,,But how many did I hatch, seriously…
+Dialogue: 0,1:14:01.60,1:14:03.66,Default,Member,0,0,60,,Rara percent is a tough probability, huh.
+Dialogue: 0,1:14:03.74,1:14:04.60,Default,Member,0,0,60,,Yeah, it's tough.
+Dialogue: 0,1:14:04.70,1:14:05.46,Default,Member,0,0,60,,Well, good luck.
+Dialogue: 0,1:14:05.54,1:14:05.90,Default,Member,0,0,60,,It's hard.
+Dialogue: 0,1:14:05.98,1:14:08.22,Default,Member,0,0,60,,So basically it's a luck game.
+Dialogue: 0,1:14:08.30,1:14:08.70,Default,Amiyun,0,0,60,,Yep.
+Dialogue: 0,1:14:08.85,1:14:10.32,Default,Rara-pa,0,0,60,,Got luck? Got any "un"?
+Dialogue: 1,1:14:09.30,1:14:13.74,Default,Note,0,0,60,,{\an8}Pun: 運 (un) = "luck", うん (un) = "yeah", so "Un!" is both "yes" and "luck."
+Dialogue: 0,1:14:10.56,1:14:10.91,Default,Member,0,0,60,,Un!
+Dialogue: 0,1:14:10.99,1:14:12.70,Default,Member,0,0,60,,Mine's really bad.
+Dialogue: 0,1:14:12.78,1:14:13.46,Default,Member,0,0,60,,Mm.
+Dialogue: 0,1:14:13.88,1:14:15.70,Default,Member,0,0,60,,Because it's Rara percent.
+Dialogue: 0,1:14:15.78,1:14:16.32,Default,Member,0,0,60,,Nice.
+Dialogue: 0,1:14:16.40,1:14:17.14,Default,Member,0,0,60,,Are you okay now?
+Dialogue: 0,1:14:17.22,1:14:18.42,Default,Member,0,0,60,,Like rock-paper-scissors?
+Dialogue: 0,1:14:18.52,1:14:19.64,Default,Member,0,0,60,,Let's play rock-paper-scissors!
+Dialogue: 0,1:14:19.72,1:14:20.54,Default,Member,0,0,60,,Try it, try it!
+Dialogue: 0,1:14:20.62,1:14:21.00,Default,Member,0,0,60,,Sure, sure.
+Dialogue: 0,1:14:21.08,1:14:21.90,Default,Member,0,0,60,,Go ahead.
+Dialogue: 0,1:14:22.28,1:14:24.28,Default,Member,0,0,60,,You have to watch carefully, right?
+Dialogue: 0,1:14:24.38,1:14:25.78,Default,Member,0,0,60,,Then let's do it once more without looking.
+Dialogue: 0,1:14:25.86,1:14:26.26,Default,Member,0,0,60,,Ooh!
+Dialogue: 0,1:14:27.02,1:14:28.88,Default,Rara-pa,0,0,60,,I haven't been able to do it lately.
+Dialogue: 0,1:14:28.98,1:14:29.92,Default,Member,0,0,60,,Is that a thing?
+Dialogue: 0,1:14:30.14,1:14:32.16,Default,Member,0,0,60,,Rock, paper, scissors — shoot!
+Dialogue: 0,1:14:33.12,1:14:34.40,Default,Member,0,0,60,,Want to watch once more? You okay?
+Dialogue: 0,1:14:34.50,1:14:35.58,Default,Rara-pa,0,0,60,,I'll watch once more.
+Dialogue: 0,1:14:35.66,1:14:37.78,Default,Member,0,0,60,,You did this on SHOWROOM too, right?
+Dialogue: 0,1:14:38.68,1:14:39.30,Default,Rara-pa,0,0,60,,Okay, here I go.
+Dialogue: 0,1:14:39.38,1:14:39.74,Default,Member,0,0,60,,When Rara—
+Dialogue: 0,1:14:39.82,1:14:41.16,Default,Member,0,0,60,,Rock, paper, scissors — shoot!
+Dialogue: 0,1:14:41.24,1:14:41.94,Default,All,0,0,60,,Yay!
+Dialogue: 0,1:14:42.50,1:14:42.85,Default,Member,0,0,60,,Amazing!
+Dialogue: 0,1:14:42.93,1:14:43.40,Default,Rara-pa,0,0,60,,I won!
+Dialogue: 0,1:14:43.48,1:14:44.40,Default,Member,0,0,60,,Okay, then—
+Dialogue: 0,1:14:44.48,1:14:45.76,Default,Member,0,0,60,,It might be a fluke.
+Dialogue: 0,1:14:45.84,1:14:46.61,Default,Member,0,0,60,,It's a fluke.
+Dialogue: 0,1:14:46.98,1:14:48.86,Default,Rara-pa,0,0,60,,No, this really works, seriously!
+Dialogue: 0,1:14:48.94,1:14:50.36,Default,Member,0,0,60,,Does it really work?
+Dialogue: 0,1:14:50.44,1:14:50.79,Default,Member,0,0,60,,Yeah.
+Dialogue: 0,1:14:50.87,1:14:51.60,Default,Member,0,0,60,,How can you see it?
+Dialogue: 0,1:14:51.68,1:14:52.03,Default,Member,0,0,60,,Where?
+Dialogue: 0,1:14:52.11,1:14:54.12,Default,Rara-pa,0,0,60,,I actually saw this on TV.
+Dialogue: 0,1:14:54.20,1:14:55.64,Default,Member,0,0,60,,Come on, teach me!
+Dialogue: 0,1:14:55.72,1:14:56.68,Default,Rara-pa,0,0,60,,No, this is a trade—
+Dialogue: 0,1:14:56.76,1:14:57.11,Default,Member,0,0,60,,Ah, not allowed?
+Dialogue: 0,1:14:57.19,1:14:58.66,Default,Member,0,0,60,,It's a Rara-percent chance, after all.
+Dialogue: 0,1:14:58.74,1:15:00.18,Default,Rara-pa,0,0,60,,It's my trade secret.
+Dialogue: 0,1:15:00.58,1:15:03.56,Default,Rara-pa,0,0,60,,Sorry — everyone, please figure this one out on your own.
+Dialogue: 0,1:15:03.64,1:15:05.52,Default,Rara-pa,0,0,60,,Check the TV and try it.
+Dialogue: 0,1:15:05.60,1:15:07.44,Default,Rara-pa,0,0,60,,Try it out, try all kinds of methods.
+Dialogue: 0,1:15:07.52,1:15:09.12,Default,Member,0,0,60,,I recommend it.
+Dialogue: 0,1:15:09.20,1:15:10.34,Default,Rara-pa,0,0,60,,Yes, I recommend it. Okay then—
+Dialogue: 0,1:15:10.42,1:15:12.42,Default,Member,0,0,60,,like switching right and left, or—
+Dialogue: 0,1:15:15.76,1:15:17.46,Default,Rara-pa,0,0,60,,Okay, that's enough. Next, Maria.
+Dialogue: 0,1:15:17.54,1:15:21.84,Default,Mari-tan,0,0,60,,Um, I had a small happy moment.
+Dialogue: 0,1:15:21.92,1:15:25.02,Default,Mari-tan,0,0,60,,I was doing a gacha capsule machine,
+Dialogue: 0,1:15:25.10,1:15:29.36,Default,Mari-tan,0,0,60,,and I did five different ones, and got every one I wanted.
+Dialogue: 0,1:15:30.48,1:15:32.18,Default,Member,0,0,60,,You mean all different kinds?
+Dialogue: 0,1:15:32.28,1:15:33.28,Default,Mari-tan,0,0,60,,I guess it depends how many kinds there are.
+Dialogue: 0,1:15:33.36,1:15:36.86,Default,Mari-tan,0,0,60,,I pulled thinking "I want that one," and every one I wanted came out.
+Dialogue: 0,1:15:36.96,1:15:38.32,Default,Member,0,0,60,,Now that's luck!
+Dialogue: 0,1:15:38.40,1:15:39.14,Default,Member,0,0,60,,Right?
+Dialogue: 0,1:15:39.22,1:15:40.70,Default,Member,0,0,60,,That might top everything.
+Dialogue: 0,1:15:40.80,1:15:42.52,Default,Member,0,0,60,,You mean you got every kind?
+Dialogue: 0,1:15:42.76,1:15:47.38,Default,Mari-tan,0,0,60,,No — there was one I wanted, and when I pulled, I got that one,
+Dialogue: 0,1:15:47.46,1:15:49.64,Default,Mari-tan,0,0,60,,then I did a different kind of machine—
+Dialogue: 0,1:15:49.74,1:15:51.68,Default,Member,0,0,60,,On a different machine, you mean?
+Dialogue: 0,1:15:51.88,1:15:52.76,Default,Member,0,0,60,,That's amazing.
+Dialogue: 0,1:15:53.10,1:15:55.76,Default,Amiyun,0,0,60,,Once, I got the same one five times.
+Dialogue: 0,1:15:55.84,1:15:56.74,Default,Member,0,0,60,,No, no, no!
+Dialogue: 0,1:15:56.82,1:15:58.06,Default,Member,0,0,60,,Amiyun, why at the end? Why?
+Dialogue: 0,1:15:58.14,1:16:01.40,Default,Member,0,0,60,,Amiyun got the same one five times!
+Dialogue: 0,1:16:02.16,1:16:03.40,Default,Amiyun,0,0,60,,Got the same one five times.
+Dialogue: 0,1:16:03.48,1:16:04.40,Default,Member,0,0,60,,That's impressive in its own way.
+Dialogue: 0,1:16:04.48,1:16:08.62,Default,Amiyun,0,0,60,,It wasn't the one I was aiming for, so I thought I'd have Mari-tan pull for me,
+Dialogue: 0,1:16:08.70,1:16:10.74,Default,Amiyun,0,0,60,,since she seems pretty lucky.
+Dialogue: 0,1:16:10.82,1:16:11.80,Default,Amiyun,0,0,60,,I'll take her along.
+Dialogue: 0,1:16:11.88,1:16:13.78,Default,Member,0,0,60,,She's amazing, right? Take her along!
+Dialogue: 0,1:16:13.86,1:16:14.58,Default,Mari-tan,0,0,60,,Huh, is that okay?
+Dialogue: 0,1:16:14.68,1:16:15.82,Default,Amiyun,0,0,60,,Then I'll take Rara along too!
+Dialogue: 0,1:16:15.90,1:16:16.88,Default,Member,0,0,60,,Yeah, I see.
+Dialogue: 0,1:16:16.96,1:16:19.56,Default,Member,0,0,60,,Some people might want to play rock-paper-scissors with her, so—
+Dialogue: 0,1:16:19.66,1:16:20.52,Default,Member,0,0,60,,True.
+Dialogue: 0,1:16:20.60,1:16:21.40,Default,Member,0,0,60,,That's true.
+Dialogue: 0,1:16:21.48,1:16:23.34,Default,Member,0,0,60,,You might even win snacks or something!
+Dialogue: 0,1:16:23.42,1:16:23.80,Default,Member,0,0,60,,Yeah.
+Dialogue: 0,1:16:24.72,1:16:29.00,Default,Moka-pi,0,0,60,,For mine — earlier, Minami was the batter, right?
+Dialogue: 0,1:16:29.08,1:16:35.38,Default,Moka-pi,0,0,60,,And at rehearsal, Minami was going, "I'm totally nailing it today,"
+Dialogue: 0,1:16:35.46,1:16:38.00,Default,Moka-pi,0,0,60,,and once more with Rara, we were like, "Ooh!"
+Dialogue: 0,1:16:38.08,1:16:39.72,Default,Moka-pi,0,0,60,,It flew really far—
+Dialogue: 0,1:16:39.80,1:16:41.04,Default,Moka-pi,0,0,60,,in rehearsal, I mean.
+Dialogue: 0,1:16:41.24,1:16:42.50,Default,Member,0,0,60,,In rehearsal, right.
+Dialogue: 0,1:16:42.58,1:16:46.40,Default,Moka-pi,0,0,60,,So I figured it'd fly in the show, and Minami seemed pretty confident too,
+Dialogue: 0,1:16:46.48,1:16:47.84,Default,Moka-pi,0,0,60,,like, "Let's gooo!"
+Dialogue: 0,1:16:48.28,1:16:49.66,Default,Moka-pi,0,0,60,,and then she missed.
+Dialogue: 0,1:16:50.78,1:16:53.26,Default,Moka-pi,0,0,60,,And mid-song, Rara and I made eye contact,
+Dialogue: 0,1:16:54.34,1:16:56.28,Default,Moka-pi,0,0,60,,and Rara was grinning like crazy.
+Dialogue: 0,1:16:56.66,1:17:00.42,Default,Member,0,0,60,,Rara, you know — not just Moka, she was making eye contact with Yuka too!
+Dialogue: 0,1:17:00.50,1:17:00.90,Default,Member,0,0,60,,Huh? Huh?
+Dialogue: 0,1:17:01.00,1:17:02.26,Default,Member,0,0,60,,Then it must've been really funny.
+Dialogue: 0,1:17:02.34,1:17:05.90,Default,Moka-pi,0,0,60,,Because even before she hit them far in rehearsal,
+Dialogue: 0,1:17:05.98,1:17:08.18,Default,Moka-pi,0,0,60,,she was like, "Minami's got this today!"
+Dialogue: 0,1:17:08.26,1:17:08.74,Default,Member,0,0,60,,She did say that!
+Dialogue: 0,1:17:08.82,1:17:09.30,Default,Member,0,0,60,,She said it.
+Dialogue: 0,1:17:09.38,1:17:10.66,Default,Member,0,0,60,,She was so confident.
+Dialogue: 0,1:17:10.74,1:17:12.24,Default,Moka-pi,0,0,60,,And in rehearsal she hit them pretty far, too.
+Dialogue: 0,1:17:12.32,1:17:13.34,Default,Member,0,0,60,,Yeah, pretty far there.
+Dialogue: 0,1:17:13.42,1:17:14.20,Default,Member,0,0,60,,Like, "Whoa!"
+Dialogue: 0,1:17:14.28,1:17:14.82,Default,Member,0,0,60,,It was amazing, right?
+Dialogue: 0,1:17:14.90,1:17:16.72,Default,Member,0,0,60,,In rehearsal it was like this, see.
+Dialogue: 0,1:17:16.80,1:17:22.15,Default,Moka-pi,0,0,60,,Right, so when I bring it over, Mina's waiting right here — waiting with a super smug face!
+Dialogue: 0,1:17:23.42,1:17:25.92,Default,Moka-pi,0,0,60,,I thought, "She's totally going to knock this out" — and it didn't fly at all.
+Dialogue: 0,1:17:26.00,1:17:28.00,Default,Moka-pi,0,0,60,,And then, spectacularly — nothing.
+Dialogue: 0,1:17:29.72,1:17:30.52,Default,Member,0,0,60,,Isn't that cute?
+Dialogue: 0,1:17:30.60,1:17:33.50,Default,Moka-pi,0,0,60,,So yeah, that's everyone's little happiness.
+Dialogue: 0,1:17:33.58,1:17:37.06,Default,Member,0,0,60,,Huh? Rara and Minami's thing was your happiness? Seriously?
+Dialogue: 0,1:17:37.42,1:17:40.58,Default,Rara-pa,0,0,60,,Now that we've heard everyone's little happiness, on to the second half!
+Dialogue: 0,1:17:40.68,1:17:43.28,Default,Rara-pa,0,0,60,,It's the second half — take it away!
+Dialogue: 0,1:17:43.36,1:17:49.86,Default,All,0,0,60,,Yay!
+Dialogue: 0,1:17:50.12,1:17:53.12,Default,All,0,0,60,,Woo!
+Dialogue: 0,1:17:55.02,1:17:56.30,Default,Member,0,0,60,,What are you trying to say?
+Dialogue: 0,1:17:56.40,1:17:56.76,Default,Mii-na,0,0,60,,No—
+Dialogue: 0,1:17:58.64,1:17:59.94,Default,Mii-na,0,0,60,,I'm sorry!
+Dialogue: 0,1:18:01.32,1:18:02.56,Default,Member,0,0,60,,That was heartfelt.
+Dialogue: 0,1:18:02.64,1:18:03.56,Default,Mii-na,0,0,60,,No, that's not it!
+Dialogue: 0,1:18:03.64,1:18:04.90,Default,Mii-na,0,0,60,,Moka, isn't that mean?
+Dialogue: 0,1:18:05.00,1:18:05.94,Default,Mii-na,0,0,60,,This is a bit—
+Dialogue: 0,1:18:06.98,1:18:11.14,Default,Mii-na,0,0,60,,Actually, I had something I wanted to talk about here today.
+Dialogue: 0,1:18:12.08,1:18:13.74,Default,Mii-na,0,0,60,,Assuming that I'd hit—
+Dialogue: 0,1:18:13.82,1:18:14.72,Default,Member,0,0,60,,Assuming you'd hit, huh?
+Dialogue: 0,1:18:14.80,1:18:17.98,Default,Mii-na,0,0,60,,I had something to say, assuming I'd hit a home run.
+Dialogue: 0,1:18:19.22,1:18:20.14,Default,Member,0,0,60,,You'd planned it out?
+Dialogue: 0,1:18:20.22,1:18:24.30,Default,Mii-na,0,0,60,,Yeah! Moka just said I hit really far in rehearsal,
+Dialogue: 0,1:18:24.38,1:18:29.00,Default,Mii-na,0,0,60,,and ever since then, people kept saying Minami would definitely whiff in the show —
+Dialogue: 0,1:18:29.08,1:18:30.67,Default,Mii-na,0,0,60,,they really kept saying it.
+Dialogue: 0,1:18:32.12,1:18:36.40,Default,Mii-na,0,0,60,,So I thought, "I'll definitely knock it out" — and I whiffed.
+Dialogue: 0,1:18:36.48,1:18:36.96,Default,Member,0,0,60,,Right.
+Dialogue: 0,1:18:38.10,1:18:40.42,Default,Member,0,0,60,,But you were really good in rehearsal, weren't you?
+Dialogue: 0,1:18:40.50,1:18:41.42,Default,Mii-na,0,0,60,,In rehearsal, yeah.
+Dialogue: 0,1:18:41.50,1:18:45.84,Default,Member,0,0,60,,Minami was going, "Watch me next time, watch me!"
+Dialogue: 0,1:18:45.92,1:18:48.36,Default,Member,0,0,60,,And yet in the show…
+Dialogue: 0,1:18:50.18,1:18:51.74,Default,Member,0,0,60,,I was shocked!
+Dialogue: 0,1:18:51.82,1:18:54.16,Default,Member,0,0,60,,But your form looked really good — your form.
+Dialogue: 0,1:18:54.24,1:18:54.65,Default,Mii-na,0,0,60,,Really?
+Dialogue: 0,1:18:57.58,1:18:59.04,Default,Mii-na,0,0,60,,Honestly, I—
+Dialogue: 0,1:18:59.12,1:19:00.74,Default,Mii-na,0,0,60,,I'd been nervous since the MC that opens the units.
+Dialogue: 0,1:19:00.82,1:19:03.74,Default,Mii-na,0,0,60,,I was nervous from when I was on standby backstage,
+Dialogue: 0,1:19:03.84,1:19:08.02,Default,Mii-na,0,0,60,,and after the second chorus of Winning Ball, my hands wouldn't stop shaking.
+Dialogue: 0,1:19:08.10,1:19:09.24,Default,Member,0,0,60,,Ah — making excuses?
+Dialogue: 0,1:19:09.34,1:19:09.90,Default,Mii-na,0,0,60,,It's not an excuse!
+Dialogue: 0,1:19:09.98,1:19:10.33,Default,Mii-na,0,0,60,,Not an excuse!
+Dialogue: 0,1:19:10.41,1:19:11.70,Default,Mii-na,0,0,60,,This is not an excuse!
+Dialogue: 0,1:19:12.72,1:19:13.38,Default,Member,0,0,60,,It's hard, huh.
+Dialogue: 0,1:19:13.46,1:19:19.76,Default,Aa-tan,0,0,60,,But that smug face at rehearsal — I'm the one receiving it, you know?
+Dialogue: 0,1:19:21.36,1:19:27.86,Default,Aa-tan,0,0,60,,Silently, like this, twitching her eyebrows, giving me a smug look.
+Dialogue: 0,1:19:28.00,1:19:30.98,Default,Aa-tan,0,0,60,,She did hit it a little — just a little.
+Dialogue: 0,1:19:31.06,1:19:35.94,Default,Aa-tan,0,0,60,,She hit it a little, but in the show she missed, so I—
+Dialogue: 0,1:19:36.02,1:19:39.43,Default,Aa-tan,0,0,60,,my inner voice slipped out, and I kind of screamed "Kyaa!"
+Dialogue: 0,1:19:41.00,1:19:46.94,Default,Mii-na,0,0,60,,You see, the members who can hit tend to get picked a lot,
+Dialogue: 0,1:19:47.02,1:19:51.54,Default,Mii-na,0,0,60,,and I've done it about four times and missed about three,
+Dialogue: 0,1:19:52.78,1:19:57.92,Default,Mii-na,0,0,60,,so I hardly got picked. It finally came around today, so I figured if I hit today, I'd get another turn,
+Dialogue: 0,1:19:58.00,1:20:00.12,Default,Mii-na,0,0,60,,but then I whiffed today, so—
+Dialogue: 0,1:20:00.66,1:20:01.56,Default,Mii-na,0,0,60,,Uh-oh…
+Dialogue: 0,1:20:01.64,1:20:04.50,Default,Member,0,0,60,,You're in a pinch! Go a fifth time and you're done!
+Dialogue: 0,1:20:04.58,1:20:05.29,Default,Mii-na,0,0,60,,This is bad…
+Dialogue: 0,1:20:06.96,1:20:12.46,Default,Mii-na,0,0,60,,Yeah — there may be an unspoken rule that members who miss five times can't do it anymore.
+Dialogue: 0,1:20:12.54,1:20:13.60,Default,Mii-na,0,0,60,,Not that I'd know.
+Dialogue: 0,1:20:13.74,1:20:19.72,Default,Aya-chan,0,0,60,,But Ayane here hit a home run once, all the way to the standing area, and it still hasn't come back around to me.
+Dialogue: 0,1:20:19.80,1:20:20.34,Default,Member,0,0,60,,Ahh.
+Dialogue: 0,1:20:22.38,1:20:23.94,Default,Member,0,0,60,,Well, well, well…
+Dialogue: 0,1:20:24.46,1:20:26.00,Default,Member,0,0,60,,That can't be helped.
+Dialogue: 0,1:20:26.88,1:20:27.44,Default,Member,0,0,60,,No helping it.
+Dialogue: 0,1:20:27.52,1:20:28.46,Default,Member,0,0,60,,That's how it goes.
+Dialogue: 0,1:20:28.54,1:20:32.88,Default,Mei-mei,0,0,60,,Well then, for the second half, I'd like to talk with these members.
+Dialogue: 0,1:20:34.80,1:20:36.96,Default,Mii-na,0,0,60,,Sorry the preamble was so long.
+Dialogue: 0,1:20:37.34,1:20:38.58,Default,Member,0,0,60,,The preamble was way too long.
+Dialogue: 0,1:20:38.66,1:20:39.56,Default,Member,0,0,60,,It was, huh.
+Dialogue: 0,1:20:39.64,1:20:40.72,Default,Member,0,0,60,,That surprised me.
+Dialogue: 0,1:20:40.80,1:20:41.54,Default,Mii-na,0,0,60,,Sorry.
+Dialogue: 0,1:20:42.10,1:20:45.88,Default,Mei-mei,0,0,60,,I was going to call on Minami first anyway — how about it?
+Dialogue: 0,1:20:46.64,1:20:50.32,Default,Mii-na,0,0,60,,Um, there's one more thing I want to talk about.
+Dialogue: 0,1:20:51.14,1:20:54.98,Default,Mii-na,0,0,60,,It's about Mei-mei.
+Dialogue: 0,1:20:55.06,1:20:58.62,Default,Mii-na,0,0,60,,I really love reading Mei-mei's X posts.
+Dialogue: 0,1:20:59.66,1:21:01.20,Default,Member,0,0,60,,I get it, I get it.
+Dialogue: 0,1:21:01.28,1:21:02.60,Default,Mii-na,0,0,60,,Right? They're so soothing.
+Dialogue: 0,1:21:02.68,1:21:07.09,Default,Mii-na,0,0,60,,How do I put it — every single character is written so carefully, isn't it?
+Dialogue: 0,1:21:07.44,1:21:10.36,Default,Mii-na,0,0,60,,So I… um — no, sorry.
+Dialogue: 0,1:21:10.44,1:21:14.54,Default,Mii-na,0,0,60,,I really wanted to talk about this, hoping someone would relate.
+Dialogue: 0,1:21:14.62,1:21:20.10,Default,Member,0,0,60,,But also, like, measuring something on a beach—
+Dialogue: 0,1:21:20.18,1:21:21.28,Default,Member,0,0,60,,Oh — from when she was little!
+Dialogue: 0,1:21:21.36,1:21:24.26,Default,Member,0,0,60,,Yeah — where do you dig up those videos, I'm asking!
+Dialogue: 0,1:21:24.34,1:21:24.86,Default,Member,0,0,60,,Right?
+Dialogue: 0,1:21:26.34,1:21:31.18,Default,Mei-mei,0,0,60,,My parents have been keeping something like an observation diary since way back,
+Dialogue: 0,1:21:31.26,1:21:36.14,Default,Mei-mei,0,0,60,,filming it, probably, and there are tons of photos I haven't shown you yet,
+Dialogue: 0,1:21:36.22,1:21:39.94,Default,Mei-mei,0,0,60,,so I hope I can show you chibi Mei-mei from now on!
+Dialogue: 0,1:21:40.66,1:21:43.52,Default,All,0,0,60,,We'll be waiting! We'll be waiting!
+Dialogue: 0,1:21:43.60,1:21:46.52,Default,Member,0,0,60,,Wait — you do Mei-mei fortune-telling on SHOWROOM?
+Dialogue: 0,1:21:46.60,1:21:47.34,Default,Mei-mei,0,0,60,,Yeah, I do.
+Dialogue: 0,1:21:47.42,1:21:48.42,Default,Member,0,0,60,,I'm kind of curious —
+Dialogue: 0,1:21:48.50,1:21:49.86,Default,Member,0,0,60,,is it accurate?
+Dialogue: 0,1:21:50.22,1:21:52.24,Default,Mei-mei,0,0,60,,Um, how about it, everyone — is it accurate?
+Dialogue: 0,1:21:52.32,1:21:53.18,Default,Member,0,0,60,,Is it?
+Dialogue: 0,1:21:54.74,1:21:57.24,Default,Member,0,0,60,,Hey, that's a pretty lukewarm reaction!
+Dialogue: 0,1:21:57.32,1:21:59.44,Default,Member,0,0,60,,It's accurate! It's accurate!
+Dialogue: 0,1:21:59.52,1:22:01.22,Default,Member,0,0,60,,What do you even do in Mei-mei fortune-telling?
+Dialogue: 0,1:22:01.30,1:22:06.16,Default,Mei-mei,0,0,60,,I have people choose from three options, and if they pick the melon,
+Dialogue: 0,1:22:06.24,1:22:08.07,Default,Mei-mei,0,0,60,,it's super, super, super lucky!
+Dialogue: 0,1:22:08.70,1:22:11.86,Default,Member,0,0,60,,Wait — that's totally self-taught!
+Dialogue: 0,1:22:12.56,1:22:14.22,Default,Member,0,0,60,,Isn't that way too shaky?
+Dialogue: 0,1:22:14.30,1:22:16.82,Default,Mei-mei,0,0,60,,No, no — but it's accurate, right, everyone?
+Dialogue: 0,1:22:16.92,1:22:18.72,Default,Member,0,0,60,,Wow, lukewarm, lukewarm!
+Dialogue: 0,1:22:19.30,1:22:21.42,Default,Member,0,0,60,,Don't make Mei-mei's fans tiptoe around you!
+Dialogue: 0,1:22:21.50,1:22:22.33,Default,Member,0,0,60,,Don't do that!
+Dialogue: 0,1:22:22.90,1:22:24.32,Default,Mei-mei,0,0,60,,I won't!
+Dialogue: 0,1:22:28.68,1:22:33.26,Default,Mei-mei,0,0,60,,From next time, I'll research it properly and do my best.
+Dialogue: 0,1:22:33.96,1:22:37.78,Default,Mei-mei,0,0,60,,Okay, so — yes, I'll keep doing my very best!
+Dialogue: 0,1:22:39.06,1:22:41.84,Default,Mei-mei,0,0,60,,Then, to all of you so dear to us, what we rarely say:
+Dialogue: 0,1:22:41.92,1:22:45.02,Default,Mei-mei,0,0,60,,our thanks and feelings — we'll share them in the next song.
+Dialogue: 0,1:22:45.12,1:22:46.83,Default,Mei-mei,0,0,60,,Please listen — Akushu no Ai.
+
+; ===== mc3 =====
+Dialogue: 0,1:39:31.00,1:39:32.48,Default,All,0,0,60,,Yay!
+Dialogue: 0,1:39:36.30,1:39:37.77,Default,Mii-na,0,0,60,,Thank you for the encore!
+Dialogue: 0,1:39:38.56,1:39:39.15,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:39:45.91,1:39:49.93,Default,Mii-na,0,0,60,,"Bowling Ganbou" and "16iro no Yume Crayon" — you just heard those two songs in a row.
+Dialogue: 0,1:39:50.01,1:39:51.47,Default,Mii-na,0,0,60,,Is everyone having fun?
+Dialogue: 0,1:39:54.10,1:39:55.75,Default,Mii-na,0,0,60,,Thank you!
+Dialogue: 0,1:39:55.90,1:39:58.68,Default,Mii-na,0,0,60,,Now we'd like to hear a few members' thoughts.
+Dialogue: 0,1:40:00.10,1:40:01.04,Default,Mii-na,0,0,60,,First, Mari-tan.
+Dialogue: 0,1:40:03.34,1:40:05.92,Default,Mari-tan,0,0,60,,To everyone who came to the Ramune no Nomikata stage today,
+Dialogue: 0,1:40:06.00,1:40:10.32,Default,Mari-tan,0,0,60,,and everyone watching on the DMM stream, thank you so much!
+Dialogue: 0,1:40:15.12,1:40:19.12,Default,Mari-tan,0,0,60,,The 7th gen is about to reach our first anniversary,
+Dialogue: 0,1:40:19.20,1:40:22.79,Default,Mari-tan,0,0,60,,and thank you all so much for supporting us every single day.
+Dialogue: 0,1:40:23.84,1:40:28.58,Default,Mari-tan,0,0,60,,And the 7th gen will stay united as 16 members
+Dialogue: 0,1:40:28.66,1:40:30.36,Default,Mari-tan,0,0,60,,and keep working really hard.
+Dialogue: 0,1:40:30.64,1:40:34.00,Default,Mari-tan,0,0,60,,Please keep supporting the Ramune no Nomikata stage and the 7th gen!
+Dialogue: 0,1:40:34.08,1:40:34.54,Default,All,0,0,60,,Please!
+Dialogue: 0,1:40:40.80,1:40:41.76,Default,Mii-na,0,0,60,,Next, Sara-tan.
+Dialogue: 0,1:40:42.00,1:40:46.34,Default,Sara-tan,0,0,60,,Thanks for coming to the Ramune no Nomikata stage today,
+Dialogue: 0,1:40:46.42,1:40:49.42,Default,Sara-tan,0,0,60,,and to everyone watching on DMM, thank you so much!
+Dialogue: 0,1:40:54.10,1:40:56.03,Default,Sara-tan,0,0,60,,This is a bit of a plug, but...
+Dialogue: 0,1:40:56.11,1:41:00.01,Default,Sara-tan,0,0,60,,tomorrow is Sara's 16th birthday show!
+Dialogue: 0,1:41:04.68,1:41:05.10,Default,Sara-tan,0,0,60,,So...
+Dialogue: 0,1:41:06.92,1:41:11.90,Default,Sara-tan,0,0,60,,if you're free tomorrow, I'd be happy if you came!
+Dialogue: 0,1:41:11.98,1:41:13.54,Default,Sara-tan,0,0,60,,Thank you for today!
+Dialogue: 0,1:41:19.24,1:41:19.66,Default,Mii-na,0,0,60,,And...
+Dialogue: 0,1:41:22.02,1:41:25.30,Default,Mii-na,0,0,60,,we have an announcement from the HKT48 7th gen!
+Dialogue: 0,1:41:26.56,1:41:27.88,Default,Mii-na,0,0,60,,But before that...
+Dialogue: 0,1:41:29.24,1:41:32.92,Default,Mii-na,0,0,60,,does everyone know what day May 9, 2025 is?
+Dialogue: 0,1:41:33.22,1:41:36.63,Default,Mii-na,0,0,60,,Really? Do you really know?
+Dialogue: 0,1:41:38.87,1:41:44.51,Default,Mii-na,0,0,60,,The answer: it's the 1st anniversary of our HKT48 7th gen debut!
+Dialogue: 0,1:41:45.79,1:41:50.78,Default,Mii-na,0,0,60,,To celebrate one year since our debut,
+Dialogue: 0,1:41:50.86,1:41:55.64,Default,Mii-na,0,0,60,,On May 9, from 7 p.m., we, the HKT48 7th gen,
+Dialogue: 0,1:41:55.72,1:41:58.74,Default,Mii-na,0,0,60,,will hold a 1st-anniversary stream!
+Dialogue: 0,1:42:02.55,1:42:05.31,Default,Mii-na,0,0,60,,For details, please check the official website!
+Dialogue: 0,1:42:05.51,1:42:09.71,Default,Mii-na,0,0,60,,Everyone, please keep May 9 free!
+Dialogue: 0,1:42:09.79,1:42:10.43,Default,All,0,0,60,,Please!
+Dialogue: 0,1:42:15.85,1:42:17.89,Default,Mii-na,0,0,60,,And now, the song this stage is named after.
+Dialogue: 0,1:42:17.97,1:42:19.91,Default,Mii-na,0,0,60,,Please listen to our last song...
+Dialogue: 0,1:42:20.11,1:42:21.34,Default,Mii-na,0,0,60,,"Ramune no Nomikata."
+
+; ===== outro =====
+Dialogue: 0,1:50:51.76,1:50:52.86,Default,Aya-chan,0,0,60,,The show is over!
+Dialogue: 0,1:50:53.14,1:50:54.32,Default,All,0,0,60,,Thank you very much!
+Dialogue: 0,1:50:56.87,1:51:00.36,Default,Aya-chan,0,0,60,,How was it? Especially the Nakano batter?
+Dialogue: 0,1:51:01.02,1:51:07.52,Default,Mii-na,0,0,60,,Well, I hit a huge home run, so I want to hit one just like it next time.
+Dialogue: 0,1:51:07.71,1:51:08.64,Default,Nacchi,0,0,60,,Keep it up!
+Dialogue: 0,1:51:08.72,1:51:10.18,Default,Aya-chan,0,0,60,,Looking forward to the next batter too.
+Dialogue: 0,1:51:10.26,1:51:11.49,Default,Aya-chan,0,0,60,,Please take care of us.
+Dialogue: 0,1:51:11.57,1:51:13.45,Default,Aya-chan,0,0,60,,Golden Week isn't over yet — tomorrow, too,
+Dialogue: 0,1:51:13.53,1:51:17.18,Default,Aya-chan,0,0,60,,there's Sara's birthday show, so please come, everyone!
+Dialogue: 0,1:51:17.31,1:51:18.90,Default,All,0,0,60,,Thank you! Let's all celebrate!
+Dialogue: 0,1:51:19.00,1:51:21.36,Default,Aya-chan,0,0,60,,Look forward to the next show!
+Dialogue: 0,1:51:22.04,1:51:22.84,Default,Aya-chan,0,0,60,,We'll be waiting!
+Dialogue: 0,1:51:22.94,1:51:23.53,Default,All,0,0,60,,Thank you!

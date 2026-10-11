@@ -759,10 +759,10 @@
         "Ayane-ira",
         "Ayane ira"
       ],
-      "note": "Catchphrase is あやねいろ / Ayane iro (“Ayane's color”), never Ayane-ira. ASR often mush on the call.",
+      "note": "Catchphrase is あやねいろ / Ayane iro (“Ayane's color”), never Ayane-ira. ASR often mush on the call. Bare あやね is ambiguous — see ayane-ishii-vs-ryuto-trap.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-23T20:01:29+02:00",
+      "updated": "2026-10-08T12:30:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -1030,10 +1030,10 @@
       "type": "member",
       "team": "H",
       "reject": [],
-      "note": "Official nick あやちゃん (profile/133). 出身長崎県. Cheeks catch LOCKED: ayachan-cheeks-catch. Birthday Yuuka-cheeks overlay still provisional only.",
+      "note": "Official nick あやちゃん (profile/133). 出身長崎県. Cheeks catch LOCKED: ayachan-cheeks-catch. Birthday Yuuka-cheeks overlay still provisional only. Bare あやね is ambiguous — see ayane-ishii-vs-ryuto-trap.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-29T10:48:26+02:00",
+      "updated": "2026-10-08T12:30:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -1236,21 +1236,45 @@
       "id": "minami-mic-gag",
       "locked": true,
       "confidence": "locked",
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler",
+      "updated": "2026-10-08T12:30:00+02:00",
+      "updated_by": "verifier",
       "ja": [
         "南",
         "南向き",
-        "南西"
+        "南西",
+        "南実にし",
+        "みなみにし"
       ],
       "en": "south / south-facing / southwest",
-      "en_full": "Minami mic gag",
+      "en_full": "Minami mic gag (3rd answer 南西／南実にし = 'southwest' pun on 'pick Minami')",
       "type": "jargon",
       "reject": [
         "Minami-no-ki",
         "South seat"
       ],
-      "note": "Host+crowd call-and-response for Nakano Minami; do not collapse into pun mash."
+      "note": "Host+crowd call-and-response for Nakano Minami; do not collapse into pun mash. 3rd answer is heard as 南西 but written by fans as 南実にし (= 'go with Minami'); EN may keep Southwest! or gloss the pun."
+    },
+    {
+      "id": "minami-southern-cross-catch",
+      "ja": [
+        "博多の南十字星",
+        "キラキラ",
+        "キラキラ～",
+        "みーなこと中野南実"
+      ],
+      "en": "Hakata's Southern Cross — (crowd) Twinkle, twinkle!",
+      "en_full": "Hakata's Southern Cross — Mii-na, Nakano Minami! (crowd: Twinkle, twinkle!)",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "キラキラ as Minami's own line by default",
+        "Minami-no-ki"
+      ],
+      "note": "Name-line add-on after the minami-mic-gag stack: 博多の南十字星 → crowd answers キラキラ～ (polyhedra writes it as the crowd's line). Some intros drop the add-on — subtitle only when spoken.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-08T12:30:00+02:00",
+      "updated_by": "verifier"
     },
     {
       "id": "saaya-story-beat",
@@ -2272,13 +2296,14 @@
         "subtitling the final answer as 7%",
         "subtitling the final answer as 100%",
         "subtitling the final answer as 200%",
-        "collapsing a spoken 100/200 teaser stack when the ear confirms it"
+        "collapsing a spoken 100/200 teaser stack when the ear confirms it",
+        "7 percent"
       ],
-      "note": "Nagano Rara. Provisional. Answer token is always ららパーセント / Rara percent! — never a bare numeric %. Lead-in teasers (100%/200%/長野愛/mood/love/dancing) may be spoken before the catch; when ear confirms them, KEEP them in EN. Full published catch formula still provisional (no independent transcript). Do not blank spoken teasers.",
+      "note": "Nagano Rara. Provisional. Answer token is always ららパーセント / Rara percent! — never a bare numeric %. Lead-in teasers (100%/200%/長野愛/mood/love/dancing) may be spoken before the catch; when ear confirms them, KEEP them in EN. Full published catch formula still provisional (no independent transcript). Do not blank spoken teasers. Trap: Whisper also hears ららパーセント as 7パーセント / \"7 percent\" mid-dialogue, not only in the catch answer; any \"7 percent\" in a line with Rara present needs an ear re-check (likely Rara percent).",
       "confidence": "provisional",
       "locked": false,
-      "updated": "2026-10-07T10:00:00+02:00",
-      "updated_by": "verifier"
+      "updated": "2026-10-11T15:00:00+02:00",
+      "updated_by": "subtitler"
     },
     {
       "id": "yuuka-smile-ball-catch",
@@ -2677,6 +2702,31 @@
       "updated_by": "verifier"
     },
     {
+      "id": "ayane-ishii-vs-ryuto-trap",
+      "ja": [
+        "あやね",
+        "あやねちゃん",
+        "彩音",
+        "綺音",
+        "石井",
+        "龍頭"
+      ],
+      "en": "Ayane: Ishii (Aa-tan) vs Ryuto (Aya-chan)",
+      "en_full": "Ishii Ayane 石井彩音 (あーたん) vs Ryuto Ayane 龍頭綺音 (あやちゃん)",
+      "type": "lookalike-trap",
+      "team": null,
+      "reject": [
+        "defaulting bare あやね/あやねちゃん to Ishii",
+        "defaulting bare あやね/あやねちゃん to Ryuto",
+        "Ayane as a final speaker tag without resolving which one"
+      ],
+      "note": "Two 7th-gen Ayanes: Ishii 石井彩音 (あーたん, Fukuoka, b.2006-11-27, あやね色 catch, default unit Nice to meet you!) and Ryuto 龍頭綺音 (あやちゃん, Nagasaki, b.2010-06-30, cheeks catch, default unit Cross). Bare あやね/あやねちゃん is ambiguous: Rara calls Ryuto あやね, others call Ishii あやねちゃん or 石井 (fans note members use 石井 because there are two). Both have batted in Winning Ball — resolve per show from cast, unit, and fan MC reports, never by default.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-08T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
       "id": "hina-tan-tongue-catch",
       "ja": [
         "牛タン",
@@ -2867,12 +2917,13 @@
       "team": "KIV",
       "reject": [
         "inventing club as catchphrase",
-        "mapping 幽霊部員 to unrelated occult club without tape"
+        "mapping 幽霊部員 to unrelated occult club without tape",
+        "treating チャーハン部 as a 7th-gen club"
       ],
-      "note": "Fried-rice club (チャーハン部) ghost member = dialogue (Mashup Girl series: Fujino + Oba Risaki, also Tachibana Kokoro / Shibui Mina), not an intro catch. Keep kokoha-catchcopy for Fujino's intro catch.",
+      "note": "Official HKT channel calls it the 6th-gen Fried Rice Club (6期生チャーハン部; Mashup Girl videos): Ihara Hanna, Oba Risaki, Shibui Mina, Tachibana Kokoro, Fujino Kokoha. Other gens joking about it (e.g. 'apologize to the Fried Rice Club') mean this senior club; the ghost-member (幽霊部員) bit is dialogue, not an intro catch.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-07T10:00:00+02:00",
+      "updated": "2026-10-08T12:30:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -3072,5 +3123,5 @@
       "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-07T10:15:00+02:00"
+  "updated": "2026-10-08T12:30:00+02:00"
 }
