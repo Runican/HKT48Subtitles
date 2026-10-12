@@ -2840,7 +2840,7 @@
         "捕まった",
         "大庭凜咲"
       ],
-      "en": "From morning till night, fill it up with Risaki — ohayou! / Risaki!",
+      "en": "From morning till night, fill it up with Risaki — Good morning! / Risaki! / Good night! / Risaki! (translate おはよう/おやすみ; never leave romaji)",
       "en_full": "Oba Risaki ohayou / fill-with-Risaki catch",
       "type": "catchphrase",
       "team": "KIV",
@@ -3121,7 +3121,193 @@
       "locked": true,
       "updated": "2026-10-07T10:00:00+02:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "sakamoto-erena",
+      "ja": [
+        "坂本愛玲菜",
+        "坂本",
+        "えれたん",
+        "エレたん",
+        "えれちゃん",
+        "えれ",
+        "えれな",
+        "えれなさん",
+        "えれ姉"
+      ],
+      "en": "Ere-tan",
+      "en_full": "Sakamoto Erena",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "坂本愛玲奈",
+        "Sakamoto Rino",
+        "坂本りの",
+        "みるたん as Erena"
+      ],
+      "note": "3rd gen, ex-Team TII then KIV; graduated 2025-04 (OG). Official nick えれたん (48pedia); spoken Ere-chan / Erena-san / Ere-nee as heard. Kanji ends 菜, not 奈. Intro catch = a short sung lyric that changes per show (fixed melody) + 「えれたんこと坂本愛玲菜です」; translate the sung part as heard.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-12T02:00:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "tanaka-miku",
+      "ja": [
+        "田中美久",
+        "みくりん",
+        "美久",
+        "みく"
+      ],
+      "en": "Mikurin",
+      "en_full": "Tanaka Miku",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "Tanaka Mikuru"
+      ],
+      "note": "3rd gen OG (graduated 2023-12). Official nick みくりん (48pedia). みくもんもん is her own fan/solo-concert motto (solo concert title), not a nick.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-12T02:00:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "yamashita-emiri",
+      "ja": [
+        "山下エミリー",
+        "エミリー",
+        "えみりー"
+      ],
+      "en": "Emily",
+      "en_full": "Yamashita Emiri",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "3rd gen OG, ex-Team TII captain (graduated 2024-07). Official nick エミリー (= given name, katakana); EN nick Emily, full name keeps official romaji Yamashita Emiri. No catchphrase beyond 「チームTIIキャプテンの山下エミリーです」.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-12T02:00:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "aramaki-misaki",
+      "ja": [
+        "荒巻美咲",
+        "荒巻",
+        "荒巻さん",
+        "みるん",
+        "みさき",
+        "みーちゃん"
+      ],
+      "en": "Mirun",
+      "en_full": "Aramaki Misaki",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "Ere-tan for みるたん/みるん when Aramaki present"
+      ],
+      "note": "3rd gen OG (graduated 2024-12). Official nick みるん (48pedia; from み+macaron); fans/members also say 荒巻さん. Spoken みーちゃん / みさきん forms are unsourced — use as heard, provisional. Erena+Misaki pair = えれみる.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-12T02:00:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-saikyou-idol-yoroshiku",
+      "ja": [
+        "最強アイドルよろしく！",
+        "最強アイドルよろしく",
+        "最強アイドル"
+      ],
+      "en": "Saikyou Idol Yoroshiku!",
+      "en_full": "Saikyou Idol Yoroshiku! (Team KIV, 18th single c/w)",
+      "type": "song",
+      "team": "KIV",
+      "reject": [
+        "Saikyou Idol (truncated title)",
+        "最強アイデル",
+        "最強アドル"
+      ],
+      "note": "Team KIV song, c/w of 18th single 僕はやっと君を心配できる (2024). Often used as a Tenshi encore; not part of the main set.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-12T02:00:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-sakura-no-ki-ni-narou",
+      "ja": [
+        "桜の木になろう"
+      ],
+      "en": "Sakura no Ki ni Narou",
+      "en_full": "Sakura no Ki ni Narou (AKB48)",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song; HKT 3rd gen sing it as their gen song at reunions/graduations.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-12T02:00:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-mata-anata-no-koto",
+      "ja": [
+        "また あなたのことを考えてた",
+        "またあなたのことを考えてた"
+      ],
+      "en": "Mata Anata no Koto wo Kangaeteta",
+      "en_full": "Mata Anata no Koto wo Kangaeteta (AKB48 Team Vocal)",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 c/w (ハイテンション) by チームボーカル; Erena was in the original unit.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-12T02:00:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "tottoto-channel",
+      "ja": [
+        "とっと〜と",
+        "とっとーと",
+        "とっとうと",
+        "HKT48とっと〜と"
+      ],
+      "en": "HKT48 Tottoto",
+      "en_full": "HKT48 Tottoto (official variety YouTube channel)",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 official variety YouTube channel 「HKT48 とっと〜と」 (@HKT48_toto-to).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-12T02:00:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "radio-okehazama",
+      "ja": [
+        "坂本愛玲菜のオケハザマってなんですか？",
+        "オケハザマってなんですか",
+        "オケハザマ",
+        "おけはさま"
+      ],
+      "en": "Sakamoto Erena's \"What Is Okehazama?\"",
+      "en_full": "Sakamoto Erena no Okehazama tte Nan desu ka? (RKB Radio)",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "おけはさまって何ですか as title"
+      ],
+      "note": "Erena's RKB radio show (continues after graduation). Okehazama = the RKB variety brand name; keep as proper noun.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-12T02:00:00+02:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-08T12:30:00+02:00"
+  "updated": "2026-10-12T02:00:00+02:00"
 }

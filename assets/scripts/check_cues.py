@@ -177,6 +177,9 @@ def main():
     ap.add_argument("--glossary", type=Path, default=None, help="Fail if EN contains glossary reject/avoid")
     ap.add_argument("--silence", type=Path, default=None,
                     help="silence.json — fail large inter-cue gaps that are mostly NOT silence")
+    ap.add_argument("--allow-gaps", type=Path, default=None,
+                    help="JSON list of {start,end,reason} on the ORIGINAL timeline: documented non-speech gaps "
+                         "(re-ASR + voicing confirmed empty). A speech hole fully inside one is reported ALLOWED, not FAIL.")
     ap.add_argument("--min-hole", type=float, default=8.0,
                     help="Min inter-cue gap (s) to treat as speech-hole candidate")
     ap.add_argument("--silence-cover", type=float, default=0.55,
@@ -275,6 +278,13 @@ def main():
             if gap < args.min_hole:
                 continue
             cov = silence_coverage(a, b, bands)
+            if cov < args.silence_cover and args.allow_gaps and args.allow_gaps.exists():
+                _off = float(data.get("offset_sec", 0) or 0) if isinstance(data, dict) else 0.0
+                _ok = [g for g in json.loads(args.allow_gaps.read_text(encoding="utf-8"))
+                       if float(g["start"]) - 0.5 <= a + _off and b + _off <= float(g["end"]) + 0.5]
+                if _ok:
+                    print(f" ALLOWED_GAP {tag} {a+_off:.2f}-{b+_off:.2f} ({_ok[0].get('reason','')})")
+                    continue
             if cov < args.silence_cover:
                 speech_holes.append((tag, round(a, 2), round(b, 2), round(gap, 1), round(cov, 2)))
 
