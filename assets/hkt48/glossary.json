@@ -489,10 +489,10 @@
         "Kokoha",
         "藤野心葉"
       ],
-      "note": "Official nick ここちゃん (Team KIV, 6th) — not ここは. Lookalike trap when ASR/MC says ここは; that maps to Fujino Kokoha. Intro catch: eguchi-lookfor-catch LOCKED (look-for / ここだよー). REJECT Fujino kokoha-catchcopy.",
+      "note": "Official nick ここちゃん (Team KIV, 6th) — not ここは. Lookalike trap when ASR/MC says ここは; that maps to Fujino Kokoha. Intro catch: eguchi-lookfor-catch LOCKED (look-for / ここだよー). REJECT Fujino kokoha-catchcopy. Given name is read ここは (official profile); a given-name call ここは/ここはさん with Fujino absent is Eguchi — EN Kokoha as heard.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-30T20:35:00+02:00",
+      "updated": "2026-10-13T12:30:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -1152,12 +1152,14 @@
       "type": "member",
       "team": "H",
       "reject": [
-        "眠りの森"
+        "眠りの森",
+        "Sakamoto Erena",
+        "坂本愛玲菜"
       ],
-      "note": "Official nick りのちゃん (Team H, 5th). Catch: rino-sleeping-land-catch = 眠りの国 (reject 森). Prefer Rino/Rino-chan.",
+      "note": "Official nick りのちゃん (Team H, 5th). Catch: rino-sleeping-land-catch = 眠りの国 (reject 森). Prefer Rino/Rino-chan. Bare 坂本 maps to neither Rino nor Erena automatically.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-29T10:48:26+02:00",
+      "updated": "2026-10-13T12:30:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -3126,7 +3128,6 @@
       "id": "sakamoto-erena",
       "ja": [
         "坂本愛玲菜",
-        "坂本",
         "えれたん",
         "エレたん",
         "えれちゃん",
@@ -3145,7 +3146,7 @@
         "坂本りの",
         "みるたん as Erena"
       ],
-      "note": "3rd gen, ex-Team TII then KIV; graduated 2025-04 (OG). Official nick えれたん (48pedia); spoken Ere-chan / Erena-san / Ere-nee as heard. Kanji ends 菜, not 奈. Intro catch = a short sung lyric that changes per show (fixed melody) + 「えれたんこと坂本愛玲菜です」; translate the sung part as heard.",
+      "note": "3rd gen, ex-Team TII then KIV; graduated 2025-04 (OG). Official nick えれたん (48pedia); spoken Ere-chan / Erena-san / Ere-nee as heard. Kanji ends 菜, not 奈. Intro catch = a short sung lyric that changes per show (fixed melody) + 「えれたんこと坂本愛玲菜です」; translate the sung part as heard. Bare 坂本 removed from ja (2026-10-13): collides with Sakamoto Rino name lines (坂本りの) in current shows.",
       "confidence": "locked",
       "locked": true,
       "updated": "2026-10-12T02:00:00+02:00",
@@ -3306,6 +3307,61 @@
       "confidence": "locked",
       "locked": true,
       "updated": "2026-10-12T02:00:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-hitosashiyubi-no-juudan",
+      "ja": [
+        "人差し指の銃弾"
+      ],
+      "en": "Hitosashiyubi no Juudan",
+      "en_full": "Hitosashiyubi no Juudan",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Hitosashiyubi no Juutan",
+        "人差し指の絨毯"
+      ],
+      "note": "HKT48 1st album 092 track (2017). 銃弾 = bullet; ASR/ear じゅうたん (carpet) is wrong.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-13T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-totsuzen-do-love-me",
+      "ja": [
+        "突然 Do love me!",
+        "突然ドゥーラブミー",
+        "突然ルーラブミー"
+      ],
+      "en": "Totsuzen Do love me!",
+      "en_full": "Totsuzen Do love me!",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Totsuzen Do You Love Me"
+      ],
+      "note": "HKT48 2nd album Outstanding lead track (2021; uta-net, hkt48.jp news). No \"You\" in the title.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-13T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-hkt48-kaeuta",
+      "ja": [
+        "HKT48（曲）"
+      ],
+      "en": "HKT48",
+      "en_full": "\"HKT48\" (HKT version of AKB48's \"AKB48\")",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "替え歌 of AKB48's 「AKB48」 (PARTY ga Hajimaru yo stage). The 6th gen performed it with Idol no Ouja at their 2022-05-07 debut (Mynavi).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-13T12:30:00+02:00",
       "updated_by": "verifier"
     }
   ],

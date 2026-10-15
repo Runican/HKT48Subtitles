@@ -7,3 +7,5 @@ Also: `q-20261002-tenshi-250506-intro-catches.md` (250506 Team KIV Tenshi / Oba 
 Also: `q-20261008-kks5-ramune-250504.md` (250504 KKS5 Ramune 12:30 cast/MC map + 29 doubt rulings; two-Ayane trap).
 
 Also: `q-20261012-kiv4-erena-grad-250427.md` (250427 Team KIV Tenshi, Sakamoto Erena graduation: cast/guests, setlist, MC map, rulings).
+
+Also: `q-20261013-saka-agari-250424.md` (250424 Himawarigumi Saka Agari 18:30: cast/units, Bayside Shock, 大感謝祭, song romaji, doubt rulings).
