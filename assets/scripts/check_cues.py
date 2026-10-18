@@ -7,6 +7,8 @@ Hard fails (photo-regression gates):
 - copy-forward / topic-paste
 - over-max duration
 - optional: ASS empty Text (--ass)
+- optional: ASS placeholder / WIP gate (--ass): Dialogue Text that is DROP/TODO/FIXME/XXX/[WIP],
+  contains [WIP] or a TODO/FIXME token, is a lone dash (-/--/\u2014), or is empty -> FAIL
 - optional: glossary reject forms on EN (--glossary)
 - optional: speech holes vs silence map (--silence): gap>=min-hole with little silence → FAIL
 """
@@ -106,6 +108,49 @@ def check_ass_empty(path: Path):
         parts = ln.split(",", 9)
         if len(parts) < 10 or not parts[9].strip():
             bad.append((i, ln[:80]))
+    return bad
+
+
+# --- WIP / placeholder gate (applies whenever --ass is checked, incl. final/stitched ASS) ---
+# Convention: drop a cue only as `IDX|DROP` (2 fields) in en.txt; mark an unresolved line
+# in working files only as text starting with `TODO:` or containing `[WIP]`. Neither form,
+# nor FIXME/XXX/lone-dash/empty text, may appear as Dialogue Text in a shipped ASS.
+_PLACEHOLDER_WHOLE = {"drop", "todo", "fixme", "xxx", "[wip]"}
+_PLACEHOLDER_TOKEN_RE = re.compile(r"\b(todo|fixme|xxx)\b", re.I)
+_LONE_DASH_RE = re.compile(r"^[-\u2010-\u2015]+$")
+
+
+def _ass_plain_text(text: str) -> str:
+    """Strip ASS override blocks {\\...} for placeholder analysis."""
+    return re.sub(r"\{[^}]*\}", "", text or "").strip()
+
+
+def placeholder_reason(text: str):
+    plain = _ass_plain_text(text)
+    if not plain:
+        return "empty"
+    low = plain.lower().rstrip(".!")
+    if low in _PLACEHOLDER_WHOLE:
+        return "whole_text_placeholder"
+    if "[wip]" in low:
+        return "wip_marker"
+    if _PLACEHOLDER_TOKEN_RE.search(plain):
+        return "placeholder_token"
+    if _LONE_DASH_RE.match(plain):
+        return "lone_dash"
+    return None
+
+
+def check_ass_placeholders(path: Path):
+    bad = []
+    for i, ln in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+        if not ln.startswith("Dialogue:"):
+            continue
+        parts = ln.split(",", 9)
+        text = parts[9] if len(parts) >= 10 else ""
+        reason = placeholder_reason(text)
+        if reason:
+            bad.append((i, reason, text.strip()[:80]))
     return bad
 
 
@@ -289,6 +334,7 @@ def main():
                 speech_holes.append((tag, round(a, 2), round(b, 2), round(gap, 1), round(cov, 2)))
 
     ass_empty = check_ass_empty(args.ass) if args.ass else []
+    ass_placeholders = check_ass_placeholders(args.ass) if args.ass else []
 
     reject_hits = []
     if args.glossary and args.glossary.exists():
@@ -305,7 +351,7 @@ def main():
     print(f"cues={n} dur={dur} density={density:.2f}/min expected_min~{expected_min:.1f}")
     print(f"empty_en={len(empty_en)} over_max_dur={len(overs)} overlap_flags={len(overlaps)} high_cps={len(fast)}")
     print(f"copyforward_groups={len(copy_groups)} topic_only_flags={len(topic_only)}")
-    print(f"speech_holes={len(speech_holes)} ass_empty={len(ass_empty)} glossary_rejects={len(reject_hits)} markup_tags={len(markup_tags)}")
+    print(f"speech_holes={len(speech_holes)} ass_empty={len(ass_empty)} ass_placeholders={len(ass_placeholders)} glossary_rejects={len(reject_hits)} markup_tags={len(markup_tags)}")
     for x in empty_en[:12]:
         print(" EMPTY_EN", x)
     for x in overs[:8]:
@@ -322,6 +368,8 @@ def main():
         print(" SPEECH_HOLE", x)
     for x in ass_empty[:12]:
         print(" ASS_EMPTY", x)
+    for x in ass_placeholders[:12]:
+        print(" PLACEHOLDER", x)
     for x in reject_hits[:12]:
         print(" REJECT", x)  # idx, entry_id, reject, en
     for x in markup_tags[:12]:
@@ -340,6 +388,8 @@ def main():
         reasons.append("speech_hole_vs_silence")
     if ass_empty:
         reasons.append("ass_empty_text")
+    if ass_placeholders:
+        reasons.append("placeholder_in_ass")
     if reject_hits:
         reasons.append("glossary_reject_on_en")
     if markup_tags:

@@ -9,3 +9,5 @@ Also: `q-20261008-kks5-ramune-250504.md` (250504 KKS5 Ramune 12:30 cast/MC map +
 Also: `q-20261012-kiv4-erena-grad-250427.md` (250427 Team KIV Tenshi, Sakamoto Erena graduation: cast/guests, setlist, MC map, rulings).
 
 Also: `q-20261013-saka-agari-250424.md` (250424 Himawarigumi Saka Agari 18:30: cast/units, Bayside Shock, 大感謝祭, song romaji, doubt rulings).
+
+Also: `q-20261016-mokugekisha-250423.md` (250423 Team H Mokugekisha 18:30: official cast, Goboten, intro rulings).

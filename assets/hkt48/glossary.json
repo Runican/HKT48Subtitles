@@ -1857,14 +1857,14 @@
         "絆で繋いだみ～んなの愛"
       ],
       "en": "hanchaka-chan",
-      "en_full": "Kizuna-de-tsunaida minna-no-ai / hanchaka-chan",
+      "en_full": "Everyone's love, tied together with bonds — hanchaka-chan!",
       "type": "catchphrase",
       "team": null,
       "reject": [],
-      "note": "Ihara Hanna intro call. JA keep はんちゃかちゃん (romaji OK in EN: hanchaka-chan). Full setup: 絆で繋いだみんなの愛！（はんちゃかちゃん）. Name pun on 絆+愛.",
+      "note": "Ihara Hanna intro call. Full setup: 絆で繋いだみんなの愛！（はんちゃかちゃん）. Keep はんちゃかちゃん as romaji hanchaka-chan. Name pun: her given name 絆愛 (Hanna) is written 絆 (kizuna, bond) + 愛 (ai, love) — add a subtitle note explaining that.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-25T17:42:07+02:00",
+      "updated": "2026-10-17T16:29:21+02:00",
       "updated_by": "verifier"
     },
     {
@@ -3362,6 +3362,27 @@
       "confidence": "locked",
       "locked": true,
       "updated": "2026-10-13T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "hkt48-no-goboten",
+      "ja": [
+        "HKT48のごぼてん!",
+        "ごぼてん",
+        "ご放展"
+      ],
+      "en": "HKT48 no Goboten!",
+      "en_full": "HKT48 no Goboten! (TNC variety, 2014–2016)",
+      "type": "show",
+      "team": null,
+      "reject": [
+        "ご放展",
+        "Gohoten"
+      ],
+      "note": "TNC (テレビ西日本) HKT48 variety show, May 2014–Mar 2016. ASR mishears as ご放展.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-16T15:55:00+02:00",
       "updated_by": "verifier"
     }
   ],
