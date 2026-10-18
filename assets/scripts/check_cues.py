@@ -154,6 +154,53 @@ def check_ass_placeholders(path: Path):
     return bad
 
 
+def check_en_indices(en_path: Path, n_ja: int):
+    """Hard integrity gate for en.txt vs JA cue index set (0..n_ja-1).
+
+    Grammar (mirrors apply.py): blank lines and '#' comments (incl. #TRIM) are
+    skipped; 'JA <idx>|<text>' overrides a JA cue (in-range only, does not count
+    toward coverage); 'x[@s-e]|Name|EN' is an extra cue (no JA index);
+    'IDX[+IDX..][@s-e]|Name|EN' and 'IDX[+IDX..]|DROP' each count every listed
+    index exactly once. Returns (duplicate, missing, beyond, malformed).
+    """
+    seen = []
+    malformed = []
+    beyond = []
+    for lineno, raw in enumerate(en_path.read_text(encoding="utf-8").splitlines(), 1):
+        ln = raw.strip()
+        if not ln or ln.startswith("#"):
+            continue
+        if ln.startswith("JA "):
+            try:
+                i = int(ln[3:].split("|", 1)[0].strip())
+                if not 0 <= i < n_ja:
+                    raise ValueError(i)
+            except ValueError:
+                malformed.append(f"line {lineno}: bad JA override index")
+            continue
+        parts = ln.split("|", 2)
+        key = parts[0].strip()
+        m = re.match(r"^([x\d+]+)(?:@([^-]+)-(.+))?$", key)
+        if not m:
+            malformed.append(f"line {lineno}: unparseable key {key!r}")
+            continue
+        if m.group(1) == "x":
+            if len(parts) < 3:
+                malformed.append(f"line {lineno}: extra cue needs Name|EN")
+            continue
+        ids = [int(i) for i in m.group(1).split("+")]
+        seen.extend(ids)
+        beyond.extend(i for i in ids if not 0 <= i < n_ja)
+        if len(parts) > 1 and parts[1].strip() == "DROP":
+            continue
+        if len(parts) < 3:
+            malformed.append(f"line {lineno}: needs Name|EN or DROP")
+    from collections import Counter
+    duplicate = sorted(i for i, c in Counter(seen).items() if c > 1)
+    missing = sorted(set(range(n_ja)) - set(seen))
+    return duplicate, missing, sorted(set(beyond)), malformed
+
+
 def load_glossary_entries(path: Path):
     data = json.loads(path.read_text(encoding="utf-8"))
     return data.get("entries", data if isinstance(data, list) else [])
@@ -225,6 +272,10 @@ def main():
     ap.add_argument("--allow-gaps", type=Path, default=None,
                     help="JSON list of {start,end,reason} on the ORIGINAL timeline: documented non-speech gaps "
                          "(re-ASR + voicing confirmed empty). A speech hole fully inside one is reported ALLOWED, not FAIL.")
+    ap.add_argument("--en-txt", type=Path, default=None,
+                    help="en.txt to hard-gate against JA cue indices (duplicate/missing/beyond -> FAIL)")
+    ap.add_argument("--ja-cues", type=Path, default=None,
+                    help="cues_ja.json for --en-txt (default: cues_ja.json beside the en.txt)")
     ap.add_argument("--min-hole", type=float, default=8.0,
                     help="Min inter-cue gap (s) to treat as speech-hole candidate")
     ap.add_argument("--silence-cover", type=float, default=0.55,
@@ -348,6 +399,22 @@ def main():
         if markup_re.search(en):
             markup_tags.append((idx, round(c.get("start", 0), 2), en[:60]))
 
+    en_gate = None
+    en_gate_detail = ""
+    if args.en_txt:
+        ja_path = args.ja_cues or (args.en_txt.parent / "cues_ja.json")
+        try:
+            ja_data = json.loads(ja_path.read_text(encoding="utf-8"))
+            ja_cues = ja_data if isinstance(ja_data, list) else ja_data.get("cues", [])
+            dup, miss, bey, malf = check_en_indices(args.en_txt, len(ja_cues))
+            en_gate = not (dup or miss or bey or malf)
+            en_gate_detail = (f"en_txt={args.en_txt} ja_cues={ja_path} ja_count={len(ja_cues)} "
+                              f"duplicate={dup} missing={miss} beyond={bey} malformed={malf}")
+        except Exception as e:  # missing/unreadable en.txt or cues_ja.json is a gate failure, not a pass
+            en_gate = False
+            en_gate_detail = f"en_txt={args.en_txt} ja_cues={ja_path} error={e}"
+        print(f"en_index_gate={'PASS' if en_gate else 'FAIL'} {en_gate_detail}")
+
     print(f"cues={n} dur={dur} density={density:.2f}/min expected_min~{expected_min:.1f}")
     print(f"empty_en={len(empty_en)} over_max_dur={len(overs)} overlap_flags={len(overlaps)} high_cps={len(fast)}")
     print(f"copyforward_groups={len(copy_groups)} topic_only_flags={len(topic_only)}")
@@ -394,6 +461,8 @@ def main():
         reasons.append("glossary_reject_on_en")
     if markup_tags:
         reasons.append("internal_markup_in_en")
+    if en_gate is False:
+        reasons.append("en_index_mismatch")
     # density soft for hush segments: only fail if empty_en already covered; keep old half-min as soft warn
     if n < expected_min * 0.5 and not speech_holes:
         print(f"WARN low_density cues={n} expected_min~{expected_min:.1f}")

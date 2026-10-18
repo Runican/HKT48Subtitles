@@ -592,10 +592,10 @@
         "呉優菜",
         "Kure Yuna when くるちゃん is ASR near Kure on cast"
       ],
-      "note": "Official nick **くるたん** (profile/87), 5th. Catch: kurumi-heart-kurumitai-catch LOCKED. くるちゃん may be casual for Kurumi, but ASR くるちゃん↔くれちゃん trap is severe — see kuru-chan-vs-kure-chan-trap. Cast presence of Kure vs Kurumi varies by night — check cast, do not assume.",
+      "note": "Official nick **くるたん** (profile/87), 5th. Catch: kurumi-heart-kurumitai-catch LOCKED. くるちゃん may be casual for Kurumi, but ASR くるちゃん↔くれちゃん trap is severe — see kuru-chan-vs-kure-chan-trap. Cast presence of Kure vs Kurumi varies by night — check cast, do not assume. Known kanikama lover / self-styled kanikama rep (利きカニカマ); Kanikama Day (every 22nd except June) jokes map to her.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-07T10:00:00+02:00",
+      "updated": "2026-10-18T18:50:00+02:00",
       "updated_by": "verifier",
       "catch_ja": "りちゃきのハートをくるみたい",
       "catch_en": "Yes — like wrapping Richaki's heart up as Kuru-mi!"
@@ -3384,7 +3384,29 @@
       "locked": true,
       "updated": "2026-10-16T15:55:00+02:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "kawahira-hijiri",
+      "ja": [
+        "川平聖",
+        "川平",
+        "ひじり",
+        "ヒジリン"
+      ],
+      "en": "Hijiri",
+      "en_full": "Kawahira Hijiri",
+      "type": "member",
+      "team": "H",
+      "reject": [
+        "on-stage speaker tag in shows after her 2025-03 graduation",
+        "Fukui Karen for ひじり"
+      ],
+      "note": "Ex-HKT48 5th gen (Team H); graduated 2025-03-22 (official/48pedia). Later ひじり mentions by peers are off-stage, not cast — likely this member, but confirm by context/ear; never speaker-tag her in later theater MCs.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-10-18T18:50:00+02:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-12T02:00:00+02:00"
+  "updated": "2026-10-18T18:50:00+02:00"
 }
