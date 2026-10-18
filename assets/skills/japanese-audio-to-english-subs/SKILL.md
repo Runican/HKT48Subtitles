@@ -227,6 +227,12 @@ Machine:
 - Every former dropout range either has cues or is listed in `NOTES.md`
 - **Copy-forward / topic-paste gate (must FAIL before ship):** run `assets/scripts/check_cues.py` (live copy: `/workspace/scripts/check_cues.py`). Fail when (a) identical EN appears on ≥3 cues whose JA strings are not all equal, or (b) consecutive identical EN ≥3 except allowlisted ritual closers (`Thank you!` / `Yay!` / `Okay!` / よろしくお願いします-class) **and** JA matches the ritual, or (c) EN is a short topic noun/phrase (≤~3 words) while JA is long and not that noun. Soft-flagging these into doubts is **not** enough — repair first
 
+**WIP marking (working files only):**
+
+- Drop a cue in the working cue list as exactly `IDX|DROP` — two fields only, with no speaker field.
+- Mark an unresolved or untranslated line with `TODO:` at the start of its English, or with `[WIP]` in it. Never leave plausible-looking filler English, a lone dash, or a blank in its place.
+- Before delivering, run `check_cues.py` with `--ass` on the final stitched ASS. It hard-fails on Dialogue text that is empty, is a lone dash, or contains `DROP`, `TODO`, `FIXME`, `XXX`, or `[WIP]`. Deliver only on a pass.
+
 Watch-through (agent):
 
 - Burn ASS onto a review cut **or** play audio while logging cue text vs timestamp
@@ -246,6 +252,7 @@ Watch-through (agent):
 - Intro catchphrases present when spoken
 - Glossary-stable names; no invented lines
 - Copy-forward / topic-paste machine gate **PASS** (no identical-EN + changing-JA clusters left unrepaired)
+- Placeholder gate on the final stitched ASS **PASS** (no empty or lone-dash lines, no `DROP` / `TODO` / `FIXME` / `XXX` / `[WIP]` left in the text)
 - `NOTES.md` lists remaining dropouts and uncertain glossary entries
 
 ## Suggested layout
