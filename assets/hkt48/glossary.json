@@ -3406,7 +3406,28 @@
       "locked": false,
       "updated": "2026-10-18T18:50:00+02:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "mashuga",
+      "ja": [
+        "マシュガ",
+        "マッシュアップガール"
+      ],
+      "en": "Mashuga",
+      "en_full": "Mashuga (Mashup Girl)",
+      "type": "show",
+      "team": null,
+      "reject": [
+        "Mashugar",
+        "ましゅが",
+        "マッシュ顔 as program name"
+      ],
+      "note": "Official variety segment series on the HKT48 Tottoto YouTube channel (「HKT48 とっと〜と」, @HKT48_toto-to); short for マッシュアップガール (Mashup Girl). Members appear in rotating lineups for challenges, games and projects; hashtag #マシュガ.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-19T14:24:00+02:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-18T18:50:00+02:00"
+  "updated": "2026-10-19T14:24:00+02:00"
 }
