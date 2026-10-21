@@ -223,6 +223,7 @@ Machine:
 - No cue longer than `MAX_DUR + 0.05` unless `overlap_ok` justification
 - **No unintended time overlap** (count must be 0, or every remaining pair is intentional dual with Layer+MarginV)
 - First cue start ≈ `OFFSET_SEC`; last end ≤ `OFFSET_SEC + DUR + 0.5`
+- **Onset gate:** `assets/scripts/onset_gate.py <ass> --asr <asr.json>:<offset>` uses word timestamps. `LEAD` (hard) means the first word is orphaned ≥1.5 s before the next, so the line opens on a breath or cheer; fix with `--fix` (start = next word − 0.5 s). `STUB` (ear list) means a whole cue is one long word squeezed to ~0.4 s, usually ありがとうございます; ear-check before ship.
 - Density and reading-speed guards above
 - Every former dropout range either has cues or is listed in `NOTES.md`
 - **Copy-forward / topic-paste gate (must FAIL before ship):** run `assets/scripts/check_cues.py` (live copy: `/workspace/scripts/check_cues.py`). Fail when (a) identical EN appears on ≥3 cues whose JA strings are not all equal, or (b) consecutive identical EN ≥3 except allowlisted ritual closers (`Thank you!` / `Yay!` / `Okay!` / よろしくお願いします-class) **and** JA matches the ritual, or (c) EN is a short topic noun/phrase (≤~3 words) while JA is long and not that noun. Soft-flagging these into doubts is **not** enough — repair first

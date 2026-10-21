@@ -509,10 +509,10 @@
       "type": "member",
       "team": "KIV",
       "reject": [],
-      "note": "Catch: rinka-rinrin-catch (りんりん＋キラキラ大きな目／兵庫). Live may shorten. Official profile/105: 出身兵庫県, DOB 2007-07-28. Spoken age/grade is calendar-consistent, not a profile field — do not lock from a birth date alone.",
+      "note": "Catch: rinka-rinrin-catch (りんりん＋キラキラ大きな目／兵庫). Live may shorten. Official profile/105: 出身兵庫県, DOB 2007-07-28. Spoken age/grade is calendar-consistent, not a profile field — do not lock from a birth date alone. Self-declared protégé of Ichimura Airi: see aichiru.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-07T10:00:00+02:00",
+      "updated": "2026-10-21T01:52:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -2735,7 +2735,10 @@
         "豚タン",
         "ひなたん",
         "牛タン、豚タン、ひなたん",
-        "2月9日肉の日生まれ"
+        "2月9日肉の日生まれ",
+        "チャームポイントは明るく元気なところ",
+        "チャームポイントは明るくて元気なところ",
+        "お肉大好き"
       ],
       "en": "beef tongue, pork tongue — Hina-tan!",
       "en_full": "February 9, Meat Day — beef tongue, pork tongue / Hina-tan!",
@@ -2746,10 +2749,10 @@
         "青木ひなた",
         "locking ASR-only without published form"
       ],
-      "note": "Yasui Hina formal theater catch. Call: 牛タン、豚タン → crowd ひなたん！ Self (Tokyo Sports): meat-day birthday; sync+mama designed; loves crowd return. Live transcripts: polyhedra birth fests. Official nick ひなたん profile/116. Prefer published stack when audible; EN ASS: Beef tongue, pork tongue — Hina-tan!",
+      "note": "Yasui Hina formal theater catch. Call: 牛タン、豚タン → crowd ひなたん！ Self (Tokyo Sports): meat-day birthday; sync+mama designed; loves crowd return. Live transcripts: polyhedra birth fests. Official nick ひなたん profile/116. Prefer published stack when audible; EN ASS: Beef tongue, pork tongue — Hina-tan! Name-line add-on (polyhedra 230226 & 250315): チャームポイントは明るく(て)元気なところ、お肉大好き、福岡県出身… — part of her standing intro stack. EN: My charm point is being bright and energetic! I love meat, from Fukuoka…",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-07T10:00:00+02:00",
+      "updated": "2026-10-21T01:52:00+02:00",
       "updated_by": "verifier"
     },
     {
@@ -3427,7 +3430,116 @@
       "locked": true,
       "updated": "2026-10-19T14:24:00+02:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "aichiru",
+      "ja": [
+        "あいちる",
+        "アイチル",
+        "あいりチルドレン",
+        "愛里チルドレン"
+      ],
+      "en": "Aichiru",
+      "en_full": "Aichiru (\"Airi's Children\" — Ichimura Airi's protégé)",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "愛知留",
+        "アイチル as Aichi Prefecture",
+        "Aichiru as a unit or team name"
+      ],
+      "note": "あいちる = あいりチルドレン (Airi Children), on the ○○チルドレン/○○チル pattern (e.g. 今村チルドレン, えれチル). Ouchi Rinka announced on her X (2024-11-10) that she had become あいちる, the only member, #弟子; Ichimura Airi = 師匠. EN keep romaji Aichiru + gloss (\"Airi's Children\" / Aichi's protégé). ASR 愛知留 / アイチル is this word.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-21T01:52:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "aigoru",
+      "ja": [
+        "あいゴル",
+        "アイゴル",
+        "市村愛里のあいゴル"
+      ],
+      "en": "Ai-Golf",
+      "en_full": "Ai-Golf (あいゴル — Ichimura Airi's beginner golf series on HKT48 Tottoto)",
+      "type": "show",
+      "team": null,
+      "reject": [
+        "アイドル as the program title (ASR)",
+        "Idol as the program title"
+      ],
+      "note": "Official series on the HKT48 Tottoto YouTube channel (@HKT48_toto-to), hashtag #あいゴル: Ichimura Airi learns golf from zero, aiming to break 100. #1「超初心者」市村愛里がイチから学ぶゴルフ番組がスタート！！！ published 2025-04-15; roughly monthly after. Kurihara Sae guests in later episodes. ASR アイドル ← あいゴル.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-21T01:52:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "yamamoto-mao",
+      "ja": [
+        "山本茉央",
+        "山本",
+        "まお",
+        "まおちゃん"
+      ],
+      "en": "Yamamoto Mao",
+      "en_full": "Yamamoto Mao",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "山本真央",
+        "山本麻央",
+        "山本舞央"
+      ],
+      "note": "Ex-HKT48 Team H (only Draft 1st-gen member, picked 2013-11); graduated 2018-05-21 (48pedia). Known golfer (golf is her hobby, childhood best score 90). Never speaker-tag in current shows; mention only.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-21T01:52:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "mogami-nanaka",
+      "ja": [
+        "最上奈那華",
+        "最上",
+        "ななか",
+        "ななかちゃん",
+        "ななちゃん"
+      ],
+      "en": "Nanaka-chan",
+      "en_full": "Mogami Nanaka",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "on-stage speaker tag after her 2025-01-27 graduation"
+      ],
+      "note": "Ex-HKT48 6th gen, Team H; official nick ななちゃん; graduated 2025-01-27 (48pedia). Same gen as Izawa Miyu and Kitagawa Hiiro (sang as a unit with them). A peer's ななかちゃん off-stage mention after early 2025 is probably her, but that mapping is unconfirmed. EN as spoken (Nanaka-chan).",
+      "confidence": "confirmed",
+      "locked": false,
+      "updated": "2026-10-21T01:52:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "nama-ham-club",
+      "ja": [
+        "生ハム部",
+        "生ハム"
+      ],
+      "en": "Prosciutto Club",
+      "en_full": "Prosciutto Club (生ハム部)",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "Raw Ham Club",
+        "Nama-ham-bu"
+      ],
+      "note": "Informal members' food club, the counterpart to the 6th-gen Fried Rice Club (fujino-chahan-club-ghost). Core: Fukui Karen; Akiyoshi Yuka joined by spring 2025; Takemoto Kurumi posted its first outing with both of them on X (2026-04-06). Roster grows, so do not lock a member list from one show.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-21T01:52:00+02:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-19T14:24:00+02:00"
+  "updated": "2026-10-21T01:52:00+02:00"
 }

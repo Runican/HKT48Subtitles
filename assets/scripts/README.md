@@ -21,6 +21,7 @@ No show audio, cue JSON, or ASS intermediates belong in this directory. Scripts 
 | `snap_cues.py` | Cap duration and insert a minimum gap |
 | `voicing.py` | Single-voice vs crowd-cheer check on short windows; times stock phrases (ありがとうございます) beside cheers |
 | `check_cues.py` | Machine gates: empty EN, overlaps, copy-forward, optional glossary / silence / ASS |
+| `onset_gate.py` | Timing gate from word timestamps: LEAD (line opens on a breath/cheer; `--fix` snaps start) and STUB (one long word squeezed to ~0.4 s; ear list) |
 | `write_ass.py` | Write offset ASS; refuses empty English |
 | `stitch.py` | Concatenate per-segment `*_EN_offset.ass` into `full_EN_offset.ass` |
 | `divergence.py` | Compare a fresh ASS to a gold ASS (IoU + text similarity) |

@@ -13,3 +13,5 @@ Also: `q-20261013-saka-agari-250424.md` (250424 Himawarigumi Saka Agari 18:30: c
 Also: `q-20261016-mokugekisha-250423.md` (250423 Team H Mokugekisha 18:30: official cast, Goboten, intro rulings).
 
 Also: `q-20261018-tenshi-250422.md` (250422 Team KIV Tenshi 18:30: official cast, Radio Name DJ, Saaya live catch, Kanikama Day/Kuru-tan, Saikyou Idol Yoroshiku, Hijiri, mc2 3-song recap).
+
+Also: `q-20261021-mokugekisha-250416.md` (250416 Team H Mokugekisha 18:30: official cast + Shibui→Saaya change, KIV count, Yamamoto Mao, Ai-Golf, Aichiru, Nanaka-chan, Hina name line, Prosciutto Club).
