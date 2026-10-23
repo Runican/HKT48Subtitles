@@ -15,3 +15,5 @@ Also: `q-20261016-mokugekisha-250423.md` (250423 Team H Mokugekisha 18:30: offic
 Also: `q-20261018-tenshi-250422.md` (250422 Team KIV Tenshi 18:30: official cast, Radio Name DJ, Saaya live catch, Kanikama Day/Kuru-tan, Saikyou Idol Yoroshiku, Hijiri, mc2 3-song recap).
 
 Also: `q-20261021-mokugekisha-250416.md` (250416 Team H Mokugekisha 18:30: official cast + Shibui→Saaya change, KIV count, Yamamoto Mao, Ai-Golf, Aichiru, Nanaka-chan, Hina name line, Prosciutto Club).
+
+Also: `q-20261023-otonoha-kotonoha-250413.md` (250413 LIVE event 「～音の波 言の葉～」 17:00: title reading, cast, night setlist, MC map, intro themes; template stage_templates/oto_no_ha_koto_no_ha.json).

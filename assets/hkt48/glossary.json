@@ -414,7 +414,7 @@
       "type": "member",
       "team": "KIV",
       "reject": [],
-      "note": "Official nick ざわちゃん (Team KIV, 6th). Catch: miyu-honwaka-catch.",
+      "note": "Official nick ざわちゃん (Team KIV, 6th). Catch: miyu-honwaka-catch. ASR trap: bare ざわ/ざわちゃん heard as 沢田さん or A-chan (250413 twice); a lone Zawa in talk is her.",
       "confidence": "locked",
       "locked": true,
       "updated": "2026-09-29T10:48:26+02:00",
@@ -3539,7 +3539,619 @@
       "locked": true,
       "updated": "2026-10-21T01:52:00+02:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "show-oto-no-ha-koto-no-ha",
+      "ja": [
+        "～音の波 言の葉～",
+        "音の波 言の葉",
+        "音の波言の葉",
+        "オトノハコトノハ",
+        "おとのはことのは"
+      ],
+      "en": "Oto no Ha, Koto no Ha",
+      "en_full": "LIVE Event \"~Oto no Ha, Koto no Ha~\"",
+      "type": "show",
+      "team": null,
+      "reject": [
+        "音のは 言のは",
+        "Oto no Nami Koto no Ha",
+        "Otonami"
+      ],
+      "note": "One-off LIVE event (2025-04-13, 12:30 + 17:00), a singing-focused show Sakamoto Erena planned before graduating. Official JA is 音の波 言の葉 with 波 read ハ (member hashtag #オトノハコトノハ), a pun on 言の葉 (words); EN gloss if needed: \"Waves of Sound, Leaves of Words\". No official English title.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-seishun-no-deguchi",
+      "ja": [
+        "青春の出口"
+      ],
+      "en": "Seishun no Deguchi",
+      "en_full": "Seishun no Deguchi",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 all-member track on the 3-2 theatre edition; also on the album Outstanding.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kagi-to-naru",
+      "ja": [
+        "カギトナル"
+      ],
+      "en": "Kagi to Naru",
+      "en_full": "Kagi to Naru",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "鍵となる as a spoken line when the title is meant"
+      ],
+      "note": "Theme of the 2021 HKT48 online drama 不本意アンロック (Fuhon'i Unlock); lyrics Toyonaga Aki, music Sakamoto Erena (credited to 劇団ごりらぐみ).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "fuhoni-unlock",
+      "ja": [
+        "不本意アンロック"
+      ],
+      "en": "Fuhon'i Unlock",
+      "en_full": "Fuhon'i Unlock",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "2021 HKT48 member-made online drama (script Toyonaga Aki); theme song カギトナル. Keep the title in romaji; gloss \"Reluctant Unlock\" only if a note is needed.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-chime-wa-love-song",
+      "ja": [
+        "チャイムはLOVE SONG",
+        "チャイムはラブソング"
+      ],
+      "en": "Chime wa LOVE SONG",
+      "en_full": "Chime wa LOVE SONG",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Song from the 「手をつなぎながら」 stage; a call-heavy fan staple.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-12-byou",
+      "ja": [
+        "12秒"
+      ],
+      "en": "12 Byou",
+      "en_full": "12 Byou",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "12 seconds as the title"
+      ],
+      "note": "HKT48 single (Sakura/Haruppi double center); opens with a shouted よっ!.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-sekai-wa-doko-made-aozora",
+      "ja": [
+        "世界はどこまで青空なのか？",
+        "世界はどこまで青空なのか"
+      ],
+      "en": "Sekai wa Doko made Aozora na no ka?",
+      "en_full": "Sekai wa Doko made Aozora na no ka?",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "NGT48 single (2018 group request hour #1).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-utaitai",
+      "ja": [
+        "歌いたい"
+      ],
+      "en": "Utaitai",
+      "en_full": "Utaitai",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song (かとれあ組). ASR may merge the title into speech about wanting to sing; check context.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kimi-no-cw",
+      "ja": [
+        "君のc/w",
+        "君のC/W",
+        "君のカップリング・ウィズ",
+        "君のカップリング"
+      ],
+      "en": "Kimi no C/W",
+      "en_full": "Kimi no C/W",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 Team Surprise song; c/w is read カップリング・ウィズ (coupling with).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-ha",
+      "ja": [
+        "HA!",
+        "HA！"
+      ],
+      "en": "HA!",
+      "en_full": "HA!",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "NMB48 song. Bare ハ in ASR is rarely this title; lock only with a title intro.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kioku-no-dilemma",
+      "ja": [
+        "記憶のジレンマ"
+      ],
+      "en": "Kioku no Dilemma",
+      "en_full": "Kioku no Dilemma",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Older 48-group unit song performed at HKT48 events.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-tomodachi-de-irareru-nara",
+      "ja": [
+        "友達でいられるなら"
+      ],
+      "en": "Tomodachi de Irareru nara",
+      "en_full": "Tomodachi de Irareru nara",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "48-group duet song.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-namioto-no-orgel",
+      "ja": [
+        "波音のオルゴール"
+      ],
+      "en": "Namioto no Orgel",
+      "en_full": "Namioto no Orgel",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Nami no Oto no Orgel",
+        "Namine no Orgel"
+      ],
+      "note": "HKT48 track on メロンジュース Type-C and the album 092. Read なみおと. Lookalike trap with 波が伝えるもの (both 波 titles).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-nami-ga-tsutaeru-mono",
+      "ja": [
+        "波が伝えるもの"
+      ],
+      "en": "Nami ga Tsutaeru Mono",
+      "en_full": "Nami ga Tsutaeru Mono",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 2018 World Senbatsu election commemorative song (center Ueki Nao). Do not confuse with 波音のオルゴール.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-3-2",
+      "ja": [
+        "3-2",
+        "３－２",
+        "さんひくに",
+        "3ひく2"
+      ],
+      "en": "3-2",
+      "en_full": "3-2",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "3対2",
+        "San Mainasu Ni"
+      ],
+      "note": "HKT48 13th single (2020), read さんひくに (San Hiku Ni). Lyrics also say 3÷2 (さんわるに); ASR may give 3対2 or サンマイナスニ. A Hakata Keionbu (Kari) band version exists (2021).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-mika",
+      "ja": [
+        "MIKA",
+        "ミカ"
+      ],
+      "en": "MIKA",
+      "en_full": "MIKA",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Mika as a member"
+      ],
+      "note": "Original song Akiyoshi Yuka and Sakamoto Erena wrote in high school, titled after their vocal teacher. Not a member name.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-boku-wa-yatto",
+      "ja": [
+        "僕はやっと君を心配できる",
+        "僕やっと"
+      ],
+      "en": "Boku wa Yatto Kimi wo Shinpai Dekiru",
+      "en_full": "Boku wa Yatto Kimi wo Shinpai Dekiru",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 single (center Ishibashi Ibuki and Takemoto Kurumi). Short form 僕やっと.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-zenzen-kawaranai",
+      "ja": [
+        "全然 変わらない",
+        "全然、変わらない",
+        "全然変わらない"
+      ],
+      "en": "Zenzen Kawaranai",
+      "en_full": "Zenzen Kawaranai",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 ballad on the album Outstanding; center Toyonaga Aki. ASR will treat the title as speech; check context.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-mae-shika-mukanee",
+      "ja": [
+        "前しか向かねえ",
+        "前しか向かねぇ"
+      ],
+      "en": "Mae shika Mukanee",
+      "en_full": "Mae shika Mukanee",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 single; call オーイ!",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-yume-chikara",
+      "ja": [
+        "夢力"
+      ],
+      "en": "Yume Chikara",
+      "en_full": "Yume Chikara",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Muryoku",
+        "Yumeryoku"
+      ],
+      "note": "STU48 song, read ゆめぢから.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kimi-wa-motto-dekiru",
+      "ja": [
+        "君はもっとできる"
+      ],
+      "en": "Kimi wa Motto Dekiru",
+      "en_full": "Kimi wa Motto Dekiru",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 single (2023).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kimi-to-dokoka-e-ikitai",
+      "ja": [
+        "君とどこかへ行きたい"
+      ],
+      "en": "Kimi to Dokoka e Ikitai",
+      "en_full": "Kimi to Dokoka e Ikitai",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 14th single (2021), recorded by two senbatsu: つばめ選抜 (incl. Sakamoto Erena) and みずほ選抜 (incl. Takemoto Kurumi).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-hajimete-no-hoshi",
+      "ja": [
+        "初めての星"
+      ],
+      "en": "Hajimete no Hoshi",
+      "en_full": "Hajimete no Hoshi",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Song from the Team KIV 「ここにだって天使はいる」 stage.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-sakura-minna-de-tabeta",
+      "ja": [
+        "桜、みんなで食べた",
+        "さくたべ"
+      ],
+      "en": "Sakura, Minna de Tabeta",
+      "en_full": "Sakura, Minna de Tabeta",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 single; fan short form さくたべ.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-nakama-no-uta",
+      "ja": [
+        "仲間の歌"
+      ],
+      "en": "Nakama no Uta",
+      "en_full": "Nakama no Uta",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Team KIV 「制服の芽」 stage song; often has a member-name call in the interlude.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "the-live-streams",
+      "ja": [
+        "THE LIVE",
+        "ザ・ライブ",
+        "ザライブ"
+      ],
+      "en": "THE LIVE",
+      "en_full": "THE LIVE",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "Pandemic-era HKT48 streamed live series that was used as a reference for singing-focused events. Keep the English title.",
+      "confidence": "provisional",
+      "locked": false,
+      "updated": "2026-10-23T12:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "hakata-keionbu",
+      "ja": [
+        "博多軽音部（仮）",
+        "博多軽音部(仮)",
+        "博多軽音部",
+        "博多軽音部仮",
+        "はかたけいおんぶ"
+      ],
+      "en": "Hakata Keionbu (Kari)",
+      "en_full": "Hakata Light Music Club (working title)",
+      "type": "group",
+      "team": null,
+      "reject": [
+        "博多慶音部",
+        "Hakata Keion-bu as a school club"
+      ],
+      "note": "Member band formed in 2019: Kojina Yui, Toyonaga Aki, Akiyoshi Yuka, Sakamoto Erena. It streamed SHOWROOM lives in 2019 and 2020 and later posted remote covers, including a 2021 self-cover of 3-2. （仮） means \"working title\", so EN is \"Hakata Light Music Club (working title)\".",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kojina-yui",
+      "ja": [
+        "神志那結衣",
+        "神志那",
+        "じーな",
+        "ジーナ"
+      ],
+      "en": "Jiina",
+      "en_full": "Kojina Yui",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "小品ゆい",
+        "児玉結衣",
+        "Kodama Yui",
+        "Kojima Yui"
+      ],
+      "note": "Former HKT48 member, nick じーな; in the 3-2 senbatsu and a Hakata Keionbu (Kari) founder. ASR mangles the surname (小品, こじな); 兒玉 is a different ex-member (Kodama Haruka).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-chance-no-junban",
+      "ja": [
+        "チャンスの順番"
+      ],
+      "en": "Chance no Junban",
+      "en_full": "Chance no Junban",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 single (2010); also in the HKT48 trainee stage 「希望のつぼみ」.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-te-wo-tsunaginagara",
+      "ja": [
+        "手をつなぎながら",
+        "手つな"
+      ],
+      "en": "Te wo Tsunaginagara",
+      "en_full": "Te wo Tsunaginagara",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Title song of the 「手をつなぎながら」 stage (HKT48 Team H 1st and Team TII); short form 手つな. Distinguish the song from the stage by context.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-river",
+      "ja": [
+        "RIVER",
+        "リバー"
+      ],
+      "en": "RIVER",
+      "en_full": "RIVER",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 single (2009).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-yuuhi-wo-miteiru-ka",
+      "ja": [
+        "夕陽を見ているか？",
+        "夕陽を見ているか"
+      ],
+      "en": "Yuuhi wo Miteiru ka?",
+      "en_full": "Yuuhi wo Miteiru ka?",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 single (2007).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-oboete-kudasai",
+      "ja": [
+        "覚えてください",
+        "おぼえてください"
+      ],
+      "en": "Oboete Kudasai",
+      "en_full": "Oboete Kudasai",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Remember Me as the title"
+      ],
+      "note": "HKT48 trainee (研究生) song on the 桜、みんなで食べた single. Official kanji 覚; ASR or fan text may write おぼえて.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "show-kibou-no-tsubomi",
+      "ja": [
+        "希望のつぼみ",
+        "希望のつぼみ公演",
+        "研究生「希望のつぼみ」公演",
+        "つぼみ公演",
+        "ツボミ公演"
+      ],
+      "en": "Kibou no Tsubomi",
+      "en_full": "Kenkyuusei \"Kibou no Tsubomi\" stage",
+      "type": "show",
+      "team": null,
+      "reject": [
+        "蕾公演",
+        "Tsubomitachi stage"
+      ],
+      "note": "HKT48 6th-gen trainee stage (2023-10-01 to 2023-12-27; one revival show in 2026). Official site gives JA only; romaji Kibou no Tsubomi per fan wikis. Not the song 蕾たち (Tsubomitachi), which is in its setlist.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-23T13:30:00+02:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-21T01:52:00+02:00"
+  "updated": "2026-10-23T13:30:00+02:00"
 }

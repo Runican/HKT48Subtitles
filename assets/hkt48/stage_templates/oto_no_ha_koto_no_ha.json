@@ -1,0 +1,624 @@
+{
+  "id": "hkt48-live-event-oto-no-ha-koto-no-ha",
+  "stage_ja": "LIVEイベント「～音の波 言の葉～」",
+  "stage_en": "LIVE Event \"~Oto no Ha, Koto no Ha~\"",
+  "stage_romaji": "Oto no Ha, Koto no Ha",
+  "unit": "Special event (8 members, Sakamoto Erena's pick)",
+  "aliases": [
+    "音の波 言の葉",
+    "音の波言の葉",
+    "オトノハコトノハ",
+    "おとのはことのは",
+    "#音の波言の葉",
+    "#オトノハコトノハ"
+  ],
+  "verified_by": "verifier",
+  "verified_at": "2026-10-23",
+  "sources": [
+    {
+      "name": "HKT official announcement",
+      "url": "https://www.hkt48.jp/news/2025/03/10444"
+    },
+    {
+      "name": "HKT official schedule 17:00",
+      "url": "https://www.hkt48.jp/schedule/2025/04/19496"
+    },
+    {
+      "name": "HKT official week schedule",
+      "url": "https://www.hkt48.jp/news/2025/03/10446"
+    },
+    {
+      "name": "Fan report (night, attended)",
+      "url": "https://corporate.sakura.ne.jp/hkt/live%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%8c%ef%bd%9e%e9%9f%b3%e3%81%ae%e6%b3%a2-%e8%a8%80%e3%81%ae%e8%91%89%ef%bd%9e%e3%80%8d/"
+    },
+    {
+      "name": "polyhedra (day + night)",
+      "url": "https://polyhedra.blog.jp/archives/31765703.html"
+    },
+    {
+      "name": "ameblo setlist with MC positions (day) + night units",
+      "url": "https://ameblo.jp/terra-ameba/entry-12893748491.html"
+    },
+    {
+      "name": "asukyann night unit list",
+      "url": "https://asukyann.blog.jp/archives/89583426.html"
+    },
+    {
+      "name": "verify note",
+      "path": "assets/hkt48/sources/q-20261023-otonoha-kotonoha-250413.md"
+    }
+  ],
+  "notes": [
+    "Two performances only (2025-04-13 12:30 and 17:00); event, not a regular 公演. Template = night (17:00); day differs in blocks B/C (see day_variant).",
+    "Song order locked from 3 independent fan texts (fan report, polyhedra, ameblo/asukyann). Official site publishes no setlist for this event.",
+    "MC positions: ameblo gives them for the day show; night is confirmed by fan text for intro, 6th-gen MC after M10, and all-member MC after M16. Others are provisional.",
+    "Everything is sung live; several songs are seated or have live instruments (3-2, MIKA). Expect quiet acoustic bands and longer talk.",
+    "Skip translating song lyrics; song titles spoken in talk use the romaji here.",
+    "Talk dur_s are rough guesses (no grade anchor).",
+    "Overture matched the regular-stage overture (HKT48 ver.) by audio comparison with other LODs; the day list names it too.",
+    "Hakata Keionbu (Kari) = the members' band (Kojina Yui, Toyonaga Aki, Akiyoshi Yuka, Sakamoto Erena); talk about 3-2 refers to it."
+  ],
+  "songs": [
+    {
+      "slot": "M00",
+      "ja": "overture (HKT48 ver.)",
+      "romaji": "overture",
+      "block": "A",
+      "kind": "overture",
+      "confidence": "locked",
+      "note": "Standard overture (HKT48 ver.), the same audio as the regular-stage LODs; the day setlist also lists it. ~50 s right after the stream starts, then the offstage huddle and the a cappella 青春の出口."
+    },
+    {
+      "slot": "M01",
+      "ja": "青春の出口",
+      "romaji": "Seishun no Deguchi",
+      "block": "A",
+      "kind": "group",
+      "confidence": "locked",
+      "note": "Opened a cappella (night)."
+    },
+    {
+      "slot": "M02",
+      "ja": "カギトナル",
+      "romaji": "Kagi to Naru",
+      "block": "A",
+      "kind": "group",
+      "confidence": "locked",
+      "note": "Lyrics Toyonaga Aki, music Sakamoto Erena (theme of the online drama 不本意アンロック). 6th gen sing verse 1 line by line; seniors take verse 2."
+    },
+    {
+      "slot": "M03",
+      "ja": "チャイムはLOVE SONG",
+      "romaji": "Chime wa LOVE SONG",
+      "block": "A",
+      "kind": "group",
+      "confidence": "locked"
+    },
+    {
+      "slot": "M04",
+      "ja": "12秒",
+      "romaji": "12 Byou",
+      "block": "A",
+      "kind": "group",
+      "confidence": "locked",
+      "note": "Shouted よっ! at the top."
+    },
+    {
+      "slot": "M05",
+      "ja": "世界はどこまで青空なのか？",
+      "romaji": "Sekai wa Doko made Aozora na no ka?",
+      "block": "B",
+      "kind": "solo",
+      "confidence": "locked",
+      "unit_size": 1,
+      "performers_20250413_night": [
+        "Akiyoshi Yuka"
+      ]
+    },
+    {
+      "slot": "M06",
+      "ja": "歌いたい",
+      "romaji": "Utaitai",
+      "block": "B",
+      "kind": "solo",
+      "confidence": "locked",
+      "unit_size": 1,
+      "performers_20250413_night": [
+        "Sakamoto Erena"
+      ]
+    },
+    {
+      "slot": "M07",
+      "ja": "君のc/w",
+      "romaji": "Kimi no C/W",
+      "block": "B",
+      "kind": "unit",
+      "confidence": "locked",
+      "unit_size": 3,
+      "performers_20250413_night": [
+        "Takemoto Kurumi",
+        "Oba Risaki",
+        "Izawa Miyu"
+      ],
+      "fingerprints": [
+        "カップリングの君は　表とは違うよね"
+      ]
+    },
+    {
+      "slot": "M08",
+      "ja": "HA!",
+      "romaji": "HA!",
+      "block": "B",
+      "kind": "unit",
+      "confidence": "locked",
+      "unit_size": 3,
+      "performers_20250413_night": [
+        "Toyonaga Aki",
+        "Kitagawa Hiiro",
+        "Ihara Hanna"
+      ]
+    },
+    {
+      "slot": "M09",
+      "ja": "記憶のジレンマ",
+      "romaji": "Kioku no Dilemma",
+      "block": "B",
+      "kind": "unit",
+      "confidence": "locked",
+      "unit_size": 2,
+      "performers_20250413_night": [
+        "Toyonaga Aki",
+        "Akiyoshi Yuka"
+      ]
+    },
+    {
+      "slot": "M10",
+      "ja": "友達でいられるなら",
+      "romaji": "Tomodachi de Irareru nara",
+      "block": "B",
+      "kind": "unit",
+      "confidence": "locked",
+      "unit_size": 2,
+      "performers_20250413_night": [
+        "Sakamoto Erena",
+        "Takemoto Kurumi"
+      ]
+    },
+    {
+      "slot": "M11",
+      "ja": "波音のオルゴール",
+      "romaji": "Namioto no Orgel",
+      "block": "C",
+      "kind": "unit",
+      "confidence": "locked",
+      "unit_size": 4,
+      "performers_20250413_night": [
+        "Izawa Miyu",
+        "Oba Risaki",
+        "Ihara Hanna",
+        "Kitagawa Hiiro"
+      ],
+      "note": "6th gen, seated."
+    },
+    {
+      "slot": "M12",
+      "ja": "波が伝えるもの",
+      "romaji": "Nami ga Tsutaeru Mono",
+      "block": "C",
+      "kind": "group",
+      "confidence": "locked",
+      "unit_size": 8,
+      "performers_20250413_night": [
+        "ALL 8"
+      ]
+    },
+    {
+      "slot": "M13",
+      "ja": "3-2",
+      "romaji": "3-2 (San Hiku Ni)",
+      "block": "C",
+      "kind": "unit",
+      "confidence": "locked",
+      "unit_size": 4,
+      "performers_20250413_night": [
+        "Akiyoshi Yuka",
+        "Toyonaga Aki",
+        "Takemoto Kurumi",
+        "Sakamoto Erena"
+      ],
+      "fingerprints": [
+        "3-2(さんひくに)なら　孤独が残る",
+        "3÷2(さんわるに)では　僕だけ余る"
+      ],
+      "note": "Sakamoto Erena on piano (fan report + polyhedra); Yuka also plays live, instrument unconfirmed. Kurumi sings; she is not the pianist. Remake of the 2021 Hakata Keionbu (Kari) band version, with Kurumi taking Kojina Yui's place. polyhedra numbers it M-13 and then repeats M13 for MIKA, so its later night numbers are one lower."
+    },
+    {
+      "slot": "M14",
+      "ja": "MIKA",
+      "romaji": "MIKA",
+      "block": "C",
+      "kind": "unit",
+      "confidence": "locked",
+      "unit_size": 2,
+      "performers_20250413_night": [
+        "Akiyoshi Yuka",
+        "Sakamoto Erena"
+      ],
+      "note": "Original song by the pair; Yuka on acoustic guitar. Night: Erena forgot a lyric and sang an ad-lib along the lines of 歌詞ごめんなさ～い (polyhedra); translate as heard."
+    },
+    {
+      "slot": "M15",
+      "ja": "僕はやっと君を心配できる",
+      "romaji": "Boku wa Yatto Kimi wo Shinpai Dekiru",
+      "block": "D",
+      "kind": "group",
+      "confidence": "locked",
+      "unit_size": 8,
+      "performers_20250413_night": [
+        "ALL 8"
+      ],
+      "note": "Seated, fully live, full length."
+    },
+    {
+      "slot": "M16",
+      "ja": "全然 変わらない",
+      "romaji": "Zenzen Kawaranai",
+      "block": "D",
+      "kind": "group",
+      "confidence": "locked",
+      "unit_size": 8,
+      "performers_20250413_night": [
+        "ALL 8"
+      ],
+      "note": "Seated; Toyonaga center."
+    },
+    {
+      "slot": "M17",
+      "ja": "前しか向かねえ",
+      "romaji": "Mae shika Mukanee",
+      "block": "E",
+      "kind": "group",
+      "confidence": "locked",
+      "note": "Start of the call block."
+    },
+    {
+      "slot": "M18",
+      "ja": "夢力",
+      "romaji": "Yume Chikara",
+      "block": "E",
+      "kind": "group",
+      "confidence": "locked"
+    },
+    {
+      "slot": "M19",
+      "ja": "君はもっとできる",
+      "romaji": "Kimi wa Motto Dekiru",
+      "block": "E",
+      "kind": "group",
+      "confidence": "locked"
+    },
+    {
+      "slot": "M20",
+      "ja": "君とどこかへ行きたい",
+      "romaji": "Kimi to Dokoka e Ikitai",
+      "block": "F",
+      "kind": "group",
+      "confidence": "locked",
+      "note": "Main-set closer. The single exists in two senbatsu versions (Erena in つばめ選抜, Kurumi in みずほ選抜). No source mentions a pair part tonight."
+    },
+    {
+      "slot": "EN1",
+      "ja": "初めての星",
+      "romaji": "Hajimete no Hoshi",
+      "block": "G",
+      "kind": "encore",
+      "confidence": "locked"
+    },
+    {
+      "slot": "EN2",
+      "ja": "桜、みんなで食べた",
+      "romaji": "Sakura, Minna de Tabeta",
+      "block": "G",
+      "kind": "encore",
+      "confidence": "locked"
+    },
+    {
+      "slot": "EN3",
+      "ja": "仲間の歌",
+      "romaji": "Nakama no Uta",
+      "block": "H",
+      "kind": "encore",
+      "confidence": "locked",
+      "note": "Erena leads the last chorus with the crowd; night had an えれな call led by Kurumi."
+    }
+  ],
+  "day_variant": {
+    "note": "12:30 (day) show: same frame, different solos and units. Fan text (ameblo, polyhedra).",
+    "block_B": [
+      "10クローネとパン (Aki)",
+      "出逢いの続き (Kurumi)",
+      "キャンディー/CANDY (Yuka, Hiiro, Risaki)",
+      "この胸のバーコード (Erena, Zawa, Han-chan)",
+      "もっと、きっと。 (Erena solo, her own lyrics)"
+    ],
+    "mc_after_B": true,
+    "block_C": [
+      "恋の指先 (6th gen, seated)",
+      "さくらんぼを結べるか？ (6th gen, seated)",
+      "僕だけの白日夢 (seniors)",
+      "MIKA (Erena, Yuka)"
+    ],
+    "rest": "M14 onward = night M15 onward (僕やっと … 仲間の歌); the day show has 19 main songs, not 20."
+  },
+  "timeline": [
+    {
+      "id": "kage_ana",
+      "type": "kage_ana",
+      "translate": false,
+      "required": false,
+      "optional": true,
+      "skip_reason": "Shadow announcement; ask user whether to translate",
+      "after": "show_start",
+      "before": "song_block_A",
+      "confidence": "provisional",
+      "finder": "pre-show announcement + offstage 円陣 huddle before the a cappella opener"
+    },
+    {
+      "id": "song_block_A",
+      "type": "song_block",
+      "songs": [
+        "M00",
+        "M01",
+        "M02",
+        "M03",
+        "M04"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "kage_ana",
+      "before": "photo",
+      "confidence": "locked",
+      "finder": "overture (HKT48 ver.) → offstage huddle → a cappella Seishun no Deguchi → Kagi to Naru → Chime wa LOVE SONG → 12 Byou"
+    },
+    {
+      "id": "photo",
+      "type": "photo",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "after": "song_block_A",
+      "before": "intro",
+      "confidence": "provisional",
+      "finder": "talk right after 12 Byou: a photo-time call (写真を撮りたい) + mention of photo sales, before the self-intros",
+      "note": "Heard on the 17:00 tape only; no fan text mentions a photo session. Keep it PROV until text confirms it.",
+      "wiki_label": "MC1 (photo)",
+      "dur_s": {
+        "min": 60,
+        "typical": 120,
+        "max": 240
+      }
+    },
+    {
+      "id": "intro",
+      "type": "intro",
+      "wiki_label": "MC1／自己紹介",
+      "translate": true,
+      "required": true,
+      "after": "photo",
+      "before": "song_block_B",
+      "confidence": "locked",
+      "dur_s": {
+        "min": 300,
+        "typical": 700,
+        "max": 1400
+      },
+      "finder": "first long talk after 12 Byou",
+      "note": "Self-intros with a theme. Night: 元気をもらった曲 (a song that gave you energy); day: 好きな曲. Night answers (polyhedra): Kurumi RIVER; Risaki チャンスの順番 Chance no Junban; Hiiro 手をつなぎながら Te wo Tsunaginagara; Erena 夕陽を見ているか？ Yuuhi wo Miteiru ka?; Aki 波が伝えるもの Nami ga Tsutaeru Mono; Zawa 覚えてください Oboete Kudasai; Han-chan 君はもっとできる Kimi wa Motto Dekiru; Yuka 初めての星 Hajimete no Hoshi. Risaki ties hers to the trainee stage 「希望のつぼみ」 (Kibou no Tsubomi). Hiiro's hometown is Fukuoka (official profile)."
+    },
+    {
+      "id": "song_block_B",
+      "type": "song_block",
+      "songs": [
+        "M05",
+        "M06",
+        "M07",
+        "M08",
+        "M09",
+        "M10"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "intro",
+      "before": "mc_6ki",
+      "confidence": "locked",
+      "finder": "2 solos, then 4 units (3,3,2,2)"
+    },
+    {
+      "id": "mc_6ki",
+      "type": "mc",
+      "wiki_label": "MC2",
+      "translate": true,
+      "required": true,
+      "after": "song_block_B",
+      "before": "song_block_C",
+      "confidence": "locked",
+      "dur_s": {
+        "min": 120,
+        "typical": 300,
+        "max": 600
+      },
+      "note": "6th gen (Hiiro, Risaki, Zawa, Han-chan) MC while the stage is set up (chairs/instruments)."
+    },
+    {
+      "id": "song_block_C",
+      "type": "song_block",
+      "songs": [
+        "M11",
+        "M12",
+        "M13",
+        "M14"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_6ki",
+      "before": "mc3",
+      "confidence": "locked",
+      "finder": "seated quartet → all-8 Nami ga Tsutaeru Mono → live-instrument 3-2 → guitar MIKA"
+    },
+    {
+      "id": "mc3",
+      "type": "mc",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "after": "song_block_C",
+      "before": "song_block_D",
+      "confidence": "provisional",
+      "finder": "talk after MIKA, before Boku wa Yatto",
+      "note": "The day show has an MC after MIKA and before 僕やっと; the night reports do not mention one. Detect, do not force."
+    },
+    {
+      "id": "song_block_D",
+      "type": "song_block",
+      "songs": [
+        "M15",
+        "M16"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "song_block_C",
+      "before": "mc_all",
+      "confidence": "locked",
+      "finder": "seated full-length 僕やっと + Zenzen Kawaranai"
+    },
+    {
+      "id": "mc_all",
+      "type": "mc",
+      "wiki_label": "MC (all members)",
+      "translate": true,
+      "required": true,
+      "after": "song_block_D",
+      "before": "song_block_E",
+      "confidence": "locked",
+      "dur_s": {
+        "min": 180,
+        "typical": 400,
+        "max": 900
+      },
+      "note": "All 8 share impressions (Aki compares it to the old THE LIVE streams), then the lead-in to the call block, e.g. ここからは皆さんのコールの力も借りながら… / のど飴."
+    },
+    {
+      "id": "song_block_E",
+      "type": "song_block",
+      "songs": [
+        "M17",
+        "M18",
+        "M19"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_all",
+      "before": "mc_pre_last",
+      "confidence": "locked",
+      "finder": "call block: Mae shika Mukanee → Yume Chikara → Kimi wa Motto Dekiru"
+    },
+    {
+      "id": "mc_pre_last",
+      "type": "mc",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "after": "song_block_E",
+      "before": "song_block_F",
+      "confidence": "provisional",
+      "finder": "short talk before/after the main-set closer",
+      "note": "Day show lists an MC before 君とどこかへ行きたい. polyhedra quotes a thank-you (一人一人の歌を届けられた… これからもたくさんの景色を見に行きましょう) around the last song; whether it is before or after it is unconfirmed."
+    },
+    {
+      "id": "song_block_F",
+      "type": "song_block",
+      "songs": [
+        "M20"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_pre_last",
+      "before": "encore_call",
+      "confidence": "locked"
+    },
+    {
+      "id": "encore_call",
+      "type": "encore_call",
+      "translate": false,
+      "required": false,
+      "skip_reason": "Audience encore call; detect, do not merge into MC",
+      "after": "song_block_F",
+      "before": "encore_songs",
+      "confidence": "locked"
+    },
+    {
+      "id": "encore_songs",
+      "type": "song_block",
+      "songs": [
+        "EN1",
+        "EN2"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "encore_call",
+      "before": "mc_encore",
+      "confidence": "locked"
+    },
+    {
+      "id": "mc_encore",
+      "type": "mc",
+      "translate": true,
+      "required": false,
+      "optional": true,
+      "after": "encore_songs",
+      "before": "song_block_H",
+      "confidence": "provisional",
+      "finder": "talk after Sakura, Minna de Tabeta",
+      "note": "Day list has an MC between EN2 and EN3; night unconfirmed. Likely Erena-centred (graduation two weeks later); spoiler-light handling."
+    },
+    {
+      "id": "song_block_H",
+      "type": "song_block",
+      "songs": [
+        "EN3"
+      ],
+      "translate": false,
+      "required": true,
+      "after": "mc_encore",
+      "before": "end_greetings",
+      "confidence": "locked",
+      "note": "Crowd sings the last chorus; えれな call (night)."
+    },
+    {
+      "id": "end_greetings",
+      "type": "end_greetings",
+      "translate": false,
+      "required": false,
+      "skip_reason": "Arigatou barrage / final greeting; then send-off (お見送り) off-stream",
+      "after": "song_block_H",
+      "before": "show_end",
+      "confidence": "locked"
+    }
+  ],
+  "translate_types": [
+    "photo",
+    "intro",
+    "mc",
+    "outro"
+  ],
+  "skip_types": [
+    "kage_ana",
+    "encore_call",
+    "end_greetings",
+    "song_block"
+  ],
+  "grade_anchor_show": null,
+  "grade_anchor_note": "No grade anchor; the 2025-04-13 17:00 LOD is the first job.",
+  "updated": "2026-10-23",
+  "updated_by": "verifier"
+}

@@ -1,0 +1,774 @@
+﻿[Script Info]
+Title: HKT48 250413 Otonoha Kotonoha LOD 1700 1080p DMM
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,56,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+; ===== photo =====
+Dialogue: 0,0:14:13.98,0:14:17.16,Default,Sakamoto Erena,0,0,60,,Yes! HKT48 Live Event "Oto no Ha, Koto no Ha"
+Dialogue: 0,0:14:17.18,0:14:19.30,Default,Sakamoto Erena,0,0,60,,has begun!
+Dialogue: 0,0:14:21.69,0:14:24.81,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,0:14:24.89,0:14:26.91,Default,Sakamoto Erena,0,0,60,,First, an a cappella version of Seishun no Deguchi,
+Dialogue: 0,0:14:26.99,0:14:28.99,Default,Sakamoto Erena,0,0,60,,then Kagi to Naru, lyrics by Aki-chan and composed by me,
+Dialogue: 0,0:14:29.11,0:14:31.23,Default,Sakamoto Erena,0,0,60,,then Chime wa LOVE SONG and 12 Byou. That's what you heard —
+Dialogue: 0,0:14:31.31,0:14:33.87,Default,Sakamoto Erena,0,0,60,,is everyone having fun?
+Dialogue: 0,0:14:36.99,0:14:41.39,Default,Sakamoto Erena,0,0,60,,Thank you! Now we'd like to take a photo here.
+Dialogue: 0,0:14:41.47,0:14:41.82,Default,All,0,0,60,,Okay!
+Dialogue: 0,0:14:41.90,0:14:44.99,Default,Toyonaga Aki,0,0,60,,What should we do?
+Dialogue: 0,0:14:45.31,0:14:46.87,Default,Member,0,0,60,,What should we do?
+Dialogue: 0,0:14:47.46,0:14:50.08,Default,Member,0,0,60,,Since the day show was, you know, like that...
+Dialogue: 0,0:14:55.15,0:14:56.41,Default,Member,0,0,60,,A single row is good.
+Dialogue: 0,0:14:57.01,0:14:57.73,Default,Akiyoshi Yuka,0,0,60,,Sideways.
+Dialogue: 0,0:14:57.81,0:14:58.17,Default,Member,0,0,60,,I see.
+Dialogue: 0,0:15:01.14,0:15:02.48,Default,Akiyoshi Yuka,0,0,60,,Do we get in?
+Dialogue: 0,0:15:03.08,0:15:04.36,Default,Akiyoshi Yuka,0,0,60,,A rare sideways layout.
+Dialogue: 0,0:15:04.44,0:15:05.30,Default,Toyonaga Aki,0,0,60,,A little more forward?
+Dialogue: 0,0:15:05.86,0:15:08.36,Default,Toyonaga Aki,0,0,60,,Wouldn't it be better a bit more like this?
+Dialogue: 0,0:15:08.46,0:15:08.84,Default,Kitagawa Hiiro,0,0,60,,I see.
+Dialogue: 0,0:15:23.06,0:15:24.00,Default,Member,0,0,60,,What shall we do?
+Dialogue: 0,0:15:26.68,0:15:27.16,Default,Toyonaga Aki,0,0,60,,Waves?
+Dialogue: 0,0:15:27.24,0:15:27.86,Default,Kitagawa Hiiro,0,0,60,,Waves?
+Dialogue: 0,0:15:28.36,0:15:29.24,Default,Toyonaga Aki,0,0,60,,Everyone doing a wave?
+Dialogue: 0,0:15:31.22,0:15:32.08,Default,Toyonaga Aki,0,0,60,,In a still photo?
+Dialogue: 0,0:15:33.64,0:15:34.82,Default,Member,0,0,60,,I'd get it in a video, but...
+Dialogue: 0,0:15:35.64,0:15:36.26,Default,Kitagawa Hiiro,0,0,60,,That's hard.
+Dialogue: 0,0:15:36.34,0:15:37.98,Default,Kitagawa Hiiro,0,0,60,,Does this work?
+Dialogue: 0,0:15:44.44,0:15:45.42,Default,Sakamoto Erena,0,0,60,,What pose?
+Dialogue: 0,0:15:45.60,0:15:46.40,Default,Member,0,0,60,,Leaves?
+Dialogue: 0,0:15:50.68,0:15:52.59,Default,Toyonaga Aki,0,0,60,,Let's not.
+Dialogue: 0,0:15:53.95,0:15:55.07,Default,Sakamoto Erena,0,0,60,,Then a cute pose.
+Dialogue: 0,0:15:55.15,0:15:56.67,Default,Member,0,0,60,,A cute pose.
+Dialogue: 0,0:16:04.85,0:16:06.37,Default,All,0,0,60,,Thank you!
+Dialogue: 0,0:16:10.00,0:16:12.86,Default,Sakamoto Erena,0,0,60,,The photo we just took will be sold in the lobby after the show.
+Dialogue: 0,0:16:12.94,0:16:14.26,Default,Sakamoto Erena,0,0,60,,It's a bit of a weird photo, but
+Dialogue: 0,0:16:14.34,0:16:16.30,Default,Sakamoto Erena,0,0,60,,please buy it if you like! Thank you!
+Dialogue: 0,0:16:16.38,0:16:17.60,Default,All,0,0,60,,Thank you!
+Dialogue: 0,0:16:22.19,0:16:25.61,Default,Sakamoto Erena,0,0,60,,Okay, from here we'll each introduce ourselves.
+Dialogue: 0,0:16:25.69,0:16:29.23,Default,Sakamoto Erena,0,0,60,,Today's theme is: a song that gave you energy.
+Dialogue: 0,0:16:30.07,0:16:30.95,Default,Sakamoto Erena,0,0,60,,So, Han-chan...
+Dialogue: 0,0:16:31.03,0:16:31.49,Default,Sakamoto Erena,0,0,60,,Not Han-chan.
+Dialogue: 0,0:16:31.97,0:16:32.57,Default,Sakamoto Erena,0,0,60,,Richaki.
+Dialogue: 0,0:16:32.65,0:16:33.35,Default,Sakamoto Erena,0,0,60,,Richaki.
+Dialogue: 0,0:16:33.43,0:16:34.15,Default,Member,0,0,60,,Han-chaka-chan.
+Dialogue: 0,0:16:34.23,0:16:35.09,Default,Sakamoto Erena,0,0,60,,My brain isn't working.
+Dialogue: 0,0:16:35.17,0:16:36.51,Default,Sakamoto Erena,0,0,60,,I'm so sorry.
+Dialogue: 0,0:16:37.27,0:16:38.39,Default,Sakamoto Erena,0,0,60,,Starting with Richaki, please.
+Dialogue: 0,0:16:39.03,0:16:39.75,Default,Oba Risaki,0,0,60,,Okay, I'm...
+
+; ===== intro =====
+Dialogue: 0,0:16:40.02,0:16:41.88,Default,Oba Risaki,0,0,60,,When I point the mic at you, please say "Risaki"!
+Dialogue: 0,0:16:41.96,0:16:43.24,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:16:43.70,0:16:44.32,Default,Oba Risaki,0,0,60,,Good morning!
+Dialogue: 0,0:16:44.40,0:16:45.42,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:16:45.88,0:16:46.78,Default,Oba Risaki,0,0,60,,Good night!
+Dialogue: 0,0:16:46.86,0:16:47.62,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:16:48.08,0:16:49.84,Default,Oba Risaki,0,0,60,,I caught everyone's hearts!
+Dialogue: 0,0:16:49.92,0:16:50.98,Default,Crowd,0,0,60,,We're caught!
+Dialogue: 0,0:16:51.54,0:16:51.94,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,0:16:52.48,0:16:54.20,Default,Oba Risaki,0,0,60,,I'm 19-year-old Oba Risaki!
+Dialogue: 0,0:16:54.28,0:16:55.04,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:16:55.78,0:16:56.18,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,0:17:00.18,0:17:02.36,Default,Oba Risaki,0,0,60,,The song that gave me energy
+Dialogue: 0,0:17:02.44,0:17:04.96,Default,Oba Risaki,0,0,60,,is a song called Chance no Junban.
+Dialogue: 0,0:17:05.54,0:17:09.42,Default,Oba Risaki,0,0,60,,During the Kibou no Tsubomi show, that song really lifted me up.
+Dialogue: 0,0:17:09.50,0:17:12.06,Default,Oba Risaki,0,0,60,,It was a "let's give it our all today" kind of song, so
+Dialogue: 0,0:17:12.14,0:17:14.14,Default,Oba Risaki,0,0,60,,I really want to keep listening to it a lot,
+Dialogue: 0,0:17:14.22,0:17:15.42,Default,Oba Risaki,0,0,60,,remember my trainee days,
+Dialogue: 0,0:17:15.50,0:17:17.38,Default,Oba Risaki,0,0,60,,and go back to my beginner's spirit and work hard.
+Dialogue: 0,0:17:17.46,0:17:19.08,Default,Oba Risaki,0,0,60,,Please look after me today too!
+Dialogue: 0,0:17:22.97,0:17:25.49,Default,Kitagawa Hiiro,0,0,60,,When I say "super," please say "hero"!
+Dialogue: 0,0:17:27.32,0:17:29.10,Default,Kitagawa Hiiro,0,0,60,,Bright like the sun,
+Dialogue: 0,0:17:29.18,0:17:30.38,Default,Kitagawa Hiiro,0,0,60,,Hakata's super—
+Dialogue: 0,0:17:30.80,0:17:31.50,Default,Crowd,0,0,60,,Hero!
+Dialogue: 0,0:17:32.38,0:17:32.74,Default,Kitagawa Hiiro,0,0,60,,Thank you!
+Dialogue: 0,0:17:33.26,0:17:34.74,Default,Kitagawa Hiiro,0,0,60,,From Fukuoka Prefecture, 21 years old,
+Dialogue: 0,0:17:34.82,0:17:36.54,Default,Kitagawa Hiiro,0,0,60,,I'm Team H's Kitagawa Hiiro!
+Dialogue: 0,0:17:36.62,0:17:37.24,Default,Crowd,0,0,60,,Hiiro!
+Dialogue: 0,0:17:40.78,0:17:41.13,Default,Kitagawa Hiiro,0,0,60,,Thank you!
+Dialogue: 0,0:17:41.21,0:17:43.78,Default,Kitagawa Hiiro,0,0,60,,Thank you.
+Dialogue: 0,0:17:43.86,0:17:46.94,Default,Kitagawa Hiiro,0,0,60,,There are lots of songs that gave me energy, but
+Dialogue: 0,0:17:47.02,0:17:49.92,Default,Kitagawa Hiiro,0,0,60,,I think Te wo Tsunaginagara really lifts me up.
+Dialogue: 0,0:17:50.34,0:17:56.14,Default,Kitagawa Hiiro,0,0,60,,It has choreography too, where you pair up and such,
+Dialogue: 0,0:17:57.46,0:18:03.22,Default,Kitagawa Hiiro,0,0,60,,and the more years you pile up, the more it hits you through your bond with the people you sing it with.
+Dialogue: 0,0:18:03.30,0:18:07.48,Default,Kitagawa Hiiro,0,0,60,,I think it's a song that really gives you energy.
+Dialogue: 0,0:18:07.56,0:18:08.78,Default,Kitagawa Hiiro,0,0,60,,Please look after me all day today!
+Dialogue: 0,0:18:12.93,0:18:14.81,Default,Takemoto Kurumi,0,0,60,,Okay! I want to wrap your heart up as Kuru-mi!
+Dialogue: 0,0:18:15.69,0:18:18.80,Default,Takemoto Kurumi,0,0,60,,Thank you! I'm Takemoto Kurumi — Kuru-tan!
+Dialogue: 0,0:18:18.88,0:18:19.96,Default,Crowd,0,0,60,,Kuru-tan!
+Dialogue: 0,0:18:23.64,0:18:24.00,Default,Takemoto Kurumi,0,0,60,,Thank you!
+Dialogue: 0,0:18:24.80,0:18:27.52,Default,Takemoto Kurumi,0,0,60,,The song that gave me courage and energy
+Dialogue: 0,0:18:27.60,0:18:28.90,Default,Takemoto Kurumi,0,0,60,,is RIVER.
+Dialogue: 0,0:18:29.28,0:18:32.06,Default,Takemoto Kurumi,0,0,60,,I've loved RIVER since before I joined,
+Dialogue: 0,0:18:32.14,0:18:34.26,Default,Takemoto Kurumi,0,0,60,,but after joining,
+Dialogue: 0,0:18:34.34,0:18:36.26,Default,Takemoto Kurumi,0,0,60,,the lyrics hit me so much harder,
+Dialogue: 0,0:18:36.34,0:18:37.68,Default,Takemoto Kurumi,0,0,60,,and now that I'm an adult,
+Dialogue: 0,0:18:37.76,0:18:39.92,Default,Takemoto Kurumi,0,0,60,,I realize, "oh, so that's what it meant." It really resonated with me,
+Dialogue: 0,0:18:40.00,0:18:43.28,Default,Takemoto Kurumi,0,0,60,,so whenever you're going through a hard time, please listen to RIVER,
+Dialogue: 0,0:18:43.36,0:18:47.46,Default,Takemoto Kurumi,0,0,60,,and let's push through the slumps together — vroom!
+Dialogue: 0,0:18:47.54,0:18:49.78,Default,Takemoto Kurumi,0,0,60,,I'll entertain you a lot today. Please look after me!
+Dialogue: 0,0:18:53.69,0:18:55.09,Default,Sakamoto Erena,0,0,60,,Okay, then I'll sing.
+Dialogue: 0,0:18:55.17,0:18:59.21,Default,Sakamoto Erena,0,0,60,,I'll sing. Please say "hey" at the end!
+Dialogue: 0,0:19:00.51,0:19:02.05,Default,Sakamoto Erena,0,0,60,,One, two, three, four!
+Dialogue: 0,0:19:02.13,0:19:05.63,Default,Sakamoto Erena,0,0,60,,Today is the Oto no Ha show~
+Dialogue: 0,0:19:05.71,0:19:08.59,Default,Sakamoto Erena,0,0,60,,Let's all sing a lot and have fun~
+Dialogue: 0,0:19:08.67,0:19:09.55,Default,Crowd,0,0,60,,Hey!
+Dialogue: 0,0:19:09.60,0:19:11.10,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,0:19:11.21,0:19:14.29,Default,Sakamoto Erena,0,0,60,,I'm HKT48 Team KIV's Sakamoto Erena — Ere-tan!
+Dialogue: 0,0:19:14.37,0:19:15.65,Default,Crowd,0,0,60,,Ere-tan!
+Dialogue: 0,0:19:15.73,0:19:16.45,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,0:19:20.27,0:19:24.45,Default,Sakamoto Erena,0,0,60,,For me, it's AKB48's Yuuhi wo Miteiru ka?.
+Dialogue: 0,0:19:24.53,0:19:26.39,Default,Sakamoto Erena,0,0,60,,I love it so much.
+Dialogue: 0,0:19:26.47,0:19:28.77,Default,Sakamoto Erena,0,0,60,,I listen to it on my way home from work
+Dialogue: 0,0:19:28.85,0:19:30.77,Default,Sakamoto Erena,0,0,60,,when I'm like, "I worked hard today,"
+Dialogue: 0,0:19:30.85,0:19:33.59,Default,Sakamoto Erena,0,0,60,,or when I'm feeling a little down,
+Dialogue: 0,0:19:33.67,0:19:36.27,Default,Sakamoto Erena,0,0,60,,and it really gives me a push on the back.
+Dialogue: 0,0:19:36.35,0:19:37.85,Default,Sakamoto Erena,0,0,60,,It's such a warm song,
+Dialogue: 0,0:19:37.93,0:19:39.79,Default,Sakamoto Erena,0,0,60,,and I truly love it.
+Dialogue: 0,0:19:39.87,0:19:42.39,Default,Sakamoto Erena,0,0,60,,Today, I want to do my best to deliver energy to all of you.
+Dialogue: 0,0:19:42.47,0:19:45.33,Default,Sakamoto Erena,0,0,60,,Please look after me!
+Dialogue: 0,0:19:45.45,0:19:47.11,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:19:49.90,0:19:52.56,Default,Toyonaga Aki,0,0,60,,Okay! The A in Aki is the A in Asura, but my heart is a bodhisattva's.
+Dialogue: 0,0:19:52.64,0:19:55.96,Default,Toyonaga Aki,0,0,60,,Still in training, 25 years old — I'm Toyonaga Aki!
+Dialogue: 0,0:19:56.08,0:19:57.04,Default,Crowd,0,0,60,,Aki-chan!
+Dialogue: 0,0:20:00.39,0:20:03.43,Default,Toyonaga Aki,0,0,60,,Thank you! The song that gave me energy is
+Dialogue: 0,0:20:03.53,0:20:07.13,Default,Toyonaga Aki,0,0,60,,Nami ga Tsutaeru Mono, which Ere-chan sang with me too.
+Dialogue: 0,0:20:07.21,0:20:13.01,Default,Toyonaga Aki,0,0,60,,It's a song from the World Senbatsu General Election commemorative slot,
+Dialogue: 0,0:20:14.61,0:20:17.83,Default,Toyonaga Aki,0,0,60,,and the front row was packed with HKT members.
+Dialogue: 0,0:20:18.31,0:20:24.11,Default,Toyonaga Aki,0,0,60,,Including the memories of the MV, it's a song I remember with a lot of energy,
+Dialogue: 0,0:20:24.65,0:20:28.57,Default,Toyonaga Aki,0,0,60,,and its content gives you a lot of courage too.
+Dialogue: 0,0:20:28.65,0:20:32.63,Default,Toyonaga Aki,0,0,60,,The costumes are yukata, so we've rarely had the chance to perform it,
+Dialogue: 0,0:20:32.71,0:20:35.87,Default,Toyonaga Aki,0,0,60,,but it's a great song, so please give it a listen.
+Dialogue: 0,0:20:35.95,0:20:37.47,Default,Toyonaga Aki,0,0,60,,Please look after me for the whole day!
+Dialogue: 0,0:20:37.55,0:20:39.13,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:20:41.36,0:20:44.52,Default,Izawa Miyu,0,0,60,,Okay! When I point the mic at you, please say "Fuu!"
+Dialogue: 0,0:20:45.34,0:20:46.06,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:20:46.44,0:20:51.16,Default,Izawa Miyu,0,0,60,,In charge of warm smiles — I'll turn today into an eternal day!
+Dialogue: 0,0:20:51.24,0:20:51.58,Default,Crowd,0,0,60,,Fuu!
+Dialogue: 0,0:20:53.07,0:20:57.37,Default,Izawa Miyu,0,0,60,,Thank you! From Fukuoka Prefecture, born in summer, 18 years old, I'm Izawa Miyu! Please look after me!
+Dialogue: 0,0:20:57.79,0:20:58.47,Default,Crowd,0,0,60,,Zawa-chan!
+Dialogue: 0,0:21:03.93,0:21:09.33,Default,Izawa Miyu,0,0,60,,Thank you! The song that gave me energy is a song called Oboete Kudasai.
+Dialogue: 0,0:21:10.09,0:21:15.89,Default,Izawa Miyu,0,0,60,,As trainees, we performed it with all 18 6th gens on a stage at Makuhari Messe.
+Dialogue: 0,0:21:16.41,0:21:21.41,Default,Izawa Miyu,0,0,60,,The lyrics capture how we felt as trainees, so it's a lovely song, but
+Dialogue: 0,0:21:21.49,0:21:25.79,Default,Izawa Miyu,0,0,60,,what I remember most is when we performed it at Makuhari:
+Dialogue: 0,0:21:25.87,0:21:29.15,Default,Izawa Miyu,0,0,60,,there's a part in the interlude where each trainee's name gets called out,
+Dialogue: 0,0:21:29.23,0:21:32.49,Default,Izawa Miyu,0,0,60,,and with 18 of us 6th gens, it was total chaos.
+Dialogue: 0,0:21:32.87,0:21:35.97,Default,Izawa Miyu,0,0,60,,So we couldn't get the names out in time,
+Dialogue: 0,0:21:36.05,0:21:41.09,Default,Izawa Miyu,0,0,60,,or we'd say too many names and it got crammed — that happened a lot,
+Dialogue: 0,0:21:41.17,0:21:43.55,Default,Izawa Miyu,0,0,60,,and practicing that is a really good memory.
+Dialogue: 0,0:21:43.63,0:21:46.13,Default,Izawa Miyu,0,0,60,,I'll give it my all today too! Please look after me!
+Dialogue: 0,0:21:50.24,0:21:53.20,Default,Ihara Hanna,0,0,60,,When I point the mic at you, please say "Han-chaka-chan"!
+Dialogue: 0,0:21:54.86,0:21:57.12,Default,Ihara Hanna,0,0,60,,Everyone's love, tied together by bonds —
+Dialogue: 0,0:21:57.62,0:21:59.34,Default,Crowd,0,0,60,,Han-chaka-chan!
+Dialogue: 0,0:21:59.88,0:22:00.66,Default,Ihara Hanna,0,0,60,,Got it!
+Dialogue: 0,0:22:00.74,0:22:03.58,Default,Ihara Hanna,0,0,60,,From Oita Prefecture, a third-year middle schooler, 14 years old,
+Dialogue: 0,0:22:03.66,0:22:05.32,Default,Ihara Hanna,0,0,60,,I'm a bit of a scatterbrain, Ihara Hanna!
+Dialogue: 0,0:22:05.40,0:22:07.12,Default,Ihara Hanna,0,0,60,,Please call me Han-chan! Please look after me!
+Dialogue: 0,0:22:07.20,0:22:08.58,Default,Crowd,0,0,60,,Han-chan!
+Dialogue: 0,0:22:11.72,0:22:12.08,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,0:22:13.66,0:22:15.58,Default,Ihara Hanna,0,0,60,,The song that gave me energy
+Dialogue: 0,0:22:15.66,0:22:17.56,Default,Ihara Hanna,0,0,60,,is Kimi wa Motto Dekiru.
+Dialogue: 0,0:22:18.10,0:22:19.98,Default,Ihara Hanna,0,0,60,,The lyrics say "you can do more,"
+Dialogue: 0,0:22:20.06,0:22:22.04,Default,Ihara Hanna,0,0,60,,and I think those are really good lyrics.
+Dialogue: 0,0:22:22.12,0:22:24.28,Default,Ihara Hanna,0,0,60,,At my birthday show,
+Dialogue: 0,0:22:24.36,0:22:25.94,Default,Ihara Hanna,0,0,60,,I played guitar for the first time on Yume no Dead Body,
+Dialogue: 0,0:22:26.02,0:22:27.86,Default,Ihara Hanna,0,0,60,,and back then,
+Dialogue: 0,0:22:27.94,0:22:30.40,Default,Ihara Hanna,0,0,60,,when I thought "I can't do this,"
+Dialogue: 0,0:22:30.48,0:22:32.12,Default,Ihara Hanna,0,0,60,,I listened to Kimi wa Motto Dekiru,
+Dialogue: 0,0:22:32.20,0:22:34.62,Default,Ihara Hanna,0,0,60,,practiced, and pulled it off.
+Dialogue: 0,0:22:34.70,0:22:36.38,Default,Ihara Hanna,0,0,60,,I want to keep listening to it even more from now on.
+Dialogue: 0,0:22:36.46,0:22:38.06,Default,Ihara Hanna,0,0,60,,Okay, please look after me all day!
+Dialogue: 0,0:22:38.14,0:22:39.80,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:22:42.51,0:22:47.05,Default,Akiyoshi Yuka,0,0,60,,Okay! When I say "I want to be," please say "I want to be"! Please! — Okay!
+Dialogue: 0,0:22:48.00,0:22:50.60,Default,Akiyoshi Yuka,0,0,60,,Okay! I want to be a gentle flower blooming in Hakata!
+Dialogue: 0,0:22:50.64,0:22:52.10,Default,Crowd,0,0,60,,I want to be!
+Dialogue: 0,0:22:53.43,0:22:56.99,Default,Akiyoshi Yuka,0,0,60,,Thank you! I love acting and guitar — I'm Akiyoshi Yuka, Yuka-chan!
+Dialogue: 0,0:22:57.07,0:22:58.40,Default,Crowd,0,0,60,,Yuka-chan!
+Dialogue: 0,0:23:02.41,0:23:06.03,Default,Akiyoshi Yuka,0,0,60,,Thank you! I was going to say Kimi wa Motto Dekiru, but...
+Dialogue: 0,0:23:06.11,0:23:08.60,Default,Akiyoshi Yuka,0,0,60,,It's a good song, right? — Yeah.
+Dialogue: 0,0:23:08.71,0:23:12.30,Default,Akiyoshi Yuka,0,0,60,,And for me, also, um, Team KIV's
+Dialogue: 0,0:23:12.65,0:23:16.63,Default,Akiyoshi Yuka,0,0,60,,Koko ni Datte Tenshi wa Iru show — from that show,
+Dialogue: 0,0:23:16.99,0:23:18.67,Default,Akiyoshi Yuka,0,0,60,,Hajimete no Hoshi
+Dialogue: 0,0:23:18.75,0:23:19.81,Default,Akiyoshi Yuka,0,0,60,,is a really great song.
+Dialogue: 0,0:23:19.89,0:23:22.33,Default,Akiyoshi Yuka,0,0,60,,Every time we do the show, I think, "what a good song,"
+Dialogue: 0,0:23:22.87,0:23:24.11,Default,Akiyoshi Yuka,0,0,60,,and the more years I pile up,
+Dialogue: 0,0:23:24.19,0:23:26.09,Default,Akiyoshi Yuka,0,0,60,,the more it sinks in.
+Dialogue: 0,0:23:27.21,0:23:28.25,Default,Akiyoshi Yuka,0,0,60,,I think all of you have
+Dialogue: 0,0:23:28.33,0:23:29.73,Default,Akiyoshi Yuka,0,0,60,,piled up a lot of life too,
+Dialogue: 0,0:23:30.19,0:23:32.27,Default,Akiyoshi Yuka,0,0,60,,so I bet it'll really sink in for you.
+Dialogue: 0,0:23:32.35,0:23:34.61,Default,Akiyoshi Yuka,0,0,60,,It's a good song to sing,
+Dialogue: 0,0:23:34.69,0:23:36.45,Default,Akiyoshi Yuka,0,0,60,,and a good song to listen to,
+Dialogue: 0,0:23:36.53,0:23:38.23,Default,Akiyoshi Yuka,0,0,60,,so if I ever get the chance to perform it,
+Dialogue: 0,0:23:38.31,0:23:39.79,Default,Akiyoshi Yuka,0,0,60,,so I can deliver that kind of power,
+Dialogue: 0,0:23:39.87,0:23:41.29,Default,Akiyoshi Yuka,0,0,60,,I'll do my best.
+Dialogue: 0,0:23:41.37,0:23:43.15,Default,Akiyoshi Yuka,0,0,60,,Please look after me today, all day long!
+Dialogue: 0,0:23:43.23,0:23:45.13,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:23:48.58,0:23:50.44,Default,Sakamoto Erena,0,0,60,,HKT48 Live Event
+Dialogue: 0,0:23:50.52,0:23:53.04,Default,Sakamoto Erena,0,0,60,,"Oto no Ha, Koto no Ha" is brought to you by the eight of us above!
+Dialogue: 0,0:23:53.56,0:23:54.22,Default,Sakamoto Erena,0,0,60,,So from here—
+Dialogue: 0,0:23:54.30,0:23:56.40,Default,Akiyoshi Yuka,0,0,60,,We're off! — See you later!
+Dialogue: 0,0:23:57.12,0:23:59.00,Default,Toyonaga Aki,0,0,60,,We'll have them go get ready.
+
+; ===== mc1 =====
+Dialogue: 0,0:24:00.75,0:24:02.39,Default,Toyonaga Aki,0,0,60,,They went "ooh".
+Dialogue: 0,0:24:04.23,0:24:06.21,Default,Toyonaga Aki,0,0,60,,Okay, so what shall we talk about?
+Dialogue: 0,0:24:06.29,0:24:10.03,Default,Toyonaga Aki,0,0,60,,We'd like to chat a bit with the members here.
+Dialogue: 0,0:24:10.11,0:24:13.49,Default,Kitagawa Hiiro,0,0,60,,Earlier we were talking about songs that give you energy, right?
+Dialogue: 0,0:24:13.57,0:24:17.83,Default,Kitagawa Hiiro,0,0,60,,Can I talk about songs that gave me energy back in elementary school?
+Dialogue: 0,0:24:17.91,0:24:18.27,Default,Toyonaga Aki,0,0,60,,Sure.
+Dialogue: 0,0:24:18.71,0:24:23.29,Default,Kitagawa Hiiro,0,0,60,,In elementary school, it wasn't really smartphones yet —
+Dialogue: 0,0:24:23.37,0:24:26.19,Default,Kitagawa Hiiro,0,0,60,,it was the era of watching videos on a computer.
+Dialogue: 0,0:24:26.27,0:24:28.87,Default,Kitagawa Hiiro,0,0,60,,So I'd come home from elementary school,
+Dialogue: 0,0:24:28.95,0:24:31.77,Default,Kitagawa Hiiro,0,0,60,,get home, and go straight to the computer,
+Dialogue: 0,0:24:31.85,0:24:35.13,Default,Kitagawa Hiiro,0,0,60,,and I watched AKB's music videos every day.
+Dialogue: 0,0:24:35.21,0:24:38.15,Default,Kitagawa Hiiro,0,0,60,,There were ones I always watched,
+Dialogue: 0,0:24:38.23,0:24:39.41,Default,Kitagawa Hiiro,0,0,60,,a fixed routine:
+Dialogue: 0,0:24:39.91,0:24:41.49,Default,Kitagawa Hiiro,0,0,60,,like, um, Oogoe Diamond,
+Dialogue: 0,0:24:41.57,0:24:44.09,Default,Kitagawa Hiiro,0,0,60,,and, what else,
+Dialogue: 0,0:24:44.55,0:24:45.89,Default,Kitagawa Hiiro,0,0,60,,Everyday, Katyusha,
+Dialogue: 0,0:24:46.39,0:24:48.07,Default,Kitagawa Hiiro,0,0,60,,and on top of that,
+Dialogue: 0,0:24:48.15,0:24:50.61,Default,Kitagawa Hiiro,0,0,60,,I watched Namida Surprise a lot.
+Dialogue: 0,0:24:50.69,0:24:52.57,Default,Kitagawa Hiiro,0,0,60,,I just really loved it.
+Dialogue: 0,0:24:52.65,0:24:56.21,Default,Kitagawa Hiiro,0,0,60,,But now, thinking about it calmly,
+Dialogue: 0,0:24:56.29,0:24:58.77,Default,Kitagawa Hiiro,0,0,60,,listening to Namida Surprise every day means
+Dialogue: 0,0:24:58.85,0:25:00.29,Default,Kitagawa Hiiro,0,0,60,,it was like my birthday every day.
+Dialogue: 0,0:25:02.65,0:25:04.21,Default,Kitagawa Hiiro,0,0,60,,That's all I wanted to say.
+Dialogue: 0,0:25:05.31,0:25:06.95,Default,Izawa Miyu,0,0,60,,Then you were happy every day!
+Dialogue: 0,0:25:08.41,0:25:10.71,Default,Kitagawa Hiiro,0,0,60,,I didn't say it expecting to be affirmed like that.
+Dialogue: 0,0:25:11.14,0:25:12.10,Default,Member,0,0,60,,Thanks, though.
+Dialogue: 0,0:25:14.59,0:25:17.87,Default,Toyonaga Aki,0,0,60,,Some MVs just give you energy, right?
+Dialogue: 0,0:25:19.19,0:25:23.37,Default,Toyonaga Aki,0,0,60,,Like the bucket — it makes so little sense it actually cheers you up.
+Dialogue: 0,0:25:23.45,0:25:30.65,Default,Toyonaga Aki,0,0,60,,When that giant bucket shows up in the MV, I'm like, "a huge bucket just showed up!" — I love it.
+Dialogue: 0,0:25:31.61,0:25:34.45,Default,Izawa Miyu,0,0,60,,There's that feeling too.
+Dialogue: 0,0:25:35.27,0:25:44.27,Default,Toyonaga Aki,0,0,60,,Also, there was a day show, so you've probably already got the info — I see lots of faces from earlier, but
+Dialogue: 0,0:25:45.33,0:25:49.99,Default,Toyonaga Aki,0,0,60,,on the flip side, anyone who came today avoiding day-show spoilers so far?
+Dialogue: 0,0:25:50.07,0:25:50.63,Default,All,0,0,60,,Oh, true.
+Dialogue: 0,0:25:51.99,0:25:53.49,Default,Toyonaga Aki,0,0,60,,Then we can't talk about it.
+Dialogue: 0,0:25:55.86,0:25:57.32,Default,Takemoto Kurumi,0,0,60,,They might be looking forward to the "red ship," so...?
+Dialogue: 0,0:25:57.40,0:25:59.12,Default,Izawa Miyu,0,0,60,,I'm looking forward to it.
+Dialogue: 0,0:26:01.84,0:26:07.64,Default,Toyonaga Aki,0,0,60,,Earlier — at the day show, we were super nervous during the part up to here, right?
+Dialogue: 0,0:26:07.86,0:26:09.00,Default,Kitagawa Hiiro,0,0,60,,Yes, so nervous.
+Dialogue: 0,0:26:09.08,0:26:13.08,Default,Toyonaga Aki,0,0,60,,For the night show, did you all hear us do our huddle on stage just now?
+Dialogue: 0,0:26:15.00,0:26:19.92,Default,Toyonaga Aki,0,0,60,,Up until then we were rushing around, rehearsing nonstop, right up to here,
+Dialogue: 0,0:26:20.00,0:26:22.14,Default,Toyonaga Aki,0,0,60,,and everyone got to the stage just a minute before.
+Dialogue: 0,0:26:22.22,0:26:22.80,Default,Member,0,0,60,,Really?
+Dialogue: 0,0:26:23.94,0:26:26.06,Default,Member,0,0,60,,Like, "30 seconds to go,"
+Dialogue: 0,0:26:26.14,0:26:27.90,Default,Takemoto Kurumi,0,0,60,,and everyone was like, "aren't we doing it?"
+Dialogue: 0,0:26:27.98,0:26:31.26,Default,Toyonaga Aki,0,0,60,,But I feel like that huddle eased our nerves a bit.
+Dialogue: 0,0:26:33.30,0:26:36.26,Default,Takemoto Kurumi,0,0,60,,Maybe our throats are more open than in the morning.
+Dialogue: 0,0:26:36.34,0:26:37.38,Default,Member,0,0,60,,That's true.
+Dialogue: 0,0:26:38.96,0:26:43.10,Default,Toyonaga Aki,0,0,60,,Like, Zawa, don't take your eyes off me — I'll always chime in for you...
+Dialogue: 0,0:26:43.18,0:26:46.56,Default,Izawa Miyu,0,0,60,,We did so many rehearsals and voice trainings,
+Dialogue: 0,0:26:46.64,0:26:50.70,Default,Izawa Miyu,0,0,60,,so it feels really sad that it's over in just one day.
+Dialogue: 0,0:26:52.14,0:26:56.66,Default,Toyonaga Aki,0,0,60,,Voice training with seniors and juniors mixed together was rare too, right?
+Dialogue: 0,0:26:56.74,0:27:02.06,Default,Member,0,0,60,,True. I had a chance to do voice training together with Aki-san,
+Dialogue: 0,0:27:02.14,0:27:04.78,Default,Member,0,0,60,,and the voice coach taught us, of course,
+Dialogue: 0,0:27:04.86,0:27:08.24,Default,Member,0,0,60,,but Aki-san taught me twice as much, like "try it this way."
+Dialogue: 0,0:27:08.64,0:27:10.38,Default,Member,0,0,60,,Like she was the voice coach.
+Dialogue: 0,0:27:11.80,0:27:16.28,Default,Kitagawa Hiiro,0,0,60,,The senior members went out of their way to teach the juniors,
+Dialogue: 0,0:27:16.36,0:27:20.76,Default,Kitagawa Hiiro,0,0,60,,so it was like voice training was happening all over the place.
+Dialogue: 0,0:27:20.84,0:27:24.32,Default,Toyonaga Aki,0,0,60,,Plus, this lineup has a lot of busybodies,
+Dialogue: 0,0:27:25.04,0:27:25.94,Default,Member,0,0,60,,all the more so.
+Dialogue: 0,0:27:26.78,0:27:28.66,Default,Toyonaga Aki,0,0,60,,Honestly, I say it in the spirit of
+Dialogue: 0,0:27:28.74,0:27:30.40,Default,Toyonaga Aki,0,0,60,,handing a mandarin to the neighbor's kid.
+Dialogue: 0,0:27:30.48,0:27:32.56,Default,Toyonaga Aki,0,0,60,,Like, "maybe do that part like this?"
+Dialogue: 0,0:27:34.24,0:27:34.80,Default,Kitagawa Hiiro,0,0,60,,And also,
+Dialogue: 0,0:27:34.88,0:27:35.88,Default,Kitagawa Hiiro,0,0,60,,for voice training,
+Dialogue: 0,0:27:35.96,0:27:38.00,Default,Kitagawa Hiiro,0,0,60,,we all sat in a row
+Dialogue: 0,0:27:38.08,0:27:39.80,Default,Kitagawa Hiiro,0,0,60,,at tables they set up for us,
+Dialogue: 0,0:27:39.88,0:27:42.10,Default,Kitagawa Hiiro,0,0,60,,with the voice coach in front —
+Dialogue: 0,0:27:42.18,0:27:43.40,Default,Kitagawa Hiiro,0,0,60,,all side by side, right?
+Dialogue: 0,0:27:43.48,0:27:45.58,Default,Kitagawa Hiiro,0,0,60,,Like we were taking a class at school,
+Dialogue: 0,0:27:46.06,0:27:47.06,Default,Kitagawa Hiiro,0,0,60,,it felt like that.
+Dialogue: 0,0:27:47.86,0:27:49.80,Default,Toyonaga Aki,0,0,60,,With the results of all that,
+Dialogue: 0,0:27:49.88,0:27:51.24,Default,Toyonaga Aki,0,0,60,,and with all your power today,
+Dialogue: 0,0:27:51.32,0:27:54.02,Default,Toyonaga Aki,0,0,60,,we'll turn it into an even bigger
+Dialogue: 0,0:27:54.10,0:27:56.92,Default,Toyonaga Aki,0,0,60,,strength and perform, so
+Dialogue: 0,0:27:57.00,0:27:59.02,Default,Toyonaga Aki,0,0,60,,will you keep enjoying it from here?
+Dialogue: 0,0:28:01.58,0:28:05.28,Default,Toyonaga Aki,0,0,60,,From here, there are songs you can cheer along to and songs you can't, but
+Dialogue: 0,0:28:05.36,0:28:07.34,Default,Toyonaga Aki,0,0,60,,please enjoy them however you like.
+Dialogue: 0,0:28:07.76,0:28:09.80,Default,Toyonaga Aki,0,0,60,,Now, the next corner is this.
+Dialogue: 0,0:28:09.88,0:28:10.46,Default,Toyonaga Aki,0,0,60,,Go ahead!
+
+; ===== mc2 =====
+Dialogue: 0,0:48:10.30,0:48:11.05,Default,Izawa Miyu,0,0,60,,Okay, so—
+Dialogue: 0,0:48:11.13,0:48:13.69,Default,Izawa Miyu,0,0,60,,From here, there's some stage set-up,
+Dialogue: 0,0:48:13.77,0:48:17.43,Default,Izawa Miyu,0,0,60,,so in the meantime we'd like to chat among ourselves.
+Dialogue: 0,0:48:17.51,0:48:19.97,Default,Izawa Miyu,0,0,60,,How is it? It's already the night show, but
+Dialogue: 0,0:48:20.05,0:48:23.89,Default,Kitagawa Hiiro,0,0,60,,I think it was probably an even more
+Dialogue: 0,0:48:23.97,0:48:27.57,Default,Kitagawa Hiiro,0,0,60,,packed setlist than you all expected.
+Dialogue: 0,0:48:27.65,0:48:29.31,Default,Member,0,0,60,,The units, too, compared to the day show —
+Dialogue: 0,0:48:29.39,0:48:31.35,Default,Oba Risaki,0,0,60,,yes, they changed, actually.
+Dialogue: 0,0:48:31.85,0:48:32.73,Default,Oba Risaki,0,0,60,,Right, go ahead.
+Dialogue: 0,0:48:32.81,0:48:33.99,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:48:34.07,0:48:34.61,Default,Kitagawa Hiiro,0,0,60,,Thank you!
+Dialogue: 0,0:48:34.69,0:48:35.29,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,0:48:38.11,0:48:40.23,Default,Izawa Miyu,0,0,60,,Which unit was everyone in?
+Dialogue: 0,0:48:40.67,0:48:44.79,Default,Kitagawa Hiiro,0,0,60,,I did HA! as a trio with Aki-san and Han-chan.
+Dialogue: 0,0:48:45.83,0:48:46.97,Default,Izawa Miyu,0,0,60,,So cool.
+Dialogue: 0,0:48:47.05,0:48:50.81,Default,Kitagawa Hiiro,0,0,60,,A standing version, kind of cool.
+Dialogue: 0,0:48:50.89,0:48:52.43,Default,Kitagawa Hiiro,0,0,60,,I was nervous.
+Dialogue: 0,0:48:52.51,0:48:53.41,Default,Member,0,0,60,,It was good.
+Dialogue: 0,0:48:55.03,0:48:56.47,Default,Oba Risaki,0,0,60,,Me and Zawa-chan,
+Dialogue: 0,0:48:56.55,0:48:57.99,Default,Oba Risaki,0,0,60,,plus Kurumi-san,
+Dialogue: 0,0:48:58.07,0:49:02.17,Default,Oba Risaki,0,0,60,,got to perform Kimi no C/W.
+Dialogue: 0,0:49:02.80,0:49:03.65,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,0:49:03.75,0:49:04.47,Default,Kitagawa Hiiro,0,0,60,,It was cute.
+Dialogue: 0,0:49:06.93,0:49:09.93,Default,Kitagawa Hiiro,0,0,60,,There were also the seniors' songs in pairs,
+Dialogue: 0,0:49:10.01,0:49:11.39,Default,Kitagawa Hiiro,0,0,60,,like Tomodachi de Irareru nara
+Dialogue: 0,0:49:11.47,0:49:12.99,Default,Kitagawa Hiiro,0,0,60,,and Kioku no Dilemma,
+Dialogue: 0,0:49:13.07,0:49:14.87,Default,Kitagawa Hiiro,0,0,60,,and I thought they were so lovely.
+Dialogue: 0,0:49:14.95,0:49:17.49,Default,Kitagawa Hiiro,0,0,60,,Even on stage,
+Dialogue: 0,0:49:17.57,0:49:19.45,Default,Kitagawa Hiiro,0,0,60,,when we were all rehearsing,
+Dialogue: 0,0:49:20.00,0:49:23.08,Default,Kitagawa Hiiro,0,0,60,,there are songs we're not in, so we'd all watch from the front,
+Dialogue: 0,0:49:23.54,0:49:26.60,Default,Kitagawa Hiiro,0,0,60,,and we were already soaking it in back then, so
+Dialogue: 0,0:49:26.68,0:49:28.62,Default,Kitagawa Hiiro,0,0,60,,I think it was really lovely.
+Dialogue: 0,0:49:28.70,0:49:29.44,Default,Oba Risaki,0,0,60,,Really.
+Dialogue: 0,0:49:29.52,0:49:33.46,Default,Izawa Miyu,0,0,60,,Personally, Erena-san's song Utaitai
+Dialogue: 0,0:49:33.54,0:49:35.66,Default,Izawa Miyu,0,0,60,,is so, like, gorgeous,
+Dialogue: 0,0:49:35.74,0:49:39.24,Default,Izawa Miyu,0,0,60,,and with Erena-san's voice on it, it gets even more luxurious.
+Dialogue: 0,0:49:39.32,0:49:40.80,Default,Izawa Miyu,0,0,60,,That was amazing.
+Dialogue: 0,0:49:40.88,0:49:42.18,Default,Izawa Miyu,0,0,60,,I was totally absorbed.
+Dialogue: 0,0:49:42.26,0:49:43.68,Default,Izawa Miyu,0,0,60,,Like being in a theater.
+Dialogue: 0,0:49:43.76,0:49:47.20,Default,Kitagawa Hiiro,0,0,60,,Yeah, today when we were talking among the cast,
+Dialogue: 0,0:49:47.28,0:49:51.10,Default,Kitagawa Hiiro,0,0,60,,backstage, talking with Aki-san and Yuka-san,
+Dialogue: 0,0:49:51.18,0:49:53.98,Default,Kitagawa Hiiro,0,0,60,,when Ere-tan sings,
+Dialogue: 0,0:49:54.06,0:49:57.80,Default,Kitagawa Hiiro,0,0,60,,every song sounds like a Disney princess song.
+Dialogue: 0,0:49:57.88,0:49:58.58,Default,Oba Risaki,0,0,60,,True.
+Dialogue: 0,0:49:58.66,0:50:02.24,Default,Kitagawa Hiiro,0,0,60,,True, I thought that was exactly right.
+Dialogue: 0,0:50:02.96,0:50:05.92,Default,Member,0,0,60,,She sings a lot in the dressing room too,
+Dialogue: 0,0:50:06.00,0:50:08.58,Default,Member,0,0,60,,she really sings a lot,
+Dialogue: 0,0:50:08.66,0:50:11.12,Default,Member,0,0,60,,humming while picking out her bento,
+Dialogue: 0,0:50:11.20,0:50:12.26,Default,Ihara Hanna,0,0,60,,like "hmm hmm hmm hmm,"
+Dialogue: 0,0:50:12.86,0:50:15.08,Default,Ihara Hanna,0,0,60,,that's how she picks.
+Dialogue: 0,0:50:15.16,0:50:16.66,Default,Member,0,0,60,,Everything there is a stage —
+Dialogue: 0,0:50:16.74,0:50:18.28,Default,Member,0,0,60,,the dressing room is on par with a stage.
+Dialogue: 0,0:50:18.36,0:50:20.30,Default,Kitagawa Hiiro,0,0,60,,Got it.
+Dialogue: 0,0:50:20.38,0:50:21.52,Default,Member,0,0,60,,Her humming voice is lovely.
+Dialogue: 0,0:50:21.60,0:50:25.84,Default,Kitagawa Hiiro,0,0,60,,It's lovely, right?
+Dialogue: 0,0:50:27.06,0:50:28.08,Default,Kitagawa Hiiro,0,0,60,,In the self-intros
+Dialogue: 0,0:50:28.16,0:50:29.78,Default,Kitagawa Hiiro,0,0,60,,and the first MC, we talked about how
+Dialogue: 0,0:50:29.86,0:50:32.58,Default,Kitagawa Hiiro,0,0,60,,we've had lots of chances to be taught by the seniors,
+Dialogue: 0,0:50:32.66,0:50:33.90,Default,Kitagawa Hiiro,0,0,60,,and among those,
+Dialogue: 0,0:50:33.98,0:50:35.52,Default,Kitagawa Hiiro,0,0,60,,there was a cute moment.
+Dialogue: 0,0:50:35.60,0:50:37.76,Default,Kitagawa Hiiro,0,0,60,,When Risaki
+Dialogue: 0,0:50:37.84,0:50:39.58,Default,Kitagawa Hiiro,0,0,60,,was getting tips from Aki-san,
+Dialogue: 0,0:50:39.66,0:50:42.08,Default,Kitagawa Hiiro,0,0,60,,she asked, "How do you hit low notes?"
+Dialogue: 0,0:50:42.16,0:50:43.42,Default,Kitagawa Hiiro,0,0,60,,and while she was asking,
+Dialogue: 0,0:50:43.50,0:50:46.32,Default,Kitagawa Hiiro,0,0,60,,Aki-san said, "Be conscious of this,"
+Dialogue: 0,0:50:47.58,0:50:53.38,Default,Kitagawa Hiiro,0,0,60,,and Risaki was desperately trying to reproduce it,
+Dialogue: 0,0:50:55.36,0:50:58.96,Default,Kitagawa Hiiro,0,0,60,,but the harder she tried, for some reason, the longer her face got under her nose.
+Dialogue: 0,0:50:59.90,0:51:00.48,Default,Oba Risaki,0,0,60,,Yes, yes, yes.
+Dialogue: 0,0:51:01.32,0:51:02.50,Default,Oba Risaki,0,0,60,,I got a bit self-conscious.
+Dialogue: 0,0:51:03.24,0:51:05.56,Default,Oba Risaki,0,0,60,,Was I okay today? Was my upper lip stretched out?
+Dialogue: 0,0:51:07.14,0:51:08.16,Default,Oba Risaki,0,0,60,,You were fine.
+Dialogue: 0,0:51:08.24,0:51:09.56,Default,Oba Risaki,0,0,60,,Phew.
+Dialogue: 0,0:51:09.98,0:51:11.74,Default,Izawa Miyu,0,0,60,,So it's been amicably resolved.
+Dialogue: 0,0:51:12.90,0:51:13.82,Default,Kitagawa Hiiro,0,0,60,,Resolved, okay.
+Dialogue: 0,0:51:14.96,0:51:19.26,Default,Izawa Miyu,0,0,60,,From here, we'd like to deliver songs in a different style than usual.
+Dialogue: 0,0:51:20.00,0:51:21.76,Default,Izawa Miyu,0,0,60,,Let's sit down too.
+Dialogue: 0,0:51:23.86,0:51:27.64,Default,Izawa Miyu,0,0,60,,At the day show there was singing with self-accompaniment and such, but
+Dialogue: 0,0:51:27.72,0:51:31.48,Default,Izawa Miyu,0,0,60,,please look forward to what the night show has.
+Dialogue: 0,0:51:32.12,0:51:33.20,Default,Izawa Miyu,0,0,60,,Now please listen.
+Dialogue: 0,0:51:33.28,0:51:34.14,Default,Izawa Miyu,0,0,60,,Go ahead.
+
+; ===== pre32 =====
+Dialogue: 0,0:57:11.80,0:57:12.48,Default,Akiyoshi Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:57:13.46,0:57:15.58,Default,Akiyoshi Yuka,0,0,60,,You heard two songs in a row.
+Dialogue: 0,0:57:15.66,0:57:20.68,Default,Akiyoshi Yuka,0,0,60,,From here, the four senior members would like to sing.
+Dialogue: 0,0:57:21.78,0:57:23.86,Default,Akiyoshi Yuka,0,0,60,,We did Nami ga Tsutaeru Mono, huh.
+Dialogue: 0,0:57:23.94,0:57:24.70,Default,Toyonaga Aki,0,0,60,,We did.
+Dialogue: 0,0:57:24.78,0:57:26.30,Default,Sakamoto Erena,0,0,60,,Foreshadowing paid off.
+Dialogue: 0,0:57:26.38,0:57:26.96,Default,Toyonaga Aki,0,0,60,,We did.
+Dialogue: 0,0:57:28.38,0:57:29.76,Default,Toyonaga Aki,0,0,60,,Good song, right?
+Dialogue: 0,0:57:29.84,0:57:30.84,Default,Sakamoto Erena,0,0,60,,It's a good song.
+Dialogue: 0,0:57:30.92,0:57:32.88,Default,Toyonaga Aki,0,0,60,,I told you to give it a listen, didn't I?
+Dialogue: 0,0:57:34.46,0:57:37.80,Default,Akiyoshi Yuka,0,0,60,,Now, from here, we'll use guitar and piano too
+Dialogue: 0,0:57:38.28,0:57:39.88,Default,Akiyoshi Yuka,0,0,60,,and play for you.
+Dialogue: 0,0:57:41.32,0:57:42.78,Default,Akiyoshi Yuka,0,0,60,,During the COVID period,
+Dialogue: 0,0:57:43.60,0:57:44.16,Default,Akiyoshi Yuka,0,0,60,,what was it,
+Dialogue: 0,0:57:44.24,0:57:48.06,Default,Akiyoshi Yuka,0,0,60,,we formed the Hakata Light Music Club (working title),
+Dialogue: 0,0:57:48.68,0:57:49.94,Default,Akiyoshi Yuka,0,0,60,,and we've done almost nothing since,
+Dialogue: 0,0:57:50.42,0:57:52.20,Default,Akiyoshi Yuka,0,0,60,,but today, here,
+Dialogue: 0,0:57:52.28,0:57:53.12,Default,Akiyoshi Yuka,0,0,60,,we get to perform.
+Dialogue: 0,0:57:53.56,0:57:55.62,Default,Akiyoshi Yuka,0,0,60,,Back then, Kojina Yui-chan,
+Dialogue: 0,0:57:55.70,0:57:57.24,Default,Akiyoshi Yuka,0,0,60,,Aki-chan, Ere-chan and I
+Dialogue: 0,0:57:58.10,0:58:01.04,Default,Akiyoshi Yuka,0,0,60,,did a song — well, uploaded it to YouTube —
+Dialogue: 0,0:58:01.52,0:58:02.16,Default,Akiyoshi Yuka,0,0,60,,and today,
+Dialogue: 0,0:58:02.24,0:58:03.42,Default,Akiyoshi Yuka,0,0,60,,with Kuru-tan added,
+Dialogue: 0,0:58:04.30,0:58:06.32,Default,Akiyoshi Yuka,0,0,60,,we're going to try it.
+Dialogue: 0,0:58:06.74,0:58:07.28,Default,Akiyoshi Yuka,0,0,60,,How is it?
+Dialogue: 0,0:58:07.36,0:58:08.98,Default,Sakamoto Erena,0,0,60,,I'm so nervous.
+Dialogue: 0,0:58:09.68,0:58:12.38,Default,Toyonaga Aki,0,0,60,,Suddenly my hands are sweating too.
+Dialogue: 0,0:58:12.46,0:58:14.92,Default,Sakamoto Erena,0,0,60,,I mean, it's my first time playing piano in front of people.
+Dialogue: 0,0:58:15.00,0:58:15.68,Default,Toyonaga Aki,0,0,60,,Oh, right.
+Dialogue: 0,0:58:15.76,0:58:18.14,Default,Toyonaga Aki,0,0,60,,Watch closely, okay?
+Dialogue: 0,0:58:18.22,0:58:20.06,Default,Sakamoto Erena,0,0,60,,It's fine, hide it, hide it.
+Dialogue: 0,0:58:20.14,0:58:22.08,Default,Toyonaga Aki,0,0,60,,Watch closely, okay?
+Dialogue: 0,0:58:22.16,0:58:22.74,Default,Akiyoshi Yuka,0,0,60,,Nervous, huh.
+Dialogue: 0,0:58:22.82,0:58:24.26,Default,Member,0,0,60,,I'm nervous.
+Dialogue: 0,0:58:25.56,0:58:27.71,Default,Akiyoshi Yuka,0,0,60,,Shall we? Ready, okay.
+Dialogue: 0,0:58:27.79,0:58:30.87,Default,Akiyoshi Yuka,0,0,60,,Okay, then please listen.
+Dialogue: 0,0:58:31.94,0:58:33.00,Default,Akiyoshi Yuka,0,0,60,,3-2.
+
+; ===== premika =====
+Dialogue: 0,1:01:42.99,1:01:43.49,Default,Akiyoshi Yuka,0,0,60,,Okay.
+Dialogue: 0,1:01:44.63,1:01:48.48,Default,Akiyoshi Yuka,0,0,60,,That was 3-2 in a session version.
+Dialogue: 0,1:01:48.56,1:01:49.32,Default,Akiyoshi Yuka,0,0,60,,How did it go?
+Dialogue: 0,1:01:49.78,1:01:51.01,Default,Sakamoto Erena,0,0,60,,I was nervous.
+Dialogue: 0,1:01:51.51,1:01:53.03,Default,Takemoto Kurumi,0,0,60,,It was so good.
+Dialogue: 0,1:01:53.11,1:01:55.31,Default,Sakamoto Erena,0,0,60,,This was what I was most nervous about today.
+Dialogue: 0,1:01:56.41,1:01:57.75,Default,Toyonaga Aki,0,0,60,,It was the best.
+Dialogue: 0,1:01:58.55,1:02:00.11,Default,Toyonaga Aki,0,0,60,,I sang it soaking it all in.
+Dialogue: 0,1:02:00.19,1:02:00.79,Default,Sakamoto Erena,0,0,60,,Thanks.
+Dialogue: 0,1:02:00.87,1:02:02.05,Default,Sakamoto Erena,0,0,60,,But yeah, there was
+Dialogue: 0,1:02:02.13,1:02:03.25,Default,Member,0,0,60,,a real tension to it.
+Dialogue: 0,1:02:03.33,1:02:07.21,Default,Sakamoto Erena,0,0,60,,During COVID, we wondered if there was something we could do,
+Dialogue: 0,1:02:07.29,1:02:10.07,Default,Sakamoto Erena,0,0,60,,so we all brainstormed and uploaded videos,
+Dialogue: 0,1:02:10.15,1:02:12.29,Default,Sakamoto Erena,0,0,60,,and now, with time having passed,
+Dialogue: 0,1:02:12.37,1:02:18.17,Default,Sakamoto Erena,0,0,60,,getting to perform it like this in front of an audience made me really happy,
+Dialogue: 0,1:02:18.27,1:02:23.21,Default,Sakamoto Erena,0,0,60,,and thinking that what we did in the past connects to now, I felt like I'm glad I kept working hard,
+Dialogue: 0,1:02:23.73,1:02:25.27,Default,Sakamoto Erena,0,0,60,,and it gave me a warm feeling.
+Dialogue: 0,1:02:25.35,1:02:31.15,Default,Akiyoshi Yuka,0,0,60,,I really felt that wishes are carried in by the waves.
+Dialogue: 0,1:02:33.99,1:02:34.59,Default,Toyonaga Aki,0,0,60,,Right.
+Dialogue: 0,1:02:34.67,1:02:35.77,Default,Sakamoto Erena,0,0,60,,She was trying to tie it together.
+Dialogue: 0,1:02:36.63,1:02:37.93,Default,Toyonaga Aki,0,0,60,,It suddenly came rushing in.
+Dialogue: 0,1:02:38.01,1:02:40.21,Default,Member,0,0,60,,You're all so good at this, amazing.
+Dialogue: 0,1:02:40.69,1:02:41.55,Default,Toyonaga Aki,0,0,60,,So from here—
+Dialogue: 0,1:02:41.63,1:02:41.97,Default,Sakamoto Erena,0,0,60,,Yes.
+Dialogue: 0,1:02:43.23,1:02:45.83,Default,Toyonaga Aki,0,0,60,,We'll take our leave here.
+Dialogue: 0,1:02:45.91,1:02:46.47,Default,Takemoto Kurumi,0,0,60,,Thank you!
+Dialogue: 0,1:02:46.97,1:02:47.59,Default,Akiyoshi Yuka,0,0,60,,And then,
+Dialogue: 0,1:02:47.67,1:02:50.25,Default,Akiyoshi Yuka,0,0,60,,one more song, by Ere-tan and me, Akiyoshi —
+Dialogue: 0,1:02:50.71,1:02:54.23,Default,Akiyoshi Yuka,0,0,60,,we'd like to perform a song we made in high school.
+Dialogue: 0,1:02:55.01,1:02:55.41,Default,Sakamoto Erena,0,0,60,,Yes.
+Dialogue: 0,1:03:00.72,1:03:04.66,Default,Akiyoshi Yuka,0,0,60,,Ere-tan and I were classmates at the same high school.
+Dialogue: 0,1:03:04.74,1:03:05.22,Default,Sakamoto Erena,0,0,60,,That's right.
+Dialogue: 0,1:03:05.30,1:03:07.32,Default,Akiyoshi Yuka,0,0,60,,We had vocal classes there,
+Dialogue: 0,1:03:07.98,1:03:10.68,Default,Akiyoshi Yuka,0,0,60,,and for a teacher who took care of us, Mika-sensei,
+Dialogue: 0,1:03:10.76,1:03:12.04,Default,Akiyoshi Yuka,0,0,60,,we made a song, right?
+Dialogue: 0,1:03:12.12,1:03:12.47,Default,Sakamoto Erena,0,0,60,,Yes.
+Dialogue: 0,1:03:12.55,1:03:16.14,Default,Akiyoshi Yuka,0,0,60,,We made the song as our high-school graduation project,
+Dialogue: 0,1:03:17.10,1:03:18.50,Default,Akiyoshi Yuka,0,0,60,,for someone who looked after us for four years.
+Dialogue: 0,1:03:18.58,1:03:19.58,Default,Sakamoto Erena,0,0,60,,Four years?
+Dialogue: 0,1:03:19.80,1:03:20.72,Default,Akiyoshi Yuka,0,0,60,,Four years? Three years?
+Dialogue: 0,1:03:21.58,1:03:22.58,Default,Sakamoto Erena,0,0,60,,Did you go to college?
+Dialogue: 0,1:03:22.76,1:03:23.11,Default,Akiyoshi Yuka,0,0,60,,I went for one year.
+Dialogue: 0,1:03:23.19,1:03:23.92,Default,Akiyoshi Yuka,0,0,60,,Yep.
+Dialogue: 0,1:03:25.12,1:03:27.16,Default,Akiyoshi Yuka,0,0,60,,The title is the name MIKA,
+Dialogue: 0,1:03:27.24,1:03:31.27,Default,Akiyoshi Yuka,0,0,60,,written in English, M-I-K-A.
+Dialogue: 0,1:03:31.35,1:03:32.63,Default,Akiyoshi Yuka,0,0,60,,What are the lyrics like?
+Dialogue: 0,1:03:33.77,1:03:38.27,Default,Sakamoto Erena,0,0,60,,It's a song that puts my honest, true-to-life feelings
+Dialogue: 0,1:03:38.35,1:03:39.75,Default,Sakamoto Erena,0,0,60,,straight
+Dialogue: 0,1:03:40.00,1:03:40.44,Default,Sakamoto Erena,0,0,60,,into words.
+Dialogue: 0,1:03:40.52,1:03:43.48,Default,Sakamoto Erena,0,0,60,,Now, please listen.
+Dialogue: 0,1:03:43.56,1:03:46.35,Default,Member,0,0,60,,MIKA.
+
+; ===== postmika =====
+Dialogue: 0,1:06:33.52,1:06:35.90,Default,Sakamoto Erena,0,0,60,,(singing) Sorry about the lyrics!
+Dialogue: 0,1:06:56.88,1:06:57.40,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:06:59.06,1:07:00.02,Default,Sakamoto Erena,0,0,60,,My lyrics flew out of my head.
+Dialogue: 0,1:07:00.10,1:07:01.62,Default,Akiyoshi Yuka,0,0,60,,"Sorry about the lyrics," I think.
+Dialogue: 0,1:07:01.70,1:07:03.62,Default,Akiyoshi Yuka,0,0,60,,Your voice was so good I didn't even notice the mistake.
+Dialogue: 0,1:07:03.70,1:07:05.02,Default,Akiyoshi Yuka,0,0,60,,I dunno, though.
+Dialogue: 0,1:07:05.76,1:07:06.40,Default,Sakamoto Erena,0,0,60,,Phew.
+Dialogue: 0,1:07:07.26,1:07:07.62,Default,Akiyoshi Yuka,0,0,60,,So, yeah.
+Dialogue: 0,1:07:09.72,1:07:13.48,Default,Akiyoshi Yuka,0,0,60,,Without this show, there really would have been no place to perform it,
+Dialogue: 0,1:07:13.56,1:07:15.38,Default,Member,0,0,60,,so we're grateful.
+Dialogue: 0,1:07:15.46,1:07:16.42,Default,Akiyoshi Yuka,0,0,60,,I'm happy.
+Dialogue: 0,1:07:17.70,1:07:20.66,Default,Sakamoto Erena,0,0,60,,I mean, it's a song from seven years ago, right? We made this seven years ago.
+Dialogue: 0,1:07:20.74,1:07:21.48,Default,Akiyoshi Yuka,0,0,60,,We were about 18?
+Dialogue: 0,1:07:21.56,1:07:24.42,Default,Sakamoto Erena,0,0,60,,Yeah, the two of us recorded on iPhones and stitched it together.
+Dialogue: 0,1:07:24.84,1:07:26.34,Default,Akiyoshi Yuka,0,0,60,,That's right. Actually, on a computer—
+Dialogue: 0,1:07:27.04,1:07:31.18,Default,Akiyoshi Yuka,0,0,60,,We wrote the lyrics together, and there's a version where I programmed the music on a computer.
+Dialogue: 0,1:07:32.04,1:07:35.58,Default,Akiyoshi Yuka,0,0,60,,I want it uploaded to HKT48 Tottoto or something.
+Dialogue: 0,1:07:35.66,1:07:37.44,Default,Sakamoto Erena,0,0,60,,We want to post it on YouTube.
+Dialogue: 0,1:07:39.24,1:07:40.54,Default,Sakamoto Erena,0,0,60,,Right? I want to hear it.
+Dialogue: 0,1:07:41.98,1:07:44.94,Default,Akiyoshi Yuka,0,0,60,,Then let me just say we'd like to post it.
+Dialogue: 0,1:07:45.66,1:07:46.60,Default,Sakamoto Erena,0,0,60,,Stay tuned!
+Dialogue: 0,1:07:49.68,1:07:52.72,Default,Akiyoshi Yuka,0,0,60,,From here, let's all sing together.
+Dialogue: 0,1:07:53.64,1:07:58.08,Default,Akiyoshi Yuka,0,0,60,,Usually we often perform while dancing, so
+Dialogue: 0,1:07:59.24,1:08:03.64,Default,Akiyoshi Yuka,0,0,60,,the meaning of the lyrics, and what the words convey —
+Dialogue: 0,1:08:04.28,1:08:06.38,Default,Akiyoshi Yuka,0,0,60,,we want to sing them all together from the heart,
+Dialogue: 0,1:08:06.46,1:08:09.02,Default,Akiyoshi Yuka,0,0,60,,so please pay attention as you listen.
+Dialogue: 0,1:08:10.19,1:08:12.33,Default,Akiyoshi Yuka,0,0,60,,Now, two songs in a row. Go ahead!
+
+; ===== m15m16 =====
+Dialogue: 0,1:19:09.48,1:19:11.98,Default,Toyonaga Aki,0,0,60,,So, Boku wa Yatto Kimi wo Shinpai Dekiru,
+Dialogue: 0,1:19:12.06,1:19:16.40,Default,Toyonaga Aki,0,0,60,,and Zenzen Kawaranai — we sang them in full for the first time.
+Dialogue: 0,1:19:22.20,1:19:27.40,Default,Toyonaga Aki,0,0,60,,We sang them with a different lineup, but
+Dialogue: 0,1:19:27.51,1:19:31.20,Default,Toyonaga Aki,0,0,60,,even so, we got to see a new side of them,
+Dialogue: 0,1:19:31.33,1:19:35.63,Default,Toyonaga Aki,0,0,60,,and personally I was really happy we delivered them in full,
+Dialogue: 0,1:19:35.71,1:19:40.85,Default,Toyonaga Aki,0,0,60,,and I feel like it was even more powered-up than the day show.
+Dialogue: 0,1:19:42.20,1:19:43.12,Default,Toyonaga Aki,0,0,60,,I felt that too.
+Dialogue: 0,1:19:43.20,1:19:43.90,Default,Takemoto Kurumi,0,0,60,,Same.
+Dialogue: 0,1:19:45.68,1:19:46.56,Default,Toyonaga Aki,0,0,60,,Here, for a bit,
+Dialogue: 0,1:19:46.64,1:19:49.66,Default,Toyonaga Aki,0,0,60,,we'd like to talk until the changeover.
+Dialogue: 0,1:19:49.74,1:19:50.86,Default,Akiyoshi Yuka,0,0,60,,It's rare, right?
+Dialogue: 0,1:19:50.94,1:19:53.26,Default,Akiyoshi Yuka,0,0,60,,A corner where you just listen to songs.
+Dialogue: 0,1:19:53.34,1:19:55.92,Default,All,0,0,60,,It sure is.
+Dialogue: 0,1:19:56.00,1:19:56.40,Default,Toyonaga Aki,0,0,60,,Like,
+Dialogue: 0,1:19:56.90,1:19:58.42,Default,Toyonaga Aki,0,0,60,,it reminded me of THE LIVE.
+Dialogue: 0,1:19:59.58,1:20:00.50,Default,Takemoto Kurumi,0,0,60,,So nostalgic.
+Dialogue: 0,1:20:00.58,1:20:01.60,Default,Toyonaga Aki,0,0,60,,The ancient
+Dialogue: 0,1:20:02.54,1:20:04.02,Default,Member,0,0,60,,one we did at the lesson studio.
+Dialogue: 0,1:20:04.10,1:20:04.88,Default,Toyonaga Aki,0,0,60,,THE LIVE, right.
+Dialogue: 0,1:20:05.72,1:20:07.46,Default,Toyonaga Aki,0,0,60,,Yeah, it brought back memories.
+Dialogue: 0,1:20:07.54,1:20:10.28,Default,Toyonaga Aki,0,0,60,,And the solos were lovely too, really.
+Dialogue: 0,1:20:11.74,1:20:13.70,Default,Member,0,0,60,,Thank you, thank you.
+Dialogue: 0,1:20:14.08,1:20:18.96,Default,Akiyoshi Yuka,0,0,60,,I really thought the lyrics were good, and I sang it by myself many times, but
+Dialogue: 0,1:20:19.54,1:20:25.34,Default,Akiyoshi Yuka,0,0,60,,singing in front of the fans, I really felt I got power from all of you too,
+Dialogue: 0,1:20:26.96,1:20:30.40,Default,Akiyoshi Yuka,0,0,60,,and I thought, "this is live." "This is THE LIVE," I thought.
+Dialogue: 0,1:20:31.34,1:20:32.80,Default,Toyonaga Aki,0,0,60,,You tie everything into it, huh.
+Dialogue: 0,1:20:32.88,1:20:33.74,Default,Sakamoto Erena,0,0,60,,I'm connecting it.
+Dialogue: 0,1:20:35.00,1:20:37.02,Default,Akiyoshi Yuka,0,0,60,,I think I got across what I wanted to say.
+Dialogue: 0,1:20:37.10,1:20:38.82,Default,Toyonaga Aki,0,0,60,,Ere-chan, it was like,
+Dialogue: 0,1:20:39.58,1:20:42.94,Default,Toyonaga Aki,0,0,60,,like the venue looked different —
+Dialogue: 0,1:20:43.02,1:20:43.94,Default,Member,0,0,60,,the venue looked different.
+
+; ===== allmc =====
+Dialogue: 0,1:20:44.50,1:20:46.20,Default,Toyonaga Aki,0,0,60,,It looked like the Maihama Amphitheater!
+Dialogue: 0,1:20:46.56,1:20:48.14,Default,Member,0,0,60,,A singing-contest finalist, huh.
+Dialogue: 0,1:20:48.22,1:20:51.78,Default,Toyonaga Aki,0,0,60,,The princess vibe was just too much.
+Dialogue: 0,1:20:51.86,1:20:56.06,Default,Sakamoto Erena,0,0,60,,I agonized over what to sing,
+Dialogue: 0,1:20:56.14,1:21:00.30,Default,Sakamoto Erena,0,0,60,,but I found the lyrics, the title, of this song,
+Dialogue: 0,1:21:00.38,1:21:02.36,Default,Sakamoto Erena,0,0,60,,and thought it was such a good song.
+Dialogue: 0,1:21:02.44,1:21:04.06,Default,Toyonaga Aki,0,0,60,,Once more, what's the title?
+Dialogue: 0,1:21:04.22,1:21:05.86,Default,Sakamoto Erena,0,0,60,,It's a song called Utaitai,
+Dialogue: 0,1:21:05.94,1:21:09.72,Default,Sakamoto Erena,0,0,60,,and the lyrics fit my feelings right now perfectly.
+Dialogue: 0,1:21:10.20,1:21:12.50,Default,Sakamoto Erena,0,0,60,,"This is what I want to say,"
+Dialogue: 0,1:21:12.58,1:21:16.40,Default,Sakamoto Erena,0,0,60,,I thought it had to be this song, so I chose it. How was it?
+Dialogue: 0,1:21:17.00,1:21:18.20,Default,Toyonaga Aki,0,0,60,,It was so good.
+Dialogue: 0,1:21:18.28,1:21:19.48,Default,Sakamoto Erena,0,0,60,,Thank you.
+Dialogue: 0,1:21:19.56,1:21:23.32,Default,Takemoto Kurumi,0,0,60,,It was too good — it felt like an ending.
+Dialogue: 0,1:21:24.24,1:21:28.42,Default,Takemoto Kurumi,0,0,60,,We had Kimi no C/W next, so I felt kind of sorry.
+Dialogue: 0,1:21:28.50,1:21:28.94,Default,Sakamoto Erena,0,0,60,,Wait, why?
+Dialogue: 0,1:21:29.20,1:21:32.48,Default,Akiyoshi Yuka,0,0,60,,If it were a singing contest, the end credits would've been rolling.
+Dialogue: 0,1:21:33.08,1:21:36.52,Default,Akiyoshi Yuka,0,0,60,,Like it's already over — "staff names" time.
+Dialogue: 0,1:21:36.60,1:21:42.40,Default,Takemoto Kurumi,0,0,60,,But I was so happy to sing Tomodachi de Irareru nara as a duo with Ere-chan.
+Dialogue: 0,1:21:45.28,1:21:48.44,Default,Sakamoto Erena,0,0,60,,We did harmonies and stuff, right?
+Dialogue: 0,1:21:48.52,1:21:53.82,Default,Sakamoto Erena,0,0,60,,The nerves, and getting to sing like this with Kuru-tan, were so emotional
+Dialogue: 0,1:21:53.90,1:21:56.42,Default,Sakamoto Erena,0,0,60,,I almost cried, but the nerves kept it in, like —
+Dialogue: 0,1:21:56.92,1:22:01.02,Default,Takemoto Kurumi,0,0,60,,we both had near-tears faces, like, "and now the line split!"
+Dialogue: 0,1:22:01.80,1:22:03.66,Default,Takemoto Kurumi,0,0,60,,It was a weird feeling.
+Dialogue: 0,1:22:03.74,1:22:05.24,Default,Sakamoto Erena,0,0,60,,But I was really happy.
+Dialogue: 0,1:22:05.32,1:22:06.38,Default,Takemoto Kurumi,0,0,60,,I was happy.
+Dialogue: 0,1:22:06.45,1:22:07.60,Default,Member,0,0,60,,Thank you.
+Dialogue: 0,1:22:08.32,1:22:09.72,Default,Takemoto Kurumi,0,0,60,,It became a great memory.
+Dialogue: 0,1:22:10.36,1:22:12.48,Default,Toyonaga Aki,0,0,60,,We'd love to touch on everything,
+Dialogue: 0,1:22:12.56,1:22:14.36,Default,Toyonaga Aki,0,0,60,,but the live is still going on, so
+Dialogue: 0,1:22:14.90,1:22:15.92,Default,Toyonaga Aki,0,0,60,,everyone, from here
+Dialogue: 0,1:22:16.00,1:22:17.88,Default,Toyonaga Aki,0,0,60,,it's the corner you've been waiting for,
+Dialogue: 0,1:22:17.96,1:22:19.90,Default,Toyonaga Aki,0,0,60,,where you can do lots of calls!
+Dialogue: 0,1:22:22.66,1:22:24.58,Default,Toyonaga Aki,0,0,60,,That's all, for something you were waiting for?
+Dialogue: 0,1:22:24.66,1:22:26.64,Default,Toyonaga Aki,0,0,60,,Can everyone use your voices?
+Dialogue: 0,1:22:29.18,1:22:30.25,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:22:30.37,1:22:32.07,Default,Toyonaga Aki,0,0,60,,Now, let's get into position.
+Dialogue: 0,1:22:33.13,1:22:34.58,Default,Sakamoto Erena,0,0,60,,During the song block, did everyone
+Dialogue: 0,1:22:34.66,1:22:35.58,Default,Sakamoto Erena,0,0,60,,get sleepy?
+Dialogue: 0,1:22:36.14,1:22:37.20,Default,Member,0,0,60,,You were soaking it in, right?
+Dialogue: 0,1:22:37.28,1:22:39.32,Default,Toyonaga Aki,0,0,60,,There were people really soaking it in just now, right?
+Dialogue: 0,1:22:39.40,1:22:39.88,Default,Sakamoto Erena,0,0,60,,Are you okay?
+Dialogue: 0,1:22:41.06,1:22:44.12,Default,Sakamoto Erena,0,0,60,,Now, from here, is everyone ready to get even more hyped?
+Dialogue: 0,1:22:46.81,1:22:48.29,Default,Sakamoto Erena,0,0,60,,Huh? Are you ready?
+Dialogue: 0,1:22:49.48,1:22:50.90,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:22:51.62,1:22:53.19,Default,Sakamoto Erena,0,0,60,,Now, next up is this song.
+Dialogue: 0,1:22:53.27,1:22:53.85,Default,Sakamoto Erena,0,0,60,,Go ahead!
+
+; ===== prem20 =====
+Dialogue: 0,1:32:06.35,1:32:07.11,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,1:32:08.74,1:32:11.32,Default,Sakamoto Erena,0,0,60,,You heard three songs in a row.
+Dialogue: 0,1:32:11.40,1:32:12.48,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,1:32:13.10,1:32:14.70,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:32:16.52,1:32:17.08,Default,Sakamoto Erena,0,0,60,,Okay.
+Dialogue: 0,1:32:17.91,1:32:18.63,Default,Sakamoto Erena,0,0,60,,Finally—
+Dialogue: 0,1:32:18.71,1:32:21.31,Default,Sakamoto Erena,0,0,60,,The next one really is the last song.
+Dialogue: 0,1:32:23.58,1:32:24.70,Default,Takemoto Kurumi,0,0,60,,Aki-san—
+Dialogue: 0,1:32:24.78,1:32:25.98,Default,Toyonaga Aki,0,0,60,,Sorry!
+Dialogue: 0,1:32:28.04,1:32:28.52,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,1:32:28.60,1:32:31.46,Default,Sakamoto Erena,0,0,60,,Now, please listen to the last song.
+
+; ===== encore =====
+Dialogue: 0,1:38:53.74,1:38:57.40,Default,Fan,0,0,60,,Everyone, Oto no Ha, Oto no Ha — what a wonderful show it was!
+Dialogue: 0,1:38:59.16,1:39:03.30,Default,Fan,0,0,60,,So that great HKT48 shows like this go on forever,
+Dialogue: 0,1:39:03.41,1:39:06.90,Default,Fan,0,0,60,,let's call for an encore with all our hearts!
+
+; ===== imp =====
+Dialogue: 0,1:48:55.34,1:48:56.06,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:49:02.86,1:49:04.05,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:49:04.19,1:49:07.61,Default,Akiyoshi Yuka,0,0,60,,Oto no Ha, Koto no Ha is nearing its end,
+Dialogue: 0,1:49:07.69,1:49:09.49,Default,Akiyoshi Yuka,0,0,60,,so here we'd like to hear your impressions.
+Dialogue: 0,1:49:10.82,1:49:12.26,Default,Akiyoshi Yuka,0,0,60,,Someone who didn't speak at the day show:
+Dialogue: 0,1:49:12.90,1:49:13.54,Default,Akiyoshi Yuka,0,0,60,,Zawa-chan!
+Dialogue: 0,1:49:15.70,1:49:18.36,Default,Izawa Miyu,0,0,60,,First of all, thank you for such a fun time today.
+Dialogue: 0,1:49:22.46,1:49:23.60,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:49:23.77,1:49:27.45,Default,Izawa Miyu,0,0,60,,This was my first show with just eight people,
+Dialogue: 0,1:49:27.53,1:49:29.97,Default,Izawa Miyu,0,0,60,,and my first show focused on singing,
+Dialogue: 0,1:49:30.05,1:49:33.81,Default,Izawa Miyu,0,0,60,,so I was really happy to deliver songs I love.
+Dialogue: 0,1:49:33.89,1:49:37.17,Default,Izawa Miyu,0,0,60,,The power of music, the power of song, the power of words —
+Dialogue: 0,1:49:37.25,1:49:40.67,Default,Izawa Miyu,0,0,60,,I felt a lot during practice how much power they have,
+Dialogue: 0,1:49:40.75,1:49:44.23,Default,Izawa Miyu,0,0,60,,and I'd be so happy if that power reached all of you.
+Dialogue: 0,1:49:44.31,1:49:47.57,Default,Izawa Miyu,0,0,60,,And finally, I was able to make memories like this with Erena-san,
+Dialogue: 0,1:49:47.65,1:49:50.05,Default,Izawa Miyu,0,0,60,,and I'm really happy. Thank you very much!
+Dialogue: 0,1:49:55.67,1:49:57.17,Default,Akiyoshi Yuka,0,0,60,,Ere-tan and everyone, too—
+Dialogue: 0,1:49:57.62,1:49:59.65,Default,Akiyoshi Yuka,0,0,60,,Not teary yet, huh, Zawa-chan?
+Dialogue: 0,1:50:01.43,1:50:02.31,Default,Akiyoshi Yuka,0,0,60,,Are you crying?
+Dialogue: 0,1:50:02.39,1:50:03.77,Default,Izawa Miyu,0,0,60,,I'm not crying yet.
+Dialogue: 0,1:50:04.87,1:50:08.81,Default,Akiyoshi Yuka,0,0,60,,Ere-tan kept saying for so long that she wanted to do this singing event,
+Dialogue: 0,1:50:09.49,1:50:11.91,Default,Akiyoshi Yuka,0,0,60,,and we finally made it happen all together,
+Dialogue: 0,1:50:12.43,1:50:16.19,Default,Akiyoshi Yuka,0,0,60,,and it happened because of the staff and everyone who came to watch,
+Dialogue: 0,1:50:16.71,1:50:18.93,Default,Akiyoshi Yuka,0,0,60,,because of your warm hearts,
+Dialogue: 0,1:50:19.01,1:50:22.29,Default,Akiyoshi Yuka,0,0,60,,so I think it's something to be truly grateful for.
+Dialogue: 0,1:50:22.37,1:50:23.27,Default,Akiyoshi Yuka,0,0,60,,Kuru-tan, how about you?
+Dialogue: 0,1:50:25.15,1:50:26.33,Default,Takemoto Kurumi,0,0,60,,You said something so nice.
+Dialogue: 0,1:50:26.41,1:50:30.93,Default,Takemoto Kurumi,0,0,60,,For me, well, I've always loved singing,
+Dialogue: 0,1:50:31.01,1:50:34.03,Default,Takemoto Kurumi,0,0,60,,so among just eight people,
+Dialogue: 0,1:50:34.11,1:50:39.53,Default,Takemoto Kurumi,0,0,60,,and I got picked in Ere-chan's friend slot,
+Dialogue: 0,1:50:39.61,1:50:45.05,Default,Takemoto Kurumi,0,0,60,,and singing right next to seniors who are even better than me,
+Dialogue: 0,1:50:45.13,1:50:46.25,Default,Takemoto Kurumi,0,0,60,,I found confidence in myself
+Dialogue: 0,1:50:46.33,1:50:48.33,Default,Takemoto Kurumi,0,0,60,,and discovered things like "oh, I should do it this way,"
+Dialogue: 0,1:50:48.41,1:50:50.73,Default,Takemoto Kurumi,0,0,60,,lots of them.
+Dialogue: 0,1:50:50.81,1:50:52.95,Default,Takemoto Kurumi,0,0,60,,I'm in the senior slot,
+Dialogue: 0,1:50:53.03,1:50:54.65,Default,Takemoto Kurumi,0,0,60,,but even seeing from the same eye level
+Dialogue: 0,1:50:55.00,1:50:56.70,Default,Takemoto Kurumi,0,0,60,,as the juniors, the 6th gens,
+Dialogue: 0,1:50:57.22,1:50:59.00,Default,Takemoto Kurumi,0,0,60,,I discovered things like "so there's this,"
+Dialogue: 0,1:50:59.08,1:51:01.10,Default,Takemoto Kurumi,0,0,60,,or "singing this way is fun,"
+Dialogue: 0,1:51:01.18,1:51:04.80,Default,Takemoto Kurumi,0,0,60,,and I felt it became a really precious time.
+Dialogue: 0,1:51:04.88,1:51:08.08,Default,Takemoto Kurumi,0,0,60,,And at the end, in Kimi to Dokoka e Ikitai, with Ere-chan,
+Dialogue: 0,1:51:08.16,1:51:11.50,Default,Takemoto Kurumi,0,0,60,,I was also really happy we got to sing as a duo.
+Dialogue: 0,1:51:11.58,1:51:12.30,Default,Takemoto Kurumi,0,0,60,,Thank you for today!
+Dialogue: 0,1:51:17.53,1:51:18.89,Default,Akiyoshi Yuka,0,0,60,,With so few people,
+Dialogue: 0,1:51:20.01,1:51:21.99,Default,Akiyoshi Yuka,0,0,60,,since we usually do shows with 16,
+Dialogue: 0,1:51:22.07,1:51:23.99,Default,Akiyoshi Yuka,0,0,60,,each person's voice, even more,
+Dialogue: 0,1:51:24.99,1:51:29.17,Default,Akiyoshi Yuka,0,0,60,,I think it was a time where we faced ourselves even more closely, so
+Dialogue: 0,1:51:29.25,1:51:31.19,Default,Akiyoshi Yuka,0,0,60,,this Oto no Ha, Koto no Ha —
+Dialogue: 0,1:51:31.93,1:51:36.59,Default,Akiyoshi Yuka,0,0,60,,I hope it doesn't end today and we can do it again.
+Dialogue: 0,1:51:38.11,1:51:40.73,Default,Toyonaga Aki,0,0,60,,That depends on your reactions, too.
+Dialogue: 0,1:51:40.81,1:51:42.27,Default,Toyonaga Aki,0,0,60,,It depends on the response,
+Dialogue: 0,1:51:42.35,1:51:43.79,Default,Akiyoshi Yuka,0,0,60,,since this was the first time.
+Dialogue: 0,1:51:44.84,1:51:46.30,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:51:47.48,1:51:48.58,Default,Akiyoshi Yuka,0,0,60,,Exactly.
+Dialogue: 0,1:51:49.16,1:51:51.18,Default,Akiyoshi Yuka,0,0,60,,Today we got to deliver the power of these words
+Dialogue: 0,1:51:51.26,1:51:54.50,Default,Akiyoshi Yuka,0,0,60,,to all of you, and I'm happy about that.
+Dialogue: 0,1:51:54.58,1:51:55.88,Default,Akiyoshi Yuka,0,0,60,,Finally, Ere-tan, how about you?
+Dialogue: 0,1:51:56.56,1:51:58.38,Default,Sakamoto Erena,0,0,60,,Thank you for passing it to me so neatly.
+Dialogue: 0,1:51:59.24,1:52:01.18,Default,Sakamoto Erena,0,0,60,,Well, I've really
+Dialogue: 0,1:52:01.26,1:52:03.40,Default,Sakamoto Erena,0,0,60,,been saying I wanted to do a singing show
+Dialogue: 0,1:52:03.48,1:52:05.82,Default,Sakamoto Erena,0,0,60,,for years,
+Dialogue: 0,1:52:05.90,1:52:08.48,Default,Sakamoto Erena,0,0,60,,and there were times I was told it'd be difficult.
+Dialogue: 0,1:52:09.40,1:52:12.38,Default,Sakamoto Erena,0,0,60,,I'd wonder why we couldn't do it when there are so many members
+Dialogue: 0,1:52:12.46,1:52:14.78,Default,Sakamoto Erena,0,0,60,,working so hard on their singing.
+Dialogue: 0,1:52:14.86,1:52:18.78,Default,Sakamoto Erena,0,0,60,,I wanted to do something that would let people
+Dialogue: 0,1:52:18.86,1:52:20.80,Default,Sakamoto Erena,0,0,60,,discover a new side of HKT.
+Dialogue: 0,1:52:20.88,1:52:24.60,Default,Sakamoto Erena,0,0,60,,So this time, it's really not my own strength —
+Dialogue: 0,1:52:24.68,1:52:26.76,Default,Sakamoto Erena,0,0,60,,it's thanks to all the fans, the staff,
+Dialogue: 0,1:52:26.84,1:52:28.60,Default,Sakamoto Erena,0,0,60,,and the members who performed
+Dialogue: 0,1:52:29.20,1:52:30.86,Default,Sakamoto Erena,0,0,60,,that we were able to do this,
+Dialogue: 0,1:52:30.94,1:52:33.40,Default,Sakamoto Erena,0,0,60,,so I'm filled with gratitude.
+Dialogue: 0,1:52:34.44,1:52:37.58,Default,Sakamoto Erena,0,0,60,,Songs each carry memories, don't they?
+Dialogue: 0,1:52:37.66,1:52:39.38,Default,Sakamoto Erena,0,0,60,,For each fan,
+Dialogue: 0,1:52:39.46,1:52:41.44,Default,Sakamoto Erena,0,0,60,,for me, and for each member too,
+Dialogue: 0,1:52:41.52,1:52:45.12,Default,Sakamoto Erena,0,0,60,,I think every song holds its own memories.
+Dialogue: 0,1:52:45.62,1:52:49.42,Default,Sakamoto Erena,0,0,60,,Those memories, those feelings, those emotions —
+Dialogue: 0,1:52:49.50,1:52:51.14,Default,Sakamoto Erena,0,0,60,,cherishing them,
+Dialogue: 0,1:52:51.74,1:52:53.06,Default,Sakamoto Erena,0,0,60,,over today's two shows,
+Dialogue: 0,1:52:53.14,1:52:54.22,Default,Sakamoto Erena,0,0,60,,I hope we delivered them.
+Dialogue: 0,1:52:55.00,1:52:59.48,Default,Sakamoto Erena,0,0,60,,Thinking that, I'm filled with the feeling that I'm so glad I kept working hard,
+Dialogue: 0,1:52:59.56,1:53:03.48,Default,Sakamoto Erena,0,0,60,,and in the past, I'd wonder, "is there any point to doing this?"
+Dialogue: 0,1:53:04.24,1:53:10.04,Default,Sakamoto Erena,0,0,60,,or "I'm working hard, but...", and it feels like all of that is connected to the future.
+Dialogue: 0,1:53:10.98,1:53:15.56,Default,Sakamoto Erena,0,0,60,,How do I put it — it's not exactly a culmination, but I'm graduating, so
+Dialogue: 0,1:53:15.64,1:53:20.72,Default,Sakamoto Erena,0,0,60,,having a place where I can show my own kind of culmination
+Dialogue: 0,1:53:20.80,1:53:23.32,Default,Sakamoto Erena,0,0,60,,filled me with gratitude.
+Dialogue: 0,1:53:23.40,1:53:25.22,Default,Sakamoto Erena,0,0,60,,Truly, thanks to all of you,
+Dialogue: 0,1:53:25.30,1:53:27.78,Default,Sakamoto Erena,0,0,60,,we were able to make this happen.
+Dialogue: 0,1:53:27.86,1:53:28.96,Default,Sakamoto Erena,0,0,60,,Thank you so much.
+Dialogue: 0,1:53:37.34,1:53:39.88,Default,Sakamoto Erena,0,0,60,,Holding this show made me feel
+Dialogue: 0,1:53:39.96,1:53:42.60,Default,Sakamoto Erena,0,0,60,,that good things happen if you keep working hard.
+Dialogue: 0,1:53:42.68,1:53:43.86,Default,Sakamoto Erena,0,0,60,,Thank you so much.
+Dialogue: 0,1:53:44.62,1:53:45.08,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:53:51.19,1:53:55.35,Default,Sakamoto Erena,0,0,60,,Now, the next one really, truly is the last song.
+Dialogue: 0,1:53:58.72,1:53:59.48,Default,Member,0,0,60,,Domiiin!
+Dialogue: 0,1:54:01.42,1:54:03.52,Default,Member,0,0,60,,What a gap from that nice story just now.
+Dialogue: 0,1:54:06.08,1:54:08.42,Default,Toyonaga Aki,0,0,60,,I really didn't think you'd do that here.
+Dialogue: 0,1:54:09.58,1:54:10.60,Default,Sakamoto Erena,0,0,60,,Not allowed!
+Dialogue: 0,1:54:10.68,1:54:12.76,Default,Sakamoto Erena,0,0,60,,So, for the last song,
+Dialogue: 0,1:54:12.84,1:54:15.32,Default,Sakamoto Erena,0,0,60,,we'd like everyone to sing along out loud.
+Dialogue: 0,1:54:15.40,1:54:17.06,Default,Sakamoto Erena,0,0,60,,Please do!
+Dialogue: 0,1:54:17.14,1:54:17.90,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,1:54:19.52,1:54:20.10,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,1:54:21.16,1:54:22.92,Default,Sakamoto Erena,0,0,60,,Now, please listen to our last song.
+Dialogue: 0,1:54:23.52,1:54:24.14,Default,Sakamoto Erena,0,0,60,,Nakama no Uta.
+
+; ===== outro =====
+Dialogue: 0,1:57:59.42,1:58:01.04,Default,Sakamoto Erena,0,0,60,,Thank you for the call!
+Dialogue: 0,1:58:01.14,1:58:02.00,Default,Takemoto Kurumi,0,0,60,,That was lovely.
+Dialogue: 0,1:58:02.08,1:58:03.02,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,1:58:07.35,1:58:07.77,Default,Sakamoto Erena,0,0,60,,Okay.
+Dialogue: 0,1:58:08.17,1:58:10.23,Default,Sakamoto Erena,0,0,60,,From here, as a token of our gratitude—
+Dialogue: 0,1:58:10.31,1:58:11.05,Default,Sakamoto Erena,0,0,60,,Oops, I messed up.
+Dialogue: 0,1:58:11.13,1:58:11.51,Default,Sakamoto Erena,0,0,60,,Sorry.
+Dialogue: 0,1:58:11.59,1:58:12.79,Default,Sakamoto Erena,0,0,60,,Let me start over!
+Dialogue: 0,1:58:14.11,1:58:14.46,Default,Sakamoto Erena,0,0,60,,Okay.
+Dialogue: 0,1:58:14.54,1:58:17.41,Default,Sakamoto Erena,0,0,60,,Thank you very much for coming today.
+Dialogue: 0,1:58:28.05,1:58:30.21,Default,Sakamoto Erena,0,0,60,,Now, as a token of our gratitude,
+Dialogue: 0,1:58:30.29,1:58:32.37,Default,Sakamoto Erena,0,0,60,,we'll be seeing you off.
+Dialogue: 0,1:58:32.45,1:58:34.25,Default,Sakamoto Erena,0,0,60,,Until the staff guide you,
+Dialogue: 0,1:58:34.33,1:58:35.45,Default,Sakamoto Erena,0,0,60,,please wait where you are.
+Dialogue: 0,1:58:35.53,1:58:37.85,Default,Sakamoto Erena,0,0,60,,Now, let's do our final greeting.
+Dialogue: 0,1:58:39.78,1:58:41.10,Default,Sakamoto Erena,0,0,60,,One, two...
+Dialogue: 0,1:58:42.92,1:58:44.60,Default,Sakamoto Erena,0,0,60,,One, two...
+Dialogue: 0,1:58:46.78,1:58:48.20,Default,All,0,0,60,,Thank you very much!
+Dialogue: 0,1:59:14.32,1:59:16.68,Default,Member,0,0,60,,Everyone watching on DMM, thank you too!
+Dialogue: 0,2:00:58.21,2:00:59.31,Default,Akiyoshi Yuka,0,0,60,,Let's meet again!
+Dialogue: 0,2:01:01.79,2:01:02.85,Default,Akiyoshi Yuka,0,0,60,,See you!
+Dialogue: 0,2:01:05.13,2:01:06.03,Default,Member,0,0,60,,Thank you so much!
+Dialogue: 0,2:01:18.48,2:01:19.70,Default,Sakamoto Erena,0,0,60,,Finally, all together—
+Dialogue: 0,2:01:19.78,2:01:22.96,Default,Member,0,0,60,,Ready...
+Dialogue: 0,2:01:23.58,2:01:24.16,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:02:00.00,2:02:01.60,Default,Member,0,0,60,,Oto no Ha, Koto no Ha is over!
+Dialogue: 0,2:02:01.70,2:02:04.20,Default,All,0,0,60,,It's over...
+Dialogue: 0,2:02:06.90,2:02:08.30,Default,Takemoto Kurumi,0,0,60,,Good work, everyone!
+Dialogue: 0,2:02:08.45,2:02:11.30,Default,Toyonaga Aki,0,0,60,,Now that it's over, that went by fast.
+Dialogue: 0,2:02:13.00,2:02:13.78,Default,Sakamoto Erena,0,0,60,,How was it?
+Dialogue: 0,2:02:13.86,2:02:14.78,Default,All,0,0,60,,Thank you for coming.
+Dialogue: 0,2:02:15.70,2:02:18.02,Default,Sakamoto Erena,0,0,60,,No, thank you, everyone!
+Dialogue: 0,2:02:19.02,2:02:21.82,Default,Sakamoto Erena,0,0,60,,It was a good show because it was with all of you.
+Dialogue: 0,2:02:23.89,2:02:25.95,Default,Akiyoshi Yuka,0,0,60,,The one-team feeling was amazing.
+Dialogue: 0,2:02:29.87,2:02:35.09,Default,Toyonaga Aki,0,0,60,,We rushed through it at a fast pace, but we all worked hard and pulled it off.
+Dialogue: 0,2:02:35.79,2:02:37.31,Default,Kitagawa Hiiro,0,0,60,,It was fun, wasn't it?
+Dialogue: 0,2:02:38.09,2:02:41.37,Default,Sakamoto Erena,0,0,60,,Every single time our eyes met, it really got to me.
+Dialogue: 0,2:02:41.45,2:02:42.15,Default,Takemoto Kurumi,0,0,60,,Really.
+Dialogue: 0,2:02:42.89,2:02:45.35,Default,Akiyoshi Yuka,0,0,60,,And Ere-tan's words at the end were just—
+Dialogue: 0,2:02:45.43,2:02:47.93,Default,Takemoto Kurumi,0,0,60,,So true.
+Dialogue: 0,2:02:49.50,2:02:51.04,Default,Sakamoto Erena,0,0,60,,Thank you.
+Dialogue: 0,2:02:51.12,2:02:57.08,Default,Sakamoto Erena,0,0,60,,I hope we'll have an environment where we can keep doing things like this.
+Dialogue: 0,2:02:57.92,2:02:59.00,Default,Member,0,0,60,,Don't graduate!
+Dialogue: 0,2:03:01.24,2:03:02.90,Default,Member,0,0,60,,Can you come back as a producer?
+Dialogue: 0,2:03:03.66,2:03:04.62,Default,Sakamoto Erena,0,0,60,,I'll come!
+Dialogue: 0,2:03:04.80,2:03:07.36,Default,Sakamoto Erena,0,0,60,,Right, as a teacher.
+Dialogue: 0,2:03:08.44,2:03:09.24,Default,Toyonaga Aki,0,0,60,,How was it?
+Dialogue: 0,2:03:10.21,2:03:12.49,Default,Takemoto Kurumi,0,0,60,,Just, such a sense of achievement.
+Dialogue: 0,2:03:12.81,2:03:14.73,Default,Member,0,0,60,,Right. We were nervous, too.
+Dialogue: 0,2:03:15.25,2:03:19.59,Default,Toyonaga Aki,0,0,60,,It's different from dancing, you know —
+Dialogue: 0,2:03:19.67,2:03:22.95,Default,Toyonaga Aki,0,0,60,,it seems Ere-chan was also told a show with little movement would be hard to pull off,
+Dialogue: 0,2:03:23.03,2:03:26.29,Default,Toyonaga Aki,0,0,60,,and the thing we'd been told all along,
+Dialogue: 0,2:03:26.41,2:03:32.21,Default,Member,0,0,60,,we proved them wrong, so
+Dialogue: 0,2:03:33.55,2:03:38.55,Default,Toyonaga Aki,0,0,60,,I hope we can make use of that in some form from here on.
+Dialogue: 0,2:03:38.63,2:03:43.71,Default,Sakamoto Erena,0,0,60,,I think the fans discovered the new members' charms today too,
+Dialogue: 0,2:03:44.23,2:03:48.23,Default,Sakamoto Erena,0,0,60,,so I hope you'll come to love all their different sides more and more.
+Dialogue: 0,2:03:48.53,2:03:54.33,Default,Toyonaga Aki,0,0,60,,Please post your impressions with the hashtag — "Otonoha Kotonoha" in katakana. We'll be waiting!
+Dialogue: 0,2:03:55.39,2:03:59.17,Default,Member,0,0,60,,And post lots of "it was so good!"
+Dialogue: 0,2:04:00.35,2:04:02.69,Default,Toyonaga Aki,0,0,60,,That will lead to a Vol. 2!
+Dialogue: 0,2:04:02.99,2:04:03.77,Default,Takemoto Kurumi,0,0,60,,Please!
+Dialogue: 0,2:04:03.85,2:04:04.43,Default,All,0,0,60,,Please!
+Dialogue: 0,2:04:06.85,2:04:10.81,Default,Member,0,0,60,,Look forward to the next show!
+Dialogue: 0,2:04:10.89,2:04:11.75,Default,All,0,0,60,,Thank you very much!
+Dialogue: 0,2:04:14.33,2:04:15.37,Default,Kitagawa Hiiro,0,0,60,,That was fun!
+Dialogue: 0,2:04:15.45,2:04:16.01,Default,Sakamoto Erena,0,0,60,,So fun!
