@@ -4,7 +4,8 @@ description: >-
   Use when finding talk/MC/sketch time ranges in a long idol performance audio
   without human segment timestamps, or when iterating a blind talk-map against a
   known grade key. Default method: stage template + energy + short VAD + sparse
-  lyric probes (not energy-only, not full-show Whisper).
+  lyric probes. For quiet acoustic shows where the energy map shows no song/talk
+  contrast, use the whole-show base-scan fallback.
 ---
 # Idol-show talk segment finder
 
@@ -30,8 +31,8 @@ Times are seconds on the **original** timeline. Set `translate: false` for slots
 ## Hard limits (stay performant)
 
 - Prefer the **v3 stack** below; never use full-show `large-v3` as a segment finder.
-- Lyric ASR: `tiny` or `base` on **short crops only** (prefer total crop budget ≲15–20 min of audio).
-- VAD/speech-density: **5–45s windows** after candidate song ends — not whole-show.
+- Lyric ASR: `tiny` or `base` on **short crops only** (prefer total crop budget ≲15–20 min of audio) — **except** the quiet-acoustic fallback below, which uses one whole-show `base` scan.
+- VAD/speech-density: **5–45s windows** after candidate song ends.
 - One bounded experiment / ≤2 systematic tweaks vs a grade key unless the user asks for more.
 - Stop and report **not converging** if main talk blocks stay poor after that.
 - Never invent song lyrics or translate in this skill.
@@ -60,7 +61,16 @@ Proven stack on Himawarigumi 2025-05-11 grade (mean IoU ~0.86; reference only �
 
 Paired MCs (e.g. user `mc2` = two cast-group talk halves): one merged span or two adjacent halves both OK vs grade.
 
-### Fallback (no template)
+### Fallback: quiet acoustic shows (e.g. 250413 Otonoha Kotonoha, day and evening)
+
+When songs are quiet/acoustic and the energy map shows no clear song-vs-talk contrast (energy map fails), use a **whole-show faster-whisper `base` scan** instead:
+
+- `base`, int8, `vad_filter=True` with `min_silence_duration_ms` ~500, `beam_size=1`.
+- **Songs** show up as long collapsed/sparse segments (sung lines merge into long segments, repeated lyrics); **talk** shows up as dense short segments between them. Mark talk windows from the gaps, then check each boundary with a short crop.
+- Use the stage template/setlist order (`assets/hkt48/stage_templates/`) to sanity-check the song count between talk blocks; add spoken lines that sit inside song beds (thanks, count-ins, chants) as short extra windows.
+- Worked on both 250413 shows blind (user-confirmed near-perfect subs). Still expect to re-ASR gaps with VAD off before trusting thin spans.
+
+### Fallback (no template, normal-energy show)
 
 Energy/silence discovery only (v1). Expect more false islands; do not promote to ASS cuts without review.
 
@@ -102,6 +112,6 @@ Under `work/<slug>/segment_finder/`:
 
 - Replace a human segment map with finder candidates for production ASS without review
 - Load these heuristics into the JA→EN subtitle skill — keep this skill separate
-- Run unbounded overnight ASR loops or full-show large-v3 for segment finding
+- Run unbounded overnight ASR loops or full-show large-v3 for segment finding (the quiet-acoustic fallback uses one whole-show `base` scan only)
 - Use longest-hush as photo when a template says earliest post–block-A hush
 - Translate encore_call or end_greetings unless the user explicitly asks

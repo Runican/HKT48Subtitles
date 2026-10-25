@@ -51,12 +51,13 @@
   "notes": [
     "Two performances only (2025-04-13 12:30 and 17:00); event, not a regular 公演. Template = night (17:00); day differs in blocks B/C (see day_variant).",
     "Song order locked from 3 independent fan texts (fan report, polyhedra, ameblo/asukyann). Official site publishes no setlist for this event.",
-    "MC positions: ameblo gives them for the day show; night is confirmed by fan text for intro, 6th-gen MC after M10, and all-member MC after M16. Others are provisional.",
     "Everything is sung live; several songs are seated or have live instruments (3-2, MIKA). Expect quiet acoustic bands and longer talk.",
     "Skip translating song lyrics; song titles spoken in talk use the romaji here.",
     "Talk dur_s are rough guesses (no grade anchor).",
     "Overture matched the regular-stage overture (HKT48 ver.) by audio comparison with other LODs; the day list names it too.",
-    "Hakata Keionbu (Kari) = the members' band (Kojina Yui, Toyonaga Aki, Akiyoshi Yuka, Sakamoto Erena); talk about 3-2 refers to it."
+    "Hakata Keionbu (Kari) = the members' band (Kojina Yui, Toyonaga Aki, Akiyoshi Yuka, Sakamoto Erena); talk about 3-2 refers to it.",
+    "MC positions: day marks come from ameblo (after D04 intro, D09, D13, D15, D18, DEN2). Night is confirmed by fan text for the intro, 6th-gen MC after M10 and all-member MC after M16; the other night MCs are provisional.",
+    "polyhedra's call-block lead-in quote (ここからは皆さんのコールの力…) carries no show tag; treat as the MC before the call block in whichever show it matches by ear."
   ],
   "songs": [
     {
@@ -230,7 +231,7 @@
         "3-2(さんひくに)なら　孤独が残る",
         "3÷2(さんわるに)では　僕だけ余る"
       ],
-      "note": "Sakamoto Erena on piano (fan report + polyhedra); Yuka also plays live, instrument unconfirmed. Kurumi sings; she is not the pianist. Remake of the 2021 Hakata Keionbu (Kari) band version, with Kurumi taking Kojina Yui's place. polyhedra numbers it M-13 and then repeats M13 for MIKA, so its later night numbers are one lower."
+      "note": "Erena on piano (copied by ear) and Yuka on guitar (note.com fan report; fan blog + polyhedra agree on Erena's live piano). Kurumi sings and is not the pianist. Remake of the 2020-21 Hakata Keionbu (Kari) band version, with Kurumi taking Kojina Yui's place. polyhedra numbers it M-13 and then repeats M13 for MIKA, so its later night numbers run one lower."
     },
     {
       "slot": "M14",
@@ -244,7 +245,7 @@
         "Akiyoshi Yuka",
         "Sakamoto Erena"
       ],
-      "note": "Original song by the pair; Yuka on acoustic guitar. Night: Erena forgot a lyric and sang an ad-lib along the lines of 歌詞ごめんなさ～い (polyhedra); translate as heard."
+      "note": "Original song by the pair, first public performance (note.com); Yuka on acoustic guitar. Night: Erena forgot a lyric and sang an ad-lib along the lines of 歌詞ごめんなさ～い (polyhedra said night only); translate as heard. Also sung in the day show (D13)."
     },
     {
       "slot": "M15",
@@ -333,22 +334,361 @@
     }
   ],
   "day_variant": {
-    "note": "12:30 (day) show: same frame, different solos and units. Fan text (ameblo, polyhedra).",
-    "block_B": [
-      "10クローネとパン (Aki)",
-      "出逢いの続き (Kurumi)",
-      "キャンディー/CANDY (Yuka, Hiiro, Risaki)",
-      "この胸のバーコード (Erena, Zawa, Han-chan)",
-      "もっと、きっと。 (Erena solo, her own lyrics)"
+    "note": "12:30 show. Same frame as the night but the solo/unit blocks differ; songs D14–DEN3 equal night M15–EN3. 19 main songs + 3 encore. Sources: ameblo (full day setlist with -MC- marks), polyhedra and note.com (fan reports); hkt48.jp schedule/2025/04/19495 for cast only. MC marks are position-only; no source gives day MC topics except the self-intro theme. Lineup note: Erena chose the eight voices (ameblo, fan blog); 6 of 8 are Team KIV, only Aki and Hiiro are Team H. 太陽のように大きな声で is a lyric of 仲間の歌, not a staged special.",
+    "cast": "same 8 as night (hkt48.jp)",
+    "songs": [
+      {
+        "slot": "D00",
+        "ja": "overture (HKT48 ver.)",
+        "romaji": "overture",
+        "block": "A",
+        "kind": "overture",
+        "confidence": "locked",
+        "vs_night": "day_only",
+        "unit_size": "listed in the day setlist (ameblo); the audio is the standard overture",
+        "performers": "same"
+      },
+      {
+        "slot": "D01",
+        "ja": "青春の出口",
+        "romaji": "Seishun no Deguchi",
+        "block": "A",
+        "kind": "group",
+        "confidence": "locked",
+        "vs_night": "same",
+        "note": "a cappella start (note.com; huddle before it unconfirmed for the day show, PROV)"
+      },
+      {
+        "slot": "D02",
+        "ja": "カギトナル",
+        "romaji": "Kagi to Naru",
+        "block": "A",
+        "kind": "group",
+        "confidence": "locked",
+        "vs_night": "same"
+      },
+      {
+        "slot": "D03",
+        "ja": "チャイムはLOVE SONG",
+        "romaji": "Chime wa LOVE SONG",
+        "block": "A",
+        "kind": "group",
+        "confidence": "locked",
+        "vs_night": "same"
+      },
+      {
+        "slot": "D04",
+        "ja": "12秒",
+        "romaji": "12 Byou",
+        "block": "A",
+        "kind": "group",
+        "confidence": "locked",
+        "vs_night": "same"
+      },
+      {
+        "slot": "D05",
+        "ja": "10クローネとパン",
+        "romaji": "10 Krone to Pan",
+        "block": "B",
+        "kind": "solo",
+        "confidence": "locked",
+        "vs_night": "day_only",
+        "unit_size": 1,
+        "performers": [
+          "Toyonaga Aki"
+        ],
+        "note": "Fully staged solo with original choreography (polyhedra). Not sung with the line あなただけ (not in the lyrics). Aki cried afterwards on the post-show DMM comment video and Erena consoled her (polyhedra, note.com)."
+      },
+      {
+        "slot": "D06",
+        "ja": "出逢いの続き",
+        "romaji": "Deai no Tsudzuki",
+        "block": "B",
+        "kind": "solo",
+        "confidence": "locked",
+        "vs_night": "day_only",
+        "unit_size": 1,
+        "performers": [
+          "Takemoto Kurumi"
+        ],
+        "note": "Watanabe Mayu song; Kurumi chose it herself (polyhedra, from the stage programme)."
+      },
+      {
+        "slot": "D07",
+        "ja": "キャンディー",
+        "romaji": "Candy",
+        "block": "B",
+        "kind": "unit",
+        "confidence": "locked",
+        "vs_night": "day_only",
+        "unit_size": 3,
+        "performers": [
+          "Akiyoshi Yuka",
+          "Kitagawa Hiiro",
+          "Oba Risaki"
+        ],
+        "note": "members threw wrapped throat lozenges (のど飴) into the audience; Yuka's idea (polyhedra)."
+      },
+      {
+        "slot": "D08",
+        "ja": "この胸のバーコード",
+        "romaji": "Kono Mune no Barcode",
+        "block": "B",
+        "kind": "unit",
+        "confidence": "locked",
+        "vs_night": "day_only",
+        "unit_size": 3,
+        "performers": [
+          "Sakamoto Erena",
+          "Izawa Miyu",
+          "Ihara Hanna"
+        ],
+        "note": "Han-chan is the center (polyhedra); Erena has the chorus belt."
+      },
+      {
+        "slot": "D09",
+        "ja": "もっと、きっと。",
+        "romaji": "Motto, Kitto.",
+        "block": "B",
+        "kind": "solo",
+        "confidence": "locked",
+        "vs_night": "day_only",
+        "unit_size": 1,
+        "performers": [
+          "Sakamoto Erena"
+        ],
+        "note": "Erena's own lyrics; Han-chan and Zawa lead the intro, then Erena solo (polyhedra)."
+      },
+      {
+        "slot": "D10",
+        "ja": "恋の指先",
+        "romaji": "Koi no Yubisaki",
+        "block": "C",
+        "kind": "unit",
+        "confidence": "locked",
+        "vs_night": "day_only",
+        "unit_size": 4,
+        "performers": [
+          "Kitagawa Hiiro",
+          "Oba Risaki",
+          "Izawa Miyu",
+          "Ihara Hanna"
+        ],
+        "note": "6th gen, seated."
+      },
+      {
+        "slot": "D11",
+        "ja": "さくらんぼを結べるか？",
+        "romaji": "Sakuranbo wo Musuberu ka?",
+        "block": "C",
+        "kind": "unit",
+        "confidence": "locked",
+        "vs_night": "day_only",
+        "unit_size": 4,
+        "performers": [
+          "Kitagawa Hiiro",
+          "Oba Risaki",
+          "Izawa Miyu",
+          "Ihara Hanna"
+        ],
+        "note": "6th gen, seated."
+      },
+      {
+        "slot": "D12",
+        "ja": "僕だけの白日夢",
+        "romaji": "Boku dake no Hakujitsumu",
+        "block": "C",
+        "kind": "unit",
+        "confidence": "locked",
+        "vs_night": "day_only",
+        "unit_size": 4,
+        "performers": [
+          "Sakamoto Erena",
+          "Akiyoshi Yuka",
+          "Toyonaga Aki",
+          "Takemoto Kurumi"
+        ],
+        "note": "seniors, seated (ameblo names the four; polyhedra says 先輩組)."
+      },
+      {
+        "slot": "D13",
+        "ja": "MIKA",
+        "romaji": "MIKA",
+        "block": "C",
+        "kind": "unit",
+        "confidence": "locked",
+        "vs_night": "same",
+        "unit_size": 2,
+        "performers": [
+          "Sakamoto Erena",
+          "Akiyoshi Yuka"
+        ],
+        "note": "night M14"
+      },
+      {
+        "slot": "D14",
+        "ja": "僕はやっと君を心配できる",
+        "romaji": "Boku wa Yatto Kimi wo Shinpai Dekiru",
+        "block": "D",
+        "kind": "group",
+        "confidence": "locked",
+        "vs_night": "same",
+        "note": "night M15"
+      },
+      {
+        "slot": "D15",
+        "ja": "全然 変わらない",
+        "romaji": "Zenzen Kawaranai",
+        "block": "D",
+        "kind": "group",
+        "confidence": "locked",
+        "vs_night": "same",
+        "note": "night M16"
+      },
+      {
+        "slot": "D16",
+        "ja": "前しか向かねえ",
+        "romaji": "Mae shika Mukanee",
+        "block": "E",
+        "kind": "group",
+        "confidence": "locked",
+        "vs_night": "same",
+        "note": "night M17"
+      },
+      {
+        "slot": "D17",
+        "ja": "夢力",
+        "romaji": "Yume Chikara",
+        "block": "E",
+        "kind": "group",
+        "confidence": "locked",
+        "vs_night": "same",
+        "note": "night M18"
+      },
+      {
+        "slot": "D18",
+        "ja": "君はもっとできる",
+        "romaji": "Kimi wa Motto Dekiru",
+        "block": "E",
+        "kind": "group",
+        "confidence": "locked",
+        "vs_night": "same",
+        "note": "night M19"
+      },
+      {
+        "slot": "D19",
+        "ja": "君とどこかへ行きたい",
+        "romaji": "Kimi to Dokoka e Ikitai",
+        "block": "F",
+        "kind": "group",
+        "confidence": "locked",
+        "vs_night": "same",
+        "note": "night M20; no pair part reported for either show"
+      },
+      {
+        "slot": "DEN1",
+        "ja": "初めての星",
+        "romaji": "Hajimete no Hoshi",
+        "block": "G",
+        "kind": "encore",
+        "confidence": "locked",
+        "vs_night": "same"
+      },
+      {
+        "slot": "DEN2",
+        "ja": "桜、みんなで食べた",
+        "romaji": "Sakura, Minna de Tabeta",
+        "block": "G",
+        "kind": "encore",
+        "confidence": "locked",
+        "vs_night": "same"
+      },
+      {
+        "slot": "DEN3",
+        "ja": "仲間の歌",
+        "romaji": "Nakama no Uta",
+        "block": "H",
+        "kind": "encore",
+        "confidence": "locked",
+        "vs_night": "same",
+        "note": "the えれな call is reported for the night show only (polyhedra, note.com); day: none reported (PROV)."
+      }
     ],
-    "mc_after_B": true,
-    "block_C": [
-      "恋の指先 (6th gen, seated)",
-      "さくらんぼを結べるか？ (6th gen, seated)",
-      "僕だけの白日夢 (seniors)",
-      "MIKA (Erena, Yuka)"
+    "timeline": [
+      {
+        "id": "kage_ana",
+        "type": "kage_ana",
+        "translate": false,
+        "confidence": "locked",
+        "note": "polyhedra watched the day show from the shadow announcement; skip by default."
+      },
+      {
+        "id": "intro",
+        "type": "intro",
+        "after": "D04",
+        "confidence": "locked",
+        "translate": true,
+        "topic": "self-intros with theme 好きな曲 (a song you love)",
+        "note": "Day answers (polyhedra): Kurumi やる気花火 Yaruki Hanabi and 摩天楼の距離 Matenrou no Kyori; Risaki 波音のオルゴール Namioto no Orgel; Hiiro buddy; Erena 僕だけの白日夢; Aki キスは待つしかないのでしょうか？; Zawa シンデレラなんていない; Han-chan そういうことFebruary; Yuka 初日. Order of the day/night pairs follows the source line; check by ear. Photo slot: UNKNOWN for the day show."
+      },
+      {
+        "id": "mc_after_D09",
+        "after": "D09",
+        "before": null,
+        "confidence": "provisional",
+        "topic": "UNKNOWN. Marked -MC- by ameblo; by analogy with the night, 6th gen talk while the stage is set up with chairs.",
+        "note": "night equivalent is after M10."
+      },
+      {
+        "id": "mc_after_D13",
+        "after": "D13",
+        "before": null,
+        "confidence": "provisional",
+        "topic": "UNKNOWN. Marked -MC- by ameblo.",
+        "note": "night: no MC reported."
+      },
+      {
+        "id": "mc_after_D15",
+        "after": "D15",
+        "before": null,
+        "confidence": "provisional",
+        "topic": "UNKNOWN. Marked -MC- by ameblo; same slot as the night all-member MC and the call-block lead-in, but no day-specific text.",
+        "note": "polyhedra's 'ここからは皆さんのコールの力も借りながら…' quote has no show tag, so it is not locked to either show."
+      },
+      {
+        "id": "mc_after_D18",
+        "after": "D18",
+        "before": null,
+        "confidence": "provisional",
+        "topic": "UNKNOWN. Marked -MC- by ameblo.",
+        "note": "night: unconfirmed."
+      },
+      {
+        "id": "mc_encore",
+        "after": "DEN2",
+        "before": null,
+        "confidence": "provisional",
+        "topic": "UNKNOWN. Marked -MC- by ameblo between 桜、みんなで食べた and 仲間の歌.",
+        "note": "night: unconfirmed."
+      }
     ],
-    "rest": "M14 onward = night M15 onward (僕やっと … 仲間の歌); the day show has 19 main songs, not 20."
+    "specials_known": [
+      "Aki's 10 Krone to Pan staged solo + her tears on the post-show DMM comment video",
+      "lozenge-throwing during Candy",
+      "Erena's MIKA lyric slip was night-only (polyhedra)",
+      "no えれな call at the end (night only per two texts)",
+      "Aki's post-show regret over her solo is reported by polyhedra (mobile mail) and note.com (consoled by Erena); the post-show chat is that comment video"
+    ],
+    "specials_unknown": [
+      "photo session",
+      "birthday or other announcements",
+      "guests",
+      "day-show MC topics",
+      "whether a huddle preceded the a cappella opener",
+      "what 'Anata dake' refers to in the post-show chat (not in 10 Krone to Pan lyrics; ear)",
+      "day encore call wording",
+      "MC topic between EN2 and EN3"
+    ]
   },
   "timeline": [
     {
@@ -619,6 +959,6 @@
   ],
   "grade_anchor_show": null,
   "grade_anchor_note": "No grade anchor; the 2025-04-13 17:00 LOD is the first job.",
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "updated_by": "verifier"
 }

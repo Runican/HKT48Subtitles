@@ -392,12 +392,12 @@
       "en": "Yuka-tan / Yuka-chan",
       "en_full": "Akiyoshi Yuka",
       "type": "member",
-      "team": null,
+      "team": "KIV",
       "reject": [],
-      "note": "2nd gen (2012-09); official nick ゆかちゃん (profile/23). Spoken ゆかたん common. Theater catch this era: yukatan-yasashii-hana-catch LOCKED (博多に咲く優しい花 — not みかん-lead). Same-gen rest talk with まいさん → Fuchigami Mai. Portrait-cookie ASR trap → yuka-nigaoe-cookie-asr-trap.",
+      "note": "2nd gen (2012-09); official nick ゆかちゃん (profile/23). Spoken ゆかたん common. Theater catch this era: yukatan-yasashii-hana-catch LOCKED (博多に咲く優しい花 — not みかん-lead). Same-gen rest talk with まいさん → Fuchigami Mai. Portrait-cookie ASR trap → yuka-nigaoe-cookie-asr-trap. Team KIV since the 2023 team change (48pedia; listed on the official 2025-04 Team KIV stage cast).",
       "confidence": "confirmed",
       "locked": false,
-      "updated": "2026-10-07T10:00:00+02:00",
+      "updated": "2026-10-24T15:11:08+02:00",
       "updated_by": "verifier"
     },
     {
@@ -3110,7 +3110,9 @@
       "ja": [
         "チーム慶応",
         "チームけいおう",
-        "K-1"
+        "K-1",
+        "警報ばっか",
+        "警報ばっかり"
       ],
       "en": "Team KIV (not Keio)",
       "en_full": "ASR チーム慶応 / K-1 → Team KIV",
@@ -3121,10 +3123,10 @@
         "慶應",
         "Team Keio"
       ],
-      "note": "Whisper mush of チームKIV (けーあいぶい / けーよん) → チーム慶応 / K-1. Yasui Hina is Team KIV (from 2024-07-23).",
+      "note": "Whisper mush of チームKIV (けーあいぶい / けーよん) → チーム慶応 / K-1. Yasui Hina is Team KIV (from 2024-07-23). Also seen as 警報 (けいほう): a spoken 'KIV-bakkari' joke about a KIV-heavy lineup.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-07T10:00:00+02:00",
+      "updated": "2026-10-24T15:11:08+02:00",
       "updated_by": "verifier"
     },
     {
@@ -4151,7 +4153,289 @@
       "locked": true,
       "updated": "2026-10-23T13:30:00+02:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "song-10-krone-to-pan",
+      "ja": [
+        "10クローネとパン",
+        "十クローネとパン"
+      ],
+      "en": "10 Krone to Pan",
+      "en_full": "10 Krone to Pan",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "10 Kurone and Pan"
+      ],
+      "note": "AKB48-group song (lyrics Akimoto Yasushi, music Adachi Rikiya); the 5-member unit song of NMB48 Team N's 「目撃者」 stage. EN gloss if needed: \"Ten Kroner and Bread\".",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-deai-no-tsudzuki",
+      "ja": [
+        "出逢いの続き",
+        "出会いの続き"
+      ],
+      "en": "Deai no Tsudzuki",
+      "en_full": "Deai no Tsudzuki",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Watanabe Mayu's 5th single (2015-06-10), theme of the drama 戦う！書店ガール. Official spelling is 逢; fan text sometimes writes 会.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-candy",
+      "ja": [
+        "キャンディー",
+        "CANDY",
+        "Candy"
+      ],
+      "en": "Candy",
+      "en_full": "Candy",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Candy as a member nick"
+      ],
+      "note": "48-group unit song (lyrics Akimoto Yasushi, music Kawasaki Satomi), title written both キャンディー and CANDY in fan text. Bare キャンディー in talk can also mean the throat lozenges thrown to the audience (のど飴).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kono-mune-no-barcode",
+      "ja": [
+        "この胸のバーコード"
+      ],
+      "en": "Kono Mune no Barcode",
+      "en_full": "Kono Mune no Barcode",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Unit song of the 「手をつなぎながら」 stage (hkt48.jp Team H 1st setlist).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-motto-kitto",
+      "ja": [
+        "もっと、きっと。",
+        "もっときっと",
+        "もっと、きっと"
+      ],
+      "en": "Motto, Kitto.",
+      "en_full": "Motto, Kitto.",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Motto Kitto as speech"
+      ],
+      "note": "Song Sakamoto Erena wrote the lyrics for (music Ota Yudai), first sung in 2018 by the unit ガチンコ☆.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-koi-no-yubisaki",
+      "ja": [
+        "恋の指先"
+      ],
+      "en": "Koi no Yubisaki",
+      "en_full": "Koi no Yubisaki",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 song from the しぇからしか! era (theatre-edition track per fan text).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-sakuranbo-wo-musuberu-ka",
+      "ja": [
+        "さくらんぼを結べるか？",
+        "さくらんぼを結べるか"
+      ],
+      "en": "Sakuranbo wo Musuberu ka?",
+      "en_full": "Sakuranbo wo Musuberu ka?",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Sakura, Minna de Tabeta"
+      ],
+      "note": "HKT48 4th-gen song, #2 in the 2021 HKT48 request hour. Not 桜、みんなで食べた.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-boku-dake-no-hakujitsumu",
+      "ja": [
+        "僕だけの白日夢"
+      ],
+      "en": "Boku dake no Hakujitsumu",
+      "en_full": "Boku dake no Hakujitsumu",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 song from the バグっていいじゃん era; Sakamoto Erena was a double center.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-matenrou-no-kyori",
+      "ja": [
+        "摩天楼の距離"
+      ],
+      "en": "Matenrou no Kyori",
+      "en_full": "Matenrou no Kyori",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Materou no Kyori"
+      ],
+      "note": "Song from the Team A 「目撃者」 stage, also in the HKT48 Team H 「目撃者」 setlist.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-yaruki-hanabi",
+      "ja": [
+        "やる気花火"
+      ],
+      "en": "Yaruki Hanabi",
+      "en_full": "Yaruki Hanabi",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "渡り廊下走り隊7 2nd single (2009-04-22).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kiss-wa-matsu-shika",
+      "ja": [
+        "キスは待つしかないのでしょうか？",
+        "キスは待つしかないのでしょうか",
+        "キス待ち"
+      ],
+      "en": "Kiss wa Matsu Shika Nai no Deshou ka?",
+      "en_full": "Kiss wa Matsu Shika Nai no Deshou ka?",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 10th single (2017); fans shorten it to キス待ち, which is also the name of its costume.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-souiu-koto-february",
+      "ja": [
+        "そういうことFebruary"
+      ],
+      "en": "Souiu Koto February",
+      "en_full": "Souiu Koto February",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Team KIV song.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T14:30:00+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-cinderella-nante-inai",
+      "ja": [
+        "シンデレラなんていない"
+      ],
+      "en": "Cinderella Nante Inai",
+      "en_full": "Cinderella Nante Inai",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Coupling song on HKT48's 14th single 'Kimi to Dokoka e Ikitai'; center Miyazaki Sono (ex-member, graduated 2022). A spoken 'Sono-san' near this title is her.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T15:11:08+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-buddy",
+      "ja": [
+        "buddy",
+        "Buddy"
+      ],
+      "en": "Buddy",
+      "en_full": "Buddy",
+      "type": "song",
+      "team": "H",
+      "reject": [],
+      "note": "Team H song; coupling on HKT48 6th single 'Shekarashika!' (2015-11-25); lyrics Akimoto Yasushi, music Inoue Yoshimasa. Title written 'Buddy' in lyric databases and 'buddy' in fan setlists; use Buddy.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T15:11:08+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-shonichi",
+      "ja": [
+        "初日"
+      ],
+      "en": "Shonichi",
+      "en_full": "Shonichi",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "opening day as the title"
+      ],
+      "note": "AKB48 Team B 'Pajama Drive' stage opener (lyrics Akimoto Yasushi, music Okada Mine). Also the ordinary word for opening day, so read the context: a song title in a setlist or intro, otherwise 'opening day'.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-24T15:11:08+02:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "miyazaki-sono",
+      "ja": [
+        "宮﨑想乃",
+        "宮崎想乃",
+        "想乃",
+        "そのちゃん",
+        "そのさん"
+      ],
+      "en": "Sono-san / Miyazaki Sono",
+      "en_full": "Miyazaki Sono",
+      "type": "member",
+      "team": null,
+      "reject": [],
+      "note": "Ex-member (graduated 2022); center of Cinderella Nante Inai (14th-single coupling). Alumni are talked about by first name plus san.",
+      "confidence": "confirmed",
+      "locked": false,
+      "updated": "2026-10-24T15:11:08+02:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-23T13:30:00+02:00"
+  "updated": "2026-10-24T14:30:00+02:00"
 }

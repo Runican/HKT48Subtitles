@@ -214,6 +214,12 @@ Also inspect **3–8s near-miss gaps** around intros — they often hide catchph
 6. **Default:** eliminate all time overlaps (de-collide). Only keep simultaneous times when speech truly overlaps and set `overlap_ok`, distinct `layer`, and distinct `margin_v` (e.g. lower line MarginV 60, upper 140).
 7. Machine-check ASS: zero unintended overlaps; intentional dual lines must differ in Layer **and** MarginV/`\pos`.
 
+**Stock phrases beside a Crowd cue** (e.g. the ありがとうございます after an intro catch or cheer): ASR parks these on the cheer, and a tight re-ASR invents them on noise. Time them with `assets/scripts/voicing.py <segdir> a-b` (single-voice run after the cheer, before the next line); no single-voice run → drop the cue. Run it on every such intro/thank-you before delivery, not only where noticed.
+
+**Cue start on applause:** if a cue's first word comes >1 s before the rest, check that gap with `voicing.py` and start the cue at the single voice, not on the applause.
+
+**Call-and-response games** (acrostics, chants) collapse in Whisper: do a word-timestamp re-pass on those spans.
+
 ASS export: PlayRes 1920x1080; optional Style per mapped speaker; times = `ts(clip_sec + OFFSET_SEC)` as `H:MM:SS.cc` (no 60.00 overflow). Writer honors cue `layer` / `margin_v`.
 
 ### Pass G — check (do not ship without this)
