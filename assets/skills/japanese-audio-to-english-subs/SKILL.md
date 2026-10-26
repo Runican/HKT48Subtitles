@@ -218,6 +218,8 @@ Also inspect **3–8s near-miss gaps** around intros — they often hide catchph
 
 **Cue start on applause:** if a cue's first word comes >1 s before the rest, check that gap with `voicing.py` and start the cue at the single voice, not on the applause.
 
+**Crowd echo:** keep a crowd echo as its own Crowd cue; do not merge it into the speaker's cue. Call-and-response cue words are translated (e.g. "I want to be!"), and name-calls use the given name. Keep romaji only for names or puns. (Reviewer rule; may be revisited once seen in action.)
+
 **Call-and-response games** (acrostics, chants) collapse in Whisper: do a word-timestamp re-pass on those spans.
 
 ASS export: PlayRes 1920x1080; optional Style per mapped speaker; times = `ts(clip_sec + OFFSET_SEC)` as `H:MM:SS.cc` (no 60.00 overflow). Writer honors cue `layer` / `margin_v`.

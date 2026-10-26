@@ -4435,7 +4435,82 @@
       "locked": false,
       "updated": "2026-10-24T15:11:08+02:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "show-fukashitenjane-yo-radio",
+      "ja": [
+        "フカシてんじゃねぇよー",
+        "フカシてんじゃねえよ",
+        "HKT48のフカシてんじゃねぇよー",
+        "福岡市店じゃねえよ"
+      ],
+      "en": "HKT48's Fukashitenjanee yo~",
+      "en_full": "HKT48's Fukashitenjanee yo~",
+      "type": "show",
+      "team": null,
+      "reject": [
+        "Fukuoka City store",
+        "福岡市店"
+      ],
+      "note": "FM FUKUOKA radio show (Thursday 25:00–25:30), members rotate monthly. Whisper mush: 福岡市店じゃねえよ. Izawa Miyu and Fukui Karen were on it in April 2025 (hkt48.jp schedule).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-26T16:51:29+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "zawachi-nick",
+      "ja": [
+        "ざわち",
+        "ザワチ"
+      ],
+      "en": "Zawachi",
+      "en_full": "Zawachi (Izawa Miyu)",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "Fan and self-used nickname of Izawa Miyu (fan boards; her own hashtag ざわちはたち). Official nick is ざわちゃん, so the spoken form ザワチ may stay. A bare ざわち in talk is her.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-26T16:51:29+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-memeshikute",
+      "ja": [
+        "女々しくて",
+        "メメシクテ",
+        "めめしくて"
+      ],
+      "en": "Memeshikute",
+      "en_full": "Memeshikute (Golden Bomber)",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "Golden Bomber's 女々しくて. Members performed it as a karaoke bit at the 2024-12-31 HKT48 大忘年会 (Ikuno, Shibui, Fujino, Aoki), so 大晦日の女々しくて in talk refers to that. ASR メメシクテ/メネシクテ.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-26T16:51:29+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "show-kigurumi-okkanaito",
+      "ja": [
+        "キグルミオッカナイト",
+        "着ぐるみオッカーナイト",
+        "着ぐるみオッカナイト"
+      ],
+      "en": "Kigurumi Okkanaito",
+      "en_full": "Kigurumi Okkanaito",
+      "type": "show",
+      "team": null,
+      "reject": [],
+      "note": "Spring 2025 stage by 劇団ジグザグバイト at Fukuoka Civic Hall (小劇場), 2025-05-21 to 25; Shibui Mina appeared (hkt48.jp schedule). Not an HKT48 show.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-26T16:51:29+01:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-24T14:30:00+02:00"
+  "updated": "2026-10-26T16:51:29+01:00"
 }

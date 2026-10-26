@@ -19,3 +19,5 @@ Also: `q-20261021-mokugekisha-250416.md` (250416 Team H Mokugekisha 18:30: offic
 Also: `q-20261023-otonoha-kotonoha-250413.md` (250413 LIVE event 「～音の波 言の葉～」 17:00: title reading, cast, night setlist, MC map, intro themes; template stage_templates/oto_no_ha_koto_no_ha.json).
 
 Also: day-show (12:30) pass appended to `q-20261023-otonoha-kotonoha-250413.md` (order, MC marks, unit members, specials).
+
+Also: `q-20261026-mokugekisha-250411.md` (250411 Team H Mokugekisha 18:30: official cast + opening act, Ikuno/Ishimatsu/Kurihara checks, Izawa Zawachi and Fu call, Ibuki/Mai, Kigurumi Okkanaito, Memeshikute bit, Hawks line).
