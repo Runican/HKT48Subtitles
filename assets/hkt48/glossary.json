@@ -466,10 +466,10 @@
         "Yamakawa Maria",
         "marshmallow catch as this member"
       ],
-      "note": "Team KIV. Gunma. ≠ Yamakawa Mari-tan (marshmallow/macaron catch is Yamakawa only — maritan-marshmallow-catch). Fried-chicken / karaage island talk is dialogue, not marshmallow.",
+      "note": "Team KIV. Gunma. ≠ Yamakawa Mari-tan (marshmallow/macaron catch is Yamakawa only — maritan-marshmallow-catch). Fried-chicken / karaage island talk is dialogue, not marshmallow. Team KIV captain; born 2003-09-14 in Gunma (hkt48.jp profile/56). Official nick まーさん.",
       "confidence": "confirmed",
       "locked": false,
-      "updated": "2026-10-07T10:00:00+02:00",
+      "updated": "2026-10-27T16:37:55+01:00",
       "updated_by": "verifier"
     },
     {
@@ -560,17 +560,15 @@
         "bare Rina after nick/surname lock",
         "global Rina for 栗奈/Kurina",
         "global Rina for 栗山/Kuriyama",
-        "カボス as the 250506 Tenshi specialty token",
-        "kabosu as the locked Tenshi specialty"
+        "Boss (canned coffee) as the Oita specialty token"
       ],
-      "note": "Official nick **くりなちゃん / Kurina**. Spoken **栗奈/くりな** → **Kurina**; **栗山** → **Kuriyama**; given-name-only りな → **Rina** — do not global-shorten to bare Rina. Tenshi intro specialty (not year-round catch): 温泉、しいたけ、なし、ボス → hot springs, shiitake, pears, Boss (**なし=pears**; **ボス=Boss coffee**). See sources/kuriyama-rina-spoken-forms.md.",
+      "note": "Official nick **くりなちゃん / Kurina**. Spoken **栗奈/くりな** → **Kurina**; **栗山** → **Kuriyama**; given-name-only りな → **Rina** — do not global-shorten to bare Rina. Intro specialty is 温泉、しいたけ、なし、かぼす → hot springs, shiitake, pears, kabosu (**なし=pears**; **かぼす=kabosu citrus**, an Oita specialty). Earlier Boss-coffee reading superseded by the user's ear and her 2019 intro text (温泉・しいたけ・かぼす). See sources/kuriyama-rina-spoken-forms.md.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-07T10:15:00+02:00",
+      "updated": "2026-10-28T00:10:00+01:00",
       "updated_by": "verifier",
-      "catch_ja": "大分県といえば温泉、しいたけ、なし、ボス",
-      "catch_en": "When you think Oita — hot springs, shiitake, pears, and Boss!",
-      "catch_scope": "250506_tenshi_intro_only"
+      "catch_ja": "大分県といえば温泉、しいたけ、なし、かぼす",
+      "catch_en": "When you think Oita — hot springs, shiitake, pears, and kabosu!"
     },
     {
       "id": "takemoto-kurumi",
@@ -4510,7 +4508,28 @@
       "locked": true,
       "updated": "2026-10-26T16:51:29+01:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "riria-turn-call",
+      "ja": [
+        "私のターンあなたのターンみんなのターンは",
+        "りーりたーん",
+        "リーリタン",
+        "リーリターン"
+      ],
+      "en": "My turn, your turn, everyone's turn is — Rii-ri-taan!",
+      "en_full": "Ijima Riria mic call",
+      "type": "catchphrase",
+      "team": null,
+      "reject": [
+        "Riria-turn"
+      ],
+      "note": "Her intro call: 「私のターン あなたのターン みんなのターンは？」 → crowd 「りーりたーん！」 (polyhedra 2025-05 birthday report; the 250408 tape agrees). It is her nick stretched into 'turn', so the crowd shouts Rii-ritan, not a separate Riria-turn. The リリアターン alias on ijima-riria is not what fan text prints.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-27T16:37:55+01:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-26T16:51:29+01:00"
+  "updated": "2026-10-27T16:37:55+01:00"
 }

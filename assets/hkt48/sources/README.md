@@ -21,3 +21,5 @@ Also: `q-20261023-otonoha-kotonoha-250413.md` (250413 LIVE event 「～音の波
 Also: day-show (12:30) pass appended to `q-20261023-otonoha-kotonoha-250413.md` (order, MC marks, unit members, specials).
 
 Also: `q-20261026-mokugekisha-250411.md` (250411 Team H Mokugekisha 18:30: official cast + opening act, Ikuno/Ishimatsu/Kurihara checks, Izawa Zawachi and Fu call, Ibuki/Mai, Kigurumi Okkanaito, Memeshikute bit, Hawks line).
+
+Also: `q-20261027-saka-agari-250408.md` (250408 Himawarigumi Saka Agari 18:30: official cast, no opening act, Riria call, Minami call, Kurina catch, Ikuno / Shibui / Aa-tan checks, Meoto-iwa, Nagasaki-ben).
