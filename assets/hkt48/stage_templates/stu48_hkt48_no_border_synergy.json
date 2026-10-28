@@ -1,0 +1,687 @@
+{
+ "id": "stu48-hkt48-no-border-synergy-part1",
+ "stage_ja": "STU48 8周年記念特別対バン No Border～Synergy～ 1部 STU48×HKT48",
+ "stage_en": "STU48 8th Anniversary Special Joint Concert \"No Border ~Synergy~\", Part 1: STU48 × HKT48",
+ "stage_romaji": "No Border ~Synergy~ (Part 1)",
+ "unit": "Joint concert, STU48 × HKT48 (17 STU48 + 16 HKT48)",
+ "aliases": [
+  "No Border～Synergy～",
+  "No Border Synergy",
+  "STU48 8周年 対バン 1部",
+  "#STU8周年",
+  "250406 STU48 × HKT48"
+ ],
+ "verified_by": "verifier",
+ "verified_at": "2026-10-28",
+ "sources": [
+  {
+   "name": "HKT48 news: appearance announced",
+   "url": "https://www.hkt48.jp/news/2025/02/10370"
+  },
+  {
+   "name": "HKT48 official schedule (announced cast)",
+   "url": "https://www.hkt48.jp/schedule/2025/04/19381"
+  },
+  {
+   "name": "STU48 official: event + times (open 11:00 / start 12:00)",
+   "url": "https://sp.stu48.com/news/detail/18085"
+  },
+  {
+   "name": "STU48 official: Okamura Rio absent; Kurushima Yuka and Morokuzu Noa in (2025-03-31)",
+   "url": "https://sp.stu48.com/news/detail/20167"
+  },
+  {
+   "name": "STU press release with MC quotes and final cast (2025-04-06)",
+   "url": "https://prtimes.jp/main/html/rd/p/000000072.000136906.html"
+  },
+  {
+   "name": "Official report with setlist, units and MC marks",
+   "url": "https://www.music-culture.info/6180/"
+  },
+  {
+   "name": "Pia official report (same text, units)",
+   "url": "https://lp.p.pia.jp/article/news/416102/index.html?detail=true"
+  },
+  {
+   "name": "HKT48 official X: unit members (ALT text)",
+   "url": "https://x.com/hkt48_official_/status/1908780700423307407"
+  },
+  {
+   "name": "HKT48 official X: HKT setlist (ALT text)",
+   "url": "https://x.com/hkt48_official_/status/1908772840708726958"
+  },
+  {
+   "name": "asukyann: member posts (centers, pairs, photo-OK)",
+   "url": "https://asukyann.blog.jp/archives/89563081.html"
+  },
+  {
+   "name": "48pedia event page (MC positions)",
+   "url": "https://48pedia.org/STU48_8%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E7%89%B9%E5%88%A5%E5%AF%BE%E3%83%90%E3%83%B3_No_Border%EF%BD%9ESynergy%EF%BD%9E"
+  },
+  {
+   "name": "Fan report with overtures and aisle walk (ameblo spectro2)",
+   "url": "https://ameblo.jp/spectro2/entry-12893264380.html"
+  },
+  {
+   "name": "King Records playlist (30 tracks)",
+   "url": "https://news.kingrecords.co.jp/2025/04/37610/"
+  },
+  {
+   "name": "Verify note",
+   "path": "assets/hkt48/sources/q-20261028-nb-synergy-250406.md"
+  }
+ ],
+ "notes": [
+  "Day show: open 11:00, start 12:00 on 2025-04-06 at Hiroshima International Conference Center Phoenix Hall; Part 2 (STU48 × NMB48, 17:30) is a different show. NGT48 did not appear.",
+  "Song order locked from five agreeing sources (official X ALT text, Pia/Music Culture official report, 48pedia, King Records 30-track playlist, fan blog). 30 songs; no encore.",
+  "Structure: HKT48 block (13) → unit collabs (3) → STU48 block (11) → joint songs (3, last = Yume Chikara).",
+  "Overture marks H00/S00 come from one fan blog only: PROV.",
+  "MC positions: HKT after H03 and H08; STU after S03, S07 and (PROV) S10; joint MC after J02. dur_s are rough guesses; no grade anchor.",
+  "Official cast changed once: Okamura Rio out (injury), Kurushima Yuka and Morokuzu Noa in (STU48 notice 2025-03-31). The hkt48.jp schedule page still shows the old list.",
+  "Blueberry Pie unit: Ryuto, Eura, Shibui + Takao, Ozaki. 48pedia and one blog wrongly list Kurihara Sae."
+ ],
+ "songs": [
+  {
+   "slot": "H00",
+   "ja": "overture (HKT48)",
+   "romaji": "overture",
+   "group": "HKT48",
+   "block": "A",
+   "kind": "overture",
+   "confidence": "provisional",
+   "note": "Only the ameblo fan report lists it (M00). Official lists omit it."
+  },
+  {
+   "slot": "H01",
+   "ja": "桜、みんなで食べた",
+   "romaji": "Sakura, Minna de Tabeta",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "A"
+  },
+  {
+   "slot": "H02",
+   "ja": "12秒",
+   "romaji": "12 Byou",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "A"
+  },
+  {
+   "slot": "H03",
+   "ja": "早送りカレンダー",
+   "romaji": "Hayaokuri Calendar",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "A"
+  },
+  {
+   "slot": "H04",
+   "ja": "大人列車",
+   "romaji": "Otona Ressha",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "B",
+   "note": "Center Izawa Miyu (her own post: first time as center)."
+  },
+  {
+   "slot": "H05",
+   "ja": "しぇからしか！",
+   "romaji": "Shekarashika!",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "B",
+   "note": "Center Jitoe Nene (fan report)."
+  },
+  {
+   "slot": "H06",
+   "ja": "ぶっ倒れるまで",
+   "romaji": "Buttaoreru made",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "B"
+  },
+  {
+   "slot": "H07",
+   "ja": "ウインクは3回",
+   "romaji": "Wink wa San-kai",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "B",
+   "note": "Aisle walk with phone photos (Ibuki, Kurumi, Shibui, Koko came to the 3rd floor, per fan report)."
+  },
+  {
+   "slot": "H08",
+   "ja": "君のことが好きやけん",
+   "romaji": "Kimi no Koto ga Suki Yaken",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "B",
+   "note": "Aisle walk with phone photos again; Hiiro waved a penlight alone while others filmed (fan report)."
+  },
+  {
+   "slot": "H09",
+   "ja": "僕はやっと君を心配できる",
+   "romaji": "Boku wa Yatto Kimi wo Shinpai Dekiru",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "C"
+  },
+  {
+   "slot": "H10",
+   "ja": "3-2",
+   "romaji": "San Hiku Ni",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "C",
+   "note": "Center Yanase Reia (fan report)."
+  },
+  {
+   "slot": "H11",
+   "ja": "Make noise",
+   "romaji": "Make noise",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "C",
+   "note": "Lengthened dance break in the interlude for this concert (fan report)."
+  },
+  {
+   "slot": "H12",
+   "ja": "最高かよ",
+   "romaji": "Saikou ka yo",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "C",
+   "note": "Center Shibui Mina (fan report)."
+  },
+  {
+   "slot": "H13",
+   "ja": "メロンジュース",
+   "romaji": "Melon Juice",
+   "group": "HKT48",
+   "kind": "group",
+   "confidence": "locked",
+   "block": "C"
+  },
+  {
+   "slot": "U01",
+   "ja": "ロマンティック病",
+   "romaji": "Romantic Byou",
+   "group": "unit",
+   "block": "D",
+   "kind": "unit",
+   "confidence": "locked",
+   "unit_size": 5,
+   "performers_20250406": [
+    "Toyonaga Aki",
+    "Jitoe Nene",
+    "Kudo Riko",
+    "Harada Sayaka",
+    "Yoshida Sara"
+   ],
+   "note": "Original costumes (Harada: Tanaka Miku costume; Kudo: Matsuoka Hana position). Pia prints 冨永 for 豊永: typo."
+  },
+  {
+   "slot": "U02",
+   "ja": "私はブルーベリーパイ",
+   "romaji": "Watashi wa Blueberry Pie",
+   "group": "unit",
+   "block": "D",
+   "kind": "unit",
+   "confidence": "locked",
+   "unit_size": 5,
+   "performers_20250406": [
+    "Ryuto Ayane",
+    "Eura Yuka",
+    "Shibui Mina",
+    "Takao Sayaka",
+    "Ozaki Serika"
+   ],
+   "note": "Official X + Pia + Shibui own post. Not Kurihara Sae (48pedia and one blog list her by mistake, from the 2014 original unit). Ozaki joke: the STU pair were the oldest pair, over a dozen years older than the HKT trio."
+  },
+  {
+   "slot": "U03",
+   "ja": "制服のバンビ",
+   "romaji": "Seifuku no Bambi",
+   "group": "unit",
+   "block": "D",
+   "kind": "unit",
+   "confidence": "locked",
+   "unit_size": 3,
+   "performers_20250406": [
+    "Ishibashi Ibuki",
+    "Takemoto Kurumi",
+    "Sogawa Saki"
+   ],
+   "note": "Takemoto post: Ibuki+Kuru (いぶくる) with Sogawa."
+  },
+  {
+   "slot": "S00",
+   "ja": "overture (STU48)",
+   "romaji": "overture",
+   "group": "STU48",
+   "block": "E",
+   "kind": "overture",
+   "confidence": "provisional",
+   "note": "Only the ameblo fan report lists it (M00)."
+  },
+  {
+   "slot": "S01",
+   "ja": "暗闇",
+   "romaji": "Kurayami",
+   "group": "STU48",
+   "kind": "group",
+   "block": "E",
+   "confidence": "locked",
+   "note": "STU48 1st single; the STU stage starts here."
+  },
+  {
+   "slot": "S02",
+   "ja": "僕はこの海を眺めてる",
+   "romaji": "Boku wa Kono Umi wo Nagameteru",
+   "group": "STU48",
+   "kind": "group",
+   "block": "E",
+   "confidence": "locked"
+  },
+  {
+   "slot": "S03",
+   "ja": "STU48（瀬戸内ver.）",
+   "romaji": "STU48 (Setouchi ver.)",
+   "group": "STU48",
+   "kind": "group",
+   "block": "E",
+   "confidence": "locked"
+  },
+  {
+   "slot": "S04",
+   "ja": "息をする心",
+   "romaji": "Iki wo Suru Kokoro",
+   "group": "STU48",
+   "kind": "group",
+   "block": "F",
+   "confidence": "locked"
+  },
+  {
+   "slot": "S05",
+   "ja": "僕らの春夏秋冬",
+   "romaji": "Bokura no Shunkashuutou",
+   "group": "STU48",
+   "kind": "group",
+   "block": "F",
+   "confidence": "locked"
+  },
+  {
+   "slot": "S06",
+   "ja": "サングラスデイズ",
+   "romaji": "Sunglass Days",
+   "group": "STU48",
+   "kind": "group",
+   "block": "F",
+   "confidence": "locked"
+  },
+  {
+   "slot": "S07",
+   "ja": "ペダルと車輪と来た道と",
+   "romaji": "Pedal to Sharin to Kita Michi to",
+   "group": "STU48",
+   "kind": "group",
+   "block": "F",
+   "confidence": "locked"
+  },
+  {
+   "slot": "S08",
+   "ja": "無謀な夢は覚めることがない",
+   "romaji": "Mubou na Yume wa Sameru Koto ga Nai",
+   "group": "STU48",
+   "kind": "group",
+   "block": "G",
+   "confidence": "locked"
+  },
+  {
+   "slot": "S09",
+   "ja": "夢力",
+   "romaji": "Yume Chikara",
+   "group": "STU48",
+   "kind": "group",
+   "block": "G",
+   "confidence": "locked",
+   "note": "Sung again as the last song of the show (J03)."
+  },
+  {
+   "slot": "S10",
+   "ja": "ヘタレたちよ",
+   "romaji": "Hetaretachi yo",
+   "group": "STU48",
+   "kind": "group",
+   "block": "G",
+   "confidence": "locked"
+  },
+  {
+   "slot": "S11",
+   "ja": "出航",
+   "romaji": "Shukkou",
+   "group": "STU48",
+   "kind": "group",
+   "block": "H",
+   "confidence": "locked"
+  },
+  {
+   "slot": "J01",
+   "ja": "12秒",
+   "romaji": "12 Byou",
+   "group": "joint",
+   "kind": "joint",
+   "block": "I",
+   "confidence": "locked",
+   "note": "HKT48 song sung by both groups; Takemoto Kurumi was one of two W centers (partner UNKNOWN). Pair choreography was shared across groups."
+  },
+  {
+   "slot": "J02",
+   "ja": "スキ！スキ！スキップ！",
+   "romaji": "Suki! Suki! Skip!",
+   "group": "joint",
+   "kind": "joint",
+   "block": "I",
+   "confidence": "locked",
+   "note": "HKT48 song sung by both groups; Fukuda Akari had pair choreography with Eguchi Kokoha (Fukuda post)."
+  },
+  {
+   "slot": "J03",
+   "ja": "夢力",
+   "romaji": "Yume Chikara",
+   "group": "joint",
+   "kind": "joint",
+   "block": "J",
+   "confidence": "locked",
+   "note": "STU48 song sung by everyone; the last song. No encore."
+  }
+ ],
+ "timeline": [
+  {
+   "id": "hkt_block_A",
+   "type": "song_block",
+   "translate": false,
+   "required": true,
+   "after": "show_start",
+   "before": "mc_hkt1",
+   "confidence": "locked",
+   "songs": [
+    "H00",
+    "H01",
+    "H02",
+    "H03"
+   ],
+   "finder": "HKT overture (PROV) then three opening songs"
+  },
+  {
+   "id": "mc_hkt1",
+   "type": "mc",
+   "translate": true,
+   "required": true,
+   "after": "hkt_block_A",
+   "before": "hkt_block_B",
+   "confidence": "locked",
+   "wiki_label": "MC1 (HKT)",
+   "dur_s": {
+    "min": 120,
+    "typical": 240,
+    "max": 420
+   },
+   "note": "After H03. Official report: HKT congratulates STU48 on the 8th anniversary and says Hakata and Setouchi are close yet rarely meet (PROV that this is MC1; likely includes introductions, no source). dur_s are rough guesses."
+  },
+  {
+   "id": "hkt_block_B",
+   "type": "song_block",
+   "translate": false,
+   "required": true,
+   "after": "mc_hkt1",
+   "before": "mc_hkt2",
+   "confidence": "locked",
+   "songs": [
+    "H04",
+    "H05",
+    "H06",
+    "H07",
+    "H08"
+   ],
+   "finder": "five songs; H07 and H08 have the aisle walk with phone photos"
+  },
+  {
+   "id": "mc_hkt2",
+   "type": "mc",
+   "translate": true,
+   "required": true,
+   "after": "hkt_block_B",
+   "before": "hkt_block_C",
+   "confidence": "locked",
+   "wiki_label": "MC2 (HKT)",
+   "dur_s": {
+    "min": 90,
+    "typical": 180,
+    "max": 360
+   },
+   "note": "After H08. No source gives its topic."
+  },
+  {
+   "id": "hkt_block_C",
+   "type": "song_block",
+   "translate": false,
+   "required": true,
+   "after": "mc_hkt2",
+   "before": "unit_block",
+   "confidence": "locked",
+   "songs": [
+    "H09",
+    "H10",
+    "H11",
+    "H12",
+    "H13"
+   ],
+   "finder": "5 songs to Melon Juice"
+  },
+  {
+   "id": "unit_block",
+   "type": "song_block",
+   "translate": false,
+   "required": true,
+   "after": "hkt_block_C",
+   "before": "stu_block_E",
+   "confidence": "locked",
+   "songs": [
+    "U01",
+    "U02",
+    "U03"
+   ],
+   "finder": "three unit-collab songs in original costumes"
+  },
+  {
+   "id": "mc_unit",
+   "type": "mc",
+   "translate": true,
+   "required": false,
+   "after": "unit_block",
+   "before": "stu_block_E",
+   "confidence": "provisional",
+   "optional": true,
+   "note": "No MC listed between units; but Ozaki quipped after Blueberry Pie (the STU pair were the oldest pair, over a dozen years older), so short unit talk exists (PROV)."
+  },
+  {
+   "id": "stu_block_E",
+   "type": "song_block",
+   "translate": false,
+   "required": true,
+   "after": "unit_block",
+   "before": "mc_stu1",
+   "confidence": "locked",
+   "songs": [
+    "S00",
+    "S01",
+    "S02",
+    "S03"
+   ],
+   "finder": "STU overture (PROV), Kurayami first"
+  },
+  {
+   "id": "mc_stu1",
+   "type": "mc",
+   "translate": true,
+   "required": true,
+   "after": "stu_block_E",
+   "before": "stu_block_F",
+   "confidence": "locked",
+   "wiki_label": "MC1 (STU)",
+   "dur_s": {
+    "min": 120,
+    "typical": 240,
+    "max": 420
+   },
+   "note": "After S03 (sources agree). Likely STU48 greetings; Yoshida Sara and Takao Sayaka (both Fukuoka-born HKT fans) spoke in one STU MC (PROV which)."
+  },
+  {
+   "id": "stu_block_F",
+   "type": "song_block",
+   "translate": false,
+   "required": true,
+   "after": "mc_stu1",
+   "before": "mc_stu2",
+   "confidence": "locked",
+   "songs": [
+    "S04",
+    "S05",
+    "S06",
+    "S07"
+   ]
+  },
+  {
+   "id": "mc_stu2",
+   "type": "mc",
+   "translate": true,
+   "required": true,
+   "after": "stu_block_F",
+   "before": "stu_block_G",
+   "confidence": "locked",
+   "wiki_label": "MC2 (STU)",
+   "dur_s": {
+    "min": 90,
+    "typical": 180,
+    "max": 360
+   },
+   "note": "After S07 (sources agree)."
+  },
+  {
+   "id": "stu_block_G",
+   "type": "song_block",
+   "translate": false,
+   "required": true,
+   "after": "mc_stu2",
+   "before": "mc_stu3",
+   "confidence": "locked",
+   "songs": [
+    "S08",
+    "S09",
+    "S10"
+   ]
+  },
+  {
+   "id": "mc_stu3",
+   "type": "mc",
+   "translate": true,
+   "required": false,
+   "after": "stu_block_G",
+   "before": "stu_block_H",
+   "confidence": "provisional",
+   "optional": true,
+   "note": "Official report and 48pedia mark an MC before Shukkou; the ameblo fan report omits it. Short."
+  },
+  {
+   "id": "stu_block_H",
+   "type": "song_block",
+   "translate": false,
+   "required": true,
+   "after": "mc_stu3",
+   "before": "joint_block_I",
+   "confidence": "locked",
+   "songs": [
+    "S11"
+   ],
+   "finder": "Shukkou, last STU song"
+  },
+  {
+   "id": "joint_block_I",
+   "type": "song_block",
+   "translate": false,
+   "required": true,
+   "after": "stu_block_H",
+   "before": "mc_joint",
+   "confidence": "locked",
+   "songs": [
+    "J01",
+    "J02"
+   ],
+   "finder": "both groups on stage: 12 Byou, Suki! Suki! Skip!"
+  },
+  {
+   "id": "mc_joint",
+   "type": "mc",
+   "translate": true,
+   "required": true,
+   "after": "joint_block_I",
+   "before": "joint_block_J",
+   "confidence": "locked",
+   "wiki_label": "MC (joint)",
+   "dur_s": {
+    "min": 120,
+    "typical": 240,
+    "max": 420
+   },
+   "note": "Fukuda Akari hopes for more exchange between 48 groups; Toyonaga Aki hopes STU comes to Fukuoka (both quoted in the official report)."
+  },
+  {
+   "id": "joint_block_J",
+   "type": "song_block",
+   "translate": false,
+   "required": true,
+   "after": "mc_joint",
+   "before": "end_greetings",
+   "confidence": "locked",
+   "songs": [
+    "J03"
+   ]
+  },
+  {
+   "id": "end_greetings",
+   "type": "end_greetings",
+   "translate": true,
+   "required": false,
+   "after": "joint_block_J",
+   "before": "show_end",
+   "confidence": "locked",
+   "note": "Captain Okada Azumi thanks HKT48 and wants closer AKB48-group ties (official report). No encore."
+  }
+ ],
+ "translate_types": [
+  "mc",
+  "end_greetings"
+ ],
+ "skip_types": [
+  "song_block",
+  "overture"
+ ],
+ "grade_anchor_show": null,
+ "grade_anchor_note": "No grade anchor; this is the first job for this concert.",
+ "updated": "2026-10-28",
+ "updated_by": "verifier"
+}

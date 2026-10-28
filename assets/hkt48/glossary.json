@@ -4529,7 +4529,998 @@
       "locked": true,
       "updated": "2026-10-27T16:37:55+01:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "stu48",
+      "ja": [
+        "STU48",
+        "エスティーユーフォーティーエイト",
+        "エスティーユー",
+        "STUさん"
+      ],
+      "en": "STU48",
+      "en_full": "STU48",
+      "type": "group",
+      "team": null,
+      "reject": [
+        "STU 48 spaced"
+      ],
+      "note": "Setouchi-based AKB48 sister group (seven prefectures around the Seto Inland Sea) with the ship theater 「STU48号」. Fans and members say STU or STUさん; official site sp.stu48.com.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "show-no-border-synergy",
+      "ja": [
+        "STU48 8周年記念特別対バン No Border～Synergy～",
+        "No Border～Synergy～",
+        "ノーボーダー",
+        "シナジー"
+      ],
+      "en": "No Border ~Synergy~",
+      "en_full": "STU48 8th Anniversary Special Taiban \"No Border ~Synergy~\"",
+      "type": "show",
+      "team": null,
+      "reject": [
+        "HKT48 × NGT48"
+      ],
+      "note": "One-off joint concert on 2025-04-06 at Hiroshima International Conference Center Phoenix Hall: Part 1 STU48 × HKT48 (12:00), Part 2 STU48 × NMB48 (17:30). Not NGT48. Details: sources/q-20261028-nb-synergy-250406.md.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "arai-ria",
+      "ja": [
+        "新井梨杏",
+        "新井",
+        "りあちゅう",
+        "りあ"
+      ],
+      "en": "Riachu",
+      "en_full": "Arai Ria",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Arai Ria. Nick りあちゅう (fan wiki 48pedia / member posts). Not Ichimura Airi (HKT, あいちー): Ria vs Airi is an ASR swap.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ikeda-yura",
+      "ja": [
+        "池田裕楽",
+        "池田",
+        "池ちゃん",
+        "ゆら"
+      ],
+      "en": "Ike-chan",
+      "en_full": "Ikeda Yura",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Ikeda Yura. Nick 池ちゃん (fan wiki 48pedia / member posts). Fan nick 池ちゃん; STU48 vocal ace (won the 歌唱力 contest more than once).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ishihara-yuuna",
+      "ja": [
+        "石原侑奈",
+        "石原",
+        "ゆーなん",
+        "ゆうな"
+      ],
+      "en": "Yuunan",
+      "en_full": "Ishihara Yuuna",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Ishihara Yuuna. Nick ゆーなん (fan wiki 48pedia / member posts). Not Kawamata Yuuna (ゆなゆな): two Yuunas on the STU roster.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "okada-azumi",
+      "ja": [
+        "岡田あずみ",
+        "岡田",
+        "あずみん",
+        "あずみ"
+      ],
+      "en": "Azumin",
+      "en_full": "Okada Azumi",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Okada Azumi. Nick あずみん (fan wiki 48pedia / member posts). 3rd STU48 captain (from 2024-04-01, official).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ozaki-serika",
+      "ja": [
+        "尾崎世里花",
+        "尾崎",
+        "ぱせり",
+        "ぱちゃん",
+        "せりか"
+      ],
+      "en": "Paseri",
+      "en_full": "Ozaki Serika",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Ozaki Serika. Nick ぱせり (fan wiki 48pedia / member posts). Nick ぱせり (ぱちゃん); ASR may hear パセリ (parsley). Nagasaki-born (her own post).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kawamata-yuuna",
+      "ja": [
+        "川又優菜",
+        "川又",
+        "ゆなゆな",
+        "ゆうな"
+      ],
+      "en": "Yunayuna",
+      "en_full": "Kawamata Yuuna",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Kawamata Yuuna. Nick ゆなゆな (fan wiki 48pedia / member posts). Not Ishihara Yuuna (ゆーなん).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kudo-riko",
+      "ja": [
+        "工藤理子",
+        "工藤",
+        "りこち",
+        "りこ"
+      ],
+      "en": "Rikochi",
+      "en_full": "Kudo Riko",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Kudo Riko. Nick りこち (fan wiki 48pedia / member posts). Nick りこち; self-styled 元気印 (genki mascot).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kurushima-yuka",
+      "ja": [
+        "久留島優果",
+        "久留島",
+        "くるくる",
+        "ゆうか"
+      ],
+      "en": "Kurukuru",
+      "en_full": "Kurushima Yuka",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Kurushima Yuka. Nick くるくる (fan wiki 48pedia / member posts). Her nick can be ゆうか, the same as HKT Eura Yuka: see lookalike trap.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "sogawa-saki",
+      "ja": [
+        "曽川咲葵",
+        "曽川",
+        "さっちー",
+        "さき"
+      ],
+      "en": "Sacchi",
+      "en_full": "Sogawa Saki",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Sogawa Saki. Nick さっちー (fan wiki 48pedia / member posts). Fan-wiki romaji; she left STU48 in 2026, so the current official profile page no longer lists her.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "takao-sayaka",
+      "ja": [
+        "高雄さやか",
+        "高雄",
+        "さーやん",
+        "さやか"
+      ],
+      "en": "Saayan",
+      "en_full": "Takao Sayaka",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Takao Sayaka. Nick さーやん (fan wiki 48pedia / member posts). Fukuoka-born; not Harada Sayaka (さやかりん).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "harada-sayaka",
+      "ja": [
+        "原田清花",
+        "原田",
+        "さやかりん",
+        "さやか"
+      ],
+      "en": "Sayakarin",
+      "en_full": "Harada Sayaka",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Harada Sayaka. Nick さやかりん (fan wiki 48pedia / member posts). Fukuoka-born (own post); not Takao Sayaka (さーやん).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "fukuda-akari",
+      "ja": [
+        "福田朱里",
+        "福田",
+        "ふくちゃん",
+        "あかりん"
+      ],
+      "en": "Fuku-chan",
+      "en_full": "Fukuda Akari",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Fukuda Akari. Nick ふくちゃん (fan wiki 48pedia / member posts). 1st-gen member and vice-captain (official 2024-03-31 notice). Fan nicks ふくちゃん / あかりん.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "morokuzu-noa",
+      "ja": [
+        "諸葛望愛",
+        "諸葛",
+        "のあぴ",
+        "のあ"
+      ],
+      "en": "Noapi",
+      "en_full": "Morokuzu Noa",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Morokuzu Noa. Nick のあぴ (fan wiki 48pedia / member posts). Surname 諸葛 is read もろくず.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "yoshida-sara",
+      "ja": [
+        "吉田彩良",
+        "吉田",
+        "さらぴ",
+        "さら"
+      ],
+      "en": "Sarapi",
+      "en_full": "Yoshida Sara",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Yoshida Sara. Nick さらぴ (fan wiki 48pedia / member posts). Fukuoka-born; not Takao (さーやん). Nick さらぴ / さら.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "watanabe-natsuki",
+      "ja": [
+        "渡辺菜月",
+        "渡辺",
+        "なっちゃん",
+        "なつき"
+      ],
+      "en": "Natchan",
+      "en_full": "Watanabe Natsuki",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Watanabe Natsuki. Nick なっちゃん (fan wiki 48pedia / member posts). Nick なっちゃん.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kitazawa-ichigo",
+      "ja": [
+        "北澤苺",
+        "北澤",
+        "いちご",
+        "いちごってぃー",
+        "ごってぃー"
+      ],
+      "en": "Ichigo",
+      "en_full": "Kitazawa Ichigo",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Kitazawa Ichigo. Nick いちご (fan wiki 48pedia / member posts). Nick いちご (fan nicks include ごってぃー).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "hamada-hibiki",
+      "ja": [
+        "濵田響",
+        "濵田",
+        "浜田",
+        "ひびき",
+        "ひーちゃん"
+      ],
+      "en": "Hii-chan",
+      "en_full": "Hamada Hibiki",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Hamada Hibiki. Nick ひーちゃん (fan wiki 48pedia / member posts). Official kanji 濵 (HKT pages print 浜田). Nagasaki-born (Ozaki post). Not HKT Kitagawa Hiiro (ひいろ).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ishida-chiho",
+      "ja": [
+        "石田千穂",
+        "石田",
+        "ちほちゃん",
+        "ちほ"
+      ],
+      "en": "Chiho",
+      "en_full": "Ishida Chiho",
+      "type": "member",
+      "team": "STU48",
+      "reject": [],
+      "note": "STU48 member Ishida Chiho. Nick ちほ (fan wiki 48pedia / member posts). Not in the 250406 Part 1 cast (Part 2 with NMB48 only). A member post says she visited the HKT dressing room.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kurayami",
+      "ja": [
+        "暗闇"
+      ],
+      "en": "Kurayami",
+      "en_full": "Kurayami",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "STU48 1st single title track.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-boku-wa-kono-umi-wo-nagameteru",
+      "ja": [
+        "僕はこの海を眺めてる"
+      ],
+      "en": "Boku wa Kono Umi wo Nagameteru",
+      "en_full": "Boku wa Kono Umi wo Nagameteru",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "STU48 song; some fan texts print 眺めている.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-stu48-setouchi-ver",
+      "ja": [
+        "STU48（瀬戸内ver.）"
+      ],
+      "en": "STU48 (Setouchi ver.)",
+      "en_full": "STU48 (Setouchi ver.)",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "STU48 song; the title is the group name plus (瀬戸内ver.), so do not read it as the group.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-iki-wo-suru-kokoro",
+      "ja": [
+        "息をする心"
+      ],
+      "en": "Iki wo Suru Kokoro",
+      "en_full": "Iki wo Suru Kokoro",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "STU48 song.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-bokura-no-shunkashuutou",
+      "ja": [
+        "僕らの春夏秋冬"
+      ],
+      "en": "Bokura no Shunkashuutou",
+      "en_full": "Bokura no Shunkashuutou",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "STU48 song.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-sunglass-days",
+      "ja": [
+        "サングラスデイズ"
+      ],
+      "en": "Sunglass Days",
+      "en_full": "Sunglass Days",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "STU48 song.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-pedal-to-sharin-to-kita-michi-to",
+      "ja": [
+        "ペダルと車輪と来た道と"
+      ],
+      "en": "Pedal to Sharin to Kita Michi to",
+      "en_full": "Pedal to Sharin to Kita Michi to",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "STU48 song with a long title; keep the full title in EN.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-mubou-na-yume",
+      "ja": [
+        "無謀な夢は覚めることがない"
+      ],
+      "en": "Mubou na Yume wa Sameru Koto ga Nai",
+      "en_full": "Mubou na Yume wa Sameru Koto ga Nai",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "STU48 song.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-hetaretachi-yo",
+      "ja": [
+        "ヘタレたちよ"
+      ],
+      "en": "Hetaretachi yo",
+      "en_full": "Hetaretachi yo",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "STU48 song.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-shukkou",
+      "ja": [
+        "出航"
+      ],
+      "en": "Shukkou",
+      "en_full": "Shukkou",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "STU48 song, a set closer; read しゅっこう.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-hayaokuri-calendar",
+      "ja": [
+        "早送りカレンダー"
+      ],
+      "en": "Hayaokuri Calendar",
+      "en_full": "Hayaokuri Calendar",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 song.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-otona-ressha",
+      "ja": [
+        "大人列車"
+      ],
+      "en": "Otona Ressha",
+      "en_full": "Otona Ressha",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 song.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-shekarashika",
+      "ja": [
+        "しぇからしか！"
+      ],
+      "en": "Shekarashika!",
+      "en_full": "Shekarashika!",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 song; しぇからしか is Hakata dialect for \"noisy / annoying\".",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-buttaoreru-made",
+      "ja": [
+        "ぶっ倒れるまで"
+      ],
+      "en": "Buttaoreru made",
+      "en_full": "Buttaoreru made",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 song.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-wink-wa-3kai",
+      "ja": [
+        "ウインクは3回"
+      ],
+      "en": "Wink wa San-kai",
+      "en_full": "Wink wa San-kai",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 song. The official X prints ウインク; some reports print ウィンク.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kimi-no-koto-ga-suki-yaken",
+      "ja": [
+        "君のことが好きやけん"
+      ],
+      "en": "Kimi no Koto ga Suki Yaken",
+      "en_full": "Kimi no Koto ga Suki Yaken",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 song (Oda Tetsuro); short form 君好き.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-make-noise",
+      "ja": [
+        "Make noise"
+      ],
+      "en": "Make noise",
+      "en_full": "Make noise",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 song, kept in English.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-saikou-ka-yo",
+      "ja": [
+        "最高かよ"
+      ],
+      "en": "Saikou ka yo",
+      "en_full": "Saikou ka yo",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 single.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-melon-juice",
+      "ja": [
+        "メロンジュース"
+      ],
+      "en": "Melon Juice",
+      "en_full": "Melon Juice",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 2nd single.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-ski-ski-skip",
+      "ja": [
+        "スキ！スキ！スキップ！"
+      ],
+      "en": "Suki! Suki! Skip!",
+      "en_full": "Suki! Suki! Skip!",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 1st single.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-romantic-byou",
+      "ja": [
+        "ロマンティック病"
+      ],
+      "en": "Romantic Byou",
+      "en_full": "Romantic Byou",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 10th-single coupling, originally a unit song (Tashima, Tanaka, Tomonaga, Matsuoka, Yabuki).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:30:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-watashi-wa-blueberry-pie",
+      "ja": [
+        "私はブルーベリーパイ"
+      ],
+      "en": "Watashi wa Blueberry Pie",
+      "en_full": "Watashi wa Blueberry Pie",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 4th-single coupling, originally the unit ブルーベリーパイ (Aramaki, Kurihara, Kojina, Komada, Sakaguchi). Official X once printed ブルーベーリー.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-seifuku-no-bambi",
+      "ja": [
+        "制服のバンビ"
+      ],
+      "en": "Seifuku no Bambi",
+      "en_full": "Seifuku no Bambi",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 1st-single Type-C song, originally a trio (Kodama, Sashihara, Miyawaki).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "stu48-gou",
+      "ja": [
+        "STU48号",
+        "船上劇場",
+        "船上劇場STU48号"
+      ],
+      "en": "STU48-go",
+      "en_full": "the STU48-go ship theater",
+      "type": "term",
+      "team": null,
+      "reject": [
+        "STU48 Go"
+      ],
+      "note": "STU48 floating theater ship; say \"the STU48 ship theater\" in EN.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "setouchi",
+      "ja": [
+        "瀬戸内",
+        "せとうち",
+        "瀬戸内海"
+      ],
+      "en": "Setouchi",
+      "en_full": "Setouchi (Seto Inland Sea region)",
+      "type": "term",
+      "team": null,
+      "reject": [],
+      "note": "STU48 home region around the Seto Inland Sea (seven prefectures). HKT MCs link it with Hakata because both face the sea.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "age-momiji",
+      "ja": [
+        "揚げもみじ",
+        "あげもみじ"
+      ],
+      "en": "fried momiji",
+      "en_full": "fried momiji (maple-leaf cake)",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "Hiroshima snack served as dressing-room catering; members posted it after the 250406 concert.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "taiban",
+      "ja": [
+        "対バン",
+        "たいばん"
+      ],
+      "en": "joint concert",
+      "en_full": "taiban (joint concert)",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "Two groups on one bill. Use \"joint concert\"; keep taiban only if the speaker plays on the word.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kameko-seat",
+      "ja": [
+        "カメコ席",
+        "カメコ",
+        "撮影OKタイム"
+      ],
+      "en": "camera seat / photo-OK time",
+      "en_full": "kameko seat (photo-OK time)",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "Camera seat where SLR cameras are allowed during announced photo-OK time. Official STU48 term.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "neriaruki",
+      "ja": [
+        "練り歩き",
+        "ねりあるき"
+      ],
+      "en": "walk through the aisles",
+      "en_full": "aisle walk (member walk-through)",
+      "type": "jargon",
+      "team": null,
+      "reject": [],
+      "note": "Members walk through the audience, usually with phone photos allowed.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ibukuru",
+      "ja": [
+        "いぶくる",
+        "イブクル"
+      ],
+      "en": "Ibukuru",
+      "en_full": "Ibukuru (Ishibashi Ibuki + Takemoto Kurumi)",
+      "type": "nick",
+      "team": null,
+      "reject": [],
+      "note": "Fan pair nick of Ishibashi Ibuki and Takemoto Kurumi; Takemoto uses it herself. Not a person.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "sayaka-takao-vs-harada-trap",
+      "ja": [
+        "さやか"
+      ],
+      "en": "さやか",
+      "en_full": "さやか",
+      "type": "lookalike-trap",
+      "team": null,
+      "reject": [],
+      "note": "Two Sayakas on the STU roster: Takao Sayaka = さーやん, Harada Sayaka = さやかりん. Bare さやか is ambiguous, so lock from nick.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "yuka-kurushima-vs-eura-trap",
+      "ja": [
+        "ゆうか"
+      ],
+      "en": "ゆうか",
+      "en_full": "ゆうか",
+      "type": "lookalike-trap",
+      "team": null,
+      "reject": [],
+      "note": "Bare ゆうか is HKT Eura Yuka by default, but STU Kurushima Yuka (くるくる) also goes by it. Lock from context, never from ASR.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "yuuna-kawamata-vs-ishihara-trap",
+      "ja": [
+        "ゆうな",
+        "ゆーなん",
+        "ゆなゆな"
+      ],
+      "en": "ゆうな",
+      "en_full": "ゆうな",
+      "type": "lookalike-trap",
+      "team": null,
+      "reject": [],
+      "note": "STU Kawamata Yuuna = ゆなゆな and Ishihara Yuuna = ゆーなん. Use the nick.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "ria-arai-vs-airi-trap",
+      "ja": [
+        "りあ",
+        "あいり"
+      ],
+      "en": "りあ",
+      "en_full": "りあ",
+      "type": "lookalike-trap",
+      "team": null,
+      "reject": [],
+      "note": "STU Arai Ria (りあちゅう) vs HKT Ichimura Airi (あいちー): ASR swaps Ria and Airi.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:00:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "komada-hiroka",
+      "ja": [
+        "駒田京伽",
+        "駒田",
+        "ぴーちゃん",
+        "Pちゃん",
+        "Pちゃんこと駒田京伽"
+      ],
+      "en": "P-chan",
+      "en_full": "Komada Hiroka",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "小間田ひろか",
+        "小間田"
+      ],
+      "note": "Former HKT48 Team H 2nd-gen member (graduated). Official nick ぴーちゃん (written Pちゃん in MCs). Ozaki Serika's oshi; Ozaki danced her position in 私はブルーベリーパイ on 2025-04-06 (Ozaki's post) and takes her nick ぱせり from her. ASR writes 小間田ひろか; the family name is 駒田.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:30:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "tashima-meru",
+      "ja": [
+        "田島芽瑠",
+        "田島メル",
+        "田島",
+        "芽瑠",
+        "める"
+      ],
+      "en": "Meru",
+      "en_full": "Tashima Meru",
+      "type": "member",
+      "team": null,
+      "reject": [
+        "Tajima Meru"
+      ],
+      "note": "Former HKT48 Team H 2nd-gen member (graduated 2022, now an actress). Reading たしま める (48pedia, Wikipedia); official nick める. Not STU48. Yoshida Sara's oshi (2022 radio talk); original member of the unit song ロマンティック病.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-28T12:30:00+01:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-27T16:37:55+01:00"
+  "updated": "2026-10-28T12:30:00+01:00"
 }

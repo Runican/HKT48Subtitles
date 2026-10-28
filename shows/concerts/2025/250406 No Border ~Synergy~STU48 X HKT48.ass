@@ -1,0 +1,567 @@
+[Script Info]
+Title: HKT48 250406 No Border Synergy STU48 x HKT48 LOD DMM
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,56,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:09:23.16,0:09:24.78,Default,Toyonaga Aki,0,0,60,,Everyone gathered here in Hiroshima,
+Dialogue: 0,0:09:25.00,0:09:26.36,Default,Toyonaga Aki,0,0,60,,Are you having fun?
+Dialogue: 0,0:09:26.50,0:09:28.88,Default,All,0,0,60,,Yeah!
+Dialogue: 0,0:09:29.06,0:09:29.78,Default,Toyonaga Aki,0,0,60,,Thank you!
+Dialogue: 0,0:09:29.86,0:09:31.78,Default,Toyonaga Aki,0,0,60,,Hello again!
+Dialogue: 0,0:09:33.00,0:09:34.72,Default,All,0,0,60,,We're HKT48!
+Dialogue: 0,0:09:41.00,0:09:47.50,Default,Toyonaga Aki,0,0,60,,Thank you to everyone who came to the HKT48 part of the STU48 8th Anniversary Special Joint Concert, "No Border ~Synergy~"!
+Dialogue: 0,0:09:49.20,0:09:51.02,Default,Toyonaga Aki,0,0,60,,Thank you!
+Dialogue: 0,0:09:51.10,0:09:53.62,Default,All,0,0,60,,Thank you!
+Dialogue: 0,0:09:54.98,0:09:59.36,Default,Toyonaga Aki,0,0,60,,And congratulations to STU48 on your 8th anniversary!
+Dialogue: 0,0:10:04.80,0:10:11.30,Default,Toyonaga Aki,0,0,60,,Hakata, Hiroshima, and Setouchi are actually pretty close, yet we've hardly ever had a chance to meet like this, I thought,
+Dialogue: 0,0:10:12.69,0:10:14.93,Default,Toyonaga Aki,0,0,60,,so I'm really happy about today.
+Dialogue: 0,0:10:15.01,0:10:18.41,Default,Toyonaga Aki,0,0,60,,We've performed at a festival in Hiroshima before,
+Dialogue: 0,0:10:18.49,0:10:23.03,Default,Toyonaga Aki,0,0,60,,but a lot of our members are doing their first live show in Hiroshima,
+Dialogue: 0,0:10:23.79,0:10:29.39,Default,Toyonaga Aki,0,0,60,,so we'll give it everything we've got to help you remember our faces, our names, and our performances.
+Dialogue: 0,0:10:29.47,0:10:30.97,Default,Toyonaga Aki,0,0,60,,Everyone, let's get hyped together!
+Dialogue: 0,0:10:32.95,0:10:33.59,Default,All,0,0,60,,Thank you!
+Dialogue: 0,0:10:39.63,0:10:43.73,Default,Toyonaga Aki,0,0,60,,Now, I'll hand over to Zawa — Izawa Miyu-chan!
+Dialogue: 0,0:10:44.19,0:10:46.91,Default,Kuriyama Rina,0,0,60,,From here on,
+Dialogue: 0,0:10:46.99,0:10:50.11,Default,Kuriyama Rina,0,0,60,,it's photo-OK time, so please get your cameras ready!
+Dialogue: 0,0:10:51.64,0:10:54.44,Default,Kuriyama Rina,0,0,60,,Take lots of cute photos of us!
+Dialogue: 0,0:10:54.92,0:10:57.90,Default,Kuriyama Rina,0,0,60,,So, are you still ready to shout?
+Dialogue: 0,0:11:00.05,0:11:02.01,Default,Izawa Miyu,0,0,60,,We can get even louder!
+Dialogue: 0,0:11:04.95,0:11:05.71,Default,Izawa Miyu,0,0,60,,Thank you!
+Dialogue: 0,0:11:06.08,0:11:08.62,Default,Izawa Miyu,0,0,60,,Let's keep having fun together!
+Dialogue: 0,0:26:05.30,0:26:07.76,Default,Ichimura Airi,0,0,60,,You just listened to five songs in a row,
+Dialogue: 0,0:26:07.84,0:26:09.48,Default,Ichimura Airi,0,0,60,,and everyone was so hyped!
+Dialogue: 0,0:26:13.43,0:26:16.57,Default,Ichimura Airi,0,0,60,,Alright, that wraps up photo time for now,
+Dialogue: 0,0:26:17.17,0:26:20.33,Default,Ichimura Airi,0,0,60,,and from here we'll move on to the MC part.
+Dialogue: 0,0:26:23.06,0:26:25.22,Default,Ichimura Airi,0,0,60,,It's split into a first half and a second half,
+Dialogue: 0,0:26:25.30,0:26:29.66,Default,Ichimura Airi,0,0,60,,and for the first half we'll be talking with this group of members.
+Dialogue: 0,0:26:31.14,0:26:32.20,Default,Ichimura Airi,0,0,60,,I'm sweating so much.
+Dialogue: 0,0:26:32.28,0:26:34.06,Default,All,0,0,60,,It's hot!
+Dialogue: 0,0:26:34.14,0:26:35.40,Default,Imamura Maria,0,0,60,,It's seriously hot.
+Dialogue: 0,0:26:35.48,0:26:36.56,Default,Eguchi Kokoha,0,0,60,,The energy in here!
+Dialogue: 0,0:26:37.28,0:26:39.02,Default,Ichimura Airi,0,0,60,,Thank you for all the calls, too!
+Dialogue: 0,0:26:39.10,0:26:39.68,Default,All,0,0,60,,Thank you!
+Dialogue: 0,0:26:43.06,0:26:45.74,Default,Ichimura Airi,0,0,60,,So, this is our time with STU,
+Dialogue: 0,0:26:46.32,0:26:51.80,Default,Ichimura Airi,0,0,60,,and I'd like to ask, is there anyone who's gotten to know the STU members?
+Dialogue: 0,0:26:52.72,0:26:55.84,Default,Eguchi Kokoha,0,0,60,,I have an oshi in STU!
+Dialogue: 0,0:26:55.92,0:26:57.30,Default,Ichimura Airi,0,0,60,,Eguchi Kokoha-chan!
+Dialogue: 0,0:26:57.38,0:26:58.84,Default,Eguchi Kokoha,0,0,60,,I'm Eguchi Kokoha, 6th generation!
+Dialogue: 0,0:27:01.95,0:27:02.37,Default,Eguchi Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:27:03.19,0:27:06.79,Default,Eguchi Kokoha,0,0,60,,I really love STU's Takao Sayaka-san.
+Dialogue: 0,0:27:06.87,0:27:10.19,Default,Eguchi Kokoha,0,0,60,,She's insanely cute and I really like her,
+Dialogue: 0,0:27:10.27,0:27:13.61,Default,Eguchi Kokoha,0,0,60,,and these days I like her so much she's my lock screen, you know,
+Dialogue: 0,0:27:13.69,0:27:18.33,Default,Eguchi Kokoha,0,0,60,,and Takao Sayaka-san streams every day, you know?
+Dialogue: 0,0:27:18.41,0:27:21.33,Default,Eguchi Kokoha,0,0,60,,I sometimes watch her SHOWROOM.
+Dialogue: 0,0:27:21.41,0:27:23.13,Default,Ichimura Airi,0,0,60,,Huh? You sound like a total otaku.
+Dialogue: 0,0:27:23.21,0:27:23.79,Default,Eguchi Kokoha,0,0,60,,I am!
+Dialogue: 0,0:27:23.87,0:27:29.67,Default,Eguchi Kokoha,0,0,60,,I watch her a lot,
+Dialogue: 0,0:27:29.89,0:27:33.07,Default,Eguchi Kokoha,0,0,60,,and the other day while I was watching, I thought she was so cute, so I was casually tossing out the items I had, pop pop pop,
+Dialogue: 0,0:27:33.15,0:27:35.23,Default,Eguchi Kokoha,0,0,60,,and somehow I ended up on the podium!
+Dialogue: 0,0:27:35.31,0:27:36.15,Default,Ichimura Airi,0,0,60,,Eh—!
+Dialogue: 0,0:27:36.31,0:27:36.89,Default,Ichimura Airi,0,0,60,,Eh—!
+Dialogue: 0,0:27:36.97,0:27:37.95,Default,Kuriyama Rina,0,0,60,,Wow, you're a top fan!
+Dialogue: 0,0:27:38.03,0:27:38.97,Default,Eguchi Kokoha,0,0,60,,Seriously.
+Dialogue: 0,0:27:39.05,0:27:40.65,Default,Eguchi Kokoha,0,0,60,,It was so embarrassing,
+Dialogue: 0,0:27:40.73,0:27:43.33,Default,Eguchi Kokoha,0,0,60,,but it's a really happy memory.
+Dialogue: 0,0:27:43.41,0:27:43.91,Default,All,0,0,60,,Wow.
+Dialogue: 0,0:27:45.01,0:27:46.75,Default,Ichimura Airi,0,0,60,,I hope Saayan isn't put off.
+Dialogue: 0,0:27:47.13,0:27:47.69,Default,Kuriyama Rina,0,0,60,,True.
+Dialogue: 0,0:27:47.77,0:27:48.45,Default,Eguchi Kokoha,0,0,60,,I hope she's okay.
+Dialogue: 0,0:27:48.53,0:27:50.39,Default,Eguchi Kokoha,0,0,60,,I didn't think I'd get in either,
+Dialogue: 0,0:27:50.47,0:27:52.63,Default,Eguchi Kokoha,0,0,60,,and I got there before her actual fans,
+Dialogue: 0,0:27:52.71,0:27:54.73,Default,Eguchi Kokoha,0,0,60,,so I feel a little bad.
+Dialogue: 0,0:27:54.81,0:27:56.83,Default,Kuriyama Rina,0,0,60,,Coco-chan tends to go for body touch with girls she likes,
+Dialogue: 0,0:27:56.91,0:27:57.85,Default,Kuriyama Rina,0,0,60,,so you have to be careful!
+Dialogue: 0,0:27:57.93,0:27:58.15,Default,Eguchi Kokoha,0,0,60,,No, no, no!
+Dialogue: 0,0:27:58.16,0:27:58.87,Default,Imamura Maria,0,0,60,,That's right, no touching!
+Dialogue: 0,0:27:58.95,0:28:01.61,Default,Eguchi Kokoha,0,0,60,,I haven't touched anyone yet today!
+Dialogue: 0,0:28:02.33,0:28:02.99,Default,Ichimura Airi,0,0,60,,That's dangerous.
+Dialogue: 0,0:28:03.07,0:28:03.85,Default,Eguchi Kokoha,0,0,60,,It's fine!
+Dialogue: 0,0:28:03.93,0:28:05.99,Default,Ichimura Airi,0,0,60,,Any other interactions?
+Dialogue: 0,0:28:06.07,0:28:09.79,Default,Ichimura Airi,0,0,60,,There's something I wanted to talk about, too.
+Dialogue: 0,0:28:10.00,0:28:16.28,Default,Ichimura Airi,0,0,60,,Something actually happened in Hakata, right, Sae-chan?
+Dialogue: 0,0:28:16.36,0:28:16.80,Default,Kurihara Sae,0,0,60,,Right?
+Dialogue: 0,0:28:16.88,0:28:17.24,Default,Ichimura Airi,0,0,60,,Right?
+Dialogue: 0,0:28:18.74,0:28:31.14,Default,Ichimura Airi,0,0,60,,One day on the train, I spotted a fan in the car wearing HKT goods!
+Dialogue: 0,0:28:31.20,0:28:34.96,Default,Kurihara Sae,0,0,60,,Covered in pin badges, really eye-catching.
+Dialogue: 0,0:28:35.04,0:28:36.22,Default,Ichimura Airi,0,0,60,,Eye-catching, right?
+Dialogue: 0,0:28:36.30,0:28:37.40,Default,Kurihara Sae,0,0,60,,Yeah, there was one!
+Dialogue: 0,0:28:37.48,0:28:38.70,Default,Ichimura Airi,0,0,60,,This is Fukuoka, after all.
+Dialogue: 0,0:28:38.78,0:28:42.60,Default,Ichimura Airi,0,0,60,,You do see HKT fans around,
+Dialogue: 0,0:28:42.68,0:28:43.76,Default,Ichimura Airi,0,0,60,,and then,
+Dialogue: 0,0:28:45.20,0:28:49.66,Default,Ichimura Airi,0,0,60,,that fan was actually sitting right next to us!
+Dialogue: 0,0:28:52.48,0:28:54.86,Default,Ichimura Airi,0,0,60,,I thought, that's an HKT fan!
+Dialogue: 0,0:28:54.94,0:28:56.68,Default,Ichimura Airi,0,0,60,,and glanced sideways,
+Dialogue: 0,0:28:57.32,0:28:59.02,Default,Ichimura Airi,0,0,60,,I really wasn't trying to look,
+Dialogue: 0,0:28:59.10,0:29:03.60,Default,Ichimura Airi,0,0,60,,but their phone screen just happened to come into view,
+Dialogue: 0,0:29:03.68,0:29:09.48,Default,Ichimura Airi,0,0,60,,and they were scrolling through STU's official profiles!
+Dialogue: 0,0:29:10.74,0:29:12.62,Default,Ichimura Airi,0,0,60,,Scrolling through like crazy!
+Dialogue: 0,0:29:14.12,0:29:16.68,Default,Ichimura Airi,0,0,60,,They were even about to sign up for the mobile mail or something, right?
+Dialogue: 0,0:29:16.76,0:29:21.12,Default,Ichimura Airi,0,0,60,,I can't be sure, it's just a guess!
+Dialogue: 0,0:29:21.20,0:29:22.98,Default,Kurihara Sae,0,0,60,,It felt like walking in on someone cheating.
+Dialogue: 0,0:29:23.92,0:29:25.74,Default,Kurihara Sae,0,0,60,,It got kind of awkward.
+Dialogue: 0,0:29:25.82,0:29:27.56,Default,Kurihara Sae,0,0,60,,I couldn't say anything to them.
+Dialogue: 0,0:29:28.68,0:29:31.52,Default,Kurihara Sae,0,0,60,,And even though they were right next to us, they didn't notice us at all.
+Dialogue: 0,0:29:31.60,0:29:32.04,Default,All,0,0,60,,Ahh!
+Dialogue: 0,0:29:32.12,0:29:33.92,Default,Kurihara Sae,0,0,60,,They were glued to their phone.
+Dialogue: 0,0:29:34.00,0:29:34.54,Default,Ichimura Airi,0,0,60,,Wow.
+Dialogue: 0,0:29:35.00,0:29:36.00,Default,Kuriyama Rina,0,0,60,,Aren't there some like that?
+Dialogue: 0,0:29:36.78,0:29:38.12,Default,Ichimura Airi,0,0,60,,There might be.
+Dialogue: 0,0:29:38.20,0:29:38.84,Default,Eguchi Kokoha,0,0,60,,What a waste.
+Dialogue: 0,0:29:38.92,0:29:42.02,Default,Ichimura Airi,0,0,60,,It was quite a surprise.
+Dialogue: 0,0:29:42.84,0:29:45.98,Default,Ichimura Airi,0,0,60,,Honestly, I really hope STU fans, too,
+Dialogue: 0,0:29:46.06,0:29:49.56,Default,Ichimura Airi,0,0,60,,will start liking HKT — today could be the start, right?
+Dialogue: 0,0:29:49.80,0:29:50.46,Default,All,0,0,60,,Yeah,
+Dialogue: 0,0:29:50.54,0:29:51.20,Default,Ichimura Airi,0,0,60,,for both of us.
+Dialogue: 0,0:29:51.28,0:29:55.70,Default,Kurihara Sae,0,0,60,,So anyone wearing a bib has to be an STU fan, right?
+Dialogue: 0,0:29:55.97,0:29:56.11,Default,Imamura Maria,0,0,60,,True.
+Dialogue: 0,0:29:56.99,0:29:57.97,Default,Kurihara Sae,0,0,60,,Let's reel them all in!
+Dialogue: 0,0:29:58.05,0:29:58.71,Default,Ichimura Airi,0,0,60,,Reel them in!
+Dialogue: 0,0:29:58.79,0:29:59.14,Default,Imamura Maria,0,0,60,,I'll do my best!
+Dialogue: 0,0:29:59.22,0:30:00.19,Default,Ichimura Airi,0,0,60,,Let's reel them in!
+Dialogue: 0,0:30:00.27,0:30:00.95,Default,Eguchi Kokoha,0,0,60,,Let's give it our all!
+Dialogue: 0,0:30:01.03,0:30:01.59,Default,Imamura Maria,0,0,60,,Definitely a good idea.
+Dialogue: 0,0:30:02.31,0:30:03.67,Default,Ichimura Airi,0,0,60,,Yeah, easy to spot.
+Dialogue: 0,0:30:03.75,0:30:04.63,Default,Eguchi Kokoha,0,0,60,,Since it's light blue.
+Dialogue: 0,0:30:04.71,0:30:05.13,Default,Ichimura Airi,0,0,60,,True.
+Dialogue: 0,0:30:05.21,0:30:06.93,Default,Kurihara Sae,0,0,60,,Their merch is cute.
+Dialogue: 0,0:30:07.01,0:30:07.59,Default,Kuriyama Rina,0,0,60,,So cute.
+Dialogue: 0,0:30:08.79,0:30:09.43,Default,Ichimura Airi,0,0,60,,How about you?
+Dialogue: 0,0:30:10.00,0:30:13.16,Default,Kuriyama Rina,0,0,60,,Since this is a great chance,
+Dialogue: 0,0:30:13.24,0:30:15.40,Default,Kuriyama Rina,0,0,60,,I thought I'd try to reel in STU fans too,
+Dialogue: 0,0:30:15.54,0:30:17.62,Default,Kuriyama Rina,0,0,60,,so I asked our manager about it.
+Dialogue: 0,0:30:17.70,0:30:18.80,Default,Kurihara Sae,0,0,60,,Is that why you're in fishnets?
+Dialogue: 0,0:30:20.24,0:30:20.88,Default,Imamura Maria,0,0,60,,Is that it?
+Dialogue: 0,0:30:23.00,0:30:24.06,Default,Kuriyama Rina,0,0,60,,It's part of the plan.
+Dialogue: 0,0:30:25.74,0:30:27.82,Default,Kuriyama Rina,0,0,60,,I told the manager I wanted to reel them in, that this is my chance, so I'd do my best,
+Dialogue: 0,0:30:27.90,0:30:31.08,Default,Kuriyama Rina,0,0,60,,and asked what they thought,
+Dialogue: 0,0:30:31.16,0:30:32.86,Default,Kuriyama Rina,0,0,60,,and they said,
+Dialogue: 0,0:30:34.00,0:30:37.06,Default,Kuriyama Rina,0,0,60,,"Kuriyama looks kind of refined as long as she keeps quiet,
+Dialogue: 0,0:30:37.64,0:30:38.98,Default,Kuriyama Rina,0,0,60,,so don't talk!"
+Dialogue: 0,0:30:39.06,0:30:40.38,Default,Imamura Maria,0,0,60,,Then that's no good, is it?
+Dialogue: 0,0:30:41.94,0:30:43.86,Default,Kuriyama Rina,0,0,60,,I might be a little hopeless, but
+Dialogue: 0,0:30:44.60,0:30:48.62,Default,Kuriyama Rina,0,0,60,,I'm a refined girl, so please take care of me, everyone!
+Dialogue: 0,0:30:48.70,0:30:50.28,Default,Ichimura Airi,0,0,60,,A little off-putting, apparently.
+Dialogue: 0,0:30:53.51,0:30:54.07,Default,Ichimura Airi,0,0,60,,Thank you!
+Dialogue: 0,0:30:54.39,0:30:55.81,Default,Ichimura Airi,0,0,60,,We've talked a lot,
+Dialogue: 0,0:30:55.89,0:30:58.33,Default,Ichimura Airi,0,0,60,,but now I'd like to pass the baton to the second-half members.
+Dialogue: 0,0:30:58.41,0:30:59.12,Default,Ichimura Airi,0,0,60,,Will do!
+Dialogue: 0,0:30:59.20,0:30:59.74,Default,Imamura Maria,0,0,60,,Go ahead!
+Dialogue: 0,0:30:59.82,0:31:01.00,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:31:01.08,0:31:02.36,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:31:07.31,0:31:10.67,Default,Jitoe Nene,0,0,60,,So now the second-half group will talk too,
+Dialogue: 0,0:31:10.75,0:31:12.01,Default,Jitoe Nene,0,0,60,,How is everyone?
+Dialogue: 0,0:31:12.57,0:31:13.93,Default,Jitoe Nene,0,0,60,,Anyone here for the first time in Hiroshima?
+Dialogue: 0,0:31:14.49,0:31:15.55,Default,Kitagawa Hiiro,0,0,60,,First time!
+Dialogue: 0,0:31:16.15,0:31:16.87,Default,Jitoe Nene,0,0,60,,First time!
+Dialogue: 0,0:31:16.95,0:31:17.67,Default,Kitagawa Hiiro,0,0,60,,First time landing here!
+Dialogue: 0,0:31:17.75,0:31:18.21,Default,Jitoe Nene,0,0,60,,How is it?
+Dialogue: 0,0:31:18.29,0:31:18.93,Default,Jitoe Nene,0,0,60,,Your first time here!?
+Dialogue: 0,0:31:19.53,0:31:20.58,Default,Toyonaga Aki,0,0,60,,I've come for the first time, but—
+Dialogue: 0,0:31:20.66,0:31:23.39,Default,Kitagawa Hiiro,0,0,60,,It was my first time in Hiroshima,
+Dialogue: 0,0:31:23.47,0:31:25.29,Default,Kitagawa Hiiro,0,0,60,,so I've been really looking forward to today.
+Dialogue: 0,0:31:25.37,0:31:28.23,Default,Kitagawa Hiiro,0,0,60,,When we all arrived in Hiroshima,
+Dialogue: 0,0:31:28.31,0:31:29.93,Default,Kitagawa Hiiro,0,0,60,,I stepped off the vehicle first,
+Dialogue: 0,0:31:30.01,0:31:33.17,Default,Kitagawa Hiiro,0,0,60,,thinking, "So this is Hiroshima," and was gazing around,
+Dialogue: 0,0:31:33.25,0:31:39.74,Default,Kitagawa Hiiro,0,0,60,,when Aki next to me said, "That building over there is the Momiji Manju Tower,"
+Dialogue: 0,0:31:40.04,0:31:43.75,Default,Kitagawa Hiiro,0,0,60,,and explained the Momiji Manju Tower to me, and I thought, "Really?" at first,
+Dialogue: 0,0:31:43.97,0:31:49.61,Default,Kitagawa Hiiro,0,0,60,,but it was a total lie! I got lied to — I'm so easy to fool.
+Dialogue: 0,0:31:49.69,0:31:54.03,Default,Toyonaga Aki,0,0,60,,I wonder how well we can tell what's true and what's false about Hiroshima today!
+Dialogue: 0,0:31:56.09,0:32:01.89,Default,Jitoe Nene,0,0,60,,But maybe it's real — there might at least be a memorial hall.
+Dialogue: 0,0:32:05.21,0:32:09.92,Default,Shibui Mina,0,0,60,,It was my first time in Hiroshima, so last night,
+Dialogue: 0,0:32:10.00,0:32:11.70,Default,Shibui Mina,0,0,60,,I properly looked up Hiroshima souvenirs.
+Dialogue: 0,0:32:11.78,0:32:13.42,Default,Shibui Mina,0,0,60,,Like momiji manju,
+Dialogue: 0,0:32:13.50,0:32:16.00,Default,Shibui Mina,0,0,60,,and something like okonomiyaki senbei,
+Dialogue: 0,0:32:16.08,0:32:18.08,Default,Shibui Mina,0,0,60,,I looked up all sorts of foods,
+Dialogue: 0,0:32:18.16,0:32:19.96,Default,Shibui Mina,0,0,60,,but I haven't gotten to eat a single one yet today,
+Dialogue: 0,0:32:20.04,0:32:22.26,Default,Shibui Mina,0,0,60,,so honestly, from all of you,
+Dialogue: 0,0:32:22.68,0:32:24.06,Default,Shibui Mina,0,0,60,,I'd like you to turn my share of the calls
+Dialogue: 0,0:32:24.14,0:32:26.28,Default,Shibui Mina,0,0,60,,into good Hiroshima souvenir tips,
+Dialogue: 0,0:32:26.36,0:32:27.46,Default,Shibui Mina,0,0,60,,I'd love for you to tell me.
+Dialogue: 0,0:32:27.54,0:32:29.36,Default,Shibui Mina,0,0,60,,Seriously, seriously, seriously,
+Dialogue: 0,0:32:29.44,0:32:30.64,Default,Shibui Mina,0,0,60,,I just really want to know about the food!
+Dialogue: 0,0:32:30.72,0:32:31.78,Default,Jitoe Nene,0,0,60,,Momiji manju!
+Dialogue: 0,0:32:31.86,0:32:34.86,Default,Multiple,0,0,60,,I already know momiji manju,
+Dialogue: 0,0:32:34.94,0:32:37.88,Default,Shibui Mina,0,0,60,,so please tell me about other things!
+Dialogue: 0,0:32:39.84,0:32:41.92,Default,Shibui Mina,0,0,60,,I'd love to know!
+Dialogue: 0,0:32:42.00,0:32:42.90,Default,Toyonaga Aki,0,0,60,,We'd lose our focus!
+Dialogue: 0,0:32:42.98,0:32:43.80,Default,Toyonaga Aki,0,0,60,,Why?
+Dialogue: 0,0:32:43.88,0:32:45.18,Default,Jitoe Nene,0,0,60,,Aren't there a lot of things mixed in?
+Dialogue: 0,0:32:45.70,0:32:50.46,Default,Jitoe Nene,0,0,60,,Today's lunch is Musashi's rice-ball bento, too,
+Dialogue: 0,0:32:50.54,0:32:53.20,Default,Jitoe Nene,0,0,60,,so everyone's spirits are sky-high!
+Dialogue: 0,0:32:53.28,0:32:56.86,Default,Jitoe Nene,0,0,60,,And a huge variety of fried momiji manju —
+Dialogue: 0,0:32:56.94,0:33:00.30,Default,Toyonaga Aki,0,0,60,,just the best! STU48 gave them to us, right?
+Dialogue: 0,0:33:00.38,0:33:01.00,Default,All,0,0,60,,Thank you!
+Dialogue: 0,0:33:02.50,0:33:06.08,Default,Toyonaga Aki,0,0,60,,Honestly, just being invited is enough,
+Dialogue: 0,0:33:06.16,0:33:08.78,Default,Jitoe Nene,0,0,60,,since HKT48 has a huge appetite,
+Dialogue: 0,0:33:08.86,0:33:10.78,Default,Jitoe Nene,0,0,60,,so we're honestly so happy.
+Dialogue: 0,0:33:10.86,0:33:11.34,Default,Jitoe Nene,0,0,60,,Thank you!
+Dialogue: 0,0:33:12.46,0:33:14.20,Default,Jitoe Nene,0,0,60,,Anything else?
+Dialogue: 0,0:33:14.40,0:33:19.00,Default,Toyonaga Aki,0,0,60,,STU48's Fukuda Akari-chan, you know,
+Dialogue: 0,0:33:19.08,0:33:23.04,Default,Toyonaga Aki,0,0,60,,she's been telling me she likes me,
+Dialogue: 0,0:33:23.12,0:33:26.16,Default,Toyonaga Aki,0,0,60,,from way back when we both
+Dialogue: 0,0:33:26.24,0:33:31.48,Default,Toyonaga Aki,0,0,60,,did handshake events — even though our dressing rooms were far apart, she'd come right up next to me and keep saying
+Dialogue: 0,0:33:31.56,0:33:37.12,Default,Toyonaga Aki,0,0,60,,she likes me, and today when I said good morning,
+Dialogue: 0,0:33:37.20,0:33:43.00,Default,Toyonaga Aki,0,0,60,,she said she hasn't updated her lock screen since a photo of me taken around 2019 at that 48 event,
+Dialogue: 0,0:33:46.58,0:33:48.48,Default,Toyonaga Aki,0,0,60,,so she asked to take one today,
+Dialogue: 0,0:33:49.74,0:33:52.26,Default,Toyonaga Aki,0,0,60,,and it got even creepier,
+Dialogue: 0,0:33:54.66,0:33:56.76,Default,Toyonaga Aki,0,0,60,,and she said we'd take photos later today,
+Dialogue: 0,0:33:56.84,0:33:58.10,Default,Toyonaga Aki,0,0,60,,so I'm figuring out how to get away.
+Dialogue: 0,0:33:59.54,0:34:02.42,Default,Toyonaga Aki,0,0,60,,But after this, from the people over there,
+Dialogue: 0,0:34:02.50,0:34:04.08,Default,Toyonaga Aki,0,0,60,,you might get a photo chance,
+Dialogue: 0,0:34:04.16,0:34:07.40,Default,Toyonaga Aki,0,0,60,,and she might grab it and use it as her lock screen,
+Dialogue: 0,0:34:07.76,0:34:09.68,Default,Toyonaga Aki,0,0,60,,so everyone, if you catch a good moment, please take a nice photo!
+Dialogue: 0,0:34:10.00,0:34:11.10,Default,Toyonaga Aki,0,0,60,,Thank you!
+Dialogue: 0,0:34:13.12,0:34:14.66,Default,Jitoe Nene,0,0,60,,Anything else to share?
+Dialogue: 0,0:34:14.80,0:34:16.88,Default,Jitoe Nene,0,0,60,,Oh, Zawa-chan, you cut your hair, didn't you?
+Dialogue: 0,0:34:16.96,0:34:20.58,Default,Izawa Miyu,0,0,60,,I cut off 20 centimeters for today!
+Dialogue: 0,0:34:21.58,0:34:22.68,Default,Toyonaga Aki,0,0,60,,Full of drive!
+Dialogue: 0,0:34:22.76,0:34:23.72,Default,Izawa Miyu,0,0,60,,That's right!
+Dialogue: 0,0:34:23.80,0:34:25.08,Default,Izawa Miyu,0,0,60,,How is it?
+Dialogue: 0,0:34:27.87,0:34:28.35,Default,Izawa Miyu,0,0,60,,Thank you!
+Dialogue: 0,0:34:29.05,0:34:30.21,Default,Izawa Miyu,0,0,60,,I'm totally satisfied!
+Dialogue: 0,0:34:31.49,0:34:32.47,Default,Jitoe Nene,0,0,60,,Totally satisfied!
+Dialogue: 0,0:34:32.55,0:34:34.09,Default,Jitoe Nene,0,0,60,,Anyone else?
+Dialogue: 0,0:34:34.17,0:34:34.97,Default,Jitoe Nene,0,0,60,,Eretan-san,
+Dialogue: 0,0:34:35.05,0:34:36.13,Default,Sakamoto Erena,0,0,60,,before I graduate,
+Dialogue: 0,0:34:36.21,0:34:38.05,Default,Sakamoto Erena,0,0,60,,this is the last big concert like this,
+Dialogue: 0,0:34:38.13,0:34:39.61,Default,Sakamoto Erena,0,0,60,,and this is the last one,
+Dialogue: 0,0:34:39.69,0:34:41.29,Default,Sakamoto Erena,0,0,60,,so I'm visiting STU,
+Dialogue: 0,0:34:41.37,0:34:42.81,Default,Sakamoto Erena,0,0,60,,having the camera folks take lots of photos of me,
+Dialogue: 0,0:34:42.89,0:34:45.95,Default,Sakamoto Erena,0,0,60,,and I want to enjoy it.
+Dialogue: 0,0:34:46.35,0:34:52.15,Default,Sakamoto Erena,0,0,60,,Also, I did a stage play with Paseri and we're close, so I hope we can interact somewhere.
+Dialogue: 0,0:34:53.73,0:34:55.85,Default,Jitoe Nene,0,0,60,,I'm happy. Thank you.
+Dialogue: 0,0:34:57.87,0:34:59.87,Default,Jitoe Nene,0,0,60,,HKT48,
+Dialogue: 0,0:34:59.95,0:35:01.11,Default,Jitoe Nene,0,0,60,,we have lots of members who are close with STU,
+Dialogue: 0,0:35:01.19,0:35:04.36,Default,Jitoe Nene,0,0,60,,so please remember one, two, three — or all sixteen of us!
+Dialogue: 0,0:35:04.37,0:35:04.95,Default,Multiple,0,0,60,,Thank you!
+Dialogue: 0,0:35:05.03,0:35:06.17,Default,All,0,0,60,,Thank you!
+Dialogue: 0,0:35:06.85,0:35:07.21,Default,Jitoe Nene,0,0,60,,Thank you!
+Dialogue: 0,0:35:09.61,0:35:11.37,Default,Jitoe Nene,0,0,60,,Now, it looks like we're ready,
+Dialogue: 0,0:35:11.45,0:35:13.35,Default,Jitoe Nene,0,0,60,,so everyone, come on out!
+Dialogue: 0,0:35:16.27,0:35:18.05,Default,Jitoe Nene,0,0,60,,And Kurutan, Ibuki, please!
+Dialogue: 0,0:35:18.13,0:35:18.87,Default,Multiple,0,0,60,,Okay!
+Dialogue: 0,0:35:18.95,0:35:22.93,Default,Ishibashi Ibuki,0,0,60,,Everyone, camera photos are OK from here!
+Dialogue: 0,0:35:23.01,0:35:26.35,Default,Ishibashi Ibuki,0,0,60,,Please get your cameras ready!
+Dialogue: 0,0:35:28.70,0:35:30.92,Default,Multiple,0,0,60,,Ready?
+Dialogue: 0,0:35:31.72,0:35:32.88,Default,Takemoto Kurumi,0,0,60,,Then please listen:
+Dialogue: 0,0:35:33.60,0:35:35.52,Default,Takemoto Kurumi,0,0,60,,Boku wa Yatto Kimi wo Shinpai Dekiru
+Dialogue: 0,0:45:12.54,0:45:14.34,Default,Takemoto Kurumi,0,0,60,,We'd like you to keep listening, but
+Dialogue: 0,0:45:14.88,0:45:15.98,Default,Takemoto Kurumi,0,0,60,,how was it, everyone?
+Dialogue: 0,0:45:19.16,0:45:19.72,Default,Kitagawa Hiiro,0,0,60,,Oh, wow.
+Dialogue: 0,0:45:19.80,0:45:22.40,Default,Takemoto Kurumi,0,0,60,,Even among HKT,
+Dialogue: 0,0:45:22.40,0:45:23.86,Default,Kitagawa Hiiro,0,0,60,,Kurumi was panting the whole time,
+Dialogue: 0,0:45:24.68,0:45:26.48,Default,Takemoto Kurumi,0,0,60,,with all those songs lined up,
+Dialogue: 0,0:45:26.56,0:45:30.60,Default,Takemoto Kurumi,0,0,60,,but I think our HKT-ness really came through, so
+Dialogue: 0,0:45:31.92,0:45:33.46,Default,Takemoto Kurumi,0,0,60,,everyone, from here on too,
+Dialogue: 0,0:45:33.54,0:45:37.84,Default,Takemoto Kurumi,0,0,60,,if you keep calling out without letting us outdo you, we'd be so happy.
+Dialogue: 0,0:45:38.00,0:45:39.31,Default,Multiple,0,0,60,,Thank you!
+Dialogue: 0,0:45:39.32,0:45:39.64,Default,Eguchi Kokoha,0,0,60,,Thank you, everyone!
+Dialogue: 0,0:45:46.85,0:45:47.63,Default,Imamura Maria,0,0,60,,We're tired, huh.
+Dialogue: 0,0:45:50.63,0:45:52.95,Default,Takemoto Kurumi,0,0,60,,It's been a while since we did a live show like this.
+Dialogue: 0,0:45:53.03,0:45:53.45,Default,Imamura Maria,0,0,60,,Yeah, right?
+Dialogue: 0,0:45:53.53,0:45:55.49,Default,Multiple,0,0,60,,The first one since the year began.
+Dialogue: 0,0:45:55.57,0:45:57.07,Default,Jitoe Nene,0,0,60,,Yeah, our first this year.
+Dialogue: 0,0:45:58.17,0:45:59.11,Default,Jitoe Nene,0,0,60,,I'm so happy.
+Dialogue: 0,0:46:00.17,0:46:00.95,Default,Imamura Maria,0,0,60,,It's tough!
+Dialogue: 0,0:46:02.37,0:46:03.73,Default,Imamura Maria,0,0,60,,But it's fun!
+Dialogue: 0,0:46:10.20,0:46:12.18,Default,Shibui Mina,0,0,60,,Everyone, we're in the final spurt,
+Dialogue: 0,0:46:12.26,0:46:13.70,Default,Shibui Mina,0,0,60,,so right to the very end,
+Dialogue: 0,0:46:13.80,0:46:15.96,Default,Shibui Mina,0,0,60,,can you make some big noise?
+Dialogue: 0,0:46:16.30,0:46:18.30,Default,Crowd,0,0,60,,Yes!
+Dialogue: 0,0:46:19.04,0:46:20.78,Default,Shibui Mina,0,0,60,,That's still too quiet!
+Dialogue: 0,0:46:20.92,0:46:23.10,Default,Shibui Mina,0,0,60,,Can you shout even louder?
+Dialogue: 0,0:46:23.48,0:46:24.92,Default,Crowd,0,0,60,,Yeah!
+Dialogue: 0,0:46:26.06,0:46:28.30,Default,Shibui Mina,0,0,60,,HKT48 is...
+Dialogue: 0,0:46:29.14,0:46:31.04,Default,All,0,0,60,,the best!
+Dialogue: 0,0:52:39.17,0:52:41.97,Default,Toyonaga Aki,0,0,60,,Did you all have fun?
+Dialogue: 0,0:52:43.16,0:52:44.26,Default,Toyonaga Aki,0,0,60,,Thank you!
+Dialogue: 0,0:52:44.84,0:52:46.84,Default,Toyonaga Aki,0,0,60,,That was HKT48!
+Dialogue: 0,0:52:46.90,0:52:48.00,Default,Toyonaga Aki,0,0,60,,Thank you so much for today!
+Dialogue: 0,0:52:48.10,0:52:51.50,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:02:14.94,1:02:20.24,Default,Takemoto Kurumi,0,0,60,,Alright, so that was three collab units!
+Dialogue: 0,1:02:20.25,1:02:22.70,Default,Takemoto Kurumi,0,0,60,,All members come out!
+Dialogue: 0,1:02:22.80,1:02:23.30,Default,Ishibashi Ibuki,0,0,60,,Come on in!
+Dialogue: 0,1:02:24.34,1:02:25.24,Default,All,0,0,60,,Yay!
+Dialogue: 0,1:02:25.86,1:02:27.16,Default,Member,0,0,60,,That was fun!
+Dialogue: 0,1:02:27.22,1:02:29.72,Default,Member,0,0,60,,That was so much fun!
+Dialogue: 0,1:02:30.79,1:02:36.55,Default,Takemoto Kurumi,0,0,60,,This time we wore HKT's original costumes for the collab, so—
+Dialogue: 0,1:02:36.63,1:02:42.43,Default,Takemoto Kurumi,0,0,60,,how was it, Romantic Byou team? For us it felt kind of rock and casual.
+Dialogue: 0,1:02:44.47,1:02:46.11,Default,Toyonaga Aki,0,0,60,,True, like a fashion show.
+Dialogue: 0,1:02:46.19,1:02:51.45,Default,Member,0,0,60,,I was a huge fan of Tashima Meru all along,
+Dialogue: 0,1:02:52.05,1:02:54.01,Default,Member,0,0,60,,and today I got her position,
+Dialogue: 0,1:02:54.57,1:02:56.91,Default,Member,0,0,60,,and even got to wear her costume,
+Dialogue: 0,1:02:57.39,1:02:59.71,Default,Member,0,0,60,,so I have no regrets in life.
+Dialogue: 0,1:03:00.57,1:03:02.03,Default,Member,0,0,60,,I'm so incredibly happy.
+Dialogue: 0,1:03:04.02,1:03:07.20,Default,Member,0,0,60,,You two were dancing so hard, and I could really feel the energy,
+Dialogue: 0,1:03:08.14,1:03:09.46,Default,Member,0,0,60,,we got so much energy from you.
+Dialogue: 0,1:03:09.82,1:03:10.90,Default,Toyonaga Aki,0,0,60,,Us too!
+Dialogue: 0,1:03:11.74,1:03:13.98,Default,Toyonaga Aki,0,0,60,,We were gasping for breath just a moment ago,
+Dialogue: 0,1:03:14.06,1:03:17.16,Default,Toyonaga Aki,0,0,60,,but you gave us energy and it was fun.
+Dialogue: 0,1:03:18.30,1:03:19.72,Default,Takemoto Kurumi,0,0,60,,Otakus and fans,
+Dialogue: 0,1:03:19.80,1:03:21.64,Default,Member,0,0,60,,were mixed together.
+Dialogue: 0,1:03:22.68,1:03:25.38,Default,Takemoto Kurumi,0,0,60,,How was Blueberry Pie team?
+Dialogue: 0,1:03:26.92,1:03:29.48,Default,Member,0,0,60,,I was a fan of P-chan, Komada Hiroka,
+Dialogue: 0,1:03:29.56,1:03:30.36,Default,Ozaki Serika,0,0,60,,so getting to
+Dialogue: 0,1:03:30.90,1:03:32.34,Default,Ozaki Serika,0,0,60,,perform this song in P-chan's position
+Dialogue: 0,1:03:32.42,1:03:34.12,Default,Member,0,0,60,,was
+Dialogue: 0,1:03:34.20,1:03:35.68,Default,Member,0,0,60,,really, really happy.
+Dialogue: 0,1:03:38.20,1:03:39.02,Default,Member,0,0,60,,And Saayan, too?
+Dialogue: 0,1:03:39.10,1:03:41.54,Default,Member,0,0,60,,I'm an HKT48 fan too,
+Dialogue: 0,1:03:41.96,1:03:44.66,Default,Member,0,0,60,,and when it comes to HKT, a cute song like this
+Dialogue: 0,1:03:44.74,1:03:46.04,Default,Member,0,0,60,,was Blueberry Pie,
+Dialogue: 0,1:03:46.86,1:03:48.46,Default,Member,0,0,60,,so I never thought I'd get to do it,
+Dialogue: 0,1:03:48.54,1:03:49.62,Default,Member,0,0,60,,so I'm happy.
+Dialogue: 0,1:03:49.70,1:03:50.80,Default,Member,0,0,60,,And on top of that, together
+Dialogue: 0,1:03:50.88,1:03:51.74,Default,Takemoto Kurumi,0,0,60,,it suits you so well!
+Dialogue: 0,1:03:51.82,1:03:52.58,Default,Member,0,0,60,,I'm so happy!
+Dialogue: 0,1:03:52.66,1:03:53.60,Default,Takemoto Kurumi,0,0,60,,It really suits you.
+Dialogue: 0,1:03:53.68,1:03:55.38,Default,Member,0,0,60,,Since we're the oldest duo
+Dialogue: 0,1:03:55.46,1:03:57.06,Default,Multiple,0,0,60,,Really?
+Dialogue: 0,1:03:57.44,1:03:59.00,Default,Jitoe Nene,0,0,60,,Amazing!
+Dialogue: 0,1:03:59.08,1:04:03.06,Default,Jitoe Nene,0,0,60,,Eura and Ryuto, tell them your ages!
+Dialogue: 0,1:04:03.14,1:04:05.26,Default,Eura Yuka,0,0,60,,I'm in the second year of junior high,
+Dialogue: 0,1:04:05.34,1:04:06.26,Default,Eura Yuka,0,0,60,,so I'm 13.
+Dialogue: 0,1:04:09.17,1:04:10.05,Default,Ryuto Ayane,0,0,60,,I
+Dialogue: 0,1:04:10.13,1:04:12.95,Default,Ryuto Ayane,0,0,60,,just moved up to the third year of junior high,
+Dialogue: 0,1:04:13.03,1:04:13.43,Default,Ryuto Ayane,0,0,60,,and
+Dialogue: 0,1:04:13.95,1:04:15.27,Default,Ryuto Ayane,0,0,60,,I'm 14.
+Dialogue: 0,1:04:16.96,1:04:18.26,Default,Jitoe Nene,0,0,60,,The youngest duo!
+Dialogue: 0,1:04:18.34,1:04:19.62,Default,Takemoto Kurumi,0,0,60,,So cute.
+Dialogue: 0,1:04:19.75,1:04:21.53,Default,Member,0,0,60,,We're more than a whole zodiac cycle apart!
+Dialogue: 0,1:04:22.29,1:04:23.25,Default,All,0,0,60,,Wow!
+Dialogue: 0,1:04:23.81,1:04:27.51,Default,Takemoto Kurumi,0,0,60,,No way! But I felt freshness from all of you.
+Dialogue: 0,1:04:27.59,1:04:33.35,Default,Takemoto Kurumi,0,0,60,,They were so cute, and honestly my heart's pounding even now.
+Dialogue: 0,1:04:33.43,1:04:37.85,Default,Takemoto Kurumi,0,0,60,,They're so cute that my heart's pounding — it really is.
+Dialogue: 0,1:04:37.93,1:04:38.31,Default,Takemoto Kurumi,0,0,60,,Thank you!
+Dialogue: 0,1:04:40.11,1:04:40.91,Default,Member,0,0,60,,A great collab.
+Dialogue: 0,1:04:40.99,1:04:44.05,Default,Takemoto Kurumi,0,0,60,,How was Bambi team?
+Dialogue: 0,1:04:45.43,1:04:48.41,Default,Member,0,0,60,,I was so happy to wear such a cute costume,
+Dialogue: 0,1:04:48.91,1:04:52.47,Default,Member,0,0,60,,but being the only STU member, I was really nervous.
+Dialogue: 0,1:04:54.25,1:04:55.91,Default,Takemoto Kurumi,0,0,60,,We were nervous too, weren't we?
+Dialogue: 0,1:04:55.99,1:04:59.41,Default,Takemoto Kurumi,0,0,60,,Ibukuru, first off, went through your profile pages
+Dialogue: 0,1:04:59.49,1:05:01.03,Default,Ishibashi Ibuki,0,0,60,,and looked at everything,
+Dialogue: 0,1:05:02.49,1:05:04.65,Default,Takemoto Kurumi,0,0,60,,checked Twitter and profiles,
+Dialogue: 0,1:05:04.73,1:05:06.31,Default,Takemoto Kurumi,0,0,60,,and the two of us said, "So cute!"
+Dialogue: 0,1:05:06.39,1:05:07.23,Default,Member,0,0,60,,"What do we do?"
+Dialogue: 0,1:05:08.85,1:05:10.47,Default,Ishibashi Ibuki,0,0,60,,But we're the same age!
+Dialogue: 0,1:05:13.11,1:05:14.45,Default,Takemoto Kurumi,0,0,60,,You look so grown-up.
+Dialogue: 0,1:05:14.53,1:05:16.61,Default,Takemoto Kurumi,0,0,60,,Sorry, Ibuki.
+Dialogue: 0,1:05:19.07,1:05:21.71,Default,Takemoto Kurumi,0,0,60,,You look so womanly.
+Dialogue: 0,1:05:21.79,1:05:24.85,Default,Takemoto Kurumi,0,0,60,,But all three songs, everyone, were
+Dialogue: 0,1:05:24.93,1:05:26.85,Default,Takemoto Kurumi,0,0,60,,kind of unusual units, I think,
+Dialogue: 0,1:05:26.93,1:05:30.41,Default,Takemoto Kurumi,0,0,60,,and next up is STU48's per—
+Dialogue: 0,1:05:31.29,1:05:33.11,Default,Takemoto Kurumi,0,0,60,,perfor—performance?
+Dialogue: 0,1:05:33.19,1:05:37.29,Default,Takemoto Kurumi,0,0,60,,The performance is about to start, so please watch this video and wait.
+Dialogue: 0,1:05:37.37,1:05:38.45,Default,Takemoto Kurumi,0,0,60,,Then please take a look.
+Dialogue: 0,1:05:38.53,1:05:39.05,Default,Takemoto Kurumi,0,0,60,,Here you go!
+Dialogue: 0,1:05:41.29,1:05:46.73,Default,Member,0,0,60,,From here we'll perform songs together with HKT48!
+Dialogue: 0,1:05:46.81,1:05:47.42,Default,Member,0,0,60,,And now, HKT—
+Dialogue: 0,1:05:47.50,1:05:49.70,Default,Member,0,0,60,,HKT48, please
+Dialogue: 0,1:05:49.78,1:05:52.06,Default,Member,0,0,60,,come on in!
+Dialogue: 0,1:05:52.70,1:05:54.00,Default,Member,0,0,60,,So beautiful!
+Dialogue: 0,1:05:55.20,1:05:55.72,Default,Member,0,0,60,,Wow—
+Dialogue: 0,1:05:56.33,1:06:01.49,Default,Member,0,0,60,,Wow, when they mix together, the costumes look so pretty.
+Dialogue: 0,1:06:02.07,1:06:03.85,Default,All,0,0,60,,Red and white!
+Dialogue: 0,1:06:06.07,1:06:09.71,Default,Member,0,0,60,,So, STU48 and
+Dialogue: 0,1:06:09.79,1:06:12.03,Default,Member,0,0,60,,HKT48 are all here, so let's take a commemorative photo!
+Dialogue: 0,1:06:14.73,1:06:21.43,Default,Member,0,0,60,,We're taking two kinds, one with the audience in the back and one with the set in the back, so please, since it's a special occasion, don't show your face while shooting if you can!
+Dialogue: 0,1:06:22.83,1:06:23.45,Default,Member,0,0,60,,Thank you in advance!
+Dialogue: 0,1:06:23.53,1:06:25.13,Default,All,0,0,60,,We're counting on you!
+Dialogue: 0,1:06:25.21,1:06:26.87,Default,Member,0,0,60,,Staff, please!
+Dialogue: 0,1:06:29.12,1:06:31.02,Default,Member,0,0,60,,Is this okay? At times like this?
+Dialogue: 0,1:06:31.10,1:06:31.80,Default,Member,0,0,60,,Yeah.
+Dialogue: 0,1:06:31.88,1:06:34.00,Default,Member,0,0,60,,Any ideas?
+Dialogue: 0,1:06:34.10,1:06:35.84,Default,Member,0,0,60,,HKT48's pose?
+Dialogue: 0,1:06:38.40,1:06:40.20,Default,Toyonaga Aki,0,0,60,,We often do an H.
+Dialogue: 0,1:06:40.28,1:06:40.84,Default,Member,0,0,60,,Oh, an H!
+Dialogue: 0,1:06:40.92,1:06:41.20,Default,Member,0,0,60,,Then
+Dialogue: 0,1:06:42.36,1:06:43.58,Default,Member,0,0,60,,left hand an H,
+Dialogue: 0,1:06:43.66,1:06:45.78,Default,Member,0,0,60,,and right hand a ship's departure, how about that?
+Dialogue: 0,1:06:46.14,1:06:47.52,Default,Toyonaga Aki,0,0,60,,How do you do the departure?
+Dialogue: 0,1:06:47.60,1:06:49.55,Default,Member,0,0,60,,That's lovely.
+Dialogue: 0,1:06:49.63,1:06:50.81,Default,Member,0,0,60,,Is that okay?
+Dialogue: 0,1:06:51.07,1:06:51.42,Default,Member,0,0,60,,Yes.
+Dialogue: 0,1:06:51.50,1:06:52.59,Default,Member,0,0,60,,Let's go with this.
+Dialogue: 0,1:06:52.67,1:06:53.17,Default,Member,0,0,60,,Whoa!
+Dialogue: 0,1:06:54.80,1:06:56.96,Default,Member,0,0,60,,Photographer, please!
+Dialogue: 0,1:06:57.04,1:06:57.30,Default,All,0,0,60,,Please!
+Dialogue: 0,1:06:58.18,1:06:59.48,Default,Member,0,0,60,,3, 2, 1!
+Dialogue: 0,1:07:02.50,1:07:05.18,Default,Camera man,0,0,60,,One more, please!
+Dialogue: 0,1:07:05.26,1:07:07.30,Default,Member,0,0,60,,Three, two, one — go!
+Dialogue: 0,1:07:08.70,1:07:09.66,Default,Member,0,0,60,,Cute?
+Dialogue: 0,1:07:10.34,1:07:12.74,Default,Member,0,0,60,,Cute? Thank you!
+Dialogue: 0,1:07:16.52,1:07:17.64,Default,Member,0,0,60,,Everyone, please do it too!
+Dialogue: 0,1:07:19.66,1:07:20.64,Default,Member,0,0,60,,Everyone,
+Dialogue: 0,1:07:21.32,1:07:23.08,Default,Member,0,0,60,,the H and departure pose!
+Dialogue: 0,1:07:23.16,1:07:23.80,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:07:24.58,1:07:26.82,Default,Member,0,0,60,,Can we do it? We're holding penlights, so it looks hard.
+Dialogue: 0,1:07:26.90,1:07:29.36,Default,Toyonaga Aki,0,0,60,,But we're holding mics too, so I think we can!
+Dialogue: 0,1:07:29.46,1:07:30.78,Default,Member,0,0,60,,We can do it, right, everyone?
+Dialogue: 0,1:07:34.02,1:07:35.24,Default,Member,0,0,60,,Can you do it?
+Dialogue: 0,1:07:36.59,1:07:37.39,Default,Member,0,0,60,,They're doing it!
+Dialogue: 0,1:07:40.08,1:07:40.72,Default,Member,0,0,60,,Here we go!
+Dialogue: 0,1:07:41.82,1:07:43.20,Default,Member,0,0,60,,Three, two, one!
+Dialogue: 0,1:07:46.28,1:07:47.30,Default,Member,0,0,60,,What? Fried momiji?
+Dialogue: 0,1:07:48.52,1:07:51.14,Default,Ishibashi Ibuki,0,0,60,,Sorry, HKT started talking.
+Dialogue: 0,1:07:51.78,1:07:53.30,Default,Ishibashi Ibuki,0,0,60,,Recommendations.
+Dialogue: 0,1:07:56.04,1:07:56.64,Default,Shibui Mina,0,0,60,,Thank you!
+Dialogue: 0,1:07:58.06,1:07:58.94,Default,Member,0,0,60,,How is it?
+Dialogue: 0,1:08:03.06,1:08:08.86,Default,Member,0,0,60,,Alright, so,
+Dialogue: 0,1:08:10.24,1:08:12.90,Default,Member,0,0,60,,from here we'd like you to watch our collab stage,
+Dialogue: 0,1:08:12.98,1:08:14.28,Default,Member,0,0,60,,so please enjoy it.
+Dialogue: 0,1:08:15.00,1:08:16.36,Default,Member,0,0,60,,And from here on
+Dialogue: 0,1:08:16.44,1:08:17.32,Default,Member,0,0,60,,it's photo-OK time!
+Dialogue: 0,1:08:17.40,1:08:19.66,Default,Member,0,0,60,,Camera folks, are you ready?
+Dialogue: 0,1:08:20.78,1:08:21.66,Default,Member,0,0,60,,Okay?
+Dialogue: 0,1:08:21.90,1:08:22.78,Default,Member,0,0,60,,A little more?
+Dialogue: 0,1:08:24.54,1:08:27.02,Default,Member,0,0,60,,Alright, please take cute photos
+Dialogue: 0,1:08:27.10,1:08:28.34,Default,Member,0,0,60,,of our special stage!
+Dialogue: 0,1:08:28.86,1:08:29.92,Default,Member,0,0,60,,Then please listen.
+Dialogue: 0,1:13:28.54,1:13:29.94,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:13:30.02,1:13:30.72,Default,Member,0,0,60,,Thanks so much!
+Dialogue: 0,1:13:33.60,1:13:37.22,Default,Host,0,0,60,,That was two songs in a row, ending with Suki! Suki! Skip!
+Dialogue: 0,1:13:37.30,1:13:37.80,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:13:38.90,1:13:39.26,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:13:44.19,1:13:46.79,Default,Member,0,0,60,,This is where photo-OK time pauses for now.
+Dialogue: 0,1:13:47.21,1:13:50.09,Default,Member,0,0,60,,Everyone, please put your cameras away for a moment.
+Dialogue: 0,1:13:52.54,1:13:52.90,Default,Member,0,0,60,,Thank you.
+Dialogue: 0,1:13:53.46,1:13:58.72,Default,Host,0,0,60,,So far, we've done a joint concert between HKT48 and STU48,
+Dialogue: 0,1:13:59.18,1:14:01.58,Default,Host,0,0,60,,and I hope that exchanges between the 48 groups
+Dialogue: 0,1:14:01.66,1:14:03.66,Default,Host,0,0,60,,keep growing more and more like this.
+Dialogue: 0,1:14:04.06,1:14:05.74,Default,Fukuda Akari,0,0,60,,I had so much fun today, but personally,
+Dialogue: 0,1:14:05.82,1:14:08.22,Default,Fukuda Akari,0,0,60,,earlier in the MC,
+Dialogue: 0,1:14:08.30,1:14:12.74,Default,Fukuda Akari,0,0,60,,Aki mentioned my name, and, like...
+Dialogue: 0,1:14:13.22,1:14:14.32,Default,Toyonaga Aki,0,0,60,,Yes, I did say it.
+Dialogue: 0,1:14:14.42,1:14:14.66,Default,Fukuda Akari,0,0,60,,Huh?
+Dialogue: 0,1:14:14.94,1:14:16.00,Default,Fukuda Akari,0,0,60,,You did?
+Dialogue: 0,1:14:16.10,1:14:17.52,Default,Fukuda Akari,0,0,60,,Was that about me being good, or cute?
+Dialogue: 0,1:14:18.19,1:14:21.65,Default,Fukuda Akari,0,0,60,,That's right, isn't it? Wait, wait, wait — is that for real?
+Dialogue: 0,1:14:21.73,1:14:24.95,Default,Toyonaga Aki,0,0,60,,Huh? Someone told me about it afterwards.
+Dialogue: 0,1:14:25.03,1:14:28.15,Default,Fukuda Akari,0,0,60,,Ahh, it's scary. But I was really happy.
+Dialogue: 0,1:14:28.23,1:14:31.87,Default,Fukuda Akari,0,0,60,,Thank you. You often sing Kurayami, too, don't you?
+Dialogue: 0,1:14:31.95,1:14:34.31,Default,Toyonaga Aki,0,0,60,,Yes, we do! HKT48 itself
+Dialogue: 0,1:14:34.39,1:14:38.15,Default,Toyonaga Aki,0,0,60,,often performs other 48 groups' songs live,
+Dialogue: 0,1:14:38.23,1:14:40.79,Default,Toyonaga Aki,0,0,60,,and among them, as a solo or in the center,
+Dialogue: 0,1:14:40.87,1:14:43.79,Default,Toyonaga Aki,0,0,60,,I get to do STU's songs a whole lot.
+Dialogue: 0,1:14:44.19,1:14:46.37,Default,Toyonaga Aki,0,0,60,,I wish Aki-chan would join us concurrently someday!
+Dialogue: 0,1:14:46.45,1:14:48.71,Default,Toyonaga Aki,0,0,60,,I'd love that!
+Dialogue: 0,1:14:49.23,1:14:50.59,Default,Member,0,0,60,,We want you to come.
+Dialogue: 0,1:14:52.07,1:14:55.39,Default,Toyonaga Aki,0,0,60,,But come to think of it, Fukuoka borders the Seto Inland Sea too,
+Dialogue: 0,1:14:56.31,1:14:58.47,Default,Toyonaga Aki,0,0,60,,so when you all come to visit,
+Dialogue: 0,1:14:58.55,1:15:02.19,Default,Toyonaga Aki,0,0,60,,I thought we could do something like this in Fukuoka next time.
+Dialogue: 0,1:15:03.32,1:15:04.42,Default,Member,0,0,60,,Please do!
+Dialogue: 0,1:15:04.50,1:15:06.22,Default,Member,0,0,60,,There are so many songs I love,
+Dialogue: 0,1:15:06.30,1:15:07.04,Default,Member,0,0,60,,thank you.
+Dialogue: 0,1:15:09.02,1:15:10.02,Default,Member,0,0,60,,Thank you.
+Dialogue: 0,1:15:10.10,1:15:11.06,Default,Toyonaga Aki,0,0,60,,We'll definitely go!
+Dialogue: 0,1:15:11.14,1:15:13.22,Default,Fukuda Akari,0,0,60,,Personally?
+Dialogue: 0,1:15:13.30,1:15:14.10,Default,Toyonaga Aki,0,0,60,,We'll definitely go!
+Dialogue: 0,1:15:14.18,1:15:15.66,Default,Fukuda Akari,0,0,60,,Feels like you'd show up at my house.
+Dialogue: 0,1:15:17.08,1:15:19.32,Default,Host,0,0,60,,Ere-tan, how about you?
+Dialogue: 0,1:15:19.40,1:15:22.14,Default,Sakamoto Erena,0,0,60,,This is personal, but
+Dialogue: 0,1:15:22.22,1:15:23.98,Default,Sakamoto Erena,0,0,60,,Paseri and I were in a stage play together last time,
+Dialogue: 0,1:15:24.06,1:15:26.52,Default,Sakamoto Erena,0,0,60,,and this was our first idol co-appearance,
+Dialogue: 0,1:15:26.60,1:15:27.42,Default,Sakamoto Erena,0,0,60,,so since we're together this time,
+Dialogue: 0,1:15:27.50,1:15:29.56,Default,Sakamoto Erena,0,0,60,,I was really looking forward to it,
+Dialogue: 0,1:15:29.64,1:15:31.12,Default,Sakamoto Erena,0,0,60,,but we don't interact at all —
+Dialogue: 0,1:15:31.52,1:15:32.56,Default,Sakamoto Erena,0,0,60,,we're always far apart.
+Dialogue: 0,1:15:32.64,1:15:34.70,Default,Sakamoto Erena,0,0,60,,I thought maybe we could do a unit together,
+Dialogue: 0,1:15:35.02,1:15:37.30,Default,Sakamoto Erena,0,0,60,,I was hoping so, but we barely crossed paths.
+Dialogue: 0,1:15:37.88,1:15:38.90,Default,Sakamoto Erena,0,0,60,,But I'm happy anyway.
+Dialogue: 0,1:15:38.98,1:15:40.78,Default,Sakamoto Erena,0,0,60,,I'm glad I got to see you before I graduate.
+Dialogue: 0,1:15:41.40,1:15:41.75,Default,Ozaki Serika,0,0,60,,Thank you!
+Dialogue: 0,1:15:41.83,1:15:43.22,Default,Ozaki Serika,0,0,60,,Let's take lots of photos later!
+Dialogue: 0,1:15:43.30,1:15:43.64,Default,Sakamoto Erena,0,0,60,,Please!
+Dialogue: 0,1:15:44.40,1:15:44.80,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,1:15:45.34,1:15:45.74,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:15:46.54,1:15:50.64,Default,Member,0,0,60,,And today there was someone backstage wearing a T-shirt that caught my eye,
+Dialogue: 0,1:15:50.72,1:15:53.86,Default,Member,0,0,60,,our Kudo was wearing Aichi's birthday T-shirt!
+Dialogue: 0,1:15:53.94,1:15:54.36,Default,Ichimura Airi,0,0,60,,Huh?
+Dialogue: 0,1:15:54.76,1:15:56.04,Default,Ichimura Airi,0,0,60,,Yes, that's right!
+Dialogue: 0,1:15:56.12,1:15:59.48,Default,Ichimura Airi,0,0,60,,First off, I'm Aichi, Ichimura Airi — nice to meet you!
+Dialogue: 0,1:15:59.96,1:16:00.89,Default,Ichimura Airi,0,0,60,,Thank you!
+Dialogue: 0,1:16:03.11,1:16:08.05,Default,Ichimura Airi,0,0,60,,I call my fans "villagers," written with the characters for "village" and "people,"
+Dialogue: 0,1:16:08.13,1:16:11.77,Default,Ichimura Airi,0,0,60,,we made villager T-shirts as my birthday T-shirts.
+Dialogue: 0,1:16:12.39,1:16:15.95,Default,Ichimura Airi,0,0,60,,When I watched a video on YouTube of STU's rehearsal for the day before the concert,
+Dialogue: 0,1:16:16.03,1:16:17.27,Default,Ichimura Airi,0,0,60,,well,
+Dialogue: 0,1:16:17.69,1:16:19.67,Default,Ichimura Airi,0,0,60,,I thought, "There's somebody in red,"
+Dialogue: 0,1:16:20.33,1:16:24.17,Default,Ichimura Airi,0,0,60,,and when I looked, she was wearing the latest version of the villager T-shirt —
+Dialogue: 0,1:16:24.25,1:16:24.69,Default,Ichimura Airi,0,0,60,,wow —
+Dialogue: 0,1:16:24.77,1:16:25.63,Default,Ichimura Airi,0,0,60,,it was Rikochi!
+Dialogue: 0,1:16:25.71,1:16:26.67,Default,Kudo Riko,0,0,60,,I got to wear it!
+Dialogue: 0,1:16:27.11,1:16:29.27,Default,Ichimura Airi,0,0,60,,And she wore it again today!
+Dialogue: 0,1:16:29.35,1:16:29.70,Default,Ichimura Airi,0,0,60,,Wow!
+Dialogue: 0,1:16:29.78,1:16:32.65,Default,Ichimura Airi,0,0,60,,I thought she might wear it, though.
+Dialogue: 0,1:16:33.23,1:16:34.91,Default,Ichimura Airi,0,0,60,,I also got one from a fan —
+Dialogue: 0,1:16:34.99,1:16:36.67,Default,Ichimura Airi,0,0,60,,Rikochi's fans probably
+Dialogue: 0,1:16:36.75,1:16:39.69,Default,Ichimura Airi,0,0,60,,sent Rikochi a birthday T-shirt too, I think,
+Dialogue: 0,1:16:39.77,1:16:41.71,Default,Ichimura Airi,0,0,60,,so I brought one today just in case.
+Dialogue: 0,1:16:41.79,1:16:43.21,Default,Member,0,0,60,,You brought it?
+Dialogue: 0,1:16:44.41,1:16:45.53,Default,Ichimura Airi,0,0,60,,So I'm not wearing it —
+Dialogue: 0,1:16:46.55,1:16:48.03,Default,Ichimura Airi,0,0,60,,I'm not wearing it, but
+Dialogue: 0,1:16:48.51,1:16:50.61,Default,Ichimura Airi,0,0,60,,I thought it'd be nice to get a photo —
+Dialogue: 0,1:16:50.69,1:16:51.63,Default,Ichimura Airi,0,0,60,,let's take one after this!
+Dialogue: 0,1:16:51.71,1:16:52.41,Default,Kudo Riko,0,0,60,,Let's do it!
+Dialogue: 0,1:16:52.49,1:16:53.21,Default,Kudo Riko,0,0,60,,I'm happy!
+Dialogue: 0,1:16:53.29,1:16:54.53,Default,Ichimura Airi,0,0,60,,Why did you wear it?
+Dialogue: 0,1:16:54.91,1:16:56.05,Default,Kudo Riko,0,0,60,,Because I'd get to see Aichi!
+Dialogue: 0,1:16:56.13,1:16:57.45,Default,Kudo Riko,0,0,60,,I'm just so happy I can't stand it!
+Dialogue: 0,1:16:57.53,1:17:01.47,Default,Ichimura Airi,0,0,60,,You even DMed me last night, didn't you?
+Dialogue: 0,1:17:01.55,1:17:02.13,Default,Kudo Riko,0,0,60,,A message, yes!
+Dialogue: 0,1:17:02.21,1:17:04.55,Default,Ichimura Airi,0,0,60,,Yes, even though you were tired, you DMed me.
+Dialogue: 0,1:17:04.63,1:17:07.61,Default,Ichimura Airi,0,0,60,,Wow, I feel so much love.
+Dialogue: 0,1:17:07.69,1:17:08.21,Default,Ichimura Airi,0,0,60,,Thank you!
+Dialogue: 0,1:17:08.29,1:17:09.07,Default,Kudo Riko,0,0,60,,I like you!
+Dialogue: 0,1:17:10.55,1:17:12.47,Default,Ichimura Airi,0,0,60,,Is everyone put off? Is that okay?
+Dialogue: 0,1:17:13.01,1:17:14.89,Default,Ichimura Airi,0,0,60,,Can we do plenty more of this backstage later?
+Dialogue: 0,1:17:14.97,1:17:15.32,Default,Ichimura Airi,0,0,60,,Right, right?
+Dialogue: 0,1:17:15.40,1:17:18.59,Default,Member,0,0,60,,It's like this — exchanges between members, too,
+Dialogue: 0,1:17:18.67,1:17:21.09,Default,Host,0,0,60,,I hope we can keep deepening them from here on.
+Dialogue: 0,1:17:21.17,1:17:23.81,Default,Host,0,0,60,,Truly, everyone from HKT48,
+Dialogue: 0,1:17:23.89,1:17:24.79,Default,Member,0,0,60,,thank you for today!
+Dialogue: 0,1:17:25.79,1:17:26.15,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:17:31.75,1:17:34.55,Default,Member,0,0,60,,The next song will be our very, very last song.
+Dialogue: 0,1:17:37.96,1:17:40.10,Default,Host,0,0,60,,And last up is photo-OK time!
+Dialogue: 0,1:17:44.38,1:17:45.30,Default,Member,0,0,60,,It's sad, but
+Dialogue: 0,1:17:46.68,1:17:50.28,Default,Member,0,0,60,,for the last song, let's all get hyped together with that one!
+Dialogue: 0,1:17:51.26,1:17:51.94,Default,Member,0,0,60,,Please listen.
+Dialogue: 0,1:17:52.58,1:17:53.22,Default,Member,0,0,60,,Yume Chikara!
+Dialogue: 0,1:20:40.42,1:20:46.92,Default,Member,0,0,60,,Thank you so much for coming to today's STU48 8th Anniversary Special Joint Concert, "No Border ~Synergy~."
+Dialogue: 0,1:20:47.74,1:20:48.80,Default,Member,0,0,60,,We're truly grateful.
+Dialogue: 0,1:20:50.14,1:20:50.58,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:20:57.60,1:21:00.42,Default,Member,0,0,60,,Photo-OK time ends here.
+Dialogue: 0,1:21:01.04,1:21:04.74,Default,Member,0,0,60,,And to everyone from HKT48, thank you so much!
+Dialogue: 0,1:21:05.48,1:21:06.02,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:21:11.36,1:21:15.14,Default,Member,0,0,60,,Now, to finish, we'd like to all say our goodbyes together.
+Dialogue: 0,1:21:18.04,1:21:19.96,Default,All,0,0,60,,Ready, go!
+Dialogue: 0,1:21:20.04,1:21:21.92,Default,All,0,0,60,,Thank you very much!
+Dialogue: 0,1:21:22.48,1:21:24.44,Default,All,0,0,60,,Thank you very much!
+Dialogue: 0,1:21:35.30,1:21:36.70,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:21:40.00,1:21:40.68,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:21:40.76,1:21:41.86,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:21:41.94,1:21:43.30,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:21:44.82,1:21:47.38,Default,Member,0,0,60,,Third floor! Second floor!
+Dialogue: 0,1:21:47.46,1:21:48.94,Default,Member,0,0,60,,Balcony, thank you!
+Dialogue: 0,1:21:50.06,1:21:50.76,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:21:50.84,1:21:51.80,Default,Member,0,0,60,,Thank you!
+Dialogue: 0,1:21:54.16,1:21:59.20,Default,Member,0,0,60,,Come back and see us again!
+; ===== mc1 =====
+
+; ===== mc2 =====
+
+; ===== mc3 =====
+
+; ===== mc4 =====
+
+; ===== final =====
+
+; ===== close =====

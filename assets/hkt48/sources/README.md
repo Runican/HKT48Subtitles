@@ -23,3 +23,5 @@ Also: day-show (12:30) pass appended to `q-20261023-otonoha-kotonoha-250413.md` 
 Also: `q-20261026-mokugekisha-250411.md` (250411 Team H Mokugekisha 18:30: official cast + opening act, Ikuno/Ishimatsu/Kurihara checks, Izawa Zawachi and Fu call, Ibuki/Mai, Kigurumi Okkanaito, Memeshikute bit, Hawks line).
 
 Also: `q-20261027-saka-agari-250408.md` (250408 Himawarigumi Saka Agari 18:30: official cast, no opening act, Riria call, Minami call, Kurina catch, Ikuno / Shibui / Aa-tan checks, Meoto-iwa, Nagasaki-ben).
+
+Also: `q-20261028-nb-synergy-250406.md` (250406 STU48 × HKT48 joint concert "No Border ~Synergy~" Part 1, day show: official title/date, 33-member lineup with the Okamura→Kurushima/Morokuzu change, 30-song setlist with units and MC positions, STU48 nick traps; template stu48_hkt48_no_border_synergy.json).
