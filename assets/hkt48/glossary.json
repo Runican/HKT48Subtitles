@@ -5520,7 +5520,148 @@
       "locked": true,
       "updated": "2026-10-28T12:30:00+01:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "koppe-han-pair",
+      "ja": [
+        "こっぺはん",
+        "コッペはん",
+        "コッペハン"
+      ],
+      "en": "Koppe-Han",
+      "en_full": "Koppe-Han (Tachibana Kokoro + Ihara Hanna)",
+      "type": "nick",
+      "team": "KIV",
+      "reject": [
+        "コッペパン (bread) as the pair name"
+      ],
+      "note": "Pair name of Koko-ppe and Han-chan, used by Kokoro on the 250405 birthday quiz (polyhedra report).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-29T12:40:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "kurihan-duo",
+      "ja": [
+        "くりはん",
+        "クリハン",
+        "くりごはん",
+        "栗ご飯"
+      ],
+      "en": "Kuri-Han / Kuri-gohan",
+      "en_full": "Kuri-Han (Kuriyama Rina + Ihara Hanna, Oita duo)",
+      "type": "nick",
+      "team": "KIV",
+      "reject": [
+        "栗飯 / kurimeshi as the spoken form (ASR kanji for くりはん)"
+      ],
+      "note": "Oita-native duo name; Kurina's 250405 letter: 誰も使ってくれないけど一応存在するコンビ名「くりはん」. In the same show's outro they proposed renaming it くりごはん (chestnut rice).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-29T12:40:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "imamura-children",
+      "ja": [
+        "今村チルドレン",
+        "チルドレン"
+      ],
+      "en": "Imamura Children",
+      "en_full": "Imamura Children (Imamura Maria's protégé circle)",
+      "type": "jargon",
+      "team": "KIV",
+      "reject": [
+        "Children as literal kids"
+      ],
+      "note": "Imamura Maria's self-styled kouhai faction (○○チルドレン pattern, cf. aichiru). Goto Hinano was No. 1 (2023 X reply); Ihara Hanna and Yasui Hina are members.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-29T12:40:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "jigorock",
+      "ja": [
+        "ジゴロック",
+        "ジゴロック2025",
+        "地獄極楽ROCK FESTIVAL"
+      ],
+      "en": "JIGOROCK",
+      "en_full": "JIGOROCK 2025 ~Oita \"Jigoku Gokuraku\" ROCK FESTIVAL~",
+      "type": "event",
+      "team": null,
+      "reject": [
+        "Jigoku Rock",
+        "地獄ロック"
+      ],
+      "note": "TOS-organised rock festival at Oita Sports Park; HKT48 played on 2025-04-19 (official news 2025/03/10423). Spell as the brand JIGOROCK / Jigorock, not Jigoku Rock.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-29T12:40:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "show-oita-sunset-groove",
+      "ja": [
+        "Oita Sunset Groove",
+        "OitaSunsetGroove",
+        "オオイタサンセットグルーヴ"
+      ],
+      "en": "Oita Sunset Groove",
+      "en_full": "Oita Sunset Groove (FM Oita)",
+      "type": "show",
+      "team": null,
+      "reject": [
+        "FMO板 (ASR for FM大分)"
+      ],
+      "note": "FM Oita (エフエム大分) evening show. From 2025-04-03 Ihara Hanna is Thursday sub-host alongside main host 前田裕美 (Maeda Yumi).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-29T12:40:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "sashihara-road",
+      "ja": [
+        "指原ロード",
+        "さしこロード",
+        "さっしーロード"
+      ],
+      "en": "Sashihara Road",
+      "en_full": "Sashihara Road (Oita Station underground passage lined with Sashihara Rino posters)",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "差し原ロード (ASR kanji)"
+      ],
+      "note": "Fan name for the Oita Station-front underground passage covered in Sashihara posters (fan name さしこロード). Members riff on it as ○○ロード.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-29T12:40:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-degas-to-ballerina",
+      "ja": [
+        "ドガとバレリーナ",
+        "ドガバレ"
+      ],
+      "en": "Degas and the Ballerina",
+      "en_full": "Degas to Ballerina (ドガとバレリーナ, \"Degas and the Ballerina\"; NMB48 Team N 3rd stage original)",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Degas' Ballerina (と = and, not possessive)",
+        "Doga to Ballerina (ドガ = the painter Edgar Degas)"
+      ],
+      "note": "Main-set closer of the 「ここにだって天使はいる」 stage (NMB48 Team N original, 2013; HKT48 Team KIV4 revival). No official English title; fan databases romanize it Degas to Ballerina and gloss it \"Degas and the Ballerinas\", but the lyric addresses one ballerina (君), so subtitles use the singular.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-31T15:45:00+01:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-28T12:30:00+01:00"
+  "updated": "2026-10-29T12:40:00+01:00"
 }

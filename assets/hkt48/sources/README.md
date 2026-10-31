@@ -25,3 +25,5 @@ Also: `q-20261026-mokugekisha-250411.md` (250411 Team H Mokugekisha 18:30: offic
 Also: `q-20261027-saka-agari-250408.md` (250408 Himawarigumi Saka Agari 18:30: official cast, no opening act, Riria call, Minami call, Kurina catch, Ikuno / Shibui / Aa-tan checks, Meoto-iwa, Nagasaki-ben).
 
 Also: `q-20261028-nb-synergy-250406.md` (250406 STU48 × HKT48 joint concert "No Border ~Synergy~" Part 1, day show: official title/date, 33-member lineup with the Okamura→Kurushima/Morokuzu change, 30-song setlist with units and MC positions, STU48 nick traps; template stu48_hkt48_no_border_synergy.json).
+
+Also: `q-20261029-tenshi-250405.md` (250405 Team KIV Tenshi 17:00, Ihara Hanna birthday: official cast, setlist, quiz pair names Han-Koko / Koppe-Han, Kuri-Han → Kuri-gohan, Imamura Children, Oita Sunset Groove, JIGOROCK, Sashihara Road, 7th-gen speech line).

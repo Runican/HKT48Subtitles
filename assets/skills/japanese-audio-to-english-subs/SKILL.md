@@ -119,6 +119,8 @@ Other: `ffmpeg` / `ffprobe`, an LLM for translation + glossary, Python to snap c
 
 Pin the ASR engine used for each `asr.json` / `asr_pass2.json` in NOTES or in the JSON metadata.
 
+Long jobs: any run longer than ~2 minutes (ASR, gap or stub re-ASR, diarization) goes to a background helper whose only brief is to start the script, wait for it, and report the log summary and output paths. A long blocking wait inside the main session can end silently and leave a finished result unreported. Keep only short checks (under a minute) inline.
+
 ## Hard rules
 
 - Times in `cues.json` are **clip-relative**. Add `OFFSET_SEC` only when writing ASS.
@@ -134,6 +136,11 @@ Pin the ASR engine used for each `asr.json` / `asr_pass2.json` in NOTES or in th
 - Songs: mark `[song]` only after confirming; do not park one line on a whole chorus.
 - Reading speed guard: flag English cues over ~21 characters/sec. If the user says snug-but-readable is OK, keep them; otherwise split or rephrase.
 - Density guards: if `cues < DUR/8`, something is still collapsed; if `cues > DUR/1.5`, over-fragmented — review.
+- Misspoken names stay as said (a member saying the wrong name is part of the show); do not "correct" them to the glossary spelling.
+- Locked catchphrases are a starting guess only: members tweak their catches (birthdays, seasons, stage). If the audio clearly differs, subtitle what is said and send the cue to lore review.
+- Fixes happen before delivery. The reviewer watches each show spoiler-free, so never hand over a list of spots to check instead of fixing them.
+- Before speaker hints, get the show's official cast lineup (absences included) and pass it to the diarization step; without it hint accuracy drops sharply.
+- Keep every ASS version under `<workdir>/versions/` as numbered, step-named copies (`v01_pre_diar.ass`, `v02_hints.ass`, `v03_delivered.ass`, `v04_review1.ass`…); only the current file in the workdir root carries the real show filename. The pre-diarization copy keeps voice samples clean.
 
 ## Passes (mandatory)
 

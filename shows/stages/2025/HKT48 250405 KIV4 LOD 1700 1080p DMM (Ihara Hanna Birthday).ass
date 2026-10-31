@@ -1,0 +1,1653 @@
+[Script Info]
+Title: HKT48 250405 KIV4 LOD 1700 1080p DMM (Ihara Hanna Birthday)
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,56,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+; ===== intro =====
+Dialogue: 0,0:08:41.58,0:08:43.90,Default,Ihara Hanna,0,0,60,,Okay, today's DJ is Ihara Hanna!
+Dialogue: 0,0:08:45.36,0:08:47.70,Default,Ihara Hanna,0,0,60,,This one's from radio name Rooibos Tea-san.
+Dialogue: 0,0:08:47.82,0:08:50.06,Default,Ihara Hanna,0,0,60,,"Han-chan, happy 14th birthday!
+Dialogue: 0,0:08:50.14,0:08:51.92,Default,Ihara Hanna,0,0,60,,Han-chan, chan-chaka-chan!
+Dialogue: 0,0:08:52.00,0:08:55.40,Default,Ihara Hanna,0,0,60,,Thanks to you, every day is hanchaka-chan.
+Dialogue: 0,0:08:55.48,0:08:57.26,Default,Ihara Hanna,0,0,60,,Full of energy and hanchaka-chan today too!
+Dialogue: 0,0:08:57.34,0:08:59.40,Default,Ihara Hanna,0,0,60,,That's way too many "Hanchaka-chan!"
+Dialogue: 0,0:09:28.12,0:09:31.00,Default,Morisaki Saaya,0,0,60,,Everyone, please do the Hanjuku Wave with me!
+Dialogue: 0,0:09:31.06,0:09:31.50,Default,Morisaki Saaya,0,0,60,,Ready, go!
+Dialogue: 0,0:17:49.34,0:17:51.28,Default,All,0,0,60,,Good evening, everyone! We're HKT48
+Dialogue: 0,0:17:51.36,0:17:53.42,Default,All,0,0,60,,Team KIV!
+Dialogue: 0,0:17:59.37,0:18:02.21,Default,Jitoe Nene,0,0,60,,Team KIV's "Koko ni Datte Tenshi wa Iru" show has begun!
+Dialogue: 0,0:18:02.29,0:18:04.41,Default,Jitoe Nene,0,0,60,,First up, "Aoi Tsuki ga Miteru kara",
+Dialogue: 0,0:18:04.49,0:18:06.65,Default,Jitoe Nene,0,0,60,,"Radio Name", "Koko ni Datte Tenshi wa Iru",
+Dialogue: 0,0:18:06.73,0:18:08.47,Default,Jitoe Nene,0,0,60,,and "Cattleya no Hana wo Miru Tabi ni Omoidasu".
+Dialogue: 0,0:18:08.55,0:18:10.25,Default,Jitoe Nene,0,0,60,,You've heard four songs in a row—
+Dialogue: 0,0:18:10.33,0:18:11.77,Default,Jitoe Nene,0,0,60,,is everyone having fun?
+Dialogue: 0,0:18:14.90,0:18:17.06,Default,Jitoe Nene,0,0,60,,Today is Han-chan's birthday show!
+Dialogue: 0,0:18:19.97,0:18:20.69,Default,Jitoe Nene,0,0,60,,How do you feel?
+Dialogue: 0,0:18:21.37,0:18:23.39,Default,Ihara Hanna,0,0,60,,It's my first since being promoted to Team KIV,
+Dialogue: 0,0:18:23.47,0:18:26.99,Default,Ihara Hanna,0,0,60,,and it's my birthday show, so I'm really nervous,
+Dialogue: 0,0:18:27.07,0:18:29.41,Default,Ihara Hanna,0,0,60,,but I'll do my best, hanchaka-chan style!
+Dialogue: 0,0:18:30.69,0:18:31.09,Default,Ihara Hanna,0,0,60,,Please take care of me!
+Dialogue: 0,0:18:34.06,0:18:35.48,Default,Jitoe Nene,0,0,60,,Okay, let's take the photos!
+Dialogue: 0,0:18:35.56,0:18:36.30,Default,All,0,0,60,,Okay!
+Dialogue: 0,0:18:49.70,0:18:53.36,Default,Ihara Hanna,0,0,60,,First, let's slip in the usual hanchaka-chan once.
+Dialogue: 0,0:18:53.44,0:18:54.34,Default,Ihara Hanna,0,0,60,,Here we go!
+Dialogue: 0,0:18:55.10,0:18:56.02,Default,Ihara Hanna,0,0,60,,Se-no!
+Dialogue: 0,0:18:56.10,0:18:58.46,Default,All,0,0,60,,Hanchaka-chan!
+Dialogue: 0,0:19:01.00,0:19:01.40,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,0:19:03.20,0:19:04.36,Default,Ihara Hanna,0,0,60,,Fourteen, please!
+Dialogue: 0,0:19:15.78,0:19:17.62,Default,Ihara Hanna,0,0,60,,There's one last thing I want to do.
+Dialogue: 0,0:19:17.70,0:19:19.06,Default,Eguchi Kokoha,0,0,60,,What?
+Dialogue: 0,0:19:19.96,0:19:22.38,Default,Ihara Hanna,0,0,60,,From here to Richaki,
+Dialogue: 0,0:19:22.46,0:19:25.02,Default,Ihara Hanna,0,0,60,,please make the face for "Ha" in Hanna!
+Dialogue: 0,0:19:25.68,0:19:26.82,Default,Ihara Hanna,0,0,60,,The middle,
+Dialogue: 0,0:19:27.98,0:19:28.64,Default,Ihara Hanna,0,0,60,,make that face,
+Dialogue: 0,0:19:28.72,0:19:29.92,Default,Ihara Hanna,0,0,60,,and this side,
+Dialogue: 0,0:19:30.00,0:19:32.34,Default,Ihara Hanna,0,0,60,,make the "Na" face. Aren't they the same?
+Dialogue: 0,0:19:32.60,0:19:35.10,Default,Jitoe Nene,0,0,60,,"Ha" and "Na" have the same vowel, so it's a bit hard.
+Dialogue: 0,0:19:35.18,0:19:38.90,Default,Ihara Hanna,0,0,60,,Let me try it: like "Ha", "N", "Na".
+Dialogue: 0,0:19:38.98,0:19:40.54,Default,Kuriyama Rina,0,0,60,,Then shouldn't that be hands, not mouths?
+Dialogue: 0,0:19:40.88,0:19:41.58,Default,Ihara Hanna,0,0,60,,"Ha", "N", "Na".
+Dialogue: 0,0:19:41.70,0:19:42.30,Default,Jitoe Nene,0,0,60,,"Ha", right, "Ha".
+Dialogue: 0,0:19:42.50,0:19:43.30,Default,Ihara Hanna,0,0,60,,Okay, let's try it!
+Dialogue: 0,0:19:58.10,0:19:59.29,Default,Kuriyama Rina,0,0,60,,That was an unusual pose.
+Dialogue: 0,0:19:59.37,0:19:59.65,Default,Jitoe Nene,0,0,60,,Amazing!
+Dialogue: 0,0:20:00.57,0:20:02.43,Default,Jitoe Nene,0,0,60,,The three weird photos we just took
+Dialogue: 0,0:20:02.51,0:20:04.51,Default,Jitoe Nene,0,0,60,,will go on sale in the lobby after the show,
+Dialogue: 0,0:20:04.59,0:20:06.29,Default,Jitoe Nene,0,0,60,,so please stop by! Thank you!
+Dialogue: 0,0:20:06.95,0:20:07.63,Default,All,0,0,60,,Thank you!
+Dialogue: 0,0:20:12.22,0:20:12.56,Default,Jitoe Nene,0,0,60,,Thank you!
+Dialogue: 0,0:20:13.26,0:20:15.36,Default,Jitoe Nene,0,0,60,,Now let us introduce ourselves one by one.
+Dialogue: 0,0:20:15.44,0:20:19.40,Default,Jitoe Nene,0,0,60,,Today's topic is love and bonds between members—
+Dialogue: 0,0:20:19.48,0:20:22.40,Default,Jitoe Nene,0,0,60,,a time you felt a bond or love from a member.
+Dialogue: 0,0:20:23.02,0:20:24.12,Default,Jitoe Nene,0,0,60,,Starting with Morisaki-chan, please!
+Dialogue: 0,0:20:24.20,0:20:24.88,Default,Morisaki Saaya,0,0,60,,Yes!
+Dialogue: 0,0:20:25.83,0:20:28.55,Default,Morisaki Saaya,0,0,60,,Everyone, clap along and do the call with me, please!
+Dialogue: 0,0:20:30.64,0:20:32.40,Default,Morisaki Saaya,0,0,60,,Se-no, ready, go!
+Dialogue: 0,0:20:33.10,0:20:35.70,Default,Morisaki Saaya,0,0,60,,Looking sharp today— Saaya!
+Dialogue: 0,0:20:35.78,0:20:37.70,Default,Morisaki Saaya,0,0,60,,Coloring your mind— Saaya!
+Dialogue: 0,0:20:43.21,0:20:46.75,Default,Morisaki Saaya,0,0,60,,From Kumamoto, 20 years old, Team KIV's Morisaki Saaya!
+Dialogue: 0,0:20:53.72,0:20:54.13,Default,Morisaki Saaya,0,0,60,,Thank you!
+Dialogue: 0,0:20:55.17,0:20:58.33,Default,Morisaki Saaya,0,0,60,,The time I felt a bond and love
+Dialogue: 0,0:21:00.97,0:21:03.49,Default,Morisaki Saaya,0,0,60,,was earlier this year, when I had a sleepover
+Dialogue: 0,0:21:03.57,0:21:07.17,Default,Morisaki Saaya,0,0,60,,with Kokoha, Han-chan and Karen-ren—
+Dialogue: 0,0:21:07.25,0:21:08.99,Default,Morisaki Saaya,0,0,60,,the four of us had a sleepover,
+Dialogue: 0,0:21:09.07,0:21:12.57,Default,Morisaki Saaya,0,0,60,,and it ran over into my birthday,
+Dialogue: 0,0:21:13.29,0:21:16.89,Default,Morisaki Saaya,0,0,60,,from the day before into the day itself.
+Dialogue: 0,0:21:16.97,0:21:17.95,Default,Morisaki Saaya,0,0,60,,We had a sleepover,
+Dialogue: 0,0:21:18.03,0:21:20.81,Default,Morisaki Saaya,0,0,60,,and on the first day, the day before,
+Dialogue: 0,0:21:20.89,0:21:23.05,Default,Morisaki Saaya,0,0,60,,since it was my birthday,
+Dialogue: 0,0:21:23.13,0:21:26.61,Default,Morisaki Saaya,0,0,60,,I thought I'd buy my favourite chocolate cake to take back,
+Dialogue: 0,0:21:26.69,0:21:29.87,Default,Morisaki Saaya,0,0,60,,and I brought it back to the hotel.
+Dialogue: 0,0:21:30.00,0:21:32.38,Default,Morisaki Saaya,0,0,60,,And then, from the three of them,
+Dialogue: 0,0:21:33.02,0:21:36.10,Default,Morisaki Saaya,0,0,60,,a super glossy, fancy-looking
+Dialogue: 0,0:21:37.00,0:21:38.80,Default,Morisaki Saaya,0,0,60,,chocolate cake
+Dialogue: 0,0:21:38.88,0:21:40.64,Default,Morisaki Saaya,0,0,60,,was given to me!
+Dialogue: 0,0:21:41.10,0:21:43.98,Default,Morisaki Saaya,0,0,60,,It was like, we think alike,
+Dialogue: 0,0:21:44.06,0:21:46.56,Default,Morisaki Saaya,0,0,60,,and, for the road we've walked together,
+Dialogue: 0,0:21:46.64,0:21:49.16,Default,Morisaki Saaya,0,0,60,,they really know me,
+Dialogue: 0,0:21:49.24,0:21:50.20,Default,Morisaki Saaya,0,0,60,,so I felt a bond,
+Dialogue: 0,0:21:50.28,0:21:52.64,Default,Morisaki Saaya,0,0,60,,and I felt love in them buying it for me.
+Dialogue: 0,0:21:52.72,0:21:54.74,Default,Morisaki Saaya,0,0,60,,Today I'll celebrate Han-chan a lot all day!
+Dialogue: 0,0:21:54.82,0:21:55.66,Default,Morisaki Saaya,0,0,60,,Please take care of me!
+Dialogue: 0,0:21:56.22,0:21:57.50,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:22:01.28,0:22:03.92,Default,Eguchi Kokoha,0,0,60,,Everyone, please look for Han-chan!
+Dialogue: 0,0:22:04.46,0:22:05.64,Default,Crowd,0,0,60,,Where are you?
+Dialogue: 0,0:22:06.74,0:22:08.20,Default,Eguchi Kokoha,0,0,60,,I'm right here!
+Dialogue: 0,0:22:10.24,0:22:10.64,Default,Eguchi Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:22:12.32,0:22:12.82,Default,Eguchi Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:22:12.96,0:22:15.18,Default,Eguchi Kokoha,0,0,60,,I'll always be waiting right here, so come see me at Han-chan's place—
+Dialogue: 0,0:22:15.26,0:22:15.88,Default,Eguchi Kokoha,0,0,60,,and love, okay?
+Dialogue: 0,0:22:15.96,0:22:18.86,Default,Eguchi Kokoha,0,0,60,,From Nagasaki, 3rd year of high school, 17 years old,
+Dialogue: 0,0:22:18.94,0:22:20.04,Default,Eguchi Kokoha,0,0,60,,I'm Koko-chan, Eguchi Kokoha!
+Dialogue: 0,0:22:20.12,0:22:21.06,Default,Crowd,0,0,60,,Koko-chan!
+Dialogue: 0,0:22:23.73,0:22:24.13,Default,Eguchi Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:22:25.77,0:22:27.89,Default,Eguchi Kokoha,0,0,60,,The time I felt love
+Dialogue: 0,0:22:27.97,0:22:30.05,Default,Eguchi Kokoha,0,0,60,,was from Han-chan and her family,
+Dialogue: 0,0:22:30.13,0:22:31.03,Default,Eguchi Kokoha,0,0,60,,the Ihara household—
+Dialogue: 0,0:22:31.11,0:22:33.27,Default,Eguchi Kokoha,0,0,60,,I felt so much love from them.
+Dialogue: 0,0:22:33.35,0:22:35.01,Default,Eguchi Kokoha,0,0,60,,I went to stay over
+Dialogue: 0,0:22:35.09,0:22:37.03,Default,Eguchi Kokoha,0,0,60,,at Han-chan's family home,
+Dialogue: 0,0:22:37.43,0:22:38.13,Default,Eguchi Kokoha,0,0,60,,and at the time, I—
+Dialogue: 0,0:22:38.21,0:22:39.97,Default,Eguchi Kokoha,0,0,60,,it's about an allergy,
+Dialogue: 0,0:22:40.05,0:22:42.03,Default,Eguchi Kokoha,0,0,60,,the doctor at the hospital
+Dialogue: 0,0:22:42.11,0:22:44.83,Default,Eguchi Kokoha,0,0,60,,told me to cut down on wheat flour.
+Dialogue: 0,0:22:44.91,0:22:47.13,Default,Eguchi Kokoha,0,0,60,,That's when I went to Han-chan's house.
+Dialogue: 0,0:22:47.21,0:22:48.69,Default,Eguchi Kokoha,0,0,60,,And I think Han-chan
+Dialogue: 0,0:22:48.77,0:22:50.05,Default,Eguchi Kokoha,0,0,60,,told her mum and everyone,
+Dialogue: 0,0:22:50.13,0:22:52.09,Default,Eguchi Kokoha,0,0,60,,"Koko-chan can't eat wheat,
+Dialogue: 0,0:22:52.17,0:22:54.61,Default,Eguchi Kokoha,0,0,60,,so leave it out of dinner," something like that.
+Dialogue: 0,0:22:54.69,0:22:55.47,Default,Eguchi Kokoha,0,0,60,,They did that for me,
+Dialogue: 0,0:22:55.95,0:22:58.39,Default,Eguchi Kokoha,0,0,60,,and they served delicious food
+Dialogue: 0,0:22:58.47,0:23:00.43,Default,Eguchi Kokoha,0,0,60,,with no wheat in it,
+Dialogue: 0,0:23:00.51,0:23:02.15,Default,Eguchi Kokoha,0,0,60,,and at night, when we
+Dialogue: 0,0:23:02.23,0:23:03.69,Default,Eguchi Kokoha,0,0,60,,decided to have ice cream,
+Dialogue: 0,0:23:03.77,0:23:05.27,Default,Eguchi Kokoha,0,0,60,,they brought out ice cream for us.
+Dialogue: 0,0:23:05.35,0:23:06.77,Default,Eguchi Kokoha,0,0,60,,And on the lid of the ice cream
+Dialogue: 0,0:23:06.85,0:23:09.09,Default,Eguchi Kokoha,0,0,60,,it said something like "No wheat in this!"
+Dialogue: 0,0:23:10.21,0:23:10.73,Default,Unknown,0,0,60,,So kind!
+Dialogue: 0,0:23:10.81,0:23:12.77,Default,Eguchi Kokoha,0,0,60,,It was written on the package,
+Dialogue: 0,0:23:12.85,0:23:14.55,Default,Eguchi Kokoha,0,0,60,,and I thought, that's love,
+Dialogue: 0,0:23:14.63,0:23:16.59,Default,Eguchi Kokoha,0,0,60,,and it warmed my heart.
+Dialogue: 0,0:23:16.67,0:23:18.73,Default,Eguchi Kokoha,0,0,60,,Today I'll celebrate Han-chan a lot all day!
+Dialogue: 0,0:23:18.81,0:23:19.63,Default,Eguchi Kokoha,0,0,60,,Please take care of me!
+Dialogue: 0,0:23:23.81,0:23:25.61,Default,Jitoe Nene,0,0,60,,From Miyazaki, Team KIV's
+Dialogue: 0,0:23:25.69,0:23:26.37,Default,Jitoe Nene,0,0,60,,Jitoe Nene!
+Dialogue: 0,0:23:26.45,0:23:27.57,Default,Crowd,0,0,60,,Nene-chan!
+Dialogue: 0,0:23:30.00,0:23:30.52,Default,Jitoe Nene,0,0,60,,Thank you!
+Dialogue: 0,0:23:31.34,0:23:33.42,Default,Jitoe Nene,0,0,60,,Mine is everyone in KIV—
+Dialogue: 0,0:23:33.76,0:23:35.76,Default,Jitoe Nene,0,0,60,,or rather, KIV's young ones.
+Dialogue: 0,0:23:36.86,0:23:39.96,Default,Jitoe Nene,0,0,60,,At shows, a trainer comes for us.
+Dialogue: 0,0:23:40.04,0:23:43.08,Default,Jitoe Nene,0,0,60,,Someone who gives massages, and if you've hurt your legs,
+Dialogue: 0,0:23:43.16,0:23:45.74,Default,Jitoe Nene,0,0,60,,they'll do this kind of thing for you.
+Dialogue: 0,0:23:45.82,0:23:49.00,Default,Jitoe Nene,0,0,60,,Before the show there's a list,
+Dialogue: 0,0:23:49.34,0:23:51.04,Default,Jitoe Nene,0,0,60,,and you write your name on it,
+Dialogue: 0,0:23:51.12,0:23:53.74,Default,Jitoe Nene,0,0,60,,and you get called in the order you wrote it.
+Dialogue: 0,0:23:54.32,0:23:57.08,Default,Jitoe Nene,0,0,60,,So I'd been going by first come, first served,
+Dialogue: 0,0:23:57.54,0:23:58.74,Default,Jitoe Nene,0,0,60,,that's what I thought,
+Dialogue: 0,0:23:59.08,0:24:02.54,Default,Jitoe Nene,0,0,60,,but the young ones write us old ladies in first.
+Dialogue: 0,0:24:02.62,0:24:05.30,Default,Jitoe Nene,0,0,60,,So before I know it, my name's already been written in.
+Dialogue: 0,0:24:05.38,0:24:07.84,Default,Jitoe Nene,0,0,60,,They always wrote us old ladies near the top
+Dialogue: 0,0:24:07.92,0:24:10.44,Default,Jitoe Nene,0,0,60,,and put themselves near the bottom,
+Dialogue: 0,0:24:10.52,0:24:12.50,Default,Jitoe Nene,0,0,60,,and I felt love in that,
+Dialogue: 0,0:24:12.58,0:24:16.28,Default,Jitoe Nene,0,0,60,,but from now on, real idols are survival of the fittest,
+Dialogue: 0,0:24:17.46,0:24:20.22,Default,Jitoe Nene,0,0,60,,so let's compete as idols, first come, first served,
+Dialogue: 0,0:24:20.70,0:24:22.40,Default,Jitoe Nene,0,0,60,,and I hope we deepen our bond that way.
+Dialogue: 0,0:24:22.80,0:24:24.30,Default,Jitoe Nene,0,0,60,,Please take care of me today!
+Dialogue: 0,0:24:28.32,0:24:29.92,Default,Ihara Hanna,0,0,60,,When I point the mic at you,
+Dialogue: 0,0:24:30.00,0:24:31.40,Default,Ihara Hanna,0,0,60,,please say "hanchaka-chan!"
+Dialogue: 0,0:24:32.92,0:24:35.56,Default,Ihara Hanna,0,0,60,,The love that bonds us all together—
+Dialogue: 0,0:24:38.88,0:24:39.62,Default,Ihara Hanna,0,0,60,,Received!
+Dialogue: 0,0:24:39.70,0:24:42.64,Default,Ihara Hanna,0,0,60,,From Oita Prefecture, 2nd year of junior high, age 14,
+Dialogue: 0,0:24:42.72,0:24:44.38,Default,Ihara Hanna,0,0,60,,I'm Ihara Hanna, a bit of a scatterbrain!
+Dialogue: 0,0:24:44.46,0:24:45.40,Default,Ihara Hanna,0,0,60,,Please call me Han-chan!
+Dialogue: 0,0:24:45.48,0:24:46.42,Default,Ihara Hanna,0,0,60,,Please take care of me!
+Dialogue: 0,0:24:46.50,0:24:47.58,Default,Crowd,0,0,60,,Han-chan!
+Dialogue: 0,0:24:50.16,0:24:50.52,Default,Ihara Hanna,0,0,60,,Wow!
+Dialogue: 0,0:24:51.12,0:24:53.33,Default,Ihara Hanna,0,0,60,,It says "Han-chan, take care of us!"
+Dialogue: 0,0:24:53.41,0:24:54.45,Default,Ihara Hanna,0,0,60,,Thank you, everyone!
+Dialogue: 0,0:24:54.53,0:24:55.35,Default,Ihara Hanna,0,0,60,,Cute!
+Dialogue: 0,0:24:56.25,0:24:56.61,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,0:24:58.45,0:24:58.80,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,0:24:58.88,0:24:59.38,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,0:25:02.65,0:25:05.69,Default,Ihara Hanna,0,0,60,,The time I felt a bond or love
+Dialogue: 0,0:25:07.35,0:25:10.43,Default,Ihara Hanna,0,0,60,,is about KIV's 6th gens.
+Dialogue: 0,0:25:10.51,0:25:13.09,Default,Ihara Hanna,0,0,60,,I really like puns.
+Dialogue: 0,0:25:13.57,0:25:17.65,Default,Ihara Hanna,0,0,60,,I like puns, and I often slip them into conversation,
+Dialogue: 0,0:25:17.73,0:25:20.55,Default,Ihara Hanna,0,0,60,,and when I tell a pun in front of the 6th gens,
+Dialogue: 0,0:25:20.63,0:25:22.49,Default,Ihara Hanna,0,0,60,,it freezes for a moment.
+Dialogue: 0,0:25:22.57,0:25:24.31,Default,Ihara Hanna,0,0,60,,The air freezes,
+Dialogue: 0,0:25:24.39,0:25:26.99,Default,Ihara Hanna,0,0,60,,but they say "Whoa, that's funny!"
+Dialogue: 0,0:25:27.07,0:25:28.91,Default,Ihara Hanna,0,0,60,,so I think they're really warm.
+Dialogue: 0,0:25:29.37,0:25:31.06,Default,Ihara Hanna,0,0,60,,Please take care of me at today's birthday celebration!
+Dialogue: 0,0:25:31.68,0:25:32.86,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:25:36.92,0:25:38.06,Default,Tachibana Kokoro,0,0,60,,Always in everyone's hearts—
+Dialogue: 0,0:25:38.14,0:25:39.32,Default,Crowd,0,0,60,,Kokoro!
+Dialogue: 0,0:25:40.06,0:25:41.96,Default,Tachibana Kokoro,0,0,60,,With this smile, energy into everyone's hearts—
+Dialogue: 0,0:25:42.04,0:25:43.18,Default,Tachibana Kokoro,0,0,60,,charge!
+Dialogue: 0,0:25:43.26,0:25:44.88,Default,Tachibana Kokoro,0,0,60,,I'll deliver lots of smiles!
+Dialogue: 0,0:25:45.66,0:25:48.12,Default,Tachibana Kokoro,0,0,60,,1st year of high school, 15 years old, Koko-ppe,
+Dialogue: 0,0:25:48.20,0:25:48.88,Default,Tachibana Kokoro,0,0,60,,I'm Tachibana Kokoro!
+Dialogue: 0,0:25:48.96,0:25:49.74,Default,Tachibana Kokoro,0,0,60,,Please take care of me!
+Dialogue: 0,0:25:50.01,0:25:52.51,Default,Crowd,0,0,60,,Kokoro!
+Dialogue: 0,0:25:52.52,0:25:54.00,Default,Tachibana Kokoro,0,0,60,,Thank you!
+Dialogue: 0,0:25:55.04,0:25:57.86,Default,Tachibana Kokoro,0,0,60,,The moment I felt a bond or love
+Dialogue: 0,0:25:57.94,0:26:01.66,Default,Tachibana Kokoro,0,0,60,,was Han-chan and her family.
+Dialogue: 0,0:26:02.30,0:26:05.16,Default,Tachibana Kokoro,0,0,60,,The first time I stayed over at Han-chan's house,
+Dialogue: 0,0:26:05.24,0:26:09.80,Default,Tachibana Kokoro,0,0,60,,after my bath, she made me a banana smoothie—
+Dialogue: 0,0:26:09.88,0:26:10.60,Default,Tachibana Kokoro,0,0,60,,her mum did.
+Dialogue: 0,0:26:10.94,0:26:13.28,Default,Tachibana Kokoro,0,0,60,,And Han-chan's room is on the second floor,
+Dialogue: 0,0:26:13.36,0:26:15.22,Default,Tachibana Kokoro,0,0,60,,so to Han-chan's room on the second floor—
+Dialogue: 0,0:26:15.30,0:26:16.18,Default,Multiple,0,0,60,,Second floor?
+Dialogue: 0,0:26:17.12,0:26:20.58,Default,Tachibana Kokoro,0,0,60,,It's on the second floor, so I took the banana smoothie to Han-chan's room,
+Dialogue: 0,0:26:20.66,0:26:21.64,Default,Tachibana Kokoro,0,0,60,,and the two of us were drinking it.
+Dialogue: 0,0:26:21.72,0:26:24.36,Default,Tachibana Kokoro,0,0,60,,And the living room is on the first floor,
+Dialogue: 0,0:26:25.34,0:26:28.90,Default,Tachibana Kokoro,0,0,60,,so I tried to take the empty cups down to the first floor.
+Dialogue: 0,0:26:28.98,0:26:32.20,Default,Tachibana Kokoro,0,0,60,,And I dropped a cup halfway down the stairs.
+Dialogue: 0,0:26:32.28,0:26:34.42,Default,Tachibana Kokoro,0,0,60,,I really messed up.
+Dialogue: 0,0:26:34.78,0:26:37.14,Default,Tachibana Kokoro,0,0,60,,And then, without getting angry at all,
+Dialogue: 0,0:26:37.52,0:26:39.14,Default,Tachibana Kokoro,0,0,60,,Han-chan's mum and dad
+Dialogue: 0,0:26:39.22,0:26:41.12,Default,Tachibana Kokoro,0,0,60,,wiped it all up really cleanly,
+Dialogue: 0,0:26:41.42,0:26:43.64,Default,Tachibana Kokoro,0,0,60,,and on top of that, the little leftover banana smoothie
+Dialogue: 0,0:26:43.72,0:26:45.06,Default,Tachibana Kokoro,0,0,60,,got on my clothes,
+Dialogue: 0,0:26:45.14,0:26:47.32,Default,Tachibana Kokoro,0,0,60,,and they even got me a change of clothes.
+Dialogue: 0,0:26:47.76,0:26:49.70,Default,Tachibana Kokoro,0,0,60,,And the stairs got super smelly—
+Dialogue: 0,0:26:52.06,0:26:53.76,Default,Tachibana Kokoro,0,0,60,,they ended up smelling of banana,
+Dialogue: 0,0:26:53.84,0:26:55.90,Default,Tachibana Kokoro,0,0,60,,so I think I'll go check on them sometime.
+Dialogue: 0,0:26:55.98,0:26:57.56,Default,Tachibana Kokoro,0,0,60,,Please take care of me today too!
+Dialogue: 0,0:26:57.94,0:26:58.96,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:27:02.64,0:27:05.92,Default,Yasui Hina,0,0,60,,Okay! Born on February 9, Meat Day! Beef tongue—
+Dialogue: 0,0:27:05.93,0:27:07.49,Default,Yasui Hina,0,0,60,,Pork tongue— Hina-tan!
+Dialogue: 0,0:27:07.70,0:27:08.35,Default,Yasui Hina,0,0,60,,Thank you!
+Dialogue: 0,0:27:08.43,0:27:10.16,Default,Yasui Hina,0,0,60,,My charm point is being bright and cheerful!
+Dialogue: 0,0:27:10.24,0:27:11.68,Default,Yasui Hina,0,0,60,,I love Han-chan to bits—
+Dialogue: 0,0:27:11.76,0:27:15.50,Default,Yasui Hina,0,0,60,,2nd year of junior high, 14, Team KIV's Yasui Hina!
+Dialogue: 0,0:27:15.58,0:27:16.66,Default,Crowd,0,0,60,,Hina-tan!
+Dialogue: 0,0:27:17.54,0:27:17.86,Default,Yasui Hina,0,0,60,,Thank you!
+Dialogue: 0,0:27:19.98,0:27:23.36,Default,Yasui Hina,0,0,60,,The time I felt bonds and love
+Dialogue: 0,0:27:23.44,0:27:24.80,Default,Yasui Hina,0,0,60,,is about Han-chan.
+Dialogue: 0,0:27:24.88,0:27:26.78,Default,Yasui Hina,0,0,60,,I'm always saying stuff like
+Dialogue: 0,0:27:26.86,0:27:28.10,Default,Yasui Hina,0,0,60,,"I love Han-chan,"
+Dialogue: 0,0:27:28.18,0:27:29.70,Default,Yasui Hina,0,0,60,,but when I tell her I love her,
+Dialogue: 0,0:27:30.00,0:27:31.18,Default,Yasui Hina,0,0,60,,she won't say she loves me back,
+Dialogue: 0,0:27:31.26,0:27:33.14,Default,Yasui Hina,0,0,60,,she's always so standoffish,
+Dialogue: 0,0:27:33.22,0:27:36.32,Default,Yasui Hina,0,0,60,,but today she said she wanted me to watch something,
+Dialogue: 0,0:27:36.92,0:27:38.98,Default,Yasui Hina,0,0,60,,and to come with her to the wings,
+Dialogue: 0,0:27:39.06,0:27:40.34,Default,Yasui Hina,0,0,60,,and my heart just skipped,
+Dialogue: 0,0:27:40.42,0:27:42.48,Default,Yasui Hina,0,0,60,,so I hope she keeps saying things like that.
+Dialogue: 0,0:27:42.56,0:27:44.24,Default,Yasui Hina,0,0,60,,Please take care of me today!
+Dialogue: 0,0:27:44.32,0:27:46.22,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:27:48.59,0:27:50.29,Default,Oba Risaki,0,0,60,,When I point the mic at you,
+Dialogue: 0,0:27:50.37,0:27:51.85,Default,Oba Risaki,0,0,60,,please say "Risaki!"
+Dialogue: 0,0:27:51.89,0:27:52.73,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:27:52.81,0:27:54.21,Default,Oba Risaki,0,0,60,,From morning till night,
+Dialogue: 0,0:27:54.29,0:27:56.45,Default,Oba Risaki,0,0,60,,I want to fill it up with Risaki!
+Dialogue: 0,0:27:56.53,0:27:57.46,Default,Oba Risaki,0,0,60,,Good morning!
+Dialogue: 0,0:27:57.47,0:27:58.45,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:27:58.71,0:27:59.25,Default,Oba Risaki,0,0,60,,Good night!
+Dialogue: 0,0:27:59.33,0:28:00.11,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:28:00.19,0:28:02.11,Default,Oba Risaki,0,0,60,,I've caught everyone's hearts!
+Dialogue: 0,0:28:02.29,0:28:03.11,Default,Crowd,0,0,60,,Caught!
+Dialogue: 0,0:28:03.61,0:28:04.57,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,0:28:04.65,0:28:06.13,Default,Oba Risaki,0,0,60,,I'm 19-year-old Oba Risaki!
+Dialogue: 0,0:28:06.21,0:28:06.93,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:28:09.55,0:28:10.39,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,0:28:11.42,0:28:15.52,Default,Oba Risaki,0,0,60,,Something that made me feel a bond or love
+Dialogue: 0,0:28:15.60,0:28:18.16,Default,Oba Risaki,0,0,60,,is Han-chan's treat for us today.
+Dialogue: 0,0:28:18.24,0:28:20.92,Default,Oba Risaki,0,0,60,,There were loads of doughnuts,
+Dialogue: 0,0:28:21.00,0:28:23.78,Default,Oba Risaki,0,0,60,,and I couldn't decide which flavour to have.
+Dialogue: 0,0:28:23.86,0:28:27.26,Default,Oba Risaki,0,0,60,,Then on the message saying "from Han-chan,"
+Dialogue: 0,0:28:27.34,0:28:29.62,Default,Oba Risaki,0,0,60,,it said "I recommend the rice flour one!"
+Dialogue: 0,0:28:29.70,0:28:32.28,Default,Oba Risaki,0,0,60,,And I thought, Han-chan's love is amazing,
+Dialogue: 0,0:28:32.36,0:28:35.18,Default,Oba Risaki,0,0,60,,and I was so happy I was going to pick rice flour,
+Dialogue: 0,0:28:35.26,0:28:36.40,Default,Oba Risaki,0,0,60,,but I went with chocolate.
+Dialogue: 0,0:28:36.80,0:28:38.28,Default,Oba Risaki,0,0,60,,Next time I'll go with rice flour.
+Dialogue: 0,0:28:38.36,0:28:39.68,Default,Oba Risaki,0,0,60,,Please take care of me today too!
+Dialogue: 0,0:28:43.90,0:28:47.12,Default,Imamura Maria,0,0,60,,From Gunma, 21 years old, Team KIV's Imamura Maria!
+Dialogue: 0,0:28:50.44,0:28:50.80,Default,Imamura Maria,0,0,60,,Thank you!
+Dialogue: 0,0:28:52.52,0:28:55.68,Default,Imamura Maria,0,0,60,,For me— I don't know if you all know this,
+Dialogue: 0,0:28:55.76,0:28:57.86,Default,Imamura Maria,0,0,60,,but there's a thing called the Imamura Children,
+Dialogue: 0,0:28:58.20,0:29:00.32,Default,Imamura Maria,0,0,60,,and Han-chan's in it too.
+Dialogue: 0,0:29:00.40,0:29:03.02,Default,Imamura Maria,0,0,60,,Lots of other members are in it as well,
+Dialogue: 0,0:29:03.10,0:29:05.18,Default,Imamura Maria,0,0,60,,but I haven't achieved anything yet,
+Dialogue: 0,0:29:05.76,0:29:08.14,Default,Imamura Maria,0,0,60,,and I really felt love in them not quitting on me,
+Dialogue: 0,0:29:08.22,0:29:10.86,Default,Imamura Maria,0,0,60,,so I think it's about time I took them out for a meal.
+Dialogue: 0,0:29:11.22,0:29:12.44,Default,Imamura Maria,0,0,60,,Please take care of me today!
+Dialogue: 0,0:29:15.56,0:29:18.85,Default,Fukui Karen,0,0,60,,When it comes to an angel-like little devil—
+Dialogue: 0,0:29:19.97,0:29:22.81,Default,Fukui Karen,0,0,60,,I wanna be Han-chan's angel!
+Dialogue: 0,0:29:24.06,0:29:24.38,Default,Fukui Karen,0,0,60,,Thank you!
+Dialogue: 0,0:29:25.06,0:29:28.26,Default,Fukui Karen,0,0,60,,From Nagasaki, 18 years old, I'm Karen-ren, Fukui Karen!
+Dialogue: 0,0:29:32.13,0:29:32.63,Default,Fukui Karen,0,0,60,,Thank you!
+Dialogue: 0,0:29:33.77,0:29:35.11,Default,Fukui Karen,0,0,60,,I felt a bond and love
+Dialogue: 0,0:29:35.19,0:29:36.99,Default,Fukui Karen,0,0,60,,from Han-chan too.
+Dialogue: 0,0:29:37.61,0:29:40.77,Default,Fukui Karen,0,0,60,,Around my birthday, I was just
+Dialogue: 0,0:29:40.85,0:29:44.39,Default,Fukui Karen,0,0,60,,starting to get into Hello Kitty.
+Dialogue: 0,0:29:44.47,0:29:45.53,Default,Fukui Karen,0,0,60,,And, like,
+Dialogue: 0,0:29:46.19,0:29:49.31,Default,Fukui Karen,0,0,60,,I hadn't told anyone I liked Hello Kitty,
+Dialogue: 0,0:29:49.39,0:29:51.29,Default,Fukui Karen,0,0,60,,but for my birthday present Han-chan
+Dialogue: 0,0:29:51.37,0:29:54.93,Default,Fukui Karen,0,0,60,,gave me a Hello Kitty sandal keychain,
+Dialogue: 0,0:29:55.01,0:29:58.07,Default,Fukui Karen,0,0,60,,and I thought, she really gets me, and felt love.
+Dialogue: 0,0:29:58.15,0:29:59.85,Default,Fukui Karen,0,0,60,,Today I want to celebrate Han-chan!
+Dialogue: 0,0:29:59.93,0:30:00.83,Default,Fukui Karen,0,0,60,,Please take care of me!
+Dialogue: 0,0:30:05.42,0:30:07.70,Default,Izawa Miyu,0,0,60,,When I point the mic at you, please say it fast!
+Dialogue: 0,0:30:07.78,0:30:08.38,Default,Izawa Miyu,0,0,60,,Please!
+Dialogue: 0,0:30:10.34,0:30:11.82,Default,Izawa Miyu,0,0,60,,In charge of warm smiles!
+Dialogue: 0,0:30:11.90,0:30:14.58,Default,Izawa Miyu,0,0,60,,I'll turn today into an eternal day!
+Dialogue: 0,0:30:16.27,0:30:16.63,Default,Izawa Miyu,0,0,60,,Thank you!
+Dialogue: 0,0:30:17.11,0:30:19.55,Default,Izawa Miyu,0,0,60,,From Fukuoka, born in summer, 18 years old,
+Dialogue: 0,0:30:19.63,0:30:21.03,Default,Izawa Miyu,0,0,60,,I'm Izawa Miyu! Please take care of me!
+Dialogue: 0,0:30:26.31,0:30:27.37,Default,Izawa Miyu,0,0,60,,Thank you!
+Dialogue: 0,0:30:27.62,0:30:30.20,Default,Izawa Miyu,0,0,60,,The moment I feel a bond or love
+Dialogue: 0,0:30:30.28,0:30:33.30,Default,Izawa Miyu,0,0,60,,is the time we spend in the KIV dressing room.
+Dialogue: 0,0:30:33.92,0:30:39.04,Default,Izawa Miyu,0,0,60,,Every time the bento arrive, someone goes out to the corridor to check,
+Dialogue: 0,0:30:39.12,0:30:42.92,Default,Izawa Miyu,0,0,60,,and "the bento are here"— what do you call it, a carrier pigeon?
+Dialogue: 0,0:30:43.00,0:30:45.82,Default,Izawa Miyu,0,0,60,,They pass it on like a carrier pigeon.
+Dialogue: 0,0:30:46.20,0:30:51.62,Default,Izawa Miyu,0,0,60,,Today too, Rinka and Risaki kept going to look down the corridor, "Are the bento here yet?"
+Dialogue: 0,0:30:51.96,0:30:55.22,Default,Izawa Miyu,0,0,60,,They said "The bento are here!" and went back to the corridor once,
+Dialogue: 0,0:30:55.30,0:31:00.00,Default,Izawa Miyu,0,0,60,,then came back again: "But there's no chicken nanban bento," and came back again,
+Dialogue: 0,0:31:01.02,0:31:02.34,Default,Izawa Miyu,0,0,60,,and when I thought they'd come back again,
+Dialogue: 0,0:31:02.42,0:31:04.66,Default,Izawa Miyu,0,0,60,,"But there is Han-chan's favourite hamburg steak bento!"
+Dialogue: 0,0:31:04.74,0:31:07.06,Default,Izawa Miyu,0,0,60,,They reported it properly,
+Dialogue: 0,0:31:07.68,0:31:09.24,Default,Izawa Miyu,0,0,60,,which I was grateful for,
+Dialogue: 0,0:31:09.32,0:31:11.90,Default,Izawa Miyu,0,0,60,,and there was Han-chan's favourite hamburg steak bento,
+Dialogue: 0,0:31:11.98,0:31:13.08,Default,Izawa Miyu,0,0,60,,so I was really happy.
+Dialogue: 0,0:31:13.16,0:31:14.76,Default,Izawa Miyu,0,0,60,,Please take care of me today!
+Dialogue: 0,0:31:15.10,0:31:17.34,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:31:19.45,0:31:20.75,Default,Ouchi Rinka,0,0,60,,Okay, rin-rin—
+Dialogue: 0,0:31:20.83,0:31:21.75,Default,Crowd,0,0,60,,Rinka!
+Dialogue: 0,0:31:22.56,0:31:24.12,Default,Ouchi Rinka,0,0,60,,Little by little, step by step!
+Dialogue: 0,0:31:24.20,0:31:26.50,Default,Ouchi Rinka,0,0,60,,My charm point is my big sparkly eyes!
+Dialogue: 0,0:31:26.58,0:31:28.52,Default,Ouchi Rinka,0,0,60,,From Hyogo, 3rd year of high school,
+Dialogue: 0,0:31:28.60,0:31:29.88,Default,Ouchi Rinka,0,0,60,,17 years old, I'm Ouchi
+Dialogue: 0,0:31:30.00,0:31:30.22,Default,Ouchi Rinka,0,0,60,,Rinka!
+Dialogue: 0,0:31:35.78,0:31:37.40,Default,Ouchi Rinka,0,0,60,,Mine is Han-chan too,
+Dialogue: 0,0:31:37.48,0:31:40.32,Default,Ouchi Rinka,0,0,60,,though I don't know if I can feel love and bonds,
+Dialogue: 0,0:31:40.76,0:31:42.94,Default,Ouchi Rinka,0,0,60,,when Han-chan came to stay over,
+Dialogue: 0,0:31:43.02,0:31:45.98,Default,Ouchi Rinka,0,0,60,,Han-chan always sets an alarm too,
+Dialogue: 0,0:31:46.06,0:31:47.98,Default,Ouchi Rinka,0,0,60,,and it's really loud,
+Dialogue: 0,0:31:48.06,0:31:50.14,Default,Ouchi Rinka,0,0,60,,but Han-chan doesn't wake up.
+Dialogue: 0,0:31:50.22,0:31:52.46,Default,Ouchi Rinka,0,0,60,,So I said, "Han-chan, you can turn it off.
+Dialogue: 0,0:31:52.54,0:31:53.42,Default,Ouchi Rinka,0,0,60,,I'll set an alarm,
+Dialogue: 0,0:31:53.50,0:31:55.62,Default,Ouchi Rinka,0,0,60,,I'll wake you up, so you can turn it off,"
+Dialogue: 0,0:31:55.70,0:31:57.16,Default,Ouchi Rinka,0,0,60,,and she turned it off without a fuss,
+Dialogue: 0,0:31:57.24,0:32:01.36,Default,Ouchi Rinka,0,0,60,,so I thought maybe she really values me.
+Dialogue: 0,0:32:01.44,0:32:03.36,Default,Ouchi Rinka,0,0,60,,Today I'll cheer for Han-chan a lot all day!
+Dialogue: 0,0:32:03.44,0:32:04.26,Default,Ouchi Rinka,0,0,60,,Please take care of me!
+Dialogue: 0,0:32:04.80,0:32:07.26,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:32:09.69,0:32:13.37,Default,Sakamoto Erena,0,0,60,,Okay, I'm HKT48 Team KIV's Ere-tan, Sakamoto Erena!
+Dialogue: 0,0:32:13.45,0:32:14.87,Default,Crowd,0,0,60,,Ere-tan!
+Dialogue: 0,0:32:17.38,0:32:17.74,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,0:32:18.56,0:32:20.68,Default,Sakamoto Erena,0,0,60,,The moment I felt a bond
+Dialogue: 0,0:32:20.76,0:32:22.20,Default,Sakamoto Erena,0,0,60,,is Kuru-tan today.
+Dialogue: 0,0:32:22.28,0:32:23.84,Default,Sakamoto Erena,0,0,60,,Like Nene-chan said earlier,
+Dialogue: 0,0:32:23.92,0:32:26.40,Default,Sakamoto Erena,0,0,60,,the order for getting massages—
+Dialogue: 0,0:32:26.78,0:32:28.20,Default,Sakamoto Erena,0,0,60,,the juniors always—
+Dialogue: 0,0:32:28.28,0:32:28.96,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,0:32:29.60,0:32:31.24,Default,Sakamoto Erena,0,0,60,,Sorry, fixing-my-look time.
+Dialogue: 0,0:32:31.72,0:32:32.07,Default,Sakamoto Erena,0,0,60,,Thank you!
+Dialogue: 0,0:32:32.15,0:32:35.48,Default,Sakamoto Erena,0,0,60,,the juniors are considerate and write the seniors' names first,
+Dialogue: 0,0:32:35.56,0:32:36.74,Default,Sakamoto Erena,0,0,60,,so,
+Dialogue: 0,0:32:36.82,0:32:39.04,Default,Sakamoto Erena,0,0,60,,I told them, "You don't have to worry about it today,"
+Dialogue: 0,0:32:39.12,0:32:42.28,Default,Sakamoto Erena,0,0,60,,and we decided to really go in the order we wrote our names,
+Dialogue: 0,0:32:42.36,0:32:46.06,Default,Sakamoto Erena,0,0,60,,but today Kuru-tan wrote my name in along with hers,
+Dialogue: 0,0:32:46.14,0:32:49.36,Default,Sakamoto Erena,0,0,60,,and in that order it was Kuru-tan, then me.
+Dialogue: 0,0:32:49.44,0:32:53.54,Default,Sakamoto Erena,0,0,60,,So normally it's first come, first served, so Kuru-tan should go first, right?
+Dialogue: 0,0:32:53.62,0:32:56.18,Default,Sakamoto Erena,0,0,60,,But I couldn't hold back, and today, before Kuru-tan,
+Dialogue: 0,0:32:56.94,0:32:58.26,Default,Sakamoto Erena,0,0,60,,I went first. Your senpai did.
+Dialogue: 0,0:32:58.34,0:33:00.64,Default,Takemoto Kurumi,0,0,60,,No, not at all! While I was writing it,
+Dialogue: 0,0:33:00.72,0:33:02.76,Default,Takemoto Kurumi,0,0,60,,I was like, oh, I should write Ere-chan first—
+Dialogue: 0,0:33:02.84,0:33:04.18,Default,Sakamoto Erena,0,0,60,,You don't have to worry about it!
+Dialogue: 0,0:33:04.66,0:33:06.82,Default,Sakamoto Erena,0,0,60,,I want to keep charging ahead right up to graduation!
+Dialogue: 0,0:33:06.90,0:33:07.76,Default,Sakamoto Erena,0,0,60,,Please take care of me!
+Dialogue: 0,0:33:13.95,0:33:14.99,Default,Takemoto Kurumi,0,0,60,,She isn't here!
+Dialogue: 0,0:33:15.07,0:33:17.01,Default,Takemoto Kurumi,0,0,60,,I want to wrap Han-chan's heart up as Kuru-mi!
+Dialogue: 0,0:33:18.55,0:33:19.27,Default,Takemoto Kurumi,0,0,60,,Thank you!
+Dialogue: 0,0:33:19.59,0:33:21.32,Default,Takemoto Kurumi,0,0,60,,I'm Kuru-tan, Takemoto Kurumi!
+Dialogue: 0,0:33:21.78,0:33:22.20,Default,Takemoto Kurumi,0,0,60,,Thank you!
+Dialogue: 0,0:33:26.74,0:33:29.86,Default,Takemoto Kurumi,0,0,60,,The time I felt a bond or love—
+Dialogue: 0,0:33:30.00,0:33:31.88,Default,Takemoto Kurumi,0,0,60,,today it's about Han-chan.
+Dialogue: 0,0:33:31.96,0:33:35.42,Default,Takemoto Kurumi,0,0,60,,At my birthday show, for the segment we did,
+Dialogue: 0,0:33:35.50,0:33:41.30,Default,Takemoto Kurumi,0,0,60,,we had members confess their love, sprung on them with no warning,
+Dialogue: 0,0:33:41.40,0:33:44.08,Default,Takemoto Kurumi,0,0,60,,and Han-chan's improv skills—
+Dialogue: 0,0:33:44.16,0:33:46.30,Default,Takemoto Kurumi,0,0,60,,her improv skills—
+Dialogue: 0,0:33:46.38,0:33:48.68,Default,Takemoto Kurumi,0,0,60,,Han-chan's improv skills were seriously amazing,
+Dialogue: 0,0:33:48.76,0:33:52.42,Default,Takemoto Kurumi,0,0,60,,and I was so nervous, I mean, she really saved me,
+Dialogue: 0,0:33:52.50,0:33:56.08,Default,Takemoto Kurumi,0,0,60,,but even though Han-chan always goes at it so hard,
+Dialogue: 0,0:33:56.16,0:33:57.48,Default,Takemoto Kurumi,0,0,60,,when we get backstage
+Dialogue: 0,0:33:58.10,0:34:00.88,Default,Takemoto Kurumi,0,0,60,,she's like, "Was that okay? Did it land?"
+Dialogue: 0,0:34:00.96,0:34:05.24,Default,Takemoto Kurumi,0,0,60,,She worries every time, so I want to tell her it was totally fine.
+Dialogue: 0,0:34:05.32,0:34:07.98,Default,Takemoto Kurumi,0,0,60,,Okay, let's celebrate together all day today! Please take care of me!
+Dialogue: 0,0:34:08.50,0:34:10.54,Default,All,0,0,60,,Yay!
+Dialogue: 0,0:34:12.16,0:34:14.48,Default,Kuriyama Rina,0,0,60,,Okay, when it comes to Oita: hot springs, shiitake, pears, kabosu!
+Dialogue: 0,0:34:14.56,0:34:16.78,Default,Kuriyama Rina,0,0,60,,From Oita, 24 years old, I'm Kuriyama Rina!
+Dialogue: 0,0:34:16.86,0:34:18.64,Default,Crowd,0,0,60,,Rina-chan!
+Dialogue: 0,0:34:20.48,0:34:21.70,Default,Kuriyama Rina,0,0,60,,Yes, I know, thank you!
+Dialogue: 0,0:34:22.82,0:34:26.34,Default,Kuriyama Rina,0,0,60,,Mine is when I felt the love of Han-chan's dad.
+Dialogue: 0,0:34:27.00,0:34:28.88,Default,Kuriyama Rina,0,0,60,,It's not like we're close or anything,
+Dialogue: 0,0:34:30.16,0:34:34.80,Default,Kuriyama Rina,0,0,60,,but the other day, when I went with Sakamoto Rino and Han-chan to watch an Oita Trinita match,
+Dialogue: 0,0:34:34.88,0:34:38.66,Default,Kuriyama Rina,0,0,60,,Rino and I took the Sonic train from Hakata to Oita,
+Dialogue: 0,0:34:39.02,0:34:44.62,Default,Kuriyama Rina,0,0,60,,and the plan was to meet Han-chan at Oita Station and take the bus to the stadium together.
+Dialogue: 0,0:34:45.04,0:34:49.48,Default,Kuriyama Rina,0,0,60,,When we got to Oita Station, Han-chan and her dad were there,
+Dialogue: 0,0:34:50.08,0:34:53.98,Default,Kuriyama Rina,0,0,60,,and Han-chan, maybe she's in her rebellious phase, was like "That's enough, you can go home now,"
+Dialogue: 0,0:34:54.58,0:34:58.24,Default,Kuriyama Rina,0,0,60,,the moment I arrived, she was coldly sending her dad home.
+Dialogue: 0,0:34:58.96,0:35:01.68,Default,Kuriyama Rina,0,0,60,,I thought maybe he had work after this,
+Dialogue: 0,0:35:01.76,0:35:04.60,Default,Kuriyama Rina,0,0,60,,so I asked, "Han-chan's papa, are you working today?" and with a lonely face he said,
+Dialogue: 0,0:35:04.68,0:35:06.08,Default,Kuriyama Rina,0,0,60,,"I'm off today, actually."
+Dialogue: 0,0:35:07.79,0:35:09.30,Default,Kuriyama Rina,0,0,60,,Yeah, but for his cute daughter's sake,
+Dialogue: 0,0:35:09.36,0:35:11.45,Default,Kuriyama Rina,0,0,60,,even though he didn't get to go along to the football,
+Dialogue: 0,0:35:11.53,0:35:14.19,Default,Kuriyama Rina,0,0,60,,Han-chan's dad still faithfully drove her to the station,
+Dialogue: 0,0:35:14.27,0:35:15.71,Default,Kuriyama Rina,0,0,60,,and I thought he really is loving and kind.
+Dialogue: 0,0:35:15.79,0:35:16.65,Default,Kuriyama Rina,0,0,60,,Please take care of me today!
+Dialogue: 0,0:35:20.92,0:35:23.26,Default,Akiyoshi Yuka,0,0,60,,When I say "I want to be," please say "I want to be!"
+Dialogue: 0,0:35:23.34,0:35:23.72,Default,Akiyoshi Yuka,0,0,60,,Please!
+Dialogue: 0,0:35:24.50,0:35:25.22,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:35:26.04,0:35:28.86,Default,Akiyoshi Yuka,0,0,60,,Okay, I want to be a gentle flower blooming in Hakata!
+Dialogue: 0,0:35:28.94,0:35:29.86,Default,Crowd,0,0,60,,I want to be!
+Dialogue: 0,0:35:31.14,0:35:33.98,Default,Akiyoshi Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:35:34.06,0:35:36.18,Default,Akiyoshi Yuka,0,0,60,,I love acting, the guitar and Han-chan—I'm Yuka-chan, Akiyoshi Yuka!
+Dialogue: 0,0:35:36.26,0:35:37.70,Default,Crowd,0,0,60,,Yuka-chan!
+Dialogue: 0,0:35:40.44,0:35:41.74,Default,Akiyoshi Yuka,0,0,60,,Thank you! Thank you!
+Dialogue: 0,0:35:42.32,0:35:48.12,Default,Akiyoshi Yuka,0,0,60,,The moment I felt a bond and love is about the first time I went to Rina-chan's place.
+Dialogue: 0,0:35:49.08,0:35:52.38,Default,Akiyoshi Yuka,0,0,60,,We'd been saying we wanted to play Momotetsu, and,
+Dialogue: 0,0:35:52.46,0:35:55.24,Default,Akiyoshi Yuka,0,0,60,,with Rina-chan and the graduated Kawashira Shijiri— wasn't it?
+Dialogue: 0,0:35:56.08,0:35:58.34,Default,Kuriyama Rina,0,0,60,,Shiri? Doesn't it sound like "shiri"?
+Dialogue: 0,0:35:59.06,0:36:00.06,Default,Akiyoshi Yuka,0,0,60,,It's all turning into a chore.
+Dialogue: 0,0:36:00.14,0:36:02.72,Default,Akiyoshi Yuka,0,0,60,,Kawahira Hijiri-chan and also Jitoe Nene-chan—
+Dialogue: 0,0:36:02.80,0:36:05.48,Default,Akiyoshi Yuka,0,0,60,,the four of us kept saying we wanted to play Momotetsu,
+Dialogue: 0,0:36:05.56,0:36:06.34,Default,Akiyoshi Yuka,0,0,60,,and we finally did.
+Dialogue: 0,0:36:06.70,0:36:07.02,Default,Akiyoshi Yuka,0,0,60,,And—
+Dialogue: 0,0:36:08.56,0:36:09.30,Default,Akiyoshi Yuka,0,0,60,,Sorry.
+Dialogue: 0,0:36:11.22,0:36:12.18,Default,Akiyoshi Yuka,0,0,60,,Kawahira Hijiri-chan.
+Dialogue: 0,0:36:14.28,0:36:15.22,Default,Akiyoshi Yuka,0,0,60,,Kawahira Hijiri-chan.
+Dialogue: 0,0:36:16.40,0:36:17.90,Default,Akiyoshi Yuka,0,0,60,,It's been a while since you said her name.
+Dialogue: 0,0:36:17.98,0:36:19.62,Default,Akiyoshi Yuka,0,0,60,,The four of us played,
+Dialogue: 0,0:36:19.70,0:36:21.76,Default,Akiyoshi Yuka,0,0,60,,and I was in 1st place the whole time.
+Dialogue: 0,0:36:21.84,0:36:25.12,Default,Akiyoshi Yuka,0,0,60,,And when you reach the goal you get a reward,
+Dialogue: 0,0:36:25.20,0:36:27.28,Default,Akiyoshi Yuka,0,0,60,,so I was getting closer and closer to the goal in 1st,
+Dialogue: 0,0:36:27.36,0:36:33.16,Default,Akiyoshi Yuka,0,0,60,,and when I was about to reach the goal, Hijiri-chan dumped the King Bombee on me.
+Dialogue: 0,0:36:35.60,0:36:39.32,Default,Akiyoshi Yuka,0,0,60,,That's a really big deal, a really bad situation.
+Dialogue: 0,0:36:39.72,0:36:42.46,Default,Akiyoshi Yuka,0,0,60,,Hijiri-chan and I were both about to reach the goal,
+Dialogue: 0,0:36:42.54,0:36:47.62,Default,Akiyoshi Yuka,0,0,60,,but we kept dumping the King Bombee on each other for about half a year in game time—
+Dialogue: 0,0:36:47.70,0:36:49.84,Default,Akiyoshi Yuka,0,0,60,,we just kept passing it back and forth.
+Dialogue: 0,0:36:49.92,0:36:52.68,Default,Kuriyama Rina,0,0,60,,The two of you just going round and round the same spot.
+Dialogue: 0,0:36:53.14,0:36:54.88,Default,Akiyoshi Yuka,0,0,60,,Nobody reached the goal at all,
+Dialogue: 0,0:36:55.28,0:36:57.76,Default,Akiyoshi Yuka,0,0,60,,and in the end we lost together in 3rd and 4th,
+Dialogue: 0,0:36:58.54,0:37:00.22,Default,Akiyoshi Yuka,0,0,60,,so I think a bond was born.
+Dialogue: 0,0:37:00.68,0:37:01.82,Default,Akiyoshi Yuka,0,0,60,,With Han-chan too, next time,
+Dialogue: 0,0:37:01.90,0:37:03.64,Default,Akiyoshi Yuka,0,0,60,,I want to play Momotetsu and
+Dialogue: 0,0:37:03.72,0:37:04.74,Default,Akiyoshi Yuka,0,0,60,,pass the King Bombee back and forth.
+Dialogue: 0,0:37:05.00,0:37:06.40,Default,Akiyoshi Yuka,0,0,60,,Please take care of me all day today!
+Dialogue: 0,0:37:06.74,0:37:08.40,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:37:10.18,0:37:12.88,Default,Tanaka Iori,0,0,60,,My birthday is August 31—Vegetable Day!
+Dialogue: 0,0:37:12.96,0:37:14.20,Default,Tanaka Iori,0,0,60,,What I love is cucumbers!
+Dialogue: 0,0:37:14.28,0:37:16.76,Default,Tanaka Iori,0,0,60,,From Kumamoto, I'm Tanaka Iori!
+Dialogue: 0,0:37:19.54,0:37:20.88,Default,Tanaka Iori,0,0,60,,Thank you, thank you!
+Dialogue: 0,0:37:21.26,0:37:24.68,Default,Tanaka Iori,0,0,60,,The time I felt a bond and love is about Han-chan.
+Dialogue: 0,0:37:24.76,0:37:27.74,Default,Tanaka Iori,0,0,60,,The other day, Han-chan and I went out together, just us two, for the first time,
+Dialogue: 0,0:37:27.82,0:37:30.44,Default,Tanaka Iori,0,0,60,,and I didn't notice at the time, but
+Dialogue: 0,0:37:30.52,0:37:34.70,Default,Tanaka Iori,0,0,60,,when I looked closely at the photos, Han-chan was dressed all in green.
+Dialogue: 0,0:37:34.78,0:37:37.38,Default,Tanaka Iori,0,0,60,,Green from head to toe,
+Dialogue: 0,0:37:37.46,0:37:40.80,Default,Tanaka Iori,0,0,60,,and come to think of it, was she going for a cucumber look for me?
+Dialogue: 0,0:37:40.88,0:37:45.00,Default,Tanaka Iori,0,0,60,,But I haven't checked, and if I've got it wrong, that'd be so, so embarrassing,
+Dialogue: 0,0:37:45.08,0:37:47.20,Default,Tanaka Iori,0,0,60,,so I'm going to quietly check with her.
+Dialogue: 0,0:37:47.28,0:37:50.90,Default,Tanaka Iori,0,0,60,,Okay, today let's celebrate lots together all day! Please take care of me!
+Dialogue: 0,0:37:51.48,0:37:53.06,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:37:56.42,0:37:59.60,Default,Kuriyama Rina,0,0,60,,Okay, Team KIV "Koko ni Datte"— sorry, Team KIV "Koko ni Datte
+Dialogue: 0,0:37:59.68,0:38:01.42,Default,Kuriyama Rina,0,0,60,,Tenshi wa Iru", Ihara Hanna's birthday show,
+Dialogue: 0,0:38:02.04,0:38:03.74,Default,Kuriyama Rina,0,0,60,,brought to you by these 16 members.
+Dialogue: 0,0:38:03.82,0:38:06.52,Default,Kuriyama Rina,0,0,60,,Everyone, are you ready to celebrate Han-chan?
+Dialogue: 0,0:38:09.54,0:38:11.32,Default,Kuriyama Rina,0,0,60,,Can you still shout louder?
+Dialogue: 0,0:38:14.08,0:38:14.40,Default,Kuriyama Rina,0,0,60,,Thank you!
+Dialogue: 0,0:38:15.14,0:38:16.76,Default,Kuriyama Rina,0,0,60,,Let's keep the energy going together!
+Dialogue: 0,0:38:16.84,0:38:18.98,Default,Kuriyama Rina,0,0,60,,From here, it's time for the various units.
+Dialogue: 0,0:38:19.32,0:38:20.46,Default,Kuriyama Rina,0,0,60,,First up, this one.
+Dialogue: 0,0:43:12.34,0:43:14.00,Default,Ihara Hanna,0,0,60,,Thank you so much!
+Dialogue: 0,0:43:16.12,0:43:18.26,Default,Ihara Hanna,0,0,60,,I was so nervous!
+Dialogue: 0,0:43:19.00,0:43:21.04,Default,Ihara Hanna,0,0,60,,My first time on guitar—how was it, everyone?
+Dialogue: 0,0:43:23.92,0:43:24.90,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,0:43:25.74,0:43:27.56,Default,Ihara Hanna,0,0,60,,Let's keep the energy going!
+Dialogue: 0,0:43:27.62,0:43:29.16,Default,Ihara Hanna,0,0,60,,Next up is this song.
+Dialogue: 0,0:43:29.20,0:43:30.00,Default,Ihara Hanna,0,0,60,,Here it is!
+Dialogue: 0,0:48:00.42,0:48:04.06,Default,Eguchi Kokoha,0,0,60,,A congratulations message for Han-chan on turning 14!
+Dialogue: 0,0:48:04.58,0:48:05.86,Default,Eguchi Kokoha,0,0,60,,Han-chan, happy birthday—
+Dialogue: 0,0:48:05.92,0:48:07.10,Default,Eguchi Kokoha,0,0,60,,Huh? Why did it hit?
+Dialogue: 0,0:48:08.08,0:48:09.70,Default,Eguchi Kokoha,0,0,60,,Han-chan, happy birthday!
+Dialogue: 0,0:48:10.20,0:48:13.06,Default,Eguchi Kokoha,0,0,60,,I love your impressions and your puns so much!
+Dialogue: 0,0:48:13.12,0:48:15.76,Default,Eguchi Kokoha,0,0,60,,I want to make your heart go gacha-gacha too!
+Dialogue: 0,1:00:55.42,1:01:00.88,Default,Morisaki Saaya,0,0,60,,"Yume no Dead Body", "Nando mo Nerae!", "ONEW no Uwabaki", "Kono Sekai ga Yuki no Naka ni Umoreru Mae ni",
+Dialogue: 0,1:01:00.96,1:01:03.36,Default,Morisaki Saaya,0,0,60,,and "Zipper"—you've just heard five songs in a row.
+Dialogue: 0,1:01:07.00,1:01:07.36,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:01:08.74,1:01:09.60,Default,Morisaki Saaya,0,0,60,,Han-chan!
+Dialogue: 0,1:01:15.84,1:01:19.02,Default,Ihara Hanna,0,0,60,,It's the first time we've done a unit in these costumes, isn't it?
+Dialogue: 0,1:01:19.50,1:01:20.10,Default,Tachibana Kokoro,0,0,60,,True.
+Dialogue: 0,1:01:20.18,1:01:22.54,Default,Ihara Hanna,0,0,60,,I was super, super nervous, really.
+Dialogue: 0,1:01:22.62,1:01:23.52,Default,Morisaki Saaya,0,0,60,,I was moved!
+Dialogue: 0,1:01:24.24,1:01:24.60,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,1:01:26.28,1:01:27.04,Default,Tachibana Kokoro,0,0,60,,Too amazing!
+Dialogue: 0,1:01:29.15,1:01:31.07,Default,Ihara Hanna,0,0,60,,My birthday show's already over for me.
+Dialogue: 0,1:01:32.27,1:01:33.83,Default,Fukui Karen,0,0,60,,Hey, you've been nervous about this the whole time, huh?
+Dialogue: 0,1:01:33.91,1:01:34.59,Default,Ihara Hanna,0,0,60,,It's over, already.
+Dialogue: 0,1:01:34.77,1:01:37.63,Default,Morisaki Saaya,0,0,60,,Was it hard? How many months did you practise?
+Dialogue: 0,1:01:37.77,1:01:38.51,Default,Ihara Hanna,0,0,60,,It was one month.
+Dialogue: 0,1:01:39.15,1:01:39.95,Default,Fukui Karen,0,0,60,,That's short!
+Dialogue: 0,1:01:40.05,1:01:44.73,Default,Ihara Hanna,0,0,60,,One month, practising every single day.
+Dialogue: 0,1:01:44.83,1:01:49.99,Default,Ihara Hanna,0,0,60,,It was my first time ever touching a guitar, so I was really nervous, but I managed it in a month.
+Dialogue: 0,1:01:50.47,1:01:50.87,Default,Multiple,0,0,60,,Amazing.
+Dialogue: 0,1:01:54.20,1:01:54.60,Default,Tachibana Kokoro,0,0,60,,Amazing.
+Dialogue: 0,1:01:55.14,1:01:56.30,Default,Tachibana Kokoro,0,0,60,,It really suits you!
+Dialogue: 0,1:01:56.66,1:01:58.30,Default,Ihara Hanna,0,0,60,,It was so much fun.
+Dialogue: 0,1:01:59.12,1:01:59.92,Default,Multiple,0,0,60,,I'm glad.
+Dialogue: 0,1:02:00.88,1:02:03.04,Default,Ihara Hanna,0,0,60,,I thought I'd like to do it again.
+Dialogue: 0,1:02:04.61,1:02:05.09,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,1:02:08.64,1:02:12.48,Default,Morisaki Saaya,0,0,60,,Now, since Han-chan's here,
+Dialogue: 0,1:02:15.00,1:02:18.92,Default,Morisaki Saaya,0,0,60,,let's do "Quiz Han-chan"!
+Dialogue: 0,1:02:23.04,1:02:26.18,Default,Ihara Hanna,0,0,60,,True, we're the same gen, so she'd better understand me, right?
+Dialogue: 0,1:02:26.73,1:02:28.55,Default,Ihara Hanna,0,0,60,,I'm confident in you!
+Dialogue: 0,1:02:28.63,1:02:31.99,Default,Ihara Hanna,0,0,60,,Then I'll make the first question an easy one.
+Dialogue: 0,1:02:32.47,1:02:38.27,Default,Ihara Hanna,0,0,60,,What's my favourite colour lately?
+Dialogue: 0,1:02:39.53,1:02:40.65,Default,Oba Risaki,0,0,60,,"Lately," huh.
+Dialogue: 0,1:02:40.73,1:02:42.87,Default,Ihara Hanna,0,0,60,,Do you all know?
+Dialogue: 0,1:02:43.59,1:02:44.39,Default,Fukui Karen,0,0,60,,They say they don't know.
+Dialogue: 0,1:02:44.47,1:02:47.67,Default,Fukui Karen,0,0,60,,You mean it changed?
+Dialogue: 0,1:02:47.91,1:02:49.92,Default,Fukui Karen,0,0,60,,You always used to say your favourite colour publicly, right?
+Dialogue: 0,1:02:50.00,1:02:51.62,Default,Fukui Karen,0,0,60,,Is it different from that?
+Dialogue: 0,1:02:52.64,1:02:54.24,Default,Ihara Hanna,0,0,60,,It's more like it changed recently.
+Dialogue: 0,1:02:54.74,1:02:55.44,Default,Unknown,0,0,60,,Recently, huh.
+Dialogue: 0,1:02:55.98,1:02:57.36,Default,Morisaki Saaya,0,0,60,,You give off a primary-colour vibe.
+Dialogue: 0,1:02:58.04,1:02:59.38,Default,Tachibana Kokoro,0,0,60,,Bold and crisp.
+Dialogue: 0,1:02:59.86,1:03:00.56,Default,Tachibana Kokoro,0,0,60,,That kind of colour vibe.
+Dialogue: 0,1:03:00.64,1:03:03.08,Default,Ihara Hanna,0,0,60,,Shall we go?
+Dialogue: 0,1:03:04.28,1:03:05.48,Default,Fukui Karen,0,0,60,,Starting with Risaki.
+Dialogue: 0,1:03:05.86,1:03:07.94,Default,Oba Risaki,0,0,60,,Since she wore this costume today,
+Dialogue: 0,1:03:08.02,1:03:09.54,Default,Oba Risaki,0,0,60,,it's become red! Red!
+Dialogue: 0,1:03:10.36,1:03:11.52,Default,Ihara Hanna,0,0,60,,I see.
+Dialogue: 0,1:03:11.60,1:03:14.26,Default,Tachibana Kokoro,0,0,60,,She's got a bit more grown-up lately, so—
+Dialogue: 0,1:03:14.78,1:03:15.22,Default,Tachibana Kokoro,0,0,60,,black.
+Dialogue: 0,1:03:16.66,1:03:17.96,Default,Fukui Karen,0,0,60,,Black for me too.
+Dialogue: 0,1:03:20.45,1:03:20.81,Default,Morisaki Saaya,0,0,60,,White.
+Dialogue: 0,1:03:22.13,1:03:24.64,Default,Ihara Hanna,0,0,60,,Okay, here's the answer.
+Dialogue: 0,1:03:24.72,1:03:26.16,Default,Ihara Hanna,0,0,60,,The answer is...
+Dialogue: 0,1:03:26.74,1:03:28.76,Default,Ihara Hanna,0,0,60,,light purple!
+Dialogue: 0,1:03:28.84,1:03:30.74,Default,All,0,0,60,,What? That's hard!
+Dialogue: 0,1:03:30.82,1:03:36.60,Default,Tachibana Kokoro,0,0,60,,Nobody said anything about "light"!
+Dialogue: 0,1:03:36.68,1:03:39.40,Default,Ihara Hanna,0,0,60,,I changed my phone case recently,
+Dialogue: 0,1:03:39.48,1:03:40.60,Default,All,0,0,60,,True, true.
+Dialogue: 0,1:03:40.68,1:03:43.16,Default,Ihara Hanna,0,0,60,,to light purple, so I thought you'd know.
+Dialogue: 0,1:03:43.24,1:03:44.66,Default,Ihara Hanna,0,0,60,,Look properly, please!
+Dialogue: 0,1:03:46.14,1:03:46.74,Default,Oba Risaki,0,0,60,,That's so weird!
+Dialogue: 0,1:03:46.82,1:03:47.74,Default,Tachibana Kokoro,0,0,60,,You're right, actually.
+Dialogue: 0,1:03:48.30,1:03:49.60,Default,Tachibana Kokoro,0,0,60,,She did switch to light purple.
+Dialogue: 0,1:03:49.68,1:03:51.10,Default,Ihara Hanna,0,0,60,,So, yeah, that was it.
+Dialogue: 0,1:03:51.82,1:03:52.90,Default,Ihara Hanna,0,0,60,,Okay, question two.
+Dialogue: 0,1:03:52.98,1:03:55.68,Default,Ihara Hanna,0,0,60,,It might get a bit harder from here,
+Dialogue: 0,1:03:55.76,1:03:57.76,Default,Ihara Hanna,0,0,60,,but I think all you fans will know.
+Dialogue: 0,1:03:58.58,1:04:01.66,Default,Ihara Hanna,0,0,60,,Lately I've been making sweets.
+Dialogue: 0,1:04:01.74,1:04:03.82,Default,Ihara Hanna,0,0,60,,I make them myself,
+Dialogue: 0,1:04:03.90,1:04:05.46,Default,Ihara Hanna,0,0,60,,and out of what I've made recently,
+Dialogue: 0,1:04:05.54,1:04:08.50,Default,Ihara Hanna,0,0,60,,which one made me go, "Whoa, this is so good"?
+Dialogue: 0,1:04:14.86,1:04:18.64,Default,Oba Risaki,0,0,60,,I say a sweet potato snack.
+Dialogue: 0,1:04:18.72,1:04:20.54,Default,Ihara Hanna,0,0,60,,Like a sweet potato pastry.
+Dialogue: 0,1:04:21.68,1:04:23.68,Default,Tachibana Kokoro,0,0,60,,I say sweet potato pastry.
+Dialogue: 0,1:04:24.86,1:04:26.78,Default,Fukui Karen,0,0,60,,Me, roasted sweet potato.
+Dialogue: 0,1:04:27.56,1:04:28.42,Default,Tachibana Kokoro,0,0,60,,Roasted sweet potato?
+Dialogue: 0,1:04:29.08,1:04:33.50,Default,Fukui Karen,0,0,60,,I didn't think she could make roasted sweet potato, so I went with that—
+Dialogue: 0,1:04:35.48,1:04:41.78,Default,Morisaki Saaya,0,0,60,,but the acai bowl she says she eats every morning must be what she's most particular about.
+Dialogue: 0,1:04:42.20,1:04:43.20,Default,All,0,0,60,,Makes sense.
+Dialogue: 0,1:04:43.44,1:04:45.00,Default,Ihara Hanna,0,0,60,,Okay, here's the answer.
+Dialogue: 0,1:04:45.08,1:04:47.50,Default,Ihara Hanna,0,0,60,,The answer is rice flour cookies!
+Dialogue: 0,1:04:48.76,1:04:49.74,Default,Fukui Karen,0,0,60,,Rice flour, huh.
+Dialogue: 0,1:04:50.30,1:04:51.48,Default,Fukui Karen,0,0,60,,You can make cookies? Amazing!
+Dialogue: 0,1:04:51.62,1:04:54.76,Default,Ihara Hanna,0,0,60,,I made cookies, and to me they were really delicious.
+Dialogue: 0,1:04:54.84,1:04:58.06,Default,Ihara Hanna,0,0,60,,They were a bit on the chewy side, though.
+Dialogue: 0,1:04:58.14,1:04:59.64,Default,Ihara Hanna,0,0,60,,So I had my mum try one,
+Dialogue: 0,1:04:59.72,1:05:00.90,Default,Ihara Hanna,0,0,60,,and she said, "What's this rock?"
+Dialogue: 0,1:05:01.52,1:05:01.88,Default,Fukui Karen,0,0,60,,A rock?
+Dialogue: 0,1:05:03.62,1:05:05.72,Default,Ihara Hanna,0,0,60,,They were kind of rock-hard.
+Dialogue: 0,1:05:05.80,1:05:07.42,Default,Ihara Hanna,0,0,60,,But they were really delicious!
+Dialogue: 0,1:05:08.24,1:05:10.54,Default,Oba Risaki,0,0,60,,So, Han-chan, are you into rice flour lately?
+Dialogue: 0,1:05:10.62,1:05:11.32,Default,Oba Risaki,0,0,60,,The doughnuts too, right?
+Dialogue: 0,1:05:11.40,1:05:13.68,Default,Oba Risaki,0,0,60,,You wrote "I recommend the rice flour," right?
+Dialogue: 0,1:05:13.76,1:05:17.16,Default,Ihara Hanna,0,0,60,,I brought one doughnut each as a treat,
+Dialogue: 0,1:05:17.24,1:05:19.88,Default,Ihara Hanna,0,0,60,,rice flour ones and wheat flour ones,
+Dialogue: 0,1:05:20.50,1:05:21.04,Default,Ihara Hanna,0,0,60,,I brought those.
+Dialogue: 0,1:05:21.86,1:05:22.58,Default,Morisaki Saaya,0,0,60,,They were delicious!
+Dialogue: 0,1:05:22.66,1:05:25.00,Default,Ihara Hanna,0,0,60,,I brought them!
+Dialogue: 0,1:05:26.38,1:05:27.94,Default,Tachibana Kokoro,0,0,60,,It's amazing you can make sweets.
+Dialogue: 0,1:05:28.02,1:05:29.52,Default,Ihara Hanna,0,0,60,,Yesterday
+Dialogue: 0,1:05:29.60,1:05:31.40,Default,Ihara Hanna,0,0,60,,I tried making pork kimchi.
+Dialogue: 0,1:05:32.88,1:05:33.84,Default,Tachibana Kokoro,0,0,60,,You can cook too!
+Dialogue: 0,1:05:33.92,1:05:36.04,Default,Ihara Hanna,0,0,60,,But I left the washing-up to my mum.
+Dialogue: 0,1:05:37.08,1:05:37.48,Default,Ihara Hanna,0,0,60,,Mm-hm.
+Dialogue: 0,1:05:37.56,1:05:38.68,Default,Ihara Hanna,0,0,60,,She did it.
+Dialogue: 0,1:05:39.33,1:05:41.23,Default,Ihara Hanna,0,0,60,,Karen-ren does not seem someone who can cook.
+Dialogue: 0,1:05:41.26,1:05:41.94,Default,Fukui Karen,0,0,60,,Wait a sec.
+Dialogue: 0,1:05:42.02,1:05:44.14,Default,Fukui Karen,0,0,60,,What's with that way of putting it?
+Dialogue: 0,1:05:44.22,1:05:45.50,Default,Fukui Karen,0,0,60,,Me—
+Dialogue: 0,1:05:45.58,1:05:47.06,Default,Fukui Karen,0,0,60,,yesterday—
+Dialogue: 0,1:05:47.14,1:05:52.94,Default,Fukui Karen,0,0,60,,today, I served my little sisters a prosciutto salad with dressing I made from scratch.
+Dialogue: 0,1:05:53.22,1:05:54.86,Default,Ihara Hanna,0,0,60,,Whoa, the dressing?
+Dialogue: 0,1:05:54.94,1:05:56.52,Default,Fukui Karen,0,0,60,,Amazing, right? Homemade dressing.
+Dialogue: 0,1:05:56.60,1:05:59.42,Default,Fukui Karen,0,0,60,,Come eat the homemade dressing! And with that, question three.
+Dialogue: 0,1:06:01.18,1:06:02.18,Default,Ihara Hanna,0,0,60,,Question three.
+Dialogue: 0,1:06:02.30,1:06:04.00,Default,Ihara Hanna,0,0,60,,Question three:
+Dialogue: 0,1:06:04.18,1:06:11.74,Default,Ihara Hanna,0,0,60,,there are two 6th-gen members who've come over to my house,
+Dialogue: 0,1:06:11.82,1:06:13.44,Default,Ihara Hanna,0,0,60,,and I'd like you to name those two.
+Dialogue: 0,1:06:13.52,1:06:15.60,Default,Fukui Karen,0,0,60,,Wait, weren't they mentioned in the self-intros?
+Dialogue: 0,1:06:15.68,1:06:16.16,Default,Ihara Hanna,0,0,60,,Huh, were they?
+Dialogue: 0,1:06:16.34,1:06:16.48,Default,Fukui Karen,0,0,60,,Yeah.
+Dialogue: 0,1:06:19.54,1:06:22.02,Default,Ihara Hanna,0,0,60,,Sorry, my head was full of the guitar,
+Dialogue: 0,1:06:22.10,1:06:23.92,Default,Ihara Hanna,0,0,60,,so I wasn't really listening.
+Dialogue: 0,1:06:24.00,1:06:24.60,Default,Ihara Hanna,0,0,60,,Huh, they said it?
+Dialogue: 0,1:06:24.68,1:06:25.86,Default,Tachibana Kokoro,0,0,60,,But some people might've forgotten,
+Dialogue: 0,1:06:25.94,1:06:28.00,Default,Tachibana Kokoro,0,0,60,,and some might not know.
+Dialogue: 0,1:06:28.08,1:06:28.82,Default,Ihara Hanna,0,0,60,,Nobody knows, right, everyone?
+Dialogue: 0,1:06:28.90,1:06:29.18,Default,Tachibana Kokoro,0,0,60,,Right?
+Dialogue: 0,1:06:29.78,1:06:30.48,Default,Ihara Hanna,0,0,60,,I see.
+Dialogue: 0,1:06:31.42,1:06:31.74,Default,Fukui Karen,0,0,60,,Yeah.
+Dialogue: 0,1:06:32.20,1:06:32.80,Default,Ihara Hanna,0,0,60,,Okay, go ahead.
+Dialogue: 0,1:06:32.88,1:06:33.70,Default,Fukui Karen,0,0,60,,Shall we all say it together?
+Dialogue: 0,1:06:33.78,1:06:34.50,Default,All,0,0,60,,All together!
+Dialogue: 0,1:06:36.89,1:06:37.93,Default,All,0,0,60,,Se-no!
+Dialogue: 0,1:06:38.01,1:06:40.11,Default,Multiple,0,0,60,,Rinka and Koko-ppe!
+Dialogue: 0,1:06:38.01,1:06:40.11,Default,Tachibana Kokoro,0,0,60,,Egu-chan and Koko-ppe!
+Dialogue: 0,1:06:40.19,1:06:40.85,Default,Oba Risaki,0,0,60,,Oh no!
+Dialogue: 0,1:06:40.93,1:06:41.27,Default,Fukui Karen,0,0,60,,Huh?
+Dialogue: 0,1:06:41.57,1:06:43.08,Default,Fukui Karen,0,0,60,,Did you say Rinka?
+Dialogue: 0,1:06:43.24,1:06:43.59,Default,Tachibana Kokoro,0,0,60,,Huh?
+Dialogue: 0,1:06:43.67,1:06:44.52,Default,Oba Risaki,0,0,60,,I said Egu-chan.
+Dialogue: 0,1:06:44.60,1:06:45.64,Default,Tachibana Kokoro,0,0,60,,You said Egu-chan?
+Dialogue: 0,1:06:45.72,1:06:46.84,Default,Tachibana Kokoro,0,0,60,,Wait, didn't someone say Rinka?
+Dialogue: 0,1:06:46.92,1:06:49.56,Default,Morisaki Saaya,0,0,60,,Koko-ppe and Egu-Koko!
+Dialogue: 0,1:06:50.56,1:06:53.20,Default,Ouchi Rinka,0,0,60,,That was me, sorry, I said it.
+Dialogue: 0,1:06:53.28,1:06:54.60,Default,Oba Risaki,0,0,60,,Koko-ppe and Egu-chan?
+Dialogue: 0,1:06:55.40,1:06:55.96,Default,Ihara Hanna,0,0,60,,Right.
+Dialogue: 0,1:06:56.38,1:06:57.46,Default,Oba Risaki,0,0,60,,Sorry, I got it wrong.
+Dialogue: 0,1:06:57.54,1:06:58.14,Default,Ouchi Rinka,0,0,60,,Sorry.
+Dialogue: 0,1:06:58.22,1:06:58.98,Default,Ouchi Rinka,0,0,60,,Sorry.
+Dialogue: 0,1:06:59.06,1:06:59.90,Default,Fukui Karen,0,0,60,,You said Rinka, right?
+Dialogue: 0,1:06:59.98,1:07:00.84,Default,Tachibana Kokoro,0,0,60,,You said Rinka, huh.
+Dialogue: 0,1:07:00.92,1:07:01.78,Default,Ouchi Rinka,0,0,60,,I got it wrong.
+Dialogue: 0,1:07:01.86,1:07:03.72,Default,Tachibana Kokoro,0,0,60,,In your head it was right, though.
+Dialogue: 0,1:07:04.60,1:07:05.78,Default,Ihara Hanna,0,0,60,,Then let's call it good.
+Dialogue: 0,1:07:06.84,1:07:07.90,Default,Ihara Hanna,0,0,60,,Okay, that's it.
+Dialogue: 0,1:07:09.38,1:07:10.56,Default,Morisaki Saaya,0,0,60,,So that's correct.
+Dialogue: 0,1:07:10.64,1:07:11.78,Default,Tachibana Kokoro,0,0,60,,That was the answer check.
+Dialogue: 0,1:07:13.90,1:07:16.46,Default,Morisaki Saaya,0,0,60,,There are still lots of other members,
+Dialogue: 0,1:07:16.54,1:07:18.82,Default,Morisaki Saaya,0,0,60,,so we'll all come visit Han-chan's house.
+Dialogue: 0,1:07:18.90,1:07:19.84,Default,Ihara Hanna,0,0,60,,I'll be waiting!
+Dialogue: 0,1:07:19.92,1:07:23.02,Default,Morisaki Saaya,0,0,60,,Now, HKT48 Team KIV's
+Dialogue: 0,1:07:23.10,1:07:24.54,Default,Morisaki Saaya,0,0,60,,"Koko ni Datte Tenshi wa Iru" show
+Dialogue: 0,1:07:24.62,1:07:25.56,Default,Morisaki Saaya,0,0,60,,is still going!
+Dialogue: 0,1:07:25.64,1:07:28.58,Default,Morisaki Saaya,0,0,60,,Everyone, can you still do the Han-chan call?
+Dialogue: 0,1:07:31.48,1:07:33.44,Default,Morisaki Saaya,0,0,60,,With "gacha-gacha-gacha"!
+Dialogue: 0,1:07:33.52,1:07:34.96,Default,Morisaki Saaya,0,0,60,,Can you do a Han-chan call?
+Dialogue: 0,1:07:35.04,1:07:36.58,Default,Crowd,0,0,60,,Yeah!
+Dialogue: 0,1:07:38.04,1:07:41.38,Default,Morisaki Saaya,0,0,60,,Then let's keep the energy going like that!
+Dialogue: 0,1:07:42.68,1:07:46.42,Default,Morisaki Saaya,0,0,60,,There's still plenty more to come!
+Dialogue: 0,1:07:47.28,1:07:48.46,Default,Morisaki Saaya,0,0,60,,First up, this one.
+Dialogue: 0,1:20:24.05,1:20:28.39,Default,Imamura Maria,0,0,60,,"Hajimete no Hoshi", "100-nen Saki de mo" and "Ribbon nante Niawanai"—you've just heard three songs in a row.
+Dialogue: 0,1:20:28.47,1:20:30.01,Default,Imamura Maria,0,0,60,,Han-chan, how's it been so far?
+Dialogue: 0,1:20:31.43,1:20:33.57,Default,Ihara Hanna,0,0,60,,Yes! Everyone, thank you so much for coming today!
+Dialogue: 0,1:20:36.60,1:20:36.96,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,1:20:38.70,1:20:43.00,Default,Ihara Hanna,0,0,60,,In the opening my head was so full of the guitar and I was really nervous,
+Dialogue: 0,1:20:43.08,1:20:47.72,Default,Ihara Hanna,0,0,60,,but you all did such loud calls, it felt so hanchaka-chan, I'm happy!
+Dialogue: 0,1:20:48.44,1:20:52.64,Default,Ihara Hanna,0,0,60,,This might be the end, but please keep supporting 14-year-old me!
+Dialogue: 0,1:20:57.77,1:21:00.23,Default,Imamura Maria,0,0,60,,And so, next is the last song for now.
+Dialogue: 0,1:21:03.91,1:21:04.23,Default,Imamura Maria,0,0,60,,Thank you!
+Dialogue: 0,1:21:05.17,1:21:06.11,Default,Imamura Maria,0,0,60,,Please listen.
+Dialogue: 0,1:21:06.59,1:21:07.55,Default,Imamura Maria,0,0,60,,"Degas and the Ballerina."
+Dialogue: 0,1:27:55.50,1:28:01.22,Default,Unknown,0,0,60,,Let's keep cheering with all our might for the hard-working, ever-growing, cheerful and cute Ihara Hanna-san!
+Dialogue: 0,1:28:01.30,1:28:03.26,Default,Unknown,0,0,60,,Let's cheer her on with everything we've got!
+Dialogue: 0,1:28:05.40,1:28:11.20,Default,Unknown,0,0,60,,For today's encore, let's do a big Han-chan call!
+Dialogue: 0,1:28:14.18,1:28:16.94,Default,Unknown,0,0,60,,All right! Han-chan call, let's go!
+Dialogue: 0,1:31:23.31,1:31:27.91,Default,Jitoe Nene,0,0,60,,Today please shout "Han-chan is the best!" Se-no—
+Dialogue: 0,1:36:01.79,1:36:03.71,Default,Akiyoshi Yuka,0,0,60,,You also heard "Jounetsu Highway."
+Dialogue: 0,1:36:03.79,1:36:05.21,Default,Akiyoshi Yuka,0,0,60,,Thank you for the encore!
+Dialogue: 0,1:36:06.11,1:36:07.51,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:36:12.64,1:36:16.18,Default,Akiyoshi Yuka,0,0,60,,Okay, from here this group of members will chat,
+Dialogue: 0,1:36:16.66,1:36:17.74,Default,Akiyoshi Yuka,0,0,60,,Karen-ren, how about you?
+Dialogue: 0,1:36:17.98,1:36:18.66,Default,Fukui Karen,0,0,60,,Me?
+Dialogue: 0,1:36:18.88,1:36:20.42,Default,Fukui Karen,0,0,60,,Um, let's see, Han-chan—
+Dialogue: 0,1:36:20.50,1:36:21.66,Default,Akiyoshi Yuka,0,0,60,,Your hair colour's so cute!
+Dialogue: 0,1:36:22.76,1:36:24.04,Default,Ihara Hanna,0,0,60,,Right? It is!
+Dialogue: 0,1:36:24.12,1:36:25.50,Default,All,0,0,60,,Cute!
+Dialogue: 0,1:36:25.58,1:36:28.70,Default,Fukui Karen,0,0,60,,Yuka-san's been telling me
+Dialogue: 0,1:36:28.78,1:36:29.96,Default,Fukui Karen,0,0,60,,it's cute ever since we met today.
+Dialogue: 0,1:36:30.04,1:36:31.02,Default,Akiyoshi Yuka,0,0,60,,It really suits you!
+Dialogue: 0,1:36:31.10,1:36:33.48,Default,Akiyoshi Yuka,0,0,60,,Right? I'd been meaning to say it the whole time.
+Dialogue: 0,1:36:34.48,1:36:36.12,Default,Akiyoshi Yuka,0,0,60,,It's your first KIV show with it, right?
+Dialogue: 0,1:36:36.20,1:36:38.08,Default,Akiyoshi Yuka,0,0,60,,It's lovely.
+Dialogue: 0,1:36:38.16,1:36:38.86,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,1:36:42.32,1:36:45.22,Default,Fukui Karen,0,0,60,,Han-chan's 14, right?
+Dialogue: 0,1:36:45.30,1:36:48.76,Default,Fukui Karen,0,0,60,,I think she's way too grown-up for 14,
+Dialogue: 0,1:36:49.24,1:36:50.98,Default,Fukui Karen,0,0,60,,but she has a childish side too.
+Dialogue: 0,1:36:51.06,1:36:54.08,Default,Fukui Karen,0,0,60,,Tablets? Medicine pressed into a lump?
+Dialogue: 0,1:36:55.10,1:36:56.28,Default,All,0,0,60,,Tablets?
+Dialogue: 0,1:36:56.50,1:36:58.86,Default,Fukui Karen,0,0,60,,Han-chan can't swallow tablets.
+Dialogue: 0,1:36:58.94,1:37:01.02,Default,Fukui Karen,0,0,60,,Isn't that cute?
+Dialogue: 0,1:37:01.10,1:37:03.26,Default,Fukui Karen,0,0,60,,So when Han-chan had a fever,
+Dialogue: 0,1:37:03.34,1:37:04.96,Default,Fukui Karen,0,0,60,,I happened to be staying over,
+Dialogue: 0,1:37:05.48,1:37:06.10,Default,Fukui Karen,0,0,60,,and I—
+Dialogue: 0,1:37:08.68,1:37:09.86,Default,Fukui Karen,0,0,60,,I did my best,
+Dialogue: 0,1:37:10.36,1:37:12.90,Default,Fukui Karen,0,0,60,,crushed it for her with a pen, crunch, crunch,
+Dialogue: 0,1:37:12.98,1:37:15.14,Default,Fukui Karen,0,0,60,,and Han-chan put it in a pudding
+Dialogue: 0,1:37:15.22,1:37:15.88,Default,Fukui Karen,0,0,60,,and ate it.
+Dialogue: 0,1:37:17.00,1:37:17.86,Default,Sakamoto Erena,0,0,60,,That's amazing.
+Dialogue: 0,1:37:17.94,1:37:19.44,Default,Sakamoto Erena,0,0,60,,That's new.
+Dialogue: 0,1:37:20.02,1:37:22.48,Default,Jitoe Nene,0,0,60,,It's surprising that Karen-ren plays big sister, isn't it?
+Dialogue: 0,1:37:22.56,1:37:23.26,Default,Fukui Karen,0,0,60,,I'm a big sister!
+Dialogue: 0,1:37:23.34,1:37:25.50,Default,Ouchi Rinka,0,0,60,,Then can I share my big-sister episode too?
+Dialogue: 0,1:37:27.26,1:37:27.90,Default,Ouchi Rinka,0,0,60,,I—
+Dialogue: 0,1:37:27.98,1:37:31.04,Default,Ouchi Rinka,0,0,60,,we went on a school trip with HKT48, right?
+Dialogue: 0,1:37:31.12,1:37:32.04,Default,Ouchi Rinka,0,0,60,,At that time,
+Dialogue: 0,1:37:32.12,1:37:34.80,Default,Ouchi Rinka,0,0,60,,Han-chan, Yuina and I were in the same room, the three of us.
+Dialogue: 0,1:37:35.18,1:37:38.20,Default,Ouchi Rinka,0,0,60,,We had a bit of time, I thought,
+Dialogue: 0,1:37:38.28,1:37:39.60,Default,Ouchi Rinka,0,0,60,,so we decided to play shiritori,
+Dialogue: 0,1:37:39.68,1:37:42.24,Default,Ouchi Rinka,0,0,60,,we decided to play shiritori, writing it down,
+Dialogue: 0,1:37:43.30,1:37:45.68,Default,Ouchi Rinka,0,0,60,,and words ending in "pa" or "da", with the handakuon or the dakuten—
+Dialogue: 0,1:37:45.76,1:37:46.70,Default,Ouchi Rinka,0,0,60,,Dakuten? Dakuon?
+Dialogue: 0,1:37:47.22,1:37:48.30,Default,Ouchi Rinka,0,0,60,,Dakuon? Dakuten?
+Dialogue: 0,1:37:48.38,1:37:49.56,Default,Ouchi Rinka,0,0,60,,—ending in those,
+Dialogue: 0,1:37:50.00,1:37:52.66,Default,Ouchi Rinka,0,0,60,,those are hard, so let's leave them out,
+Dialogue: 0,1:37:52.74,1:37:54.78,Default,Ouchi Rinka,0,0,60,,I explained to Han-chan and Yuina.
+Dialogue: 0,1:37:54.86,1:37:56.30,Default,Ouchi Rinka,0,0,60,,And Han-chan
+Dialogue: 0,1:37:56.38,1:37:57.78,Default,Ouchi Rinka,0,0,60,,said "Got it" at first,
+Dialogue: 0,1:37:57.86,1:37:59.88,Default,Ouchi Rinka,0,0,60,,and I thought, great, she gets it,
+Dialogue: 0,1:37:59.96,1:38:01.62,Default,Ouchi Rinka,0,0,60,,and I was relieved, but a few seconds later,
+Dialogue: 0,1:38:01.70,1:38:04.16,Default,Ouchi Rinka,0,0,60,,she goes, "Huh? Don't you mean kutouten,
+Dialogue: 0,1:38:04.24,1:38:05.20,Default,Ouchi Rinka,0,0,60,,the punctuation marks?"
+Dialogue: 0,1:38:05.28,1:38:07.78,Default,Ouchi Rinka,0,0,60,,She was mixing up punctuation
+Dialogue: 0,1:38:07.86,1:38:10.48,Default,Ouchi Rinka,0,0,60,,with dakuten and dakuon,
+Dialogue: 0,1:38:10.56,1:38:11.78,Default,Ouchi Rinka,0,0,60,,she didn't get it at all.
+Dialogue: 0,1:38:11.86,1:38:14.54,Default,Ouchi Rinka,0,0,60,,So I thought, her head's a little hanchaka-chan.
+Dialogue: 0,1:38:16.14,1:38:17.84,Default,Jitoe Nene,0,0,60,,Is that such an all-purpose word?
+Dialogue: 0,1:38:18.66,1:38:22.36,Default,Ouchi Rinka,0,0,60,,But I'm always the one who corrects her like this, with kanji and stuff.
+Dialogue: 0,1:38:22.44,1:38:24.42,Default,Akiyoshi Yuka,0,0,60,,Maybe she hasn't learned it at school yet?
+Dialogue: 0,1:38:24.50,1:38:25.18,Default,Jitoe Nene,0,0,60,,She has, surely.
+Dialogue: 0,1:38:25.98,1:38:26.78,Default,Jitoe Nene,0,0,60,,She's 14.
+Dialogue: 0,1:38:27.52,1:38:28.90,Default,Akiyoshi Yuka,0,0,60,,She's young, after all.
+Dialogue: 0,1:38:29.44,1:38:30.54,Default,Akiyoshi Yuka,0,0,60,,Hina-chan, got anything?
+Dialogue: 0,1:38:30.80,1:38:45.10,Default,Yasui Hina,0,0,60,,At concerts and handshake events outside Fukuoka, like Tokyo, Yokohama and Nagoya, Han-chan and I—
+Dialogue: 0,1:38:45.19,1:38:48.63,Default,Yasui Hina,0,0,60,,lots of the people with early mornings stay the night before,
+Dialogue: 0,1:38:48.71,1:38:50.91,Default,Yasui Hina,0,0,60,,and since they have early mornings,
+Dialogue: 0,1:38:50.99,1:38:54.11,Default,Yasui Hina,0,0,60,,I'm together with Han-chan,
+Dialogue: 0,1:38:55.09,1:38:56.19,Default,Akiyoshi Yuka,0,0,60,,Calm down for a sec.
+Dialogue: 0,1:38:56.67,1:38:59.03,Default,Jitoe Nene,0,0,60,,I couldn't picture it at all.
+Dialogue: 0,1:38:59.11,1:39:00.09,Default,Yasui Hina,0,0,60,,We're together,
+Dialogue: 0,1:39:00.17,1:39:03.03,Default,Yasui Hina,0,0,60,,and at that time Han-chan said, "I'll set an alarm,"
+Dialogue: 0,1:39:03.11,1:39:04.51,Default,Yasui Hina,0,0,60,,she said that to me.
+Dialogue: 0,1:39:05.01,1:39:06.99,Default,Yasui Hina,0,0,60,,Then in the morning,
+Dialogue: 0,1:39:07.51,1:39:08.55,Default,Yasui Hina,0,0,60,,just like Rinka said,
+Dialogue: 0,1:39:08.63,1:39:10.67,Default,Yasui Hina,0,0,60,,the alarm is super loud.
+Dialogue: 0,1:39:11.29,1:39:12.79,Default,Yasui Hina,0,0,60,,It's a siren sound,
+Dialogue: 0,1:39:12.87,1:39:13.85,Default,Yasui Hina,0,0,60,,Han-chan's alarm.
+Dialogue: 0,1:39:13.93,1:39:18.81,Default,Yasui Hina,0,0,60,,So even though it's super loud and goes off right by her ear,
+Dialogue: 0,1:39:18.89,1:39:20.93,Default,Yasui Hina,0,0,60,,Han-chan doesn't wake up, even though she set it herself.
+Dialogue: 0,1:39:21.39,1:39:27.19,Default,Yasui Hina,0,0,60,,But when I play some mellow ballad-type music, she wakes up.
+Dialogue: 0,1:39:27.31,1:39:30.17,Default,Yasui Hina,0,0,60,,So I thought, what's the point of setting it?
+Dialogue: 0,1:39:31.07,1:39:32.43,Default,Yasui Hina,0,0,60,,It's kind of loud, right?
+Dialogue: 0,1:39:32.51,1:39:34.03,Default,Ouchi Rinka,0,0,60,,It's loud, right?
+Dialogue: 0,1:39:34.11,1:39:35.71,Default,Jitoe Nene,0,0,60,,It's loud.
+Dialogue: 0,1:39:37.05,1:39:39.59,Default,Akiyoshi Yuka,0,0,60,,Also, Hina-chan, you said there was one more thing you wanted to talk about?
+Dialogue: 0,1:39:39.67,1:39:40.27,Default,Yasui Hina,0,0,60,,Yeah!
+Dialogue: 0,1:39:40.35,1:39:46.15,Default,Yasui Hina,0,0,60,,Earlier, before Han-chan did "Dead Body",
+Dialogue: 0,1:39:47.75,1:39:49.83,Default,Yasui Hina,0,0,60,,in the self-intros I was in the second row,
+Dialogue: 0,1:39:50.98,1:39:55.50,Default,Yasui Hina,0,0,60,,I wanted to watch Han-chan's "Dead Body" from the very start,
+Dialogue: 0,1:39:55.58,1:39:58.90,Default,Yasui Hina,0,0,60,,so I changed in a hurry and was there.
+Dialogue: 0,1:39:59.36,1:40:02.04,Default,Yasui Hina,0,0,60,,Then Han-chan was saying "I'm nervous, I'm nervous,"
+Dialogue: 0,1:40:02.12,1:40:05.42,Default,Yasui Hina,0,0,60,,so I went over this way and said "Good luck,"
+Dialogue: 0,1:40:06.04,1:40:11.14,Default,Yasui Hina,0,0,60,,and if this were Han-chan— oops, wrong. Say I'm Han-chan,
+Dialogue: 0,1:40:11.96,1:40:13.00,Default,Akiyoshi Yuka,0,0,60,,Okay, let's calm down for a second.
+Dialogue: 0,1:40:14.96,1:40:17.72,Default,Jitoe Nene,0,0,60,,I'll calm down too. My head can't keep up.
+Dialogue: 0,1:40:17.80,1:40:21.08,Default,Yasui Hina,0,0,60,,Say I'm Han-chan, and Rinka is me,
+Dialogue: 0,1:40:21.16,1:40:24.10,Default,Yasui Hina,0,0,60,,"What do I do,
+Dialogue: 0,1:40:24.18,1:40:26.06,Default,Yasui Hina,0,0,60,,hey, what do I do?" she said, and my heart just went kyun-kyun.
+Dialogue: 0,1:40:27.04,1:40:28.82,Default,Takemoto Kurumi,0,0,60,,Aww, good for you.
+Dialogue: 0,1:40:30.78,1:40:31.92,Default,Jitoe Nene,0,0,60,,That's so hanchaka-chan.
+Dialogue: 0,1:40:34.56,1:40:39.00,Default,Akiyoshi Yuka,0,0,60,,KIV has lots of hanchaka-chan members,
+Dialogue: 0,1:40:39.08,1:40:43.44,Default,Akiyoshi Yuka,0,0,60,,but Han-chan, be strong, Hina-chan, be strong, I hope you all keep growing up healthy just like this.
+Dialogue: 0,1:40:44.44,1:40:46.56,Default,Akiyoshi Yuka,0,0,60,,Now, next is the second group. Go ahead!
+Dialogue: 0,1:40:48.12,1:40:48.70,Default,All,0,0,60,,Yay!
+Dialogue: 0,1:40:52.03,1:40:56.69,Default,Izawa Miyu,0,0,60,,Okay, the second group would like to chat together with our star, Han-chan—
+Dialogue: 0,1:40:56.88,1:40:58.32,Default,Izawa Miyu,0,0,60,,Han-chan, how is it?
+Dialogue: 0,1:40:58.59,1:41:01.53,Default,Ihara Hanna,0,0,60,,Yes, I'm having so much fun right now, it's my birthday show,
+Dialogue: 0,1:41:01.61,1:41:04.57,Default,Ihara Hanna,0,0,60,,I'm still a bit nervous,
+Dialogue: 0,1:41:04.71,1:41:07.51,Default,Ihara Hanna,0,0,60,,but I'm really looking forward to what's still to come.
+Dialogue: 0,1:41:08.33,1:41:08.73,Default,All,0,0,60,,Wow!
+Dialogue: 0,1:41:09.41,1:41:09.93,Default,Kuriyama Rina,0,0,60,,I'm glad.
+Dialogue: 0,1:41:10.13,1:41:10.48,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,1:41:10.56,1:41:15.01,Default,Ihara Hanna,0,0,60,,I have a few goals,
+Dialogue: 0,1:41:15.09,1:41:16.33,Default,Ihara Hanna,0,0,60,,and there's one goal in particular:
+Dialogue: 0,1:41:16.99,1:41:18.99,Default,Ihara Hanna,0,0,60,,in Oita Prefecture,
+Dialogue: 0,1:41:19.59,1:41:21.07,Default,Ihara Hanna,0,0,60,,there's the "Sashihara Road"—
+Dialogue: 0,1:41:21.15,1:41:24.25,Default,Ihara Hanna,0,0,60,,in an underground passage in Oita,
+Dialogue: 0,1:41:24.33,1:41:27.79,Default,Ihara Hanna,0,0,60,,there's a walkway covered in posters of Sashihara-san,
+Dialogue: 0,1:41:27.87,1:41:29.85,Default,Ihara Hanna,0,0,60,,and it's called the Sashihara Road.
+Dialogue: 0,1:41:29.93,1:41:31.85,Default,Ihara Hanna,0,0,60,,Someday Kurina-san and I,
+Dialogue: 0,1:41:31.93,1:41:34.35,Default,Ihara Hanna,0,0,60,,split 70-30,
+Dialogue: 0,1:41:34.43,1:41:37.95,Default,Ihara Hanna,0,0,60,,would have posters there—
+Dialogue: 0,1:41:38.03,1:41:39.23,Default,Kuriyama Rina,0,0,60,,Can I check something?
+Dialogue: 0,1:41:39.41,1:41:39.61,Default,Ihara Hanna,0,0,60,,Yes.
+Dialogue: 0,1:41:40.85,1:41:42.07,Default,Kuriyama Rina,0,0,60,,Who gets the 70?
+Dialogue: 0,1:41:42.17,1:41:42.87,Default,Ihara Hanna,0,0,60,,Me!
+Dialogue: 0,1:41:46.14,1:41:46.62,Default,Tanaka Iori,0,0,60,,Too bad!
+Dialogue: 0,1:41:46.70,1:41:47.24,Default,Kuriyama Rina,0,0,60,,Hey—
+Dialogue: 0,1:41:47.32,1:41:49.68,Default,Kuriyama Rina,0,0,60,,I'm the one who's
+Dialogue: 0,1:41:50.24,1:41:55.12,Default,Kuriyama Rina,0,0,60,,the senior, born earlier! At least make it 50-50!
+Dialogue: 0,1:41:55.20,1:41:58.44,Default,Ihara Hanna,0,0,60,,50-50, someday I'd like to do something like a Kurina Road.
+Dialogue: 0,1:41:59.46,1:42:02.22,Default,Kuriyama Rina,0,0,60,,If there are any Oita bigwigs listening to this,
+Dialogue: 0,1:42:02.84,1:42:04.58,Default,Kuriyama Rina,0,0,60,,please, we're counting on you!
+Dialogue: 0,1:42:05.90,1:42:06.66,Default,Izawa Miyu,0,0,60,,Incredible!
+Dialogue: 0,1:42:07.84,1:42:09.56,Default,Izawa Miyu,0,0,60,,And Kurina-san, how about you?
+Dialogue: 0,1:42:09.88,1:42:12.24,Default,Kuriyama Rina,0,0,60,,Mine's about Han-chan's papa again,
+Dialogue: 0,1:42:13.14,1:42:15.14,Default,Kuriyama Rina,0,0,60,,Han-chan's papa is really funny.
+Dialogue: 0,1:42:16.58,1:42:20.66,Default,Kuriyama Rina,0,0,60,,When we held an event at Kijima Kogen Park,
+Dialogue: 0,1:42:20.74,1:42:24.32,Default,Kuriyama Rina,0,0,60,,the makeup room and the waiting room were a bit apart,
+Dialogue: 0,1:42:24.40,1:42:29.42,Default,Kuriyama Rina,0,0,60,,so the members' route was to go to the makeup room for cotton pads and toner
+Dialogue: 0,1:42:29.50,1:42:33.46,Default,Kuriyama Rina,0,0,60,,and go back to the waiting room while moisturising.
+Dialogue: 0,1:42:33.80,1:42:37.14,Default,Kuriyama Rina,0,0,60,,Then a message popped up in the group LINE:
+Dialogue: 0,1:42:37.22,1:42:41.16,Default,Kuriyama Rina,0,0,60,,Sakamoto Rino wrote, "There's a fan wearing a melon soda T-shirt,
+Dialogue: 0,1:42:42.24,1:42:45.92,Default,Kuriyama Rina,0,0,60,,so anyone who doesn't want to be seen without makeup, be careful."
+Dialogue: 0,1:42:46.22,1:42:47.74,Default,Kuriyama Rina,0,0,60,,And I'm like, oh really, there's a fan here,
+Dialogue: 0,1:42:47.82,1:42:51.06,Default,Kuriyama Rina,0,0,60,,and I was strolling along thinking I don't mind being seen bare-faced,
+Dialogue: 0,1:42:51.14,1:42:52.70,Default,Kuriyama Rina,0,0,60,,and there was someone who looked familiar,
+Dialogue: 0,1:42:53.38,1:42:56.66,Default,Kuriyama Rina,0,0,60,,and yes, that person was wearing a melon soda T-shirt.
+Dialogue: 0,1:42:58.84,1:43:02.00,Default,Kuriyama Rina,0,0,60,,So I'm thinking, I've seen him somewhere,
+Dialogue: 0,1:43:02.08,1:43:03.76,Default,Kuriyama Rina,0,0,60,,and then Han-chan's mum came out,
+Dialogue: 0,1:43:04.18,1:43:07.44,Default,Kuriyama Rina,0,0,60,,and when I said "Hello, long time no see," her papa was standing next to her,
+Dialogue: 0,1:43:08.80,1:43:10.56,Default,Kuriyama Rina,0,0,60,,and her papa was the one in the T-shirt.
+Dialogue: 0,1:43:11.16,1:43:12.02,Default,Kuriyama Rina,0,0,60,,Melon soda.
+Dialogue: 0,1:43:13.74,1:43:18.26,Default,Kuriyama Rina,0,0,60,,So there was this incident where Sakamoto Rino mistook him for a fan,
+Dialogue: 0,1:43:18.82,1:43:21.20,Default,Kuriyama Rina,0,0,60,,and the other day at the Oita Trinita match,
+Dialogue: 0,1:43:21.28,1:43:25.86,Default,Kuriyama Rina,0,0,60,,when Papa, me, Rino and Han-chan met up at Oita Station,
+Dialogue: 0,1:43:26.22,1:43:28.22,Default,Kuriyama Rina,0,0,60,,Han-chan's papa went out of his way to tell Rino,
+Dialogue: 0,1:43:28.90,1:43:30.86,Default,Kuriyama Rina,0,0,60,,"I'm not wearing the melon soda T-shirt today."
+Dialogue: 0,1:43:32.34,1:43:33.64,Default,Izawa Miyu,0,0,60,,That's so him!
+Dialogue: 0,1:43:34.08,1:43:34.24,Default,All,0,0,60,,Wow, nice!
+Dialogue: 0,1:43:36.12,1:43:38.44,Default,Kuriyama Rina,0,0,60,,He's a really humorous dad.
+Dialogue: 0,1:43:38.52,1:43:40.02,Default,Eguchi Kokoha,0,0,60,,Even her papa's funny!
+Dialogue: 0,1:43:40.10,1:43:42.20,Default,Ihara Hanna,0,0,60,,Yeah, actually he wants to be teased in the MC.
+Dialogue: 0,1:43:42.28,1:43:42.70,Default,Tanaka Iori,0,0,60,,Oh, really?
+Dialogue: 0,1:43:43.24,1:43:44.20,Default,Tanaka Iori,0,0,60,,Then me too—
+Dialogue: 0,1:43:44.28,1:43:45.86,Default,Kuriyama Rina,0,0,60,,Papa, Papa, Papa!
+Dialogue: 0,1:43:45.94,1:43:46.42,Default,Kuriyama Rina,0,0,60,,You got teased!
+Dialogue: 0,1:43:47.82,1:43:49.88,Default,Tanaka Iori,0,0,60,,I have a Han-chan's papa story too,
+Dialogue: 0,1:43:50.00,1:43:53.53,Default,Tanaka Iori,0,0,60,,and it's the same one, but—
+Dialogue: 0,1:43:53.61,1:43:55.31,Default,Tanaka Iori,0,0,60,,when we got to hold an event at Kijima Kogen Park,
+Dialogue: 0,1:43:55.39,1:43:57.75,Default,Tanaka Iori,0,0,60,,it was outdoors.
+Dialogue: 0,1:43:57.83,1:44:00.25,Default,Tanaka Iori,0,0,60,,And there was a closing ceremony,
+Dialogue: 0,1:44:00.33,1:44:02.97,Default,Tanaka Iori,0,0,60,,and since it was outdoors, everyone had been outside the whole time and was tired,
+Dialogue: 0,1:44:03.05,1:44:05.43,Default,Tanaka Iori,0,0,60,,so the closing ceremony was pretty subdued,
+Dialogue: 0,1:44:05.61,1:44:09.59,Default,Tanaka Iori,0,0,60,,but way at the back, someone in a melon soda T-shirt
+Dialogue: 0,1:44:09.67,1:44:13.39,Default,Tanaka Iori,0,0,60,,holding up a T-shirt that said "Ihara Hanna"—
+Dialogue: 0,1:44:15.39,1:44:15.74,Default,Eguchi Kokoha,0,0,60,,Whoa!
+Dialogue: 0,1:44:17.97,1:44:20.62,Default,Tanaka Iori,0,0,60,,Han-chan's dad, huh.
+Dialogue: 0,1:44:21.02,1:44:22.26,Default,Imamura Maria,0,0,60,,He really stood out, didn't he?
+Dialogue: 0,1:44:22.84,1:44:24.88,Default,Eguchi Kokoha,0,0,60,,He was more into it than the fans!
+Dialogue: 0,1:44:24.96,1:44:27.14,Default,Tanaka Iori,0,0,60,,Full of energy to the very end,
+Dialogue: 0,1:44:27.82,1:44:29.06,Default,Tanaka Iori,0,0,60,,we were grateful.
+Dialogue: 0,1:44:29.46,1:44:30.30,Default,Ihara Hanna,0,0,60,,That makes me happy.
+Dialogue: 0,1:44:30.82,1:44:32.90,Default,Izawa Miyu,0,0,60,,So funny, right? So amazing.
+Dialogue: 0,1:44:32.98,1:44:35.40,Default,Izawa Miyu,0,0,60,,From now on, Han-chan's episodes
+Dialogue: 0,1:44:35.48,1:44:36.46,Default,Izawa Miyu,0,0,60,,and Han-chan's papa's episodes
+Dialogue: 0,1:44:36.54,1:44:37.80,Default,Izawa Miyu,0,0,60,,are something to look forward to, and so—
+Dialogue: 0,1:44:38.72,1:44:41.26,Default,Izawa Miyu,0,0,60,,are you ready to send even more birthday wishes
+Dialogue: 0,1:44:41.34,1:44:42.70,Default,Izawa Miyu,0,0,60,,to Han-chan?
+Dialogue: 0,1:44:45.04,1:44:46.98,Default,Izawa Miyu,0,0,60,,Can you get even louder?
+Dialogue: 0,1:44:49.60,1:44:49.96,Default,Izawa Miyu,0,0,60,,Thank you!
+Dialogue: 0,1:44:50.36,1:44:51.82,Default,Izawa Miyu,0,0,60,,Let's keep the excitement going!
+Dialogue: 0,1:44:51.90,1:44:53.38,Default,Izawa Miyu,0,0,60,,Next up is this song.
+Dialogue: 0,1:44:53.46,1:44:53.96,Default,Izawa Miyu,0,0,60,,Here it is!
+Dialogue: 0,1:53:06.40,1:53:12.20,Default,Jitoe Nene,0,0,60,,You heard "Sukoshi Nigai Jinsei Soudan" and "Fumo no Tochi wo Mankai ni"—everyone, are you having fun?
+Dialogue: 0,1:53:16.53,1:53:21.51,Default,Jitoe Nene,0,0,60,,Thank you! Fun times fly by, and the next song is really the last one.
+Dialogue: 0,1:53:21.59,1:53:24.07,Default,Ouchi Rinka,0,0,60,,Hold it right there!
+Dialogue: 0,1:53:25.56,1:53:26.62,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,1:53:26.67,1:53:29.25,Default,Ouchi Rinka,0,0,60,,Okay, everyone, do you know what day today is?
+Dialogue: 0,1:53:31.81,1:53:37.61,Default,Ouchi Rinka,0,0,60,,It's the birthday show for Ihara Hanna-chan, who turned 14 on February 27!
+Dialogue: 0,1:53:41.27,1:53:43.87,Default,Ouchi Rinka,0,0,60,,So let's all say "Happy birthday, Han-chan" together!
+Dialogue: 0,1:53:44.25,1:53:45.23,Default,Ouchi Rinka,0,0,60,,Se-no!
+Dialogue: 0,1:53:45.41,1:53:50.95,Default,All,0,0,60,,Happy birthday, Han-chan!
+Dialogue: 0,1:54:27.38,1:54:28.36,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,1:54:28.88,1:54:29.98,Default,Ouchi Rinka,0,0,60,,Now, everyone together,
+Dialogue: 0,1:54:30.04,1:54:32.66,Default,Ouchi Rinka,0,0,60,,let's sing "Happy Birthday to You"!
+Dialogue: 0,1:54:32.74,1:54:34.28,Default,Ouchi Rinka,0,0,60,,Se-no!
+Dialogue: 0,1:54:34.36,1:54:37.54,Default,All,0,0,60,,♪ Happy birthday to you ♪
+Dialogue: 0,1:54:37.62,1:54:40.73,Default,All,0,0,60,,♪ Happy birthday to you ♪
+Dialogue: 0,1:54:40.81,1:54:42.17,Default,All,0,0,60,,♪ Happy birthday, to you ♪
+Dialogue: 0,1:54:42.25,1:54:43.91,Default,All,0,0,60,,♪ Happy birthday, dear Han-chan ♪
+Dialogue: 0,1:55:03.07,1:55:06.51,Default,Ihara Hanna,0,0,60,,The dice and the gacha capsules are amazing! Thank you!
+Dialogue: 0,1:55:06.59,1:55:07.91,Default,Member,0,0,60,,Congratulations!
+Dialogue: 0,1:55:07.99,1:55:09.07,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,1:55:13.12,1:55:17.66,Default,Ouchi Rinka,0,0,60,,Han-chan, you've turned 14—how does it feel being 14?
+Dialogue: 0,1:55:17.78,1:55:23.40,Default,Ihara Hanna,0,0,60,,How does it feel? Nothing's changed, but the number did.
+Dialogue: 0,1:55:24.60,1:55:26.62,Default,Ouchi Rinka,0,0,60,,Amazing. I think that's huge progress.
+Dialogue: 0,1:55:28.76,1:55:31.84,Default,Ouchi Rinka,0,0,60,,What were you doing the moment you turned 14?
+Dialogue: 0,1:55:31.92,1:55:37.72,Default,Ihara Hanna,0,0,60,,The moment I turned 14, I was staying at a hotel with my family, and we did the countdown together.
+Dialogue: 0,1:55:40.72,1:55:41.72,Default,Yasui Hina,0,0,60,,Lovely.
+Dialogue: 0,1:55:41.73,1:55:42.54,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,1:55:43.48,1:55:46.42,Default,Ouchi Rinka,0,0,60,,Since it's a special day, let's take photos just like this.
+Dialogue: 0,1:55:48.98,1:55:50.48,Default,Kuriyama Rina,0,0,60,,Don't drop it!
+Dialogue: 0,1:55:51.04,1:55:52.42,Default,Kuriyama Rina,0,0,60,,Don't drop it, okay?
+Dialogue: 0,1:56:12.38,1:56:13.44,Default,Ouchi Rinka,0,0,60,,What would you like?
+Dialogue: 0,1:56:14.14,1:56:15.82,Default,Ihara Hanna,0,0,60,,First, with hanchaka-chan.
+Dialogue: 0,1:56:15.90,1:56:16.18,Default,Ouchi Rinka,0,0,60,,Okay!
+Dialogue: 0,1:56:17.14,1:56:17.92,Default,Ouchi Rinka,0,0,60,,Okay, here goes.
+Dialogue: 0,1:56:18.38,1:56:19.04,Default,Ihara Hanna,0,0,60,,Se-no!
+Dialogue: 0,1:56:19.12,1:56:21.12,Default,All,0,0,60,,Hanchaka-chaan!
+Dialogue: 0,1:56:23.83,1:56:24.23,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,1:56:25.89,1:56:26.29,Default,Ihara Hanna,0,0,60,,Fourteen!
+Dialogue: 0,1:56:36.04,1:56:37.80,Default,Ihara Hanna,0,0,60,,I'd like you to do a gacha-gacha.
+Dialogue: 0,1:56:37.88,1:56:39.02,Default,Ihara Hanna,0,0,60,,Like "gacha-gachaa!"
+Dialogue: 0,1:56:46.84,1:56:49.14,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:56:50.24,1:56:54.10,Default,Ouchi Rinka,0,0,60,,These photos will go on sale in the lobby after the show,
+Dialogue: 0,1:56:54.18,1:56:57.10,Default,Ouchi Rinka,0,0,60,,so as a souvenir of Han-chan's 14th birthday,
+Dialogue: 0,1:56:57.18,1:56:58.06,Default,Ouchi Rinka,0,0,60,,please do stop by.
+Dialogue: 0,1:56:58.14,1:56:59.04,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,1:57:03.93,1:57:06.88,Default,Ouchi Rinka,0,0,60,,Okay, so we've prepared a game.
+Dialogue: 0,1:57:08.20,1:57:12.42,Default,Ouchi Rinka,0,0,60,,It's called "Gacha-Gacha Inside Her Head:
+Dialogue: 0,1:57:12.50,1:57:14.36,Default,Ouchi Rinka,0,0,60,,Han-chan Quiz"!
+Dialogue: 0,1:57:18.94,1:57:22.94,Default,Ouchi Rinka,0,0,60,,It's been almost a year since Han-chan was promoted to Team KIV.
+Dialogue: 0,1:57:23.00,1:57:24.62,Default,Ouchi Rinka,0,0,60,,This is a game to see
+Dialogue: 0,1:57:24.70,1:57:28.40,Default,Ouchi Rinka,0,0,60,,how well the members know Han-chan.
+Dialogue: 0,1:57:29.42,1:57:33.28,Default,Ouchi Rinka,0,0,60,,Han-chan, please give everyone four questions about yourself.
+Dialogue: 0,1:57:33.36,1:57:38.12,Default,Ouchi Rinka,0,0,60,,Members write their answers on the whiteboard within 20 seconds and reveal them all at once.
+Dialogue: 0,1:57:38.20,1:57:40.76,Default,Ouchi Rinka,0,0,60,,The member with the most correct answers
+Dialogue: 0,1:57:40.84,1:57:45.24,Default,Ouchi Rinka,0,0,60,,might get a fabulous prize from Han-chan!
+Dialogue: 0,1:57:46.41,1:57:47.05,Default,All,0,0,60,,I want it!
+Dialogue: 0,1:57:48.87,1:57:50.77,Default,Ihara Hanna,0,0,60,,There's kind of a fabulous prize,
+Dialogue: 0,1:57:51.49,1:57:53.09,Default,Ihara Hanna,0,0,60,,so please get them right, everyone.
+Dialogue: 0,1:57:53.17,1:57:54.91,Default,Akiyoshi Yuka,0,0,60,,Is the prize still a secret?
+Dialogue: 0,1:57:54.99,1:57:56.29,Default,Ihara Hanna,0,0,60,,Yes, still a secret.
+Dialogue: 0,1:57:56.71,1:57:57.59,Default,Imamura Maria,0,0,60,,Can't wait.
+Dialogue: 0,1:57:58.39,1:58:00.45,Default,Ouchi Rinka,0,0,60,,Are you almost ready?
+Dialogue: 0,1:58:00.79,1:58:02.49,Default,Ouchi Rinka,0,0,60,,Yes. It's 20 seconds,
+Dialogue: 0,1:58:02.69,1:58:03.73,Default,Ihara Hanna,0,0,60,,so write in a hurry.
+Dialogue: 0,1:58:04.85,1:58:05.81,Default,Jitoe Nene,0,0,60,,That's unusual.
+Dialogue: 0,1:58:06.63,1:58:08.27,Default,Ouchi Rinka,0,0,60,,Okay, are we good?
+Dialogue: 0,1:58:08.55,1:58:10.43,Default,Ouchi Rinka,0,0,60,,Here we go. Now,
+Dialogue: 0,1:58:10.67,1:58:12.11,Default,Ouchi Rinka,0,0,60,,ready—
+Dialogue: 0,1:58:12.19,1:58:13.80,Default,Ihara Hanna,0,0,60,,Okay— huh?
+Dialogue: 0,1:58:14.56,1:58:15.74,Default,Ihara Hanna,0,0,60,,I got the order wrong, the question.
+Dialogue: 0,1:58:17.12,1:58:18.28,Default,Ouchi Rinka,0,0,60,,The question, please.
+Dialogue: 0,1:58:18.40,1:58:21.42,Default,Ihara Hanna,0,0,60,,Question 1. My catchphrase,
+Dialogue: 0,1:58:21.50,1:58:23.18,Default,Ihara Hanna,0,0,60,,"The love that bonds us all together—
+Dialogue: 0,1:58:23.26,1:58:27.60,Default,Ihara Hanna,0,0,60,,Received!" In this wonderful catchphrase,
+Dialogue: 0,1:58:27.68,1:58:31.34,Default,Ihara Hanna,0,0,60,,something is hidden. What is it?
+Dialogue: 0,1:58:31.42,1:58:32.90,Default,Ihara Hanna,0,0,60,,Ready, start!
+Dialogue: 0,1:58:33.41,1:58:34.51,Default,Jitoe Nene,0,0,60,,Something...
+Dialogue: 0,1:58:34.51,1:58:36.75,Default,Ihara Hanna,0,0,60,,Something is hidden...
+Dialogue: 0,1:58:36.83,1:58:38.73,Default,Ihara Hanna,0,0,60,,This one has no hint.
+Dialogue: 0,1:58:39.31,1:58:39.99,Default,Unknown,0,0,60,,What does that mean?
+Dialogue: 0,1:58:41.84,1:58:44.08,Default,Ihara Hanna,0,0,60,,"The love that bonds us all together,
+Dialogue: 0,1:58:44.16,1:58:45.76,Default,Ihara Hanna,0,0,60,,received."
+Dialogue: 0,1:58:46.61,1:58:48.25,Default,Ouchi Rinka,0,0,60,,You mean it's hidden in there?
+Dialogue: 0,1:58:49.60,1:58:50.70,Default,Multiple,0,0,60,,Got it!
+Dialogue: 0,1:58:50.78,1:58:51.96,Default,Ouchi Rinka,0,0,60,,Two seconds left.
+Dialogue: 0,1:58:52.04,1:58:52.62,Default,Kuriyama Rina,0,0,60,,Two seconds?
+Dialogue: 0,1:58:53.60,1:58:55.84,Default,Kuriyama Rina,0,0,60,,With two seconds left, maybe you didn't need to say it.
+Dialogue: 0,1:58:55.92,1:58:56.50,Default,Ihara Hanna,0,0,60,,Sorry.
+Dialogue: 0,1:58:56.58,1:58:57.74,Default,Ouchi Rinka,0,0,60,,Time's up.
+Dialogue: 0,1:58:57.82,1:58:59.28,Default,Ouchi Rinka,0,0,60,,Are we good?
+Dialogue: 0,1:59:00.12,1:59:00.56,Default,Kuriyama Rina,0,0,60,,Yes.
+Dialogue: 0,1:59:01.97,1:59:02.85,Default,Ouchi Rinka,0,0,60,,Okay?
+Dialogue: 0,1:59:03.11,1:59:03.47,Default,Imamura Maria,0,0,60,,Yes.
+Dialogue: 0,1:59:03.55,1:59:07.59,Default,Ouchi Rinka,0,0,60,,Then I'd like everyone to reveal at once.
+Dialogue: 0,1:59:07.67,1:59:08.13,Default,Izawa Miyu,0,0,60,,Okay.
+Dialogue: 0,1:59:08.21,1:59:08.71,Default,Ihara Hanna,0,0,60,,Here we go.
+Dialogue: 0,1:59:08.79,1:59:10.09,Default,Ouchi Rinka,0,0,60,,Se-no!
+Dialogue: 0,1:59:10.63,1:59:11.07,Default,All,0,0,60,,Ta-da!
+Dialogue: 0,1:59:11.15,1:59:12.45,Default,Ouchi Rinka,0,0,60,,How's that? Take a look.
+Dialogue: 0,1:59:12.89,1:59:13.93,Default,Akiyoshi Yuka,0,0,60,,Her name?
+Dialogue: 0,1:59:14.49,1:59:16.02,Default,Ouchi Rinka,0,0,60,,Lots of us wrote her name.
+Dialogue: 0,1:59:16.10,1:59:18.38,Default,Kuriyama Rina,0,0,60,,There's one person over here acting strange.
+Dialogue: 0,1:59:18.46,1:59:18.90,Default,Multiple,0,0,60,,Tuna?
+Dialogue: 0,1:59:19.10,1:59:20.44,Default,Jitoe Nene,0,0,60,,But there is "tuna" in it.
+Dialogue: 0,1:59:20.52,1:59:20.70,Default,Kuriyama Rina,0,0,60,,Tuna?
+Dialogue: 0,1:59:22.88,1:59:24.30,Default,Kuriyama Rina,0,0,60,,A growing appetite!
+Dialogue: 0,1:59:25.62,1:59:27.20,Default,Ihara Hanna,0,0,60,,There are people who got it right.
+Dialogue: 0,1:59:27.28,1:59:33.08,Default,Ihara Hanna,0,0,60,,The answer: the name "Hanna" is written in it.
+Dialogue: 0,1:59:36.87,1:59:38.68,Default,Ouchi Rinka,0,0,60,,Quite a few of us got it right.
+Dialogue: 0,1:59:38.76,1:59:40.68,Default,Ihara Hanna,0,0,60,,For those who got it right,
+Dialogue: 0,1:59:41.86,1:59:43.74,Default,Jitoe Nene,0,0,60,,One per question?
+Dialogue: 0,1:59:43.82,1:59:44.42,Default,Kuriyama Rina,0,0,60,,Stickers?
+Dialogue: 0,1:59:45.70,1:59:47.30,Default,Ouchi Rinka,0,0,60,,Homemade stickers—
+Dialogue: 0,1:59:48.18,1:59:53.98,Default,Ihara Hanna,0,0,60,,I'll stick a "hanchaka sticker" on your whiteboard,
+Dialogue: 0,1:59:55.96,1:59:58.50,Default,Ihara Hanna,0,0,60,,and the person with the highest score gets a reward.
+Dialogue: 0,2:00:02.08,2:00:02.72,Default,Ouchi Rinka,0,0,60,,Thank you!
+Dialogue: 0,2:00:02.92,2:00:03.36,Default,Jitoe Nene,0,0,60,,Go ahead!
+Dialogue: 0,2:00:04.32,2:00:06.40,Default,Imamura Maria,0,0,60,,It's like summer-holiday radio exercises!
+Dialogue: 0,2:00:06.48,2:00:09.70,Default,Ihara Hanna,0,0,60,,I'll go to the people who got it right.
+Dialogue: 0,2:00:10.34,2:00:10.78,Default,Jitoe Nene,0,0,60,,Yes, please!
+Dialogue: 0,2:00:11.30,2:00:11.54,Default,Jitoe Nene,0,0,60,,Thank you!
+Dialogue: 0,2:00:12.40,2:00:13.94,Default,Jitoe Nene,0,0,60,,It says "hanchaka"!
+Dialogue: 0,2:00:14.78,2:00:15.92,Default,All,0,0,60,,Cute!
+Dialogue: 0,2:00:16.64,2:00:18.70,Default,Akiyoshi Yuka,0,0,60,,Zawa-chan's, on the other hand, was way too cool.
+Dialogue: 0,2:00:18.78,2:00:19.56,Default,Kuriyama Rina,0,0,60,,It's totally handwritten.
+Dialogue: 0,2:00:20.04,2:00:21.36,Default,Imamura Maria,0,0,60,,Why did you put tuna?
+Dialogue: 0,2:00:21.36,2:00:22.38,Default,Tanaka Iori,0,0,60,,Why did "tuna" come out?
+Dialogue: 0,2:00:23.08,2:00:25.86,Default,Izawa Miyu,0,0,60,,It came from "I'll have the tuna, itadakimasu," kind of thing.
+Dialogue: 0,2:00:27.18,2:00:29.74,Default,Kuriyama Rina,0,0,60,,You peeked at Richaki's "itadakimasu" a bit, didn't you!
+Dialogue: 0,2:00:30.92,2:00:31.68,Default,Ouchi Rinka,0,0,60,,True.
+Dialogue: 0,2:00:32.52,2:00:33.34,Default,Ouchi Rinka,0,0,60,,Everyone's amazing.
+Dialogue: 0,2:00:33.42,2:00:34.46,Default,Sakamoto Erena,0,0,60,,Thank you for each and every one.
+Dialogue: 0,2:00:35.51,2:00:37.72,Default,Jitoe Nene,0,0,60,,It's handwritten!
+Dialogue: 0,2:00:38.62,2:00:39.96,Default,Akiyoshi Yuka,0,0,60,,Her name.
+Dialogue: 0,2:00:40.24,2:00:40.88,Default,Ihara Hanna,0,0,60,,Thanks!
+Dialogue: 0,2:00:41.34,2:00:42.42,Default,Ouchi Rinka,0,0,60,,Congratulations!
+Dialogue: 0,2:00:43.87,2:00:46.69,Default,Ihara Hanna,0,0,60,,Now I'd like to move on to question 2.
+Dialogue: 0,2:00:46.77,2:00:47.43,Default,Ouchi Rinka,0,0,60,,Please!
+Dialogue: 0,2:00:47.51,2:00:49.82,Default,Ihara Hanna,0,0,60,,Question 2
+Dialogue: 0,2:00:52.70,2:00:55.26,Default,Ihara Hanna,0,0,60,,is related to question 1.
+Dialogue: 0,2:00:55.72,2:00:57.32,Default,Ihara Hanna,0,0,60,,That catchphrase
+Dialogue: 0,2:00:57.40,2:01:01.94,Default,Ihara Hanna,0,0,60,,is based on something I loved when I was little.
+Dialogue: 0,2:01:02.02,2:01:03.92,Default,Ihara Hanna,0,0,60,,What is it?
+Dialogue: 0,2:01:04.00,2:01:05.70,Default,Ouchi Rinka,0,0,60,,Ready, start!
+Dialogue: 0,2:01:05.78,2:01:07.54,Default,Izawa Miyu,0,0,60,,In the catchphrase,
+Dialogue: 0,2:01:07.62,2:01:08.76,Default,Akiyoshi Yuka,0,0,60,,"Received"...
+Dialogue: 0,2:01:09.92,2:01:13.41,Default,Ihara Hanna,0,0,60,,Do you all know what it is?
+Dialogue: 0,2:01:13.97,2:01:15.67,Default,Ihara Hanna,0,0,60,,Shall I give a hint?
+Dialogue: 0,2:01:15.75,2:01:18.33,Default,Ihara Hanna,0,0,60,,The hint is: an anime.
+Dialogue: 0,2:01:19.65,2:01:20.83,Default,Ihara Hanna,0,0,60,,Five seconds left.
+Dialogue: 0,2:01:20.91,2:01:21.37,Default,Unknown,0,0,60,,What, what, what?
+Dialogue: 0,2:01:22.57,2:01:27.97,Default,Ouchi Rinka,0,0,60,,Time's up, but—
+Dialogue: 0,2:01:30.15,2:01:31.53,Default,Ouchi Rinka,0,0,60,,I didn't quite make it.
+Dialogue: 0,2:01:31.61,2:01:33.72,Default,Eguchi Kokoha,0,0,60,,Sort of, well, yeah.
+Dialogue: 0,2:01:34.52,2:01:36.62,Default,Ouchi Rinka,0,0,60,,Let's just go with whatever came to mind.
+Dialogue: 0,2:01:36.70,2:01:37.42,Default,Ihara Hanna,0,0,60,,Is everyone okay?
+Dialogue: 0,2:01:37.58,2:01:38.40,Default,Ihara Hanna,0,0,60,,Good to go? Okay.
+Dialogue: 0,2:01:38.92,2:01:39.27,Default,Ihara Hanna,0,0,60,,Here we go.
+Dialogue: 0,2:01:39.35,2:01:40.92,Default,Ouchi Rinka,0,0,60,,Reveal all at once.
+Dialogue: 0,2:01:41.62,2:01:42.64,Default,Ihara Hanna,0,0,60,,Se-no!
+Dialogue: 0,2:01:45.54,2:01:46.60,Default,Ouchi Rinka,0,0,60,,Pretty Cure!
+Dialogue: 0,2:01:47.02,2:01:48.48,Default,Ouchi Rinka,0,0,60,,Lots of Pretty Cure!
+Dialogue: 0,2:01:48.88,2:01:50.28,Default,Ihara Hanna,0,0,60,,Wow, there are correct answers!
+Dialogue: 0,2:01:50.36,2:01:50.84,Default,All,0,0,60,,Oh, there are!
+Dialogue: 0,2:01:52.00,2:01:54.32,Default,Ihara Hanna,0,0,60,,The answer is Pretty Cure!
+Dialogue: 0,2:01:54.40,2:01:55.50,Default,All,0,0,60,,Yay!
+Dialogue: 0,2:01:58.15,2:02:02.67,Default,Ihara Hanna,0,0,60,,I made it imagining Pretty Cure's transformation scenes and so on,
+Dialogue: 0,2:02:03.33,2:02:06.15,Default,Ihara Hanna,0,0,60,,like, a big love that connects us with bonds—
+Dialogue: 0,2:02:06.23,2:02:09.73,Default,Ihara Hanna,0,0,60,,I based it on that big love that connects us with bonds.
+Dialogue: 0,2:02:09.81,2:02:10.69,Default,Jitoe Nene,0,0,60,,Wow, I really got it.
+Dialogue: 0,2:02:10.77,2:02:13.51,Default,Ihara Hanna,0,0,60,,Someone wrote Hunter × Hunter,
+Dialogue: 0,2:02:13.59,2:02:16.23,Default,Jitoe Nene,0,0,60,,no, the one next to Hunter × Hunter, it's like
+Dialogue: 0,2:02:16.31,2:02:18.31,Default,Kuriyama Rina,0,0,60,,that "Gohan desu yo" vibe,
+Dialogue: 0,2:02:18.39,2:02:21.87,Default,Akiyoshi Yuka,0,0,60,,I thought "received" came from that too,
+Dialogue: 0,2:02:21.95,2:02:23.45,Default,Akiyoshi Yuka,0,0,60,,it says "Kodoku no Gourmet,"
+Dialogue: 0,2:02:23.53,2:02:24.69,Default,All,0,0,60,,Kodoku no Gourmet?
+Dialogue: 0,2:02:24.79,2:02:26.85,Default,Kuriyama Rina,0,0,60,,There wasn't a scene like that!
+Dialogue: 0,2:02:26.93,2:02:27.81,Default,Imamura Maria,0,0,60,,Anime?
+Dialogue: 0,2:02:27.89,2:02:28.69,Default,Jitoe Nene,0,0,60,,The generation—
+Dialogue: 0,2:02:30.11,2:02:31.55,Default,Akiyoshi Yuka,0,0,60,,A generation gap, maybe?
+Dialogue: 0,2:02:31.63,2:02:32.91,Default,Sakamoto Erena,0,0,60,,A generation gap, huh.
+Dialogue: 0,2:02:34.55,2:02:36.11,Default,Sakamoto Erena,0,0,60,,Do you know Kodoku no Gourmet, Han-chan?
+Dialogue: 0,2:02:36.19,2:02:37.47,Default,Ihara Hanna,0,0,60,,I don't know it.
+Dialogue: 0,2:02:37.55,2:02:38.99,Default,Imamura Maria,0,0,60,,Generation gap!
+Dialogue: 0,2:02:39.07,2:02:41.51,Default,Ihara Hanna,0,0,60,,Congratulations to you!
+Dialogue: 0,2:02:41.59,2:02:42.69,Default,Kuriyama Rina,0,0,60,,Yay!
+Dialogue: 0,2:02:43.91,2:02:44.93,Default,Ouchi Rinka,0,0,60,,Question 3.
+Dialogue: 0,2:02:45.01,2:02:47.42,Default,Ihara Hanna,0,0,60,,Question 3:
+Dialogue: 0,2:02:47.50,2:02:49.92,Default,Ihara Hanna,0,0,60,,last year I
+Dialogue: 0,2:02:50.00,2:02:51.10,Default,Ihara Hanna,0,0,60,,messed something up,
+Dialogue: 0,2:02:51.18,2:02:54.98,Default,Ihara Hanna,0,0,60,,and caused my manager a lot of trouble.
+Dialogue: 0,2:02:55.06,2:02:57.16,Default,Ihara Hanna,0,0,60,,What was it?
+Dialogue: 0,2:02:57.24,2:02:59.54,Default,Ouchi Rinka,0,0,60,,Ready, start!
+Dialogue: 0,2:03:00.24,2:03:02.38,Default,Akiyoshi Yuka,0,0,60,,She seemed like such an honour student.
+Dialogue: 0,2:03:02.46,2:03:05.96,Default,Ihara Hanna,0,0,60,,The hint is: something I forgot.
+Dialogue: 0,2:03:06.04,2:03:07.18,Default,Ouchi Rinka,0,0,60,,Something forgotten?
+Dialogue: 0,2:03:07.34,2:03:10.21,Default,Ihara Hanna,0,0,60,,I forgot something.
+Dialogue: 0,2:03:10.29,2:03:13.69,Default,Ihara Hanna,0,0,60,,I think some of you know.
+Dialogue: 0,2:03:14.75,2:03:16.95,Default,Ihara Hanna,0,0,60,,Three seconds left.
+Dialogue: 0,2:03:17.03,2:03:17.55,Default,Ihara Hanna,0,0,60,,Two.
+Dialogue: 0,2:03:17.63,2:03:18.51,Default,Ihara Hanna,0,0,60,,One.
+Dialogue: 0,2:03:18.59,2:03:20.78,Default,Ouchi Rinka,0,0,60,,Time's up.
+Dialogue: 0,2:03:21.52,2:03:23.06,Default,Ihara Hanna,0,0,60,,Everyone okay?
+Dialogue: 0,2:03:23.14,2:03:28.94,Default,Ouchi Rinka,0,0,60,,Everyone good? Then everyone reveal at once.
+Dialogue: 0,2:03:29.75,2:03:32.80,Default,Ouchi Rinka,0,0,60,,Se-no! Ta-da!
+Dialogue: 0,2:03:34.00,2:03:36.95,Default,Ouchi Rinka,0,0,60,,Suitcase! Suitcase! My Number card!
+Dialogue: 0,2:03:38.57,2:03:41.87,Default,Akiyoshi Yuka,0,0,60,,One person couldn't think of it. / True, that's important, the most important.
+Dialogue: 0,2:03:41.95,2:03:45.95,Default,Ihara Hanna,0,0,60,,Okay, here's the answer. The answer is: my suitcase!
+Dialogue: 0,2:03:46.03,2:03:51.83,Default,Ihara Hanna,0,0,60,,That's right. Saaya-chan often forgets her suitcase,
+Dialogue: 0,2:03:52.03,2:03:53.09,Default,Ihara Hanna,0,0,60,,doesn't she?
+Dialogue: 0,2:03:53.17,2:03:54.31,Default,Ihara Hanna,0,0,60,,Seeing it up close,
+Dialogue: 0,2:03:54.39,2:03:56.79,Default,Ihara Hanna,0,0,60,,I'd been thinking, "How do you even forget a suitcase?"
+Dialogue: 0,2:03:57.65,2:03:58.91,Default,Ihara Hanna,0,0,60,,and then
+Dialogue: 0,2:03:58.99,2:04:00.55,Default,Ihara Hanna,0,0,60,,I went and did it myself.
+Dialogue: 0,2:04:00.63,2:04:04.21,Default,Ihara Hanna,0,0,60,,And that was the day before a concert.
+Dialogue: 0,2:04:05.65,2:04:07.73,Default,Ihara Hanna,0,0,60,,So super early in the morning,
+Dialogue: 0,2:04:07.81,2:04:09.51,Default,Ihara Hanna,0,0,60,,my manager went to get it for me.
+Dialogue: 0,2:04:09.93,2:04:10.99,Default,Ihara Hanna,0,0,60,,They're so kind.
+Dialogue: 0,2:04:11.07,2:04:12.59,Default,Ihara Hanna,0,0,60,,That's what happened.
+Dialogue: 0,2:04:13.41,2:04:15.27,Default,Morisaki Saaya,0,0,60,,When you're together, you start to resemble each other.
+Dialogue: 0,2:04:16.55,2:04:18.53,Default,Jitoe Nene,0,0,60,,I wrote "to Tokyo", is that okay?
+Dialogue: 0,2:04:19.19,2:04:20.55,Default,Jitoe Nene,0,0,60,,She did forget her suitcase, but—
+Dialogue: 0,2:04:20.63,2:04:21.71,Default,Ihara Hanna,0,0,60,,Then that's fine.
+Dialogue: 0,2:04:22.59,2:04:24.05,Default,Tanaka Iori,0,0,60,,Please, go ahead!
+Dialogue: 0,2:04:24.49,2:04:25.67,Default,Tanaka Iori,0,0,60,,Yay!
+Dialogue: 0,2:04:25.87,2:04:27.70,Default,Kuriyama Rina,0,0,60,,Yay, yay!
+Dialogue: 0,2:04:28.48,2:04:29.54,Default,Kuriyama Rina,0,0,60,,So cute!
+Dialogue: 0,2:04:29.76,2:04:31.98,Default,Akiyoshi Yuka,0,0,60,,Wow, Maria's been getting them all right, hasn't she?
+Dialogue: 0,2:04:32.06,2:04:33.86,Default,Imamura Maria,0,0,60,,Yes, all correct so far.
+Dialogue: 0,2:04:33.98,2:04:36.92,Default,Ouchi Rinka,0,0,60,,She's the master of the Imamura Children, after all.
+Dialogue: 0,2:04:38.22,2:04:39.20,Default,Ouchi Rinka,0,0,60,,As expected!
+Dialogue: 0,2:04:41.26,2:04:42.42,Default,Ihara Hanna,0,0,60,,Wow, Koko-ppe too.
+Dialogue: 0,2:04:42.54,2:04:44.18,Default,Imamura Maria,0,0,60,,Really, Koko-ppe's got them all right too.
+Dialogue: 0,2:04:44.30,2:04:45.88,Default,Tachibana Kokoro,0,0,60,,Because I'm Koppe-Han, after all.
+Dialogue: 0,2:04:46.00,2:04:48.60,Default,Imamura Maria,0,0,60,,The Children won't lose either!
+Dialogue: 0,2:04:48.82,2:04:49.84,Default,Akiyoshi Yuka,0,0,60,,Koppe-Han!
+Dialogue: 0,2:04:50.30,2:04:51.96,Default,Tanaka Iori,0,0,60,,There's one more strong rival right here.
+Dialogue: 0,2:04:52.04,2:04:52.84,Default,Kuriyama Rina,0,0,60,,Yes, because I'm from Oita.
+Dialogue: 0,2:04:52.92,2:04:54.48,Default,Imamura Maria,0,0,60,,Whoa, that's bad.
+Dialogue: 0,2:04:54.94,2:04:56.20,Default,Jitoe Nene,0,0,60,,Hey, don't you have a name?
+Dialogue: 0,2:04:56.28,2:04:57.40,Default,Jitoe Nene,0,0,60,,No name?
+Dialogue: 0,2:04:57.48,2:04:58.08,Default,Kuriyama Rina,0,0,60,,Oh, but right, Koko too—
+Dialogue: 0,2:04:58.16,2:04:59.44,Default,Eguchi Kokoha,0,0,60,,um, because we're Han-Koko—
+Dialogue: 0,2:04:59.52,2:05:00.64,Default,Imamura Maria,0,0,60,,Never heard of it, never heard of it.
+Dialogue: 0,2:05:00.72,2:05:03.02,Default,Ihara Hanna,0,0,60,,I don't remember making that one.
+Dialogue: 0,2:05:04.42,2:05:05.02,Default,Eguchi Kokoha,0,0,60,,That's sad.
+Dialogue: 0,2:05:05.10,2:05:06.52,Default,Ouchi Rinka,0,0,60,,Okay, the final question.
+Dialogue: 0,2:05:06.60,2:05:08.76,Default,Ihara Hanna,0,0,60,,The final question:
+Dialogue: 0,2:05:08.84,2:05:13.92,Default,Ihara Hanna,0,0,60,,I'm going to do impressions of three members,
+Dialogue: 0,2:05:14.00,2:05:16.28,Default,Ihara Hanna,0,0,60,,so write down who I'm imitating.
+Dialogue: 0,2:05:16.36,2:05:17.82,Default,Akiyoshi Yuka,0,0,60,,Is this one point?
+Dialogue: 0,2:05:17.90,2:05:19.08,Default,Ouchi Rinka,0,0,60,,One point per person.
+Dialogue: 0,2:05:19.16,2:05:21.80,Default,Ihara Hanna,0,0,60,,So if you get the final one right, that's five points?
+Dialogue: 0,2:05:21.88,2:05:22.58,Default,All,0,0,60,,Whaaat?
+Dialogue: 0,2:05:22.66,2:05:24.24,Default,Sakamoto Erena,0,0,60,,Oh no!
+Dialogue: 0,2:05:24.32,2:05:27.60,Default,Jitoe Nene,0,0,60,,So you have to get all three, right?
+Dialogue: 0,2:05:27.68,2:05:28.02,Default,Ihara Hanna,0,0,60,,Yes.
+Dialogue: 0,2:05:28.58,2:05:30.02,Default,Ihara Hanna,0,0,60,,This person, this person, this person.
+Dialogue: 0,2:05:30.10,2:05:30.78,Default,Kuriyama Rina,0,0,60,,Wait a moment.
+Dialogue: 0,2:05:30.86,2:05:32.92,Default,Kuriyama Rina,0,0,60,,By the way, is it members here?
+Dialogue: 0,2:05:33.00,2:05:34.42,Default,Kuriyama Rina,0,0,60,,Or HKT as a whole?
+Dialogue: 0,2:05:34.58,2:05:35.56,Default,Ihara Hanna,0,0,60,,No, members here.
+Dialogue: 0,2:05:36.52,2:05:37.82,Default,Kuriyama Rina,0,0,60,,I might actually get this.
+Dialogue: 0,2:05:37.90,2:05:39.54,Default,Ihara Hanna,0,0,60,,I'll sing the chorus
+Dialogue: 0,2:05:40.22,2:05:42.36,Default,Ihara Hanna,0,0,60,,of "Jounetsu Highway",
+Dialogue: 0,2:05:42.44,2:05:44.32,Default,Ihara Hanna,0,0,60,,and three people are hidden in it.
+Dialogue: 0,2:05:45.48,2:05:46.28,Default,Jitoe Nene,0,0,60,,Their singing voices?
+Dialogue: 0,2:05:47.04,2:05:48.00,Default,Kuriyama Rina,0,0,60,,A singing impression?
+Dialogue: 0,2:05:48.08,2:05:51.14,Default,Ihara Hanna,0,0,60,,The singing is my own voice,
+Dialogue: 0,2:05:52.24,2:05:53.48,Default,Ihara Hanna,0,0,60,,but I'll do their dance moves.
+Dialogue: 0,2:05:55.12,2:05:57.34,Default,Ihara Hanna,0,0,60,,Moves, and also mannerisms.
+Dialogue: 0,2:05:57.42,2:05:59.04,Default,Ihara Hanna,0,0,60,,Okay, here I go.
+Dialogue: 0,2:05:59.12,2:05:59.74,Default,Ihara Hanna,0,0,60,,First person—
+Dialogue: 0,2:06:00.28,2:06:01.14,Default,Kuriyama Rina,0,0,60,,Is it all in one go?
+Dialogue: 0,2:06:01.22,2:06:01.70,Default,Ihara Hanna,0,0,60,,Yes, here I go.
+Dialogue: 0,2:06:01.78,2:06:03.22,Default,Ihara Hanna,0,0,60,,Watch closely.
+Dialogue: 0,2:06:03.30,2:06:03.80,Default,Morisaki Saaya,0,0,60,,Okay.
+Dialogue: 0,2:06:04.42,2:06:04.90,Default,Ihara Hanna,0,0,60,,Here I go.
+Dialogue: 0,2:06:05.38,2:06:07.96,Default,Ihara Hanna,0,0,60,,♪ GO! GO! GO! GO! GO! Floor it ♪
+Dialogue: 0,2:06:09.42,2:06:12.28,Default,Ihara Hanna,0,0,60,,♪ Yeah, GO! GO! GO! GO! GO! As far as we can ♪
+Dialogue: 0,2:06:13.87,2:06:16.83,Default,Ihara Hanna,0,0,60,,♪ What we have to talk about ♪
+Dialogue: 0,2:06:16.91,2:06:17.79,Default,Akiyoshi Yuka,0,0,60,,I just saw Toyonaga Aki!
+Dialogue: 0,2:06:18.27,2:06:21.83,Default,Ihara Hanna,0,0,60,,♪ Only understanding each other ♪
+Dialogue: 0,2:06:22.35,2:06:24.37,Default,Ihara Hanna,0,0,60,,♪ Go, go, go, go, floor it ♪
+Dialogue: 0,2:06:26.13,2:06:28.87,Default,Ihara Hanna,0,0,60,,♪ Go, go, go, go, go, without rest ♪
+Dialogue: 0,2:06:28.95,2:06:30.59,Default,Akiyoshi Yuka,0,0,60,,I think I've got it.
+Dialogue: 0,2:06:42.44,2:06:43.48,Default,Eguchi Kokoha,0,0,60,,That's it, no good!
+Dialogue: 0,2:06:43.94,2:06:45.88,Default,Kuriyama Rina,0,0,60,,No good, anyone who does that!
+Dialogue: 0,2:06:46.46,2:06:47.58,Default,Ouchi Rinka,0,0,60,,Were there three already?
+Dialogue: 0,2:06:47.66,2:06:48.50,Default,Ihara Hanna,0,0,60,,There were three already.
+Dialogue: 0,2:06:51.82,2:06:52.48,Default,All,0,0,60,,Three?
+Dialogue: 0,2:06:53.34,2:06:55.36,Default,Jitoe Nene,0,0,60,,Could you do it once more, even at double speed?
+Dialogue: 0,2:06:55.70,2:06:56.58,Default,Kuriyama Rina,0,0,60,,It's the hardest one.
+Dialogue: 0,2:06:56.66,2:06:58.20,Default,Imamura Maria,0,0,60,,Say "here" when one comes up.
+Dialogue: 0,2:06:58.28,2:06:59.18,Default,Jitoe Nene,0,0,60,,True, true.
+Dialogue: 0,2:06:59.26,2:07:01.16,Default,Ihara Hanna,0,0,60,,Um, okay then—
+Dialogue: 0,2:07:05.98,2:07:06.70,Default,Ihara Hanna,0,0,60,,Here!
+Dialogue: 0,2:07:08.68,2:07:09.40,Default,Jitoe Nene,0,0,60,,Yes, yes, yes.
+Dialogue: 0,2:07:10.74,2:07:11.74,Default,Kuriyama Rina,0,0,60,,Sort of.
+Dialogue: 0,2:07:12.38,2:07:13.28,Default,Ihara Hanna,0,0,60,,Here too!
+Dialogue: 0,2:07:13.90,2:07:16.00,Default,Eguchi Kokoha,0,0,60,,The way she holds the mic?
+Dialogue: 0,2:07:17.07,2:07:18.43,Default,Akiyoshi Yuka,0,0,60,,The way she holds the mic.
+Dialogue: 0,2:07:21.07,2:07:22.63,Default,Jitoe Nene,0,0,60,,I always wondered about that.
+Dialogue: 0,2:07:29.43,2:07:30.41,Default,Ouchi Rinka,0,0,60,,This is pretty hard.
+Dialogue: 0,2:07:30.49,2:07:31.99,Default,Ouchi Rinka,0,0,60,,I'll give you 20 seconds.
+Dialogue: 0,2:07:32.07,2:07:36.59,Default,Ihara Hanna,0,0,60,,If you've watched DMM, you might know.
+Dialogue: 0,2:07:39.16,2:07:40.60,Default,Ouchi Rinka,0,0,60,,This is pretty hard.
+Dialogue: 0,2:07:41.84,2:07:43.56,Default,Sakamoto Erena,0,0,60,,I might want to see the third one again.
+Dialogue: 0,2:07:43.64,2:07:44.32,Default,Ihara Hanna,0,0,60,,The third one—
+Dialogue: 0,2:07:47.74,2:07:48.48,Default,Ouchi Rinka,0,0,60,,Ah, I see.
+Dialogue: 0,2:07:49.87,2:07:51.07,Default,Ouchi Rinka,0,0,60,,Three seconds left.
+Dialogue: 0,2:07:51.15,2:07:51.73,Default,Ihara Hanna,0,0,60,,Okay.
+Dialogue: 0,2:07:52.71,2:07:54.49,Default,Ihara Hanna,0,0,60,,Zero.
+Dialogue: 0,2:07:54.57,2:07:55.63,Default,Ouchi Rinka,0,0,60,,Did you write it?
+Dialogue: 0,2:07:55.93,2:07:56.49,Default,Sakamoto Erena,0,0,60,,Yes.
+Dialogue: 0,2:07:56.68,2:07:57.18,Default,Ihara Hanna,0,0,60,,Everyone,
+Dialogue: 0,2:07:57.26,2:07:58.66,Default,Ouchi Rinka,0,0,60,,it's pretty hard, but
+Dialogue: 0,2:07:59.28,2:07:59.92,Default,Ihara Hanna,0,0,60,,how is it?
+Dialogue: 0,2:08:00.06,2:08:00.54,Default,Eguchi Kokoha,0,0,60,,Yes.
+Dialogue: 0,2:08:00.62,2:08:01.30,Default,Kuriyama Rina,0,0,60,,Sort of.
+Dialogue: 0,2:08:03.50,2:08:05.11,Default,Ihara Hanna,0,0,60,,Okay, everyone, please.
+Dialogue: 0,2:08:05.12,2:08:06.60,Default,Ouchi Rinka,0,0,60,,Here we go!
+Dialogue: 0,2:08:07.02,2:08:07.58,Default,Ihara Hanna,0,0,60,,Ready?
+Dialogue: 0,2:08:07.70,2:08:08.05,Default,All,0,0,60,,Yes.
+Dialogue: 0,2:08:08.13,2:08:08.96,Default,Ouchi Rinka,0,0,60,,Se-no!
+Dialogue: 0,2:08:09.04,2:08:10.44,Default,All,0,0,60,,Ta-da!
+Dialogue: 0,2:08:12.00,2:08:12.74,Default,Ouchi Rinka,0,0,60,,Wh-what's that?
+Dialogue: 0,2:08:15.46,2:08:15.76,Default,Ouchi Rinka,0,0,60,,Hm?
+Dialogue: 0,2:08:16.50,2:08:17.66,Default,Ouchi Rinka,0,0,60,,How is it? Right answers?
+Dialogue: 0,2:08:17.74,2:08:18.58,Default,Ihara Hanna,0,0,60,,Oh, there are correct answers.
+Dialogue: 0,2:08:18.66,2:08:19.26,Default,All,0,0,60,,Ooh!
+Dialogue: 0,2:08:19.34,2:08:20.10,Default,Unknown,0,0,60,,That's amazing.
+Dialogue: 0,2:08:20.48,2:08:21.12,Default,Unknown,0,0,60,,Which one?
+Dialogue: 0,2:08:21.20,2:08:22.98,Default,Ihara Hanna,0,0,60,,Okay, here are the answers.
+Dialogue: 0,2:08:23.06,2:08:23.56,Default,Ihara Hanna,0,0,60,,Um,
+Dialogue: 0,2:08:23.64,2:08:24.28,Default,Ihara Hanna,0,0,60,,this one is
+Dialogue: 0,2:08:24.36,2:08:25.38,Default,Ihara Hanna,0,0,60,,Akiyoshi-san.
+Dialogue: 0,2:08:26.86,2:08:27.32,Default,Kuriyama Rina,0,0,60,,As expected.
+Dialogue: 0,2:08:27.40,2:08:29.62,Default,Akiyoshi Yuka,0,0,60,,And everyone wrote me!
+Dialogue: 0,2:08:30.84,2:08:31.82,Default,Jitoe Nene,0,0,60,,Everyone has seen it
+Dialogue: 0,2:08:32.06,2:08:34.63,Default,Akiyoshi Yuka,0,0,60,,Why is it hard?
+Dialogue: 0,2:08:34.71,2:08:36.49,Default,Ihara Hanna,0,0,60,,This way of holding the mic is Zawa-chan.
+Dialogue: 0,2:08:41.52,2:08:44.94,Default,Ihara Hanna,0,0,60,,And the matching one was Eguchi Koko.
+Dialogue: 0,2:08:44.96,2:08:46.22,Default,Eguchi Kokoha,0,0,60,,That's right.
+Dialogue: 0,2:08:48.06,2:08:49.49,Default,Ihara Hanna,0,0,60,,Every time—
+Dialogue: 0,2:08:49.50,2:08:52.56,Default,Ihara Hanna,0,0,60,,When I was writing it, it was like draining ramen noodles—
+Dialogue: 0,2:08:53.60,2:08:54.42,Default,Sakamoto Erena,0,0,60,,Draining?
+Dialogue: 0,2:08:54.60,2:08:55.94,Default,Imamura Maria,0,0,60,,So that was the draining part!
+Dialogue: 0,2:08:56.02,2:08:57.60,Default,Eguchi Kokoha,0,0,60,,No, no, that part—
+Dialogue: 0,2:08:58.78,2:09:00.92,Default,Eguchi Kokoha,0,0,60,,But I wrote myself too, thinking maybe it was me.
+Dialogue: 0,2:09:01.00,2:09:02.80,Default,Jitoe Nene,0,0,60,,But isn't that moving?
+Dialogue: 0,2:09:03.84,2:09:04.72,Default,Sakamoto Erena,0,0,60,,Me too, me too!
+Dialogue: 0,2:09:06.40,2:09:08.46,Default,Kuriyama Rina,0,0,60,,Wow, lots of Koko-ppe and Koko.
+Dialogue: 0,2:09:09.74,2:09:10.60,Default,Akiyoshi Yuka,0,0,60,,Will there be enough stickers?
+Dialogue: 0,2:09:10.88,2:09:13.84,Default,Ihara Hanna,0,0,60,,There aren't, so I'll put in a 5-point sticker.
+Dialogue: 0,2:09:13.92,2:09:15.74,Default,Jitoe Nene,0,0,60,,A 5-point sticker!
+Dialogue: 0,2:09:16.86,2:09:17.84,Default,Jitoe Nene,0,0,60,,Koko-ppe, all of them?
+Dialogue: 0,2:09:18.22,2:09:18.72,Default,Tachibana Kokoro,0,0,60,,All of them!
+Dialogue: 0,2:09:18.80,2:09:19.34,Default,All,0,0,60,,Wow, amazing!
+Dialogue: 0,2:09:20.32,2:09:22.26,Default,Jitoe Nene,0,0,60,,That's the Koppe-Han bond!
+Dialogue: 0,2:09:22.72,2:09:25.28,Default,Kuriyama Rina,0,0,60,,Koko-ppe and Egu-chan tie for 1st place!
+Dialogue: 0,2:09:25.80,2:09:26.72,Default,Kuriyama Rina,0,0,60,,8 points!
+Dialogue: 0,2:09:27.28,2:09:28.70,Default,Eguchi Kokoha,0,0,60,,The Han-Koko bond!
+Dialogue: 0,2:09:30.82,2:09:31.22,Default,Eguchi Kokoha,0,0,60,,Thank you!
+Dialogue: 0,2:09:32.10,2:09:32.88,Default,Eguchi Kokoha,0,0,60,,I'm so happy!
+Dialogue: 0,2:09:35.87,2:09:36.67,Default,Ouchi Rinka,0,0,60,,Incredible.
+Dialogue: 0,2:09:37.63,2:09:38.69,Default,Ouchi Rinka,0,0,60,,Which means?
+Dialogue: 0,2:09:38.79,2:09:39.47,Default,Jitoe Nene,0,0,60,,What do we do about this?
+Dialogue: 0,2:09:40.35,2:09:42.27,Default,Ouchi Rinka,0,0,60,,It's a tie for 1st, but—
+Dialogue: 0,2:09:43.33,2:09:44.91,Default,Ihara Hanna,0,0,60,,A tie is fine.
+Dialogue: 0,2:09:44.99,2:09:45.81,Default,Ouchi Rinka,0,0,60,,So you've got the budget for it.
+Dialogue: 0,2:09:46.69,2:09:47.41,Default,Eguchi Kokoha,0,0,60,,What could it be?
+Dialogue: 0,2:09:47.49,2:09:49.31,Default,Ouchi Rinka,0,0,60,,Okay, please introduce it.
+Dialogue: 0,2:09:49.39,2:09:51.19,Default,Ihara Hanna,0,0,60,,Okay, I'll bring it out.
+Dialogue: 0,2:09:52.05,2:09:54.77,Default,Jitoe Nene,0,0,60,,You two, come forward to where Han-chan is—
+Dialogue: 0,2:09:56.04,2:09:57.16,Default,Ihara Hanna,0,0,60,,Ta-dah!
+Dialogue: 0,2:09:57.24,2:09:58.20,Default,All,0,0,60,,Whaaat!
+Dialogue: 0,2:09:59.01,2:09:59.81,Default,Multiple,0,0,60,,A gacha machine!
+Dialogue: 0,2:10:00.87,2:10:02.53,Default,Ihara Hanna,0,0,60,,My papa bought it for me!
+Dialogue: 0,2:10:02.61,2:10:04.01,Default,Multiple,0,0,60,,Papa!
+Dialogue: 0,2:10:04.69,2:10:05.93,Default,Kuriyama Rina,0,0,60,,That's so cute.
+Dialogue: 0,2:10:06.01,2:10:07.85,Default,Akiyoshi Yuka,0,0,60,,That's so much love!
+Dialogue: 0,2:10:07.93,2:10:11.11,Default,Ihara Hanna,0,0,60,,In the gacha machine called "Han-gacha",
+Dialogue: 0,2:10:11.19,2:10:16.63,Default,Ihara Hanna,0,0,60,,the prizes are inside the capsules.
+Dialogue: 0,2:10:16.71,2:10:17.53,Default,Eguchi Kokoha,0,0,60,,Is that okay?
+Dialogue: 0,2:10:18.28,2:10:18.72,Default,Eguchi Kokoha,0,0,60,,Huh?
+Dialogue: 0,2:10:20.41,2:10:21.49,Default,Ouchi Rinka,0,0,60,,The prizes—
+Dialogue: 0,2:10:21.57,2:10:22.81,Default,Ihara Hanna,0,0,60,,The prizes,
+Dialogue: 0,2:10:23.37,2:10:25.31,Default,Ouchi Rinka,0,0,60,,please look at them backstage.
+Dialogue: 0,2:10:26.47,2:10:27.01,Default,Ouchi Rinka,0,0,60,,Backstage
+Dialogue: 0,2:10:27.09,2:10:28.09,Default,Ouchi Rinka,0,0,60,,It's a secret from everyone.
+Dialogue: 0,2:10:29.97,2:10:31.05,Default,Akiyoshi Yuka,0,0,60,,Why?
+Dialogue: 0,2:10:31.23,2:10:32.99,Default,Akiyoshi Yuka,0,0,60,,Is there something risky in there?
+Dialogue: 0,2:10:33.71,2:10:35.77,Default,Kuriyama Rina,0,0,60,,Grown-up reasons, maybe?
+Dialogue: 0,2:10:36.41,2:10:37.67,Default,Ihara Hanna,0,0,60,,Okay, either of you first.
+Dialogue: 0,2:10:37.75,2:10:38.51,Default,Eguchi Kokoha,0,0,60,,Han-Koko first!
+Dialogue: 0,2:10:40.69,2:10:42.07,Default,Eguchi Kokoha,0,0,60,,Even putting the coin in properly.
+Dialogue: 0,2:10:42.15,2:10:42.77,Default,Eguchi Kokoha,0,0,60,,Here I go!
+Dialogue: 0,2:10:44.09,2:10:45.91,Default,Akiyoshi Yuka,0,0,60,,So you can buy a gacha machine!
+Dialogue: 0,2:10:47.00,2:10:47.52,Default,Ouchi Rinka,0,0,60,,Incredible.
+Dialogue: 0,2:10:47.60,2:10:49.24,Default,Eguchi Kokoha,0,0,60,,Gacha-gacha!
+Dialogue: 0,2:10:50.00,2:10:50.76,Default,Eguchi Kokoha,0,0,60,,Here it comes!
+Dialogue: 0,2:10:55.64,2:10:56.64,Default,Eguchi Kokoha,0,0,60,,Gotcha!
+Dialogue: 0,2:10:58.12,2:10:58.94,Default,Tachibana Kokoro,0,0,60,,Got it!
+Dialogue: 0,2:11:03.12,2:11:04.94,Default,Ihara Hanna,0,0,60,,When I was planning it,
+Dialogue: 0,2:11:05.02,2:11:07.38,Default,Ihara Hanna,0,0,60,,not just rewards—
+Dialogue: 0,2:11:07.80,2:11:09.62,Default,Ihara Hanna,0,0,60,,I thought about putting in hanchaka birthday messages
+Dialogue: 0,2:11:09.70,2:11:10.62,Default,Ihara Hanna,0,0,60,,or something here,
+Dialogue: 0,2:11:10.70,2:11:12.46,Default,Ihara Hanna,0,0,60,,I thought about it a bit,
+Dialogue: 0,2:11:12.54,2:11:13.98,Default,Ihara Hanna,0,0,60,,but they're all rewards anyway,
+Dialogue: 0,2:11:14.82,2:11:16.32,Default,Ihara Hanna,0,0,60,,so there are no duds.
+Dialogue: 0,2:11:16.40,2:11:17.14,Default,All,0,0,60,,Congrats!
+Dialogue: 0,2:11:21.72,2:11:23.30,Default,Eguchi Kokoha,0,0,60,,I'll open it after the show.
+Dialogue: 0,2:11:23.38,2:11:24.62,Default,Ihara Hanna,0,0,60,,Please do open it!
+Dialogue: 0,2:11:25.08,2:11:26.30,Default,Ouchi Rinka,0,0,60,,Okay, and that's it for
+Dialogue: 0,2:11:26.38,2:11:28.36,Default,Ouchi Rinka,0,0,60,,"Gacha-Gacha Inside Her Head:
+Dialogue: 0,2:11:28.44,2:11:30.30,Default,Ouchi Rinka,0,0,60,,Hanchaka-chan Quiz"!
+Dialogue: 0,2:11:33.77,2:11:34.21,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:11:35.74,2:11:36.54,Default,Ouchi Rinka,0,0,60,,And also,
+Dialogue: 0,2:11:36.62,2:11:38.68,Default,Ouchi Rinka,0,0,60,,today we've been entrusted
+Dialogue: 0,2:11:38.76,2:11:40.66,Default,Ouchi Rinka,0,0,60,,with a letter from a certain someone.
+Dialogue: 0,2:11:41.79,2:11:43.23,Default,Ouchi Rinka,0,0,60,,Please wait a moment.
+Dialogue: 0,2:11:44.41,2:11:45.41,Default,Ouchi Rinka,0,0,60,,Just a moment, please.
+Dialogue: 0,2:11:45.49,2:11:45.93,Default,Ihara Hanna,0,0,60,,Who could it be?
+Dialogue: 0,2:11:46.01,2:11:48.03,Default,Ouchi Rinka,0,0,60,,Okay, are we ready?
+Dialogue: 0,2:11:49.03,2:11:50.75,Default,Ouchi Rinka,0,0,60,,Then the letter—
+Dialogue: 0,2:11:50.83,2:11:52.53,Default,Ouchi Rinka,0,0,60,,Kurina-san, please.
+Dialogue: 0,2:12:12.55,2:12:13.59,Default,Kuriyama Rina,0,0,60,,Allow me to read it.
+Dialogue: 0,2:12:14.34,2:12:15.12,Default,Kuriyama Rina,0,0,60,,Dear Han-chan,
+Dialogue: 0,2:12:15.20,2:12:17.64,Default,Kuriyama Rina,0,0,60,,happy 14th birthday.
+Dialogue: 0,2:12:18.20,2:12:20.32,Default,Kuriyama Rina,0,0,60,,Writing a letter to someone younger
+Dialogue: 0,2:12:20.40,2:12:23.26,Default,Kuriyama Rina,0,0,60,,is a first since Koko-ppe's little sister and Karen's little sister,
+Dialogue: 0,2:12:24.48,2:12:27.34,Default,Kuriyama Rina,0,0,60,,so I wasn't sure how difficult the words could be,
+Dialogue: 0,2:12:27.78,2:12:31.12,Default,Kuriyama Rina,0,0,60,,but I tried writing a few more kanji than for those two.
+Dialogue: 0,2:12:33.09,2:12:35.93,Default,Kuriyama Rina,0,0,60,,Since Sashihara-san graduated, as the only Oita native,
+Dialogue: 0,2:12:36.01,2:12:37.95,Default,Kuriyama Rina,0,0,60,,I've been active on my own.
+Dialogue: 0,2:12:38.39,2:12:41.13,Default,Kuriyama Rina,0,0,60,,As you can tell, this year's letter is from me.
+Dialogue: 0,2:12:44.24,2:12:44.56,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,2:12:46.75,2:12:49.92,Default,Kuriyama Rina,0,0,60,,While I was gratefully getting chances to appear on Oita radio and TV,
+Dialogue: 0,2:12:50.00,2:12:51.54,Default,Kuriyama Rina,0,0,60,,my first juniors,
+Dialogue: 0,2:12:51.62,2:12:53.48,Default,Kuriyama Rina,0,0,60,,the 6th gens, were going to join.
+Dialogue: 0,2:12:54.02,2:12:55.78,Default,Kuriyama Rina,0,0,60,,I can be honest about it now, but
+Dialogue: 0,2:12:56.30,2:12:57.64,Default,Kuriyama Rina,0,0,60,,"What if a girl from Oita
+Dialogue: 0,2:12:57.72,2:12:59.42,Default,Kuriyama Rina,0,0,60,,joins?"—
+Dialogue: 0,2:12:59.50,2:13:00.92,Default,Kuriyama Rina,0,0,60,,back then I really panicked.
+Dialogue: 0,2:13:02.00,2:13:03.84,Default,Kuriyama Rina,0,0,60,,When I actually heard
+Dialogue: 0,2:13:03.92,2:13:05.20,Default,Kuriyama Rina,0,0,60,,a girl from Oita was joining,
+Dialogue: 0,2:13:05.28,2:13:07.18,Default,Kuriyama Rina,0,0,60,,I was filled with anxiety.
+Dialogue: 0,2:13:09.32,2:13:10.80,Default,Kuriyama Rina,0,0,60,,But then at the debut,
+Dialogue: 0,2:13:10.88,2:13:12.38,Default,Kuriyama Rina,0,0,60,,when I saw you for the first time, Han-chan,
+Dialogue: 0,2:13:12.46,2:13:14.62,Default,Kuriyama Rina,0,0,60,,all those feelings I'd had
+Dialogue: 0,2:13:14.70,2:13:15.90,Default,Kuriyama Rina,0,0,60,,felt like they disappeared.
+Dialogue: 0,2:13:16.70,2:13:18.80,Default,Kuriyama Rina,0,0,60,,You were so cute, with such pure eyes,
+Dialogue: 0,2:13:18.88,2:13:20.62,Default,Kuriyama Rina,0,0,60,,and above all, the same age as my little sister,
+Dialogue: 0,2:13:20.70,2:13:25.16,Default,Kuriyama Rina,0,0,60,,and I felt silly for having had even a little bad feeling.
+Dialogue: 0,2:13:25.24,2:13:29.74,Default,Kuriyama Rina,0,0,60,,After that, I don't know what started it, but we began talking a lot,
+Dialogue: 0,2:13:29.82,2:13:34.12,Default,Kuriyama Rina,0,0,60,,didn't we? You sing really well, and your dancing keeps getting better,
+Dialogue: 0,2:13:34.20,2:13:38.94,Default,Kuriyama Rina,0,0,60,,you've got a great figure, you're a bit of a goof, but you've become such a pretty
+Dialogue: 0,2:13:39.02,2:13:42.48,Default,Kuriyama Rina,0,0,60,,young lady, and I've kind of decided on my own that I'm your real big sister,
+Dialogue: 0,2:13:42.56,2:13:45.14,Default,Kuriyama Rina,0,0,60,,and I'm always watching you grow, Han-chan.
+Dialogue: 0,2:13:46.60,2:13:51.22,Default,Kuriyama Rina,0,0,60,,Maybe it's the Oita blood, but we're both ambitious and hate to lose,
+Dialogue: 0,2:13:51.30,2:13:52.38,Default,Kuriyama Rina,0,0,60,,so I think we're alike that way.
+Dialogue: 0,2:13:55.32,2:13:56.96,Default,Kuriyama Rina,0,0,60,,And precisely because you're so ambitious,
+Dialogue: 0,2:13:57.04,2:13:59.60,Default,Kuriyama Rina,0,0,60,,about where you stand now and your activities,
+Dialogue: 0,2:13:59.68,2:14:01.78,Default,Kuriyama Rina,0,0,60,,I sense that you worry a lot
+Dialogue: 0,2:14:01.86,2:14:02.86,Default,Kuriyama Rina,0,0,60,,sometimes.
+Dialogue: 0,2:14:04.08,2:14:05.64,Default,Kuriyama Rina,0,0,60,,About to start 3rd year of junior high,
+Dialogue: 0,2:14:05.72,2:14:07.20,Default,Kuriyama Rina,0,0,60,,and already fighting those worries—
+Dialogue: 0,2:14:07.56,2:14:09.30,Default,Kuriyama Rina,0,0,60,,I think that's really cool.
+Dialogue: 0,2:14:10.33,2:14:12.75,Default,Kuriyama Rina,0,0,60,,I think I'm easy to talk to,
+Dialogue: 0,2:14:12.83,2:14:15.99,Default,Kuriyama Rina,0,0,60,,so whether it's advice or venting, if anything comes up, talk to me anytime.
+Dialogue: 0,2:14:17.08,2:14:19.92,Default,Kuriyama Rina,0,0,60,,That we'd appear at JIGOROCK in Oita on April 19
+Dialogue: 0,2:14:20.38,2:14:21.52,Default,Kuriyama Rina,0,0,60,,—we found out
+Dialogue: 0,2:14:21.60,2:14:24.00,Default,Kuriyama Rina,0,0,60,,when a staff member let it slip, didn't we.
+Dialogue: 0,2:14:25.49,2:14:28.71,Default,Kuriyama Rina,0,0,60,,I remember you asking with a worried face, "Will I get to be in it? It's the senbatsu members, isn't it?"
+Dialogue: 0,2:14:32.80,2:14:35.74,Default,Kuriyama Rina,0,0,60,,I thought I'd protest if I had to, I wanted us to be in it together no matter what.
+Dialogue: 0,2:14:36.60,2:14:39.86,Default,Kuriyama Rina,0,0,60,,In the end, staff told you right there that you could be in it,
+Dialogue: 0,2:14:40.28,2:14:42.04,Default,Kuriyama Rina,0,0,60,,so my protest wasn't needed,
+Dialogue: 0,2:14:43.02,2:14:44.34,Default,Kuriyama Rina,0,0,60,,but I was really happy.
+Dialogue: 0,2:14:45.02,2:14:46.78,Default,Kuriyama Rina,0,0,60,,It's the festival we've been looking forward to for so long—
+Dialogue: 0,2:14:46.86,2:14:48.16,Default,Kuriyama Rina,0,0,60,,let's enjoy it to the fullest.
+Dialogue: 0,2:14:50.69,2:14:54.81,Default,Kuriyama Rina,0,0,60,,We haven't had many chances yet to be on Oita TV or radio together,
+Dialogue: 0,2:14:55.13,2:14:57.97,Default,Kuriyama Rina,0,0,60,,but someday I definitely want us to have a regular show, the two of us.
+Dialogue: 0,2:14:58.94,2:15:01.78,Default,Kuriyama Rina,0,0,60,,Nobody uses it, but there is technically a duo name—
+Dialogue: 0,2:15:01.86,2:15:04.98,Default,Kuriyama Rina,0,0,60,,let's spread "Kuri-Han" from now on.
+Dialogue: 0,2:15:07.93,2:15:09.75,Default,Kuriyama Rina,0,0,60,,Let's appear at more and more Oita events,
+Dialogue: 0,2:15:09.83,2:15:13.47,Default,Kuriyama Rina,0,0,60,,and the two of us will liven up Oita, and HKT48.
+Dialogue: 0,2:15:14.05,2:15:15.63,Default,Kuriyama Rina,0,0,60,,Please keep being my Oita sister.
+Dialogue: 0,2:15:15.71,2:15:17.95,Default,Kuriyama Rina,0,0,60,,Let's take over Oita as Kuri-Han.
+Dialogue: 0,2:15:18.81,2:15:20.93,Default,Kuriyama Rina,0,0,60,,May 14 be a wonderful year for you.
+Dialogue: 0,2:15:21.39,2:15:24.69,Default,Kuriyama Rina,0,0,60,,From HKT48's Oita native, Kuriyama Rina, 24.
+Dialogue: 0,2:15:32.01,2:15:34.81,Default,Ouchi Rinka,0,0,60,,That was the letter from Kurina-san—how was it?
+Dialogue: 0,2:15:34.89,2:15:37.85,Default,Ihara Hanna,0,0,60,,I never expected to get one from a senior,
+Dialogue: 0,2:15:37.93,2:15:39.37,Default,Ihara Hanna,0,0,60,,I'm so happy.
+Dialogue: 0,2:15:39.95,2:15:42.45,Default,Ihara Hanna,0,0,60,,So that we can have a regular show in Oita,
+Dialogue: 0,2:15:42.53,2:15:44.47,Default,Ihara Hanna,0,0,60,,I'll work hard to get better at talking,
+Dialogue: 0,2:15:44.55,2:15:45.95,Default,Ihara Hanna,0,0,60,,and at kanji and katakana,
+Dialogue: 0,2:15:46.79,2:15:48.37,Default,Ihara Hanna,0,0,60,,so I can read them.
+Dialogue: 0,2:15:48.45,2:15:49.89,Default,Kuriyama Rina,0,0,60,,Sorry, I didn't add furigana,
+Dialogue: 0,2:15:49.97,2:15:51.05,Default,Kuriyama Rina,0,0,60,,so if you can't read something, ask your mum.
+Dialogue: 0,2:15:51.13,2:15:52.09,Default,Kuriyama Rina,0,0,60,,Also, today—
+Dialogue: 0,2:15:52.17,2:15:55.29,Default,Kuriyama Rina,0,0,60,,I wonder if any Oita bigwigs are here?
+Dialogue: 0,2:15:56.58,2:15:57.38,Default,Kuriyama Rina,0,0,60,,Well, right here—
+Dialogue: 0,2:15:58.34,2:15:59.84,Default,Kuriyama Rina,0,0,60,,give us a regular show, please!
+Dialogue: 0,2:16:00.26,2:16:00.58,Default,Ihara Hanna,0,0,60,,Pretty please!
+Dialogue: 0,2:16:07.49,2:16:08.91,Default,Ouchi Rinka,0,0,60,,Okay, and finally,
+Dialogue: 0,2:16:08.99,2:16:11.53,Default,Ouchi Rinka,0,0,60,,to the fans who held this birthday show for you,
+Dialogue: 0,2:16:11.61,2:16:12.49,Default,Ouchi Rinka,0,0,60,,a message, please.
+Dialogue: 0,2:16:13.77,2:16:14.41,Default,Ihara Hanna,0,0,60,,Today, everyone—
+Dialogue: 0,2:16:15.03,2:16:15.85,Default,Ihara Hanna,0,0,60,,Aren't you cold?
+Dialogue: 0,2:16:17.32,2:16:18.38,Default,Ihara Hanna,0,0,60,,Sorry, I forgot.
+Dialogue: 0,2:16:19.72,2:16:21.90,Default,Ihara Hanna,0,0,60,,Thank you so much for holding such a lovely birthday show today,
+Dialogue: 0,2:16:21.98,2:16:23.54,Default,Ihara Hanna,0,0,60,,for watching on DMM,
+Dialogue: 0,2:16:23.62,2:16:24.66,Default,Ihara Hanna,0,0,60,,and for coming all the way here,
+Dialogue: 0,2:16:24.74,2:16:25.96,Default,Ihara Hanna,0,0,60,,thank you so much.
+Dialogue: 0,2:16:31.38,2:16:31.73,Default,Ihara Hanna,0,0,60,,Thank you.
+Dialogue: 0,2:16:31.81,2:16:34.02,Default,Ihara Hanna,0,0,60,,Thank you.
+Dialogue: 0,2:16:34.10,2:16:35.78,Default,Ihara Hanna,0,0,60,,There are so many of you
+Dialogue: 0,2:16:35.92,2:16:38.30,Default,Ihara Hanna,0,0,60,,who came with these "Han-gacha" things,
+Dialogue: 0,2:16:38.38,2:16:40.26,Default,Ihara Hanna,0,0,60,,and knowing that so many people wanted to come celebrate me makes me really happy.
+Dialogue: 0,2:16:40.34,2:16:43.52,Default,Ihara Hanna,0,0,60,,Thank you.
+Dialogue: 0,2:16:50.00,2:16:51.26,Default,Ihara Hanna,0,0,60,,This is my third birthday show,
+Dialogue: 0,2:16:51.92,2:16:54.28,Default,Ihara Hanna,0,0,60,,but my words still get all tangled,
+Dialogue: 0,2:16:54.36,2:16:56.18,Default,Ihara Hanna,0,0,60,,and my Japanese is a bit shaky,
+Dialogue: 0,2:16:56.26,2:16:57.82,Default,Ihara Hanna,0,0,60,,so I'll look at my paper
+Dialogue: 0,2:16:57.90,2:16:59.00,Default,Ihara Hanna,0,0,60,,while I talk.
+Dialogue: 0,2:17:07.63,2:17:10.33,Default,Ihara Hanna,0,0,60,,Since I was promoted to Team KIV,
+Dialogue: 0,2:17:10.41,2:17:12.27,Default,Ihara Hanna,0,0,60,,for my first birthday show,
+Dialogue: 0,2:17:12.79,2:17:14.67,Default,Ihara Hanna,0,0,60,,I wanted to try something new,
+Dialogue: 0,2:17:15.61,2:17:17.71,Default,Ihara Hanna,0,0,60,,and to give something back
+Dialogue: 0,2:17:17.79,2:17:20.31,Default,Ihara Hanna,0,0,60,,to all of you who always support me,
+Dialogue: 0,2:17:20.39,2:17:23.11,Default,Ihara Hanna,0,0,60,,so this time I did the unit "Dead Body".
+Dialogue: 0,2:17:23.19,2:17:24.53,Default,Ihara Hanna,0,0,60,,How was it, everyone?
+Dialogue: 0,2:17:27.72,2:17:28.16,Default,Ihara Hanna,0,0,60,,Thank you.
+Dialogue: 0,2:17:30.58,2:17:34.98,Default,Ihara Hanna,0,0,60,,You fans support me so much,
+Dialogue: 0,2:17:35.06,2:17:37.18,Default,Ihara Hanna,0,0,60,,always interacting with me,
+Dialogue: 0,2:17:37.26,2:17:38.64,Default,Ihara Hanna,0,0,60,,making things for me,
+Dialogue: 0,2:17:38.72,2:17:44.52,Default,Ihara Hanna,0,0,60,,and I felt I hadn't given anything back to you,
+Dialogue: 0,2:17:46.74,2:17:51.53,Default,Ihara Hanna,0,0,60,,and I felt really sorry and pathetic about it.
+Dialogue: 0,2:17:52.83,2:17:58.22,Default,Ihara Hanna,0,0,60,,How can I show my gratitude?
+Dialogue: 0,2:17:58.30,2:17:59.52,Default,Ihara Hanna,0,0,60,,I kept thinking about it,
+Dialogue: 0,2:17:59.60,2:18:03.65,Default,Ihara Hanna,0,0,60,,and wanting to try something new, even a little,
+Dialogue: 0,2:18:04.40,2:18:05.98,Default,Ihara Hanna,0,0,60,,to show a different side of me,
+Dialogue: 0,2:18:06.06,2:18:09.36,Default,Ihara Hanna,0,0,60,,so you'd enjoy the birthday show,
+Dialogue: 0,2:18:09.96,2:18:12.34,Default,Ihara Hanna,0,0,60,,I started guitar right after turning 14.
+Dialogue: 0,2:18:12.42,2:18:14.06,Default,Ihara Hanna,0,0,60,,It was my first time touching a guitar,
+Dialogue: 0,2:18:14.14,2:18:17.26,Default,Ihara Hanna,0,0,60,,the only instrument I could play was the recorder,
+Dialogue: 0,2:18:17.34,2:18:20.38,Default,Ihara Hanna,0,0,60,,I'm bad at them, but I practised every day.
+Dialogue: 0,2:18:21.18,2:18:23.34,Default,Ihara Hanna,0,0,60,,Seeing myself improve was fun,
+Dialogue: 0,2:18:23.42,2:18:27.24,Default,Ihara Hanna,0,0,60,,and at 14 I discovered maybe a new talent.
+Dialogue: 0,2:18:32.63,2:18:34.01,Default,Ihara Hanna,0,0,60,,And since turning 14,
+Dialogue: 0,2:18:34.09,2:18:35.67,Default,Ihara Hanna,0,0,60,,one more happy thing:
+Dialogue: 0,2:18:35.75,2:18:38.05,Default,Ihara Hanna,0,0,60,,from April 3, on FM Oita,
+Dialogue: 0,2:18:38.13,2:18:39.51,Default,Ihara Hanna,0,0,60,,as a sub-host,
+Dialogue: 0,2:18:39.59,2:18:41.85,Default,Ihara Hanna,0,0,60,,I got to do a radio show,
+Dialogue: 0,2:18:42.29,2:18:46.85,Default,Ihara Hanna,0,0,60,,and the other day, my first episode, where I was stiff with nerves, finished,
+Dialogue: 0,2:18:46.93,2:18:49.61,Default,Ihara Hanna,0,0,60,,and Maeda-san, the host I'm with,
+Dialogue: 0,2:18:50.00,2:18:55.80,Default,Ihara Hanna,0,0,60,,and all the FM Oita staff were so kind and warm, it made me really happy,
+Dialogue: 0,2:18:57.58,2:19:01.16,Default,Ihara Hanna,0,0,60,,and I strongly felt I want to grow more and work hard.
+Dialogue: 0,2:19:02.06,2:19:07.54,Default,Ihara Hanna,0,0,60,,So that I can share more and more of the charms of my beloved hometown, Oita,
+Dialogue: 0,2:19:07.62,2:19:10.40,Default,Ihara Hanna,0,0,60,,I resolved to work my hardest too.
+Dialogue: 0,2:19:11.94,2:19:16.40,Default,Ihara Hanna,0,0,60,,But lately I often think about how much happened
+Dialogue: 0,2:19:16.48,2:19:18.92,Default,Ihara Hanna,0,0,60,,at 13 to get here.
+Dialogue: 0,2:19:19.64,2:19:22.20,Default,Ihara Hanna,0,0,60,,First, at the start of the year I wasn't promoted,
+Dialogue: 0,2:19:22.70,2:19:24.40,Default,Ihara Hanna,0,0,60,,and as an understudy there,
+Dialogue: 0,2:19:24.48,2:19:28.48,Default,Ihara Hanna,0,0,60,,I got to stand on the stage celebrating my same-gen members' promotion,
+Dialogue: 0,2:19:28.56,2:19:30.28,Default,Ihara Hanna,0,0,60,,and I was happy to celebrate,
+Dialogue: 0,2:19:30.36,2:19:34.24,Default,Ihara Hanna,0,0,60,,but when I wonder whether I celebrated from the heart,
+Dialogue: 0,2:19:35.33,2:19:37.75,Default,Ihara Hanna,0,0,60,,it was a stage so frustrating I can't even remember it,
+Dialogue: 0,2:19:37.83,2:19:41.73,Default,Ihara Hanna,0,0,60,,and I'm really sorry I felt that way.
+Dialogue: 0,2:19:42.57,2:19:46.33,Default,Ihara Hanna,0,0,60,,But those feelings drew out my strength,
+Dialogue: 0,2:19:46.41,2:19:52.21,Default,Ihara Hanna,0,0,60,,and my motivation went up: next time I'll definitely be promoted.
+Dialogue: 0,2:19:52.77,2:19:55.89,Default,Ihara Hanna,0,0,60,,I worked hard, and with the support of you fans,
+Dialogue: 0,2:19:55.97,2:19:59.85,Default,Ihara Hanna,0,0,60,,I was safely promoted to my beloved Team KIV.
+Dialogue: 0,2:20:03.43,2:20:08.08,Default,Ihara Hanna,0,0,60,,I wasn't in the spotlight from the start,
+Dialogue: 0,2:20:08.16,2:20:13.46,Default,Ihara Hanna,0,0,60,,and my position was nearer the back,
+Dialogue: 0,2:20:14.28,2:20:18.18,Default,Ihara Hanna,0,0,60,,and I wanted to become a front member soon,
+Dialogue: 0,2:20:18.26,2:20:19.54,Default,Ihara Hanna,0,0,60,,so every day I was desperate.
+Dialogue: 0,2:20:20.43,2:20:22.23,Default,Ihara Hanna,0,0,60,,"Effort is always rewarded"—
+Dialogue: 0,2:20:22.31,2:20:23.67,Default,Ihara Hanna,0,0,60,,believing those words,
+Dialogue: 0,2:20:24.17,2:20:25.15,Default,Ihara Hanna,0,0,60,,private lessons—
+Dialogue: 0,2:20:25.23,2:20:26.77,Default,Ihara Hanna,0,0,60,,I rented a lesson studio on my own,
+Dialogue: 0,2:20:26.85,2:20:28.79,Default,Ihara Hanna,0,0,60,,practised until I was satisfied,
+Dialogue: 0,2:20:28.87,2:20:32.15,Default,Ihara Hanna,0,0,60,,and sang in the bath until my family told me I was too loud.
+Dialogue: 0,2:20:33.41,2:20:36.95,Default,Ihara Hanna,0,0,60,,I don't know what the right answer is, but
+Dialogue: 0,2:20:38.74,2:20:40.42,Default,Ihara Hanna,0,0,60,,every day, whatever I could do,
+Dialogue: 0,2:20:40.50,2:20:41.78,Default,Ihara Hanna,0,0,60,,I worked at it with all my might.
+Dialogue: 0,2:20:42.74,2:20:43.84,Default,Ihara Hanna,0,0,60,,When my manager
+Dialogue: 0,2:20:43.92,2:20:44.98,Default,Ihara Hanna,0,0,60,,told me that at a concert
+Dialogue: 0,2:20:45.40,2:20:46.96,Default,Ihara Hanna,0,0,60,,they wanted to entrust the centre to Han-chan,
+Dialogue: 0,2:20:47.04,2:20:48.60,Default,Ihara Hanna,0,0,60,,when they told me that,
+Dialogue: 0,2:20:48.68,2:20:49.86,Default,Ihara Hanna,0,0,60,,I couldn't believe it,
+Dialogue: 0,2:20:51.36,2:20:52.36,Default,Ihara Hanna,0,0,60,,I couldn't believe it,
+Dialogue: 0,2:20:52.44,2:20:55.34,Default,Ihara Hanna,0,0,60,,and to check if it was real, I pinched my cheek
+Dialogue: 0,2:20:55.42,2:20:57.74,Default,Ihara Hanna,0,0,60,,over and over,
+Dialogue: 0,2:20:57.82,2:20:58.96,Default,Ihara Hanna,0,0,60,,and it kept hurting,
+Dialogue: 0,2:20:59.04,2:21:01.56,Default,Ihara Hanna,0,0,60,,so I knew, ah, this is real.
+Dialogue: 0,2:21:02.32,2:21:05.44,Default,Ihara Hanna,0,0,60,,Back then I wanted to tell you fans right away,
+Dialogue: 0,2:21:05.52,2:21:07.66,Default,Ihara Hanna,0,0,60,,I wanted to stand in the centre in front of you fans,
+Dialogue: 0,2:21:07.74,2:21:09.36,Default,Ihara Hanna,0,0,60,,that's all I could think about.
+Dialogue: 0,2:21:12.71,2:21:15.05,Default,Ihara Hanna,0,0,60,,For me, who'd always danced at the back,
+Dialogue: 0,2:21:15.13,2:21:17.93,Default,Ihara Hanna,0,0,60,,leading the 7th gens from the centre
+Dialogue: 0,2:21:18.45,2:21:19.99,Default,Ihara Hanna,0,0,60,,was really tough,
+Dialogue: 0,2:21:20.63,2:21:22.35,Default,Ihara Hanna,0,0,60,,and among the 6th gens, I'm
+Dialogue: 0,2:21:22.43,2:21:27.55,Default,Ihara Hanna,0,0,60,,one of the youngest, always pulled along by my older "big sisters",
+Dialogue: 0,2:21:27.63,2:21:37.73,Default,Ihara Hanna,0,0,60,,so suddenly being a senior and the centre filled me with responsibility and pressure.
+Dialogue: 0,2:21:38.36,2:21:44.07,Default,Ihara Hanna,0,0,60,,The hardest thing was voicing my own opinion.
+Dialogue: 0,2:21:44.15,2:21:49.95,Default,Ihara Hanna,0,0,60,,I'm really not good at telling people my opinions or feelings,
+Dialogue: 0,2:21:50.86,2:21:54.04,Default,Ihara Hanna,0,0,60,,I want to say lots of things,
+Dialogue: 0,2:21:54.85,2:21:57.77,Default,Ihara Hanna,0,0,60,,but I worry, "If I say this, will everyone hate me?"
+Dialogue: 0,2:21:58.35,2:22:01.71,Default,Ihara Hanna,0,0,60,,"Am I even in a position to say this?"
+Dialogue: 0,2:22:01.79,2:22:03.35,Default,Ihara Hanna,0,0,60,,I'd overthink it all,
+Dialogue: 0,2:22:05.32,2:22:08.12,Default,Ihara Hanna,0,0,60,,and kept it all to myself and agonised.
+Dialogue: 0,2:22:08.95,2:22:12.89,Default,Ihara Hanna,0,0,60,,I knew that nothing changes
+Dialogue: 0,2:22:13.35,2:22:14.59,Default,Ihara Hanna,0,0,60,,unless someone says it,
+Dialogue: 0,2:22:15.47,2:22:17.99,Default,Ihara Hanna,0,0,60,,but when it came to actually telling the members,
+Dialogue: 0,2:22:18.07,2:22:21.71,Default,Ihara Hanna,0,0,60,,I got so scared I couldn't say it.
+Dialogue: 0,2:22:22.80,2:22:25.02,Default,Ihara Hanna,0,0,60,,But then a senior
+Dialogue: 0,2:22:26.14,2:22:28.20,Default,Ihara Hanna,0,0,60,,told me, "Han-chan, you're a senior now,
+Dialogue: 0,2:22:28.28,2:22:34.00,Default,Ihara Hanna,0,0,60,,so it's okay to tell everyone what you want to say."
+Dialogue: 0,2:22:34.66,2:22:38.48,Default,Ihara Hanna,0,0,60,,Thanks to that, I could tell everyone my opinion
+Dialogue: 0,2:22:39.14,2:22:41.34,Default,Ihara Hanna,0,0,60,,and pull everyone together.
+Dialogue: 0,2:22:41.90,2:22:45.26,Default,Ihara Hanna,0,0,60,,So I think I've grown as a person.
+Dialogue: 0,2:22:50.00,2:22:52.82,Default,Ihara Hanna,0,0,60,,Getting to be centre at a concert for the first time,
+Dialogue: 0,2:22:52.90,2:22:55.14,Default,Ihara Hanna,0,0,60,,I felt anew how great my seniors are,
+Dialogue: 0,2:22:55.96,2:22:58.86,Default,Ihara Hanna,0,0,60,,and how the seniors who've been
+Dialogue: 0,2:22:58.94,2:23:01.38,Default,Ihara Hanna,0,0,60,,single centres kept leading
+Dialogue: 0,2:23:01.46,2:23:03.66,Default,Ihara Hanna,0,0,60,,even when they were almost crushed
+Dialogue: 0,2:23:03.74,2:23:06.64,Default,Ihara Hanna,0,0,60,,by pressure—I really respect them,
+Dialogue: 0,2:23:06.72,2:23:08.44,Default,Ihara Hanna,0,0,60,,I felt that all over again.
+Dialogue: 0,2:23:09.76,2:23:12.76,Default,Ihara Hanna,0,0,60,,Just hearing your calls, fans,
+Dialogue: 0,2:23:13.24,2:23:15.70,Default,Ihara Hanna,0,0,60,,makes me feel I can keep being an idol,
+Dialogue: 0,2:23:15.78,2:23:18.30,Default,Ihara Hanna,0,0,60,,you always give me a push.
+Dialogue: 0,2:23:19.28,2:23:21.44,Default,Ihara Hanna,0,0,60,,With this 18th single,
+Dialogue: 0,2:23:21.52,2:23:24.46,Default,Ihara Hanna,0,0,60,,my high-touch event slots gratefully increased,
+Dialogue: 0,2:23:24.54,2:23:26.76,Default,Ihara Hanna,0,0,60,,I got to talk with so many people,
+Dialogue: 0,2:23:26.84,2:23:28.48,Default,Ihara Hanna,0,0,60,,I got more time to talk,
+Dialogue: 0,2:23:29.30,2:23:31.88,Default,Ihara Hanna,0,0,60,,and however far the venue was,
+Dialogue: 0,2:23:31.96,2:23:34.82,Default,Ihara Hanna,0,0,60,,you came to see me
+Dialogue: 0,2:23:34.90,2:23:36.30,Default,Ihara Hanna,0,0,60,,and talk with me,
+Dialogue: 0,2:23:36.38,2:23:38.42,Default,Ihara Hanna,0,0,60,,I'm nothing but grateful.
+Dialogue: 0,2:23:39.31,2:23:42.31,Default,Ihara Hanna,0,0,60,,You fans are always on my side,
+Dialogue: 0,2:23:42.39,2:23:45.19,Default,Ihara Hanna,0,0,60,,and because there are people who give me
+Dialogue: 0,2:23:45.27,2:23:47.11,Default,Ihara Hanna,0,0,60,,warm words at high-touch events too,
+Dialogue: 0,2:23:47.19,2:23:48.97,Default,Ihara Hanna,0,0,60,,I think that's why I am who I am today.
+Dialogue: 0,2:23:49.05,2:23:51.11,Default,Ihara Hanna,0,0,60,,Thank you so much for always supporting me.
+Dialogue: 0,2:23:59.48,2:24:01.98,Default,Ihara Hanna,0,0,60,,And to my family, who always support me:
+Dialogue: 0,2:24:02.06,2:24:05.54,Default,Ihara Hanna,0,0,60,,you come to watch concerts and shows,
+Dialogue: 0,2:24:05.62,2:24:08.38,Default,Ihara Hanna,0,0,60,,but my little brother always falls asleep during the opening.
+Dialogue: 0,2:24:11.17,2:24:14.07,Default,Ihara Hanna,0,0,60,,From now on, please watch idol me properly.
+Dialogue: 0,2:24:15.53,2:24:19.81,Default,Ihara Hanna,0,0,60,,And Papa, when I decided to do "Yume no Dead Body",
+Dialogue: 0,2:24:20.35,2:24:22.71,Default,Ihara Hanna,0,0,60,,you said, "You'd better practise every day,"
+Dialogue: 0,2:24:22.79,2:24:25.47,Default,Ihara Hanna,0,0,60,,and bought me a guitar of my own to keep at home.
+Dialogue: 0,2:24:27.01,2:24:27.89,Default,Ihara Hanna,0,0,60,,Thank you so much.
+Dialogue: 0,2:24:28.39,2:24:29.53,Default,Ihara Hanna,0,0,60,,Don't eat too many sweets
+Dialogue: 0,2:24:29.61,2:24:31.43,Default,Ihara Hanna,0,0,60,,and spike your blood sugar again, okay?
+Dialogue: 0,2:24:37.27,2:24:38.07,Default,Ihara Hanna,0,0,60,,And Mama,
+Dialogue: 0,2:24:38.15,2:24:39.85,Default,Ihara Hanna,0,0,60,,since I love tonjiru pork miso soup,
+Dialogue: 0,2:24:39.93,2:24:41.61,Default,Ihara Hanna,0,0,60,,you always make it for me,
+Dialogue: 0,2:24:42.05,2:24:44.21,Default,Ihara Hanna,0,0,60,,but sometimes when I'm eating it,
+Dialogue: 0,2:24:44.29,2:24:46.27,Default,Ihara Hanna,0,0,60,,no pork comes up,
+Dialogue: 0,2:24:47.09,2:24:48.93,Default,Ihara Hanna,0,0,60,,and when I said, "There's no meat in it,"
+Dialogue: 0,2:24:49.01,2:24:49.92,Default,Ihara Hanna,0,0,60,,you went, "Oh, the tonjiru—
+Dialogue: 0,2:24:50.00,2:24:51.56,Default,Ihara Hanna,0,0,60,,I forgot to put the 'ton' in!"
+Dialogue: 0,2:24:52.00,2:24:54.06,Default,Ihara Hanna,0,0,60,,and laughed it off as being scatterbrained,
+Dialogue: 0,2:24:54.14,2:24:56.22,Default,Ihara Hanna,0,0,60,,and you make me plain miso soup,
+Dialogue: 0,2:24:56.30,2:24:58.68,Default,Ihara Hanna,0,0,60,,but from now on, don't forget the meat, okay?
+Dialogue: 0,2:24:59.69,2:25:02.51,Default,Ihara Hanna,0,0,60,,Please stay my wonderfully quirky family.
+Dialogue: 0,2:25:06.32,2:25:06.72,Default,Ihara Hanna,0,0,60,,Thank you.
+Dialogue: 0,2:25:10.02,2:25:12.58,Default,Ihara Hanna,0,0,60,,Having been promoted to Team KIV,
+Dialogue: 0,2:25:12.66,2:25:16.64,Default,Ihara Hanna,0,0,60,,the team where I first appeared as an understudy,
+Dialogue: 0,2:25:17.62,2:25:19.44,Default,Ihara Hanna,0,0,60,,as a Team KIV member,
+Dialogue: 0,2:25:19.82,2:25:24.24,Default,Ihara Hanna,0,0,60,,I'm truly happy to hold my birthday show today.
+Dialogue: 0,2:25:24.32,2:25:30.12,Default,Ihara Hanna,0,0,60,,On the single's B-side, my first ever team song, I was at the edge—
+Dialogue: 0,2:25:30.96,2:25:36.76,Default,Ihara Hanna,0,0,60,,I used to dance near the edge, and now I get to perform in the front row,
+Dialogue: 0,2:25:37.42,2:25:42.16,Default,Ihara Hanna,0,0,60,,and it's like a dream, I was so happy I cried a lot.
+Dialogue: 0,2:25:42.86,2:25:48.66,Default,Ihara Hanna,0,0,60,,I want to spread HKT48 further, make it bigger, appear on music shows,
+Dialogue: 0,2:25:51.54,2:25:54.02,Default,Ihara Hanna,0,0,60,,and as HKT48's Ihara Hanna, standing proud,
+Dialogue: 0,2:25:54.10,2:25:57.12,Default,Ihara Hanna,0,0,60,,so I can be chosen among the 16 for a title track,
+Dialogue: 0,2:25:57.20,2:25:59.14,Default,Ihara Hanna,0,0,60,,I'll keep working hard,
+Dialogue: 0,2:25:59.22,2:26:02.14,Default,Ihara Hanna,0,0,60,,and become a proper member who can be centre.
+Dialogue: 0,2:26:03.28,2:26:04.42,Default,Ihara Hanna,0,0,60,,That got long, but
+Dialogue: 0,2:26:04.50,2:26:07.22,Default,Ihara Hanna,0,0,60,,once again, thank you so much for coming
+Dialogue: 0,2:26:07.30,2:26:08.52,Default,Ihara Hanna,0,0,60,,to my birthday show today.
+Dialogue: 0,2:26:09.34,2:26:13.74,Default,Ihara Hanna,0,0,60,,I'll work hard to become an idol people want to support,
+Dialogue: 0,2:26:13.82,2:26:16.38,Default,Ihara Hanna,0,0,60,,the strongest idol,
+Dialogue: 0,2:26:16.46,2:26:17.90,Default,Ihara Hanna,0,0,60,,so please keep supporting me.
+Dialogue: 0,2:26:18.42,2:26:21.18,Default,Ihara Hanna,0,0,60,,And I'll keep aiming higher,
+Dialogue: 0,2:26:21.26,2:26:24.74,Default,Ihara Hanna,0,0,60,,so please don't leave Ihara Hanna.
+Dialogue: 0,2:26:26.00,2:26:28.70,Default,Ihara Hanna,0,0,60,,Thank you so much for coming today.
+Dialogue: 0,2:26:32.78,2:26:33.26,Default,Ihara Hanna,0,0,60,,Thank you.
+Dialogue: 0,2:26:34.50,2:26:37.74,Default,Ihara Hanna,0,0,60,,And finally, everyone together, the yearly tradition, hanchaka-chan,
+Dialogue: 0,2:26:37.82,2:26:41.32,Default,Ihara Hanna,0,0,60,,to end my speech.
+Dialogue: 0,2:26:41.84,2:26:43.14,Default,Ihara Hanna,0,0,60,,Everyone, here we go!
+Dialogue: 0,2:26:43.22,2:26:44.38,Default,Ihara Hanna,0,0,60,,Se-no!
+Dialogue: 0,2:26:44.46,2:26:46.26,Default,All,0,0,60,,Hanchaka-chan!
+Dialogue: 0,2:26:47.44,2:26:48.20,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,2:26:55.98,2:26:57.84,Default,Ouchi Rinka,0,0,60,,Congratulations, Han-chan.
+Dialogue: 0,2:26:57.92,2:27:02.52,Default,Ouchi Rinka,0,0,60,,Han-chan and I worked hard together aiming for promotion,
+Dialogue: 0,2:27:02.60,2:27:04.54,Default,Ouchi Rinka,0,0,60,,we worked hard together,
+Dialogue: 0,2:27:05.32,2:27:08.22,Default,Ouchi Rinka,0,0,60,,so I hope we can keep on being friends and rivals
+Dialogue: 0,2:27:08.30,2:27:11.18,Default,Ouchi Rinka,0,0,60,,from now on.
+Dialogue: 0,2:27:11.60,2:27:12.64,Default,Ouchi Rinka,0,0,60,,Congratulations.
+Dialogue: 0,2:27:18.93,2:27:20.39,Default,Ouchi Rinka,0,0,60,,Now, once again, everyone,
+Dialogue: 0,2:27:20.47,2:27:22.75,Default,Ouchi Rinka,0,0,60,,let's celebrate Han-chan's birthday!
+Dialogue: 0,2:27:23.23,2:27:25.15,Default,All,0,0,60,,Han-chan, happy birthday,
+Dialogue: 0,2:27:25.87,2:27:27.15,Default,All,0,0,60,,congratulations!
+Dialogue: 0,2:27:35.67,2:27:39.27,Default,Ouchi Rinka,0,0,60,,Okay, so please introduce the next song.
+Dialogue: 0,2:27:39.54,2:27:45.04,Default,Takemoto Kurumi,0,0,60,,Since her debut, Han-chan was around the second row,
+Dialogue: 0,2:27:45.12,2:27:48.32,Default,Takemoto Kurumi,0,0,60,,but her idol aura was amazing, I had my eye on her the whole time,
+Dialogue: 0,2:27:48.40,2:27:52.86,Default,Takemoto Kurumi,0,0,60,,she's the first 6th gen I ever took a photo with.
+Dialogue: 0,2:27:52.94,2:27:53.42,Default,Ihara Hanna,0,0,60,,That's right.
+Dialogue: 0,2:27:53.50,2:27:57.60,Default,Takemoto Kurumi,0,0,60,,So, those of you who want to keep supporting Han-chan, with her idol power, who'll keep working hard—
+Dialogue: 0,2:27:57.68,2:28:01.80,Default,Takemoto Kurumi,0,0,60,,can you keep calling for her?
+Dialogue: 0,2:28:04.56,2:28:05.30,Default,Takemoto Kurumi,0,0,60,,Han-chan, to finish—
+Dialogue: 0,2:28:05.38,2:28:08.90,Default,Ihara Hanna,0,0,60,,Will you keep
+Dialogue: 0,2:28:08.98,2:28:09.90,Default,Ihara Hanna,0,0,60,,supporting me?
+Dialogue: 0,2:28:13.41,2:28:13.73,Default,Ihara Hanna,0,0,60,,Thank you!
+Dialogue: 0,2:28:14.71,2:28:15.41,Default,Ihara Hanna,0,0,60,,It's over!
+Dialogue: 0,2:28:15.49,2:28:17.41,Default,Takemoto Kurumi,0,0,60,,Do you love Han-chan?
+Dialogue: 0,2:28:18.99,2:28:22.79,Default,Ihara Hanna,0,0,60,,Is Han-chan the best idol?
+Dialogue: 0,2:28:22.79,2:28:27.09,Default,Takemoto Kurumi,0,0,60,,Please listen: "Saikyou Idol Yoroshiku!"
+Dialogue: 0,2:31:27.98,2:31:30.72,Default,Imamura Maria,0,0,60,,Thank you so much for coming today.
+Dialogue: 0,2:31:40.14,2:31:43.76,Default,Imamura Maria,0,0,60,,After the show, we'll see you off with all our gratitude.
+Dialogue: 0,2:31:43.84,2:31:46.64,Default,Imamura Maria,0,0,60,,Please wait where you are until the staff guide you.
+Dialogue: 0,2:31:47.34,2:31:48.70,Default,Imamura Maria,0,0,60,,Now, let's do our final greeting.
+Dialogue: 0,2:31:50.90,2:31:51.98,Default,Ihara Hanna,0,0,60,,Se-no!
+Dialogue: 0,2:31:52.06,2:31:55.26,Default,Unknown,0,0,60,,Han-chan, on your 14th birthday—
+Dialogue: 0,2:31:55.34,2:31:56.68,Default,Ihara Hanna,0,0,60,,Se-no!
+Dialogue: 0,2:31:56.76,2:31:58.34,Default,All,0,0,60,,congrats!
+Dialogue: 0,2:34:42.58,2:34:45.20,Default,Ihara Hanna,0,0,60,,Everyone, thank you for coming today!
+Dialogue: 0,2:34:50.69,2:34:53.49,Default,Ihara Hanna,0,0,60,,Thank you! Please keep being Han-chan fans forever!
+Dialogue: 0,2:35:06.27,2:35:08.17,Default,Ihara Hanna,0,0,60,,The show's over!
+Dialogue: 0,2:35:11.53,2:35:12.35,Default,Kuriyama Rina,0,0,60,,How was it?
+Dialogue: 0,2:35:12.79,2:35:14.91,Default,Ihara Hanna,0,0,60,,Like, the birthday show, it's already—
+Dialogue: 0,2:35:15.77,2:35:17.05,Default,Ihara Hanna,0,0,60,,it's over already, right?
+Dialogue: 0,2:35:17.13,2:35:17.81,Default,Kuriyama Rina,0,0,60,,Over, over.
+Dialogue: 0,2:35:17.89,2:35:19.77,Default,Ihara Hanna,0,0,60,,It really doesn't feel real.
+Dialogue: 0,2:35:19.85,2:35:20.79,Default,Ihara Hanna,0,0,60,,It doesn't feel like it's over.
+Dialogue: 0,2:35:22.57,2:35:25.63,Default,Ihara Hanna,0,0,60,,I got to play guitar today,
+Dialogue: 0,2:35:25.71,2:35:28.11,Default,Ihara Hanna,0,0,60,,I practised at home every day,
+Dialogue: 0,2:35:28.65,2:35:31.07,Default,Ihara Hanna,0,0,60,,and I felt the practice was worth it.
+Dialogue: 0,2:35:32.85,2:35:34.65,Default,Kuriyama Rina,0,0,60,,The moment it ended, everyone in the dressing room—
+Dialogue: 0,2:35:36.57,2:35:40.61,Default,Eguchi Kokoha,0,0,60,,The finish was great too, you did well.
+Dialogue: 0,2:35:41.05,2:35:43.15,Default,Ihara Hanna,0,0,60,,I hope I can do it again somewhere.
+Dialogue: 0,2:35:43.23,2:35:45.21,Default,Kuriyama Rina,0,0,60,,Practise on the guitar you have at home.
+Dialogue: 0,2:35:46.01,2:35:47.07,Default,Ihara Hanna,0,0,60,,I'll practise more.
+Dialogue: 0,2:35:49.09,2:35:50.81,Default,Kuriyama Rina,0,0,60,,You hit the jackpot in the Han-chan gacha!
+Dialogue: 0,2:35:50.81,2:35:51.51,Default,Tachibana Kokoro,0,0,60,,I won!
+Dialogue: 0,2:35:52.29,2:35:55.95,Default,Multiple,0,0,60,,I became the Han-chan king! Yay!
+Dialogue: 0,2:35:56.15,2:35:58.16,Default,Multiple,0,0,60,,A prize! Yes, a prize!
+Dialogue: 0,2:35:58.50,2:36:00.09,Default,Tachibana Kokoro,0,0,60,,I'm so happy. Thank you!
+Dialogue: 0,2:36:00.75,2:36:02.32,Default,Multiple,0,0,60,,Gotcha!
+Dialogue: 0,2:36:02.32,2:36:03.49,Default,Kuriyama Rina,0,0,60,,But what's inside ... still —
+Dialogue: 0,2:36:03.83,2:36:06.23,Default,Eguchi Kokoha,0,0,60,,I haven't seen what's inside yet.
+Dialogue: 0,2:36:07.27,2:36:09.87,Default,Tachibana Kokoro,0,0,60,,Of course, the power of Han-Koko too.
+Dialogue: 0,2:36:10.53,2:36:13.07,Default,Ihara Hanna,0,0,60,,Let's spread Han-Koko, starting today.
+Dialogue: 0,2:36:13.33,2:36:15.15,Default,Ihara Hanna,0,0,60,,About Kurina-san's letter—
+Dialogue: 0,2:36:17.47,2:36:19.13,Default,Kuriyama Rina,0,0,60,,Really, while I was writing it,
+Dialogue: 0,2:36:19.21,2:36:21.07,Default,Kuriyama Rina,0,0,60,,I wondered if Han-chan could read kanji like this.
+Dialogue: 0,2:36:22.29,2:36:23.99,Default,Kuriyama Rina,0,0,60,,When I wrote to the two little sisters,
+Dialogue: 0,2:36:25.00,2:36:27.98,Default,Kuriyama Rina,0,0,60,,I wrote almost all in hiragana,
+Dialogue: 0,2:36:28.06,2:36:29.20,Default,Kuriyama Rina,0,0,60,,so I really agonised over whether to write this in hiragana
+Dialogue: 0,2:36:29.28,2:36:31.14,Default,Kuriyama Rina,0,0,60,,or in kanji.
+Dialogue: 0,2:36:32.58,2:36:34.08,Default,Ihara Hanna,0,0,60,,If I don't know one, I'll look it up.
+Dialogue: 0,2:36:34.82,2:36:35.76,Default,Kuriyama Rina,0,0,60,,Ask your mum.
+Dialogue: 0,2:36:36.76,2:36:38.78,Default,Kuriyama Rina,0,0,60,,But really, from now on, in Oita—
+Dialogue: 0,2:36:39.88,2:36:42.12,Default,Kuriyama Rina,0,0,60,,but actually, we talked about it just now,
+Dialogue: 0,2:36:42.38,2:36:45.10,Default,Kuriyama Rina,0,0,60,,"Kuri-Han" doesn't seem like it'll catch on,
+Dialogue: 0,2:36:45.18,2:36:47.84,Default,Kuriyama Rina,0,0,60,,so we're thinking of making it "Kuri-gohan" (chestnut rice).
+Dialogue: 0,2:36:48.66,2:36:50.68,Default,Kuriyama Rina,0,0,60,,"Kuri-gohan" sounds a bit more Oita-ish.
+Dialogue: 0,2:36:51.50,2:36:54.66,Default,Kuriyama Rina,0,0,60,,So if you're watching this, from now on, please go with Kuri-gohan
+Dialogue: 0,2:36:54.74,2:36:56.68,Default,Kuriyama Rina,0,0,60,,and support us!
+Dialogue: 0,2:36:56.76,2:36:59.50,Default,Kuriyama Rina,0,0,60,,Let's make a Kuri-gohan Road!
+Dialogue: 0,2:36:59.58,2:37:00.04,Default,Ihara Hanna,0,0,60,,Let's make one!
+Dialogue: 0,2:37:00.12,2:37:00.84,Default,Kuriyama Rina,0,0,60,,Let's do our best!
+Dialogue: 0,2:37:00.92,2:37:01.66,Default,Ihara Hanna,0,0,60,,70-30.
+Dialogue: 0,2:37:01.74,2:37:02.56,Default,Kuriyama Rina,0,0,60,,No way.
+Dialogue: 0,2:37:02.96,2:37:03.96,Default,Kuriyama Rina,0,0,60,,50-50.
+Dialogue: 0,2:37:04.04,2:37:04.94,Default,Kuriyama Rina,0,0,60,,Let's keep it equal.
+Dialogue: 0,2:37:05.02,2:37:05.37,Default,Ihara Hanna,0,0,60,,Okay.
+Dialogue: 0,2:37:05.45,2:37:05.86,Default,Kuriyama Rina,0,0,60,,Well then,
+Dialogue: 0,2:37:05.94,2:37:10.78,Default,Ihara Hanna,0,0,60,,look forward to the next show!
+Dialogue: 0,2:37:12.60,2:37:13.40,Default,All,0,0,60,,Bye-bye!
+Dialogue: 0,2:37:14.28,2:37:15.56,Default,All,0,0,60,,Gacha-gacha!
