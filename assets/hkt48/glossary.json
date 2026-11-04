@@ -47,12 +47,16 @@
       "en_full": "Team KIV",
       "type": "team",
       "team": null,
-      "reject": [],
-      "note": "",
+      "reject": [
+        "チーム慶豊",
+        "慶豊",
+        "刑法"
+      ],
+      "note": "ASR traps: チームKIV (けいふぉー) heard as 慶豊 / 刑法 (also チーム慶応 / K-1, listed on yasui-hina).",
       "confidence": "provisional",
       "locked": false,
-      "updated": "2026-09-23T20:00:03+02:00",
-      "updated_by": "subtitler"
+      "updated": "2026-11-03T19:30:00+01:00",
+      "updated_by": "verifier"
     },
     {
       "id": "kenkyuusei",
@@ -112,10 +116,10 @@
       "type": "member",
       "team": "H",
       "reject": [],
-      "note": "Catch: ibuki-new-wind-catch (いぶきー call + 新しい風 + キックボクシング).",
+      "note": "5th gen; official nick いぶき (48pedia). Team KIV 2021-04 to the 2022-10 class change, Team H from 2023-02. Graduated 2026-11-03 (graduation show at UNITEDLAB; official report hkt48.jp news 2026/11/11367). As ex-KIV she sometimes appears in KIV stages as an other-team member. Catch: ibuki-new-wind-catch (いぶきー call + 新しい風 + キックボクシング).",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-29T10:48:26+02:00",
+      "updated": "2026-11-03T18:15:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -283,10 +287,8 @@
       "type": "member",
       "team": "H",
       "reject": [
-        "Eguchi Kokoha",
         "江口心々華",
         "ここちゃん",
-        "Koko-chan",
         "藤子",
         "藤子子",
         "Koko-heart",
@@ -294,10 +296,10 @@
         "ココハート",
         "ここはーと as heart"
       ],
-      "note": "Official nick ここは (Team H, 6th). ASR often 藤子 from 藤野. EN Kokoha; spoken ふじここ → **Fujikoko** / Fujikoko-san (do not normalize to bare Kokoha). Intro: kokoha-catchcopy. REJECT Koko-heart (誤読 of elongated ここはーと; と is quotative). チャーハン部 → fujino-chahan-club-ghost.",
+      "note": "Official nick ここは (Team H, 6th). ASR often 藤子 from 藤野. EN Kokoha; spoken ふじここ → **Fujikoko** / Fujikoko-san (do not normalize to bare Kokoha). Intro: kokoha-catchcopy. REJECT Koko-heart (誤読 of elongated ここはーと; と is quotative). チャーハン部 → fujino-chahan-club-ghost. Do not reject Eguchi Kokoha or Koko-chan here: ここは is also Eguchi's given-name reading (and an everyday word), so resolve 江口 vs 藤野 by cast.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-07T10:15:00+02:00",
+      "updated": "2026-11-03T19:30:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -466,10 +468,10 @@
         "Yamakawa Maria",
         "marshmallow catch as this member"
       ],
-      "note": "Team KIV. Gunma. ≠ Yamakawa Mari-tan (marshmallow/macaron catch is Yamakawa only — maritan-marshmallow-catch). Fried-chicken / karaage island talk is dialogue, not marshmallow. Team KIV captain; born 2003-09-14 in Gunma (hkt48.jp profile/56). Official nick まーさん.",
+      "note": "Team KIV. Gunma. ≠ Yamakawa Mari-tan (marshmallow/macaron catch is Yamakawa only — maritan-marshmallow-catch). Fried-chicken / karaage island talk is dialogue, not marshmallow. Team KIV captain; born 2003-09-14 in Gunma (hkt48.jp profile/56). Official nick まーさん. Published catch (48pedia, TII era): 群馬生まれの女の子、小さいけれど夢は大きい、その名も～？（ぐんまりあ～！）; current live use unconfirmed — do not insert it when not heard.",
       "confidence": "confirmed",
       "locked": false,
-      "updated": "2026-10-27T16:37:55+01:00",
+      "updated": "2026-10-31T21:15:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -485,14 +487,14 @@
       "type": "member",
       "team": "KIV",
       "reject": [
-        "ここは",
-        "Kokoha",
-        "藤野心葉"
+        "Fujino Kokoha",
+        "藤野心葉",
+        "江口コカハ"
       ],
-      "note": "Official nick ここちゃん (Team KIV, 6th) — not ここは. Lookalike trap when ASR/MC says ここは; that maps to Fujino Kokoha. Intro catch: eguchi-lookfor-catch LOCKED (look-for / ここだよー). REJECT Fujino kokoha-catchcopy. Given name is read ここは (official profile); a given-name call ここは/ここはさん with Fujino absent is Eguchi — EN Kokoha as heard.",
+      "note": "Official nick ここちゃん (Team KIV, 6th); given name 心々華 is read ここは, so **Eguchi Kokoha** / bare Kokoha (when Fujino is absent) are correct EN. Trap: ASR/MC ここは can mean Fujino Kokoha (Team H) — resolve by cast; reject only the Fujino identity on 江口 lines. Intro catch: eguchi-lookfor-catch LOCKED (look-for / ここだよー); never Fujino's kokoha-catchcopy.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-13T12:30:00+02:00",
+      "updated": "2026-11-03T19:30:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -533,12 +535,13 @@
         "大葉",
         "Ayumi as this member",
         "大森咲",
-        "Omori Saki"
+        "Omori Saki",
+        "大割咲"
       ],
       "note": "6th gen Team KIV. Official nick **りちゃき / Richaki** (profile/106). Catch: risaki-ohayou-catch LOCKED. Specialty 丸い食べ物のモノマネ. Birthday 2005-04-23. Radio Name DJ self-name ASR 大森咲 / Omori Saki ← 大庭凜咲 (おおばりさき → おおもりさき). Not Morisaki Saaya.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-07T10:00:00+02:00",
+      "updated": "2026-11-03T19:30:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -638,12 +641,13 @@
       "reject": [
         "だご好き as food-lover nick without きゅうり line",
         "blood-type birthday reading",
-        "Dago-loving Ii-ko as JA catch token"
+        "Dago-loving Ii-ko as JA catch token",
+        "田中優里"
       ],
       "note": "Official nick **いおり** (profile/88); older/spoken nick **いーこ / Ii-ko**. Birthday Aug 31 = Vegetable Day + cucumber — not blood type. Catch: iori-dago-kyuri-catch LOCKED (だご=Kumamoto「私」; NOT 'dago-loving' food nick). Reject inventing fused「Dago-loving Ii-ko」from ASR mush.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-02T19:32:38+02:00",
+      "updated": "2026-11-03T19:30:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -658,13 +662,14 @@
       "en": "Nene-chan",
       "en_full": "Jitoe Nene",
       "type": "member",
-      "team": "KIV",
+      "team": null,
       "reject": [],
-      "note": "Official nick ねねちゃん. Theater catch still OPEN (no independent published catch locked). 48pedia: 出身宮崎県, Team KIV. Do NOT lock 地頭任命: on radio she recited 「私にハートを奪われたあなたは私をあなたの地頭へ任命！してください」 as an early intro she later dropped; the replacement is not quoted there. Do not paste a catch stack without a locked source.",
+      "note": "Official nick ねねちゃん; 4th gen, ex-Team KIV, Miyazaki. Graduated 2026-03-08 (48pedia), so ねねさん in later junior MC is a past-tense mention of her. Catch on 48pedia: 私にハートを奪われたあなたは私をあなたの地頭へ（任命！）してください — early form; later live catch not locked.",
       "confidence": "confirmed",
       "locked": false,
-      "updated": "2026-10-07T10:00:00+02:00",
-      "updated_by": "verifier"
+      "updated": "2026-10-31T21:15:00+01:00",
+      "updated_by": "verifier",
+      "status_note": "graduated 2026-03-08 (theater graduation show; 48pedia)"
     },
     {
       "id": "fukui-karen",
@@ -750,17 +755,17 @@
       "en": "Aa-tan",
       "en_full": "Ishii Ayane",
       "type": "member",
-      "team": "kenkyuusei",
+      "team": "KIV",
       "reject": [
         "あやねいら",
         "アヤネイラ",
         "Ayane-ira",
         "Ayane ira"
       ],
-      "note": "Catchphrase is あやねいろ / Ayane iro (“Ayane's color”), never Ayane-ira. ASR often mush on the call. Bare あやね is ambiguous — see ayane-ishii-vs-ryuto-trap.",
+      "note": "7th gen; Team KIV since 2026-01-05 (promoted from kenkyuusei, hkt48.jp news 2025/11/10899). Official nick あーたん (profile/119). Catchphrase is あやねいろ / Ayane iro (“Ayane's color”), never Ayane-ira. ASR often mush on the call. Bare あやね is ambiguous — see ayane-ishii-vs-ryuto-trap. Intro age beat is said in English (2024: エイティーン; 2026: ナインティーン) and floats with DOB 2006-11-27 — render the number she says, never guess it.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-08T12:30:00+02:00",
+      "updated": "2026-10-31T21:15:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -964,14 +969,14 @@
       "en": "Moka-pi",
       "en_full": "Matsumoto Moka",
       "type": "member",
-      "team": "kenkyuusei",
+      "team": "KIV",
       "reject": [
         "もかちゃん as Matsumoto"
       ],
-      "note": "Official 松本苺花 / MOKA MATSUMOTO / もかぴ (profile/130). 出身熊本県. Catch locked: いちご畑から生まれた／もかぴ／いちごの花みたいにかわいい？. Reject confusion with graduated 武田智加 もかちゃん.",
+      "note": "Official 松本苺花 / MOKA MATSUMOTO / もかぴ (profile/130). 7th gen; Team KIV since 2026-09-01 (promoted from kenkyuusei, hkt48.jp news 2026/08/11314). 出身熊本県. Catch locked: いちご畑から生まれた／もかぴ／いちごの花みたいにかわいい？. Reject confusion with graduated 武田智加 もかちゃん.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-27T16:05:24+02:00",
+      "updated": "2026-10-31T19:55:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -1050,6 +1055,27 @@
       "locked": false,
       "updated": "2026-09-23T20:00:03+02:00",
       "updated_by": "subtitler"
+    },
+    {
+      "id": "unitedlab",
+      "ja": [
+        "UNITEDLAB",
+        "ユナイテッドラボ",
+        "ユナイテッド・ラボ"
+      ],
+      "en": "UNITEDLAB",
+      "en_full": "UNITEDLAB (live house, Daimyo, Fukuoka)",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "United Lab as a theater name",
+        "new HKT48 Theater"
+      ],
+      "note": "Fukuoka live house (Chuo-ku, Daimyo) used as a stand-in venue for HKT48 theater stages from 2026-10-28, after the old 17LIVE HKT48 Theater (BOSS E・ZO FUKUOKA) closed on 2026-07-26 and the new theater in 010 BUILDING (Hakata-ku) was delayed. It is not the new HKT48 Theater. Spoken 劇場 in MC still → theater.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-31T19:55:00+01:00",
+      "updated_by": "verifier"
     },
     {
       "id": "handshake-event",
@@ -3057,6 +3083,26 @@
       "locked": false,
       "updated": "2026-10-03T21:20:00+02:00",
       "updated_by": "subtitler"
+    },
+    {
+      "id": "song-onew-no-uwabaki",
+      "ja": [
+        "おNEWの上履き",
+        "おニューの上履き",
+        "おにゅーの上履き"
+      ],
+      "en": "ONEW no Uwabaki",
+      "en_full": "Brand New School Room Shoes",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "Onew no Uwabaki"
+      ],
+      "note": "Unit song in the 「ここにだって天使はいる」 stage (official KIV4 setlist; NMB48 Team N 3rd stage original). Fan wikis romanize it ONEW no Uwabaki (NEW in caps, read おニュー) with the English title Brand New School Room Shoes.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-03T19:30:00+01:00",
+      "updated_by": "verifier"
     },
     {
       "id": "shibui-minitomato-catch",
@@ -5661,7 +5707,53 @@
       "locked": true,
       "updated": "2026-10-31T15:45:00+01:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "piyorin",
+      "ja": [
+        "ぴよりん",
+        "ピヨリン",
+        "ぴよりんvillage",
+        "ぴよりんビレッジ",
+        "ぴよりんカフェ"
+      ],
+      "en": "Piyorin",
+      "en_full": "Piyorin (chick-shaped pudding sweet from JR Nagoya Station); cafe: Piyorin Village",
+      "type": "jargon",
+      "team": null,
+      "reject": [
+        "Piorin",
+        "Piorin Village"
+      ],
+      "note": "Nagoya Station chick-shaped pudding sweet, a recurring member favorite. The cafe ぴよりんvillage (cafe & gifts, JR Nagoya Station central concourse) opened 2026-06-15 (piyorin.com); the older Cafe Gentiane closed 2025-08-31. ASR ピオリン = ぴよりん.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-10-31T21:15:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "lit-charm",
+      "ja": [
+        "Lit charm",
+        "リットチャーム",
+        "りっとちゃーむ"
+      ],
+      "en": "Lit charm",
+      "en_full": "Lit charm (HKT48 dance unit)",
+      "type": "group",
+      "team": null,
+      "reject": [
+        "LitCharm",
+        "Lit Charm",
+        "ビットチャーム",
+        "Bit Charm"
+      ],
+      "note": "HKT48 dance unit formed in 2019; official spelling is Lit charm with a lowercase c (hkt48.jp news 2025/06/10658). Four members joined on 2025-06-27, Matsumoto Moka among them.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-04T00:55:00+01:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-10-29T12:40:00+01:00"
+  "updated": "2026-11-03T19:30:00+01:00"
 }

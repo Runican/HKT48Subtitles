@@ -27,3 +27,7 @@ Also: `q-20261027-saka-agari-250408.md` (250408 Himawarigumi Saka Agari 18:30: o
 Also: `q-20261028-nb-synergy-250406.md` (250406 STU48 × HKT48 joint concert "No Border ~Synergy~" Part 1, day show: official title/date, 33-member lineup with the Okamura→Kurushima/Morokuzu change, 30-song setlist with units and MC positions, STU48 nick traps; template stu48_hkt48_no_border_synergy.json).
 
 Also: `q-20261029-tenshi-250405.md` (250405 Team KIV Tenshi 17:00, Ihara Hanna birthday: official cast, setlist, quiz pair names Han-Koko / Koppe-Han, Kuri-Han → Kuri-gohan, Imamura Children, Oita Sunset Groove, JIGOROCK, Sashihara Road, 7th-gen speech line).
+
+Also: `q-20261031-kiv-tenshi-261028.md` (261028 Team KIV Tenshi 18:30 at UNITEDLAB, a temporary venue after the old theater closed on 2026-07-26 and the new theater was delayed: official 16-member cast, no setlist yet, Ishii/Matsumoto team fix, unitedlab entry).
+
+Also: `q-20261103-kiv-tenshi-261029.md` (261029 Team KIV Tenshi 18:30 at UNITEDLAB, Ishibashi Ibuki's last Tenshi: official 16-member cast with Ishibashi (H) in; Ihara/Ijima/Nagano not cast; Ishibashi glossary update; draft lore answers: ONEW no Uwabaki, Zawachi, KBC Happy Hour, Hojoya, bear motif, encore lyric, Eguchi Kokoha checker fix).
