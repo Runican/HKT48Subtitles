@@ -315,15 +315,15 @@
       "en": "Mai-san / Mai-chan",
       "en_full": "Fuchigami Mai",
       "type": "member",
-      "team": null,
+      "team": "H",
       "reject": [
         "other Mai without same-gen+Yuka context",
         "inventing rest date from ASR alone"
       ],
-      "note": "2nd gen; official nick まいちゃん (profile/42). Same gen as Akiyoshi Yuka (ゆかちゃん/ゆかたん). Official full activity rest announced 2025-05-21 (hkt48.jp/news/2025/05/10570); MC referred to her as resting beforehand (予てより体調不良). ASS: Mai-san (Fuchigami Mai) on rest. Confidence confirmed for this referent.",
+      "note": "2nd gen, Team H; official nick まいちゃん (profile/42); DOB 1996-09-21 (so 30 from 2026-09-21). Had a full activity rest from 2025-05 (hkt48.jp/news/2025/05/10570); back on Team H casts by 2026-10.",
       "confidence": "confirmed",
       "locked": false,
-      "updated": "2026-10-07T10:00:00+02:00",
+      "updated": "2026-11-04T11:30:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -778,17 +778,17 @@
       "en": "Amiyun",
       "en_full": "Ishikawa Amiyu",
       "type": "member",
-      "team": "kenkyuusei",
+      "team": "H",
       "reject": [
         "石川彩友",
         "小さい悪魔",
         "Ishikawa Ayumi",
         "Ayumi as this member"
       ],
-      "note": "Official 石川歩実優 / AMIYU ISHIKAWA / あみゆん (7th; later Team H). Reject 石川彩友 / Ayumi. Shiritori intro: 小悪魔→真心→ロングヘア→あみゆん; 福岡のラッキーガールは→あみゆん. ASR 小さい悪魔 = lengthened 小悪魔. Show JSON/LOD sometimes lists Ishikawa Ayumi — typo; official cast uses 石川歩実優 (Amiyun). ASS lock: Amiyun (or Ishikawa Amiyu where full name fits).",
+      "note": "Official 石川歩実優 / AMIYU ISHIKAWA / あみゆん (7th; later Team H). Reject 石川彩友 / Ayumi. Shiritori intro: 小悪魔→真心→ロングヘア→あみゆん; 福岡のラッキーガールは→あみゆん. ASR 小さい悪魔 = lengthened 小悪魔. Show JSON/LOD sometimes lists Ishikawa Ayumi — typo; official cast uses 石川歩実優 (Amiyun). ASS lock: Amiyun (or Ishikawa Amiyu where full name fits). Promoted from 7th-gen trainee to Team H on 2026-09-01 (hkt48.jp/news/2026/08/11314).",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-07T10:00:00+02:00",
+      "updated": "2026-11-04T11:30:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -1010,15 +1010,15 @@
       "en": "Mei-mei",
       "en_full": "Yoshida Mei",
       "type": "member",
-      "team": "kenkyuusei",
+      "team": "H",
       "reject": [
         "ゆうかが好きな as year-round canonical (birthday overlay only)"
       ],
-      "note": "7th gen. Official nick めいめい / Mei-mei. JA given name hiragana めい. 出身山口県. Catch: メロンが好きな／いつも元気な／明るく笑顔の／めいめい (polyhedra birth fest). Birthday shows may swap beat2→ゆうかが好きな (provisional).",
+      "note": "7th gen. Official nick めいめい / Mei-mei. JA given name hiragana めい. 出身山口県. Catch: メロンが好きな／いつも元気な／明るく笑顔の／めいめい (polyhedra birth fest). Birthday shows may swap beat2→ゆうかが好きな (provisional). Promoted from 7th-gen trainee to Team H on 2026-09-01 (hkt48.jp/news/2026/08/11314).",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-09-27T16:10:00+02:00",
-      "updated_by": "subtitler"
+      "updated": "2026-11-04T11:30:00+01:00",
+      "updated_by": "verifier"
     },
     {
       "id": "ryuto-ayane",

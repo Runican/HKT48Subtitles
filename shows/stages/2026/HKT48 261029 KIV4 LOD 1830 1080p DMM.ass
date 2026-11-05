@@ -1,0 +1,912 @@
+[Script Info]
+Title: HKT48 261029 KIV4 LOD 1830 1080p DMM
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,56,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+; ===== radio =====
+Dialogue: 0,0:08:59.00,0:09:01.88,Default,Matsumoto Moka,0,0,60,,Today's DJ is me, Matsumoto Moka!
+Dialogue: 0,0:09:02.90,0:09:05.10,Default,Matsumoto Moka,0,0,60,,From radio name "Norinori":
+Dialogue: 0,0:09:05.18,0:09:08.45,Default,Matsumoto Moka,0,0,60,,"I came to see the 16 angels for the first time in a while!
+Dialogue: 0,0:09:08.50,0:09:10.25,Default,Matsumoto Moka,0,0,60,,I'm looking forward to a wonderful time."
+Dialogue: 0,0:09:10.30,0:09:12.46,Default,Matsumoto Moka,0,0,60,,We wanted to see you all too!
+Dialogue: 0,0:09:12.54,0:09:15.94,Default,Matsumoto Moka,0,0,60,,Burn the 16 angels into your eyes!
+
+; ===== radio_call =====
+Dialogue: 0,0:09:45.26,0:09:47.30,Default,Eura Yuka,0,0,60,,Everyone, together, let's do the wave please!
+
+; ===== intro =====
+Dialogue: 0,0:18:04.90,0:18:06.95,Default,All,0,0,60,,Good evening, everyone! We're HKT48
+Dialogue: 0,0:18:07.00,0:18:09.18,Default,All,0,0,60,,Team KIV!
+Dialogue: 0,0:18:13.90,0:18:16.04,Default,Takemoto Kurumi,0,0,60,,HKT48 Team KIV's
+Dialogue: 0,0:18:16.12,0:18:18.92,Default,Takemoto Kurumi,0,0,60,,"Koko ni Datte Tenshi wa Iru" show has begun!
+Dialogue: 0,0:18:21.95,0:18:23.33,Default,Takemoto Kurumi,0,0,60,,Thank you, everyone!
+Dialogue: 0,0:18:23.41,0:18:24.53,Default,Takemoto Kurumi,0,0,60,,Are you having fun?
+Dialogue: 0,0:18:24.65,0:18:25.25,Default,Crowd,0,0,60,,Yeah!
+Dialogue: 0,0:18:26.75,0:18:27.85,Default,Takemoto Kurumi,0,0,60,,Thank you!
+Dialogue: 0,0:18:28.18,0:18:30.27,Default,Takemoto Kurumi,0,0,60,,We started with "Aoi Tsuki ga Miteru kara,"
+Dialogue: 0,0:18:30.32,0:18:31.08,Default,Takemoto Kurumi,0,0,60,,"Radio Name,"
+Dialogue: 0,0:18:31.16,0:18:32.67,Default,Takemoto Kurumi,0,0,60,,"Koko ni Datte Tenshi wa Iru,"
+Dialogue: 0,0:18:32.72,0:18:34.63,Default,Takemoto Kurumi,0,0,60,,and "Cattleya no Hana wo Miru Tabi ni Omoidasu"—
+Dialogue: 0,0:18:34.68,0:18:36.86,Default,Takemoto Kurumi,0,0,60,,four songs in a row.
+Dialogue: 0,0:18:36.94,0:18:39.62,Default,Takemoto Kurumi,0,0,60,,Everyone, KIV is the best, right?
+Dialogue: 0,0:18:42.44,0:18:43.04,Default,Takemoto Kurumi,0,0,60,,Thank you!
+Dialogue: 0,0:18:44.04,0:18:46.03,Default,Takemoto Kurumi,0,0,60,,Now, let us take a commemorative photo right away.
+Dialogue: 0,0:18:46.08,0:18:47.10,Default,All,0,0,60,,Okay!
+Dialogue: 0,0:18:47.18,0:18:48.90,Default,Takemoto Kurumi,0,0,60,,Ibuki—
+Dialogue: 0,0:18:53.66,0:18:57.50,Default,Takemoto Kurumi,0,0,60,,Who here is doing their last show with Ibuki? Everyone?
+Dialogue: 0,0:18:57.67,0:18:58.99,Default,Ishibashi Ibuki,0,0,60,,Everyone, huh.
+Dialogue: 0,0:18:59.73,0:19:00.49,Default,Takemoto Kurumi,0,0,60,,So sad.
+Dialogue: 0,0:19:00.57,0:19:02.10,Default,Kuriyama Rina,0,0,60,,You mean all of us?
+Dialogue: 0,0:19:02.14,0:19:03.08,Default,Ishibashi Ibuki,0,0,60,,Huh? The last show for—
+Dialogue: 0,0:19:03.10,0:19:04.64,Default,Takemoto Kurumi,0,0,60,,No, not the show—
+Dialogue: 0,0:19:07.04,0:19:10.64,Default,Takemoto Kurumi,0,0,60,,So, what pose should we do?
+Dialogue: 0,0:19:11.42,0:19:13.24,Default,Ishibashi Ibuki,0,0,60,,How about angels?
+Dialogue: 0,0:19:13.32,0:19:14.20,Default,Takemoto Kurumi,0,0,60,,Angels?
+Dialogue: 0,0:19:34.80,0:19:36.32,Default,Takemoto Kurumi,0,0,60,,And then?
+Dialogue: 0,0:19:36.32,0:19:37.40,Default,Ishibashi Ibuki,0,0,60,,A heart.
+Dialogue: 0,0:19:50.26,0:19:51.76,Default,Ishibashi Ibuki,0,0,60,,The K in KIV.
+Dialogue: 0,0:19:52.52,0:19:53.52,Default,Multiple,0,0,60,,There's no KIV.
+Dialogue: 0,0:19:54.32,0:19:55.94,Default,Ishibashi Ibuki,0,0,60,,True, let's do KIV.
+Dialogue: 0,0:20:07.64,0:20:12.93,Default,Takemoto Kurumi,0,0,60,,These photos will be sold at the merch stand after the show, so please stop by on your way home.
+Dialogue: 0,0:20:12.98,0:20:14.16,Default,Takemoto Kurumi,0,0,60,,Thank you very much.
+Dialogue: 0,0:20:14.88,0:20:16.06,Default,All,0,0,60,,Thank you very much.
+Dialogue: 0,0:20:21.62,0:20:23.86,Default,Takemoto Kurumi,0,0,60,,Now, let us do our self-introductions.
+Dialogue: 0,0:20:24.00,0:20:25.08,Default,Takemoto Kurumi,0,0,60,,Today's topic is
+Dialogue: 0,0:20:29.09,0:20:31.62,Default,Takemoto Kurumi,0,0,60,,"a small happy thing that happened recently."
+Dialogue: 0,0:20:31.67,0:20:33.80,Default,Takemoto Kurumi,0,0,60,,Let's start with Akiyoshi-san, please.
+Dialogue: 0,0:20:33.85,0:20:37.62,Default,Akiyoshi Yuka,0,0,60,,When I say "I want to be," please say "I want to be!" Here goes.
+Dialogue: 0,0:20:37.99,0:20:38.83,Default,Crowd,0,0,60,,Yes!
+Dialogue: 0,0:20:39.65,0:20:42.47,Default,Akiyoshi Yuka,0,0,60,,I want to be a gentle flower blooming in Hakata!
+Dialogue: 0,0:20:42.81,0:20:43.58,Default,Crowd,0,0,60,,I want to be!
+Dialogue: 0,0:20:45.66,0:20:51.92,Default,Akiyoshi Yuka,0,0,60,,I love acting and guitar, and I turned 26 on October 24—I'm Yuka-chan, Akiyoshi Yuka!
+Dialogue: 0,0:20:56.30,0:20:57.70,Default,Akiyoshi Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:20:59.68,0:21:05.60,Default,Akiyoshi Yuka,0,0,60,,While we didn't have a theater, so much happened, and I have tons I want to say, but
+Dialogue: 0,0:21:06.00,0:21:10.08,Default,Akiyoshi Yuka,0,0,60,,first of all, to the staff and DMM—it's been a while!
+Dialogue: 0,0:21:11.30,0:21:13.97,Default,Akiyoshi Yuka,0,0,60,,Long time no see, long time no see, long time no see!
+Dialogue: 0,0:21:14.02,0:21:15.63,Default,Akiyoshi Yuka,0,0,60,,Getting to see all the different staff,
+Dialogue: 0,0:21:15.68,0:21:18.68,Default,Akiyoshi Yuka,0,0,60,,and having everyone watch our theater shows,
+Dialogue: 0,0:21:18.76,0:21:20.74,Default,Akiyoshi Yuka,0,0,60,,makes me happy, but
+Dialogue: 0,0:21:21.30,0:21:23.20,Default,Akiyoshi Yuka,0,0,60,,for my personal happy news,
+Dialogue: 0,0:21:23.98,0:21:26.07,Default,Akiyoshi Yuka,0,0,60,,I got a regular spot on a radio show called
+Dialogue: 0,0:21:26.12,0:21:29.58,Default,Akiyoshi Yuka,0,0,60,,KBC Radio "Happy Hour," starting last month!
+Dialogue: 0,0:21:30.92,0:21:32.52,Default,Akiyoshi Yuka,0,0,60,,That's right!
+Dialogue: 0,0:21:33.57,0:21:36.03,Default,Akiyoshi Yuka,0,0,60,,It's truly a happy, happy thing.
+Dialogue: 0,0:21:36.11,0:21:40.59,Default,Akiyoshi Yuka,0,0,60,,Yesterday too, I was live on air from 4 to 6 in the evening,
+Dialogue: 0,0:21:41.07,0:21:43.42,Default,Akiyoshi Yuka,0,0,60,,then dashed over to watch the 6:30 show,
+Dialogue: 0,0:21:43.79,0:21:45.74,Default,Akiyoshi Yuka,0,0,60,,and I watched yesterday's show from around there,
+Dialogue: 0,0:21:45.79,0:21:47.67,Default,Akiyoshi Yuka,0,0,60,,and then Kuriyama-chan said
+Dialogue: 0,0:21:48.03,0:21:49.90,Default,Akiyoshi Yuka,0,0,60,,she thought, "Someone's dancing up there,"
+Dialogue: 0,0:21:49.95,0:21:51.42,Default,Akiyoshi Yuka,0,0,60,,and it was Akiyoshi-chan.
+Dialogue: 0,0:21:51.73,0:21:54.61,Default,Akiyoshi Yuka,0,0,60,,A really red person was dancing like crazy, so...
+Dialogue: 0,0:21:55.24,0:21:57.64,Default,Akiyoshi Yuka,0,0,60,,I never thought I'd been spotted, but
+Dialogue: 0,0:21:58.48,0:22:00.00,Default,Akiyoshi Yuka,0,0,60,,as the 17th member,
+Dialogue: 0,0:22:00.08,0:22:02.58,Default,Akiyoshi Yuka,0,0,60,,I think I was dancing yesterday too, so
+Dialogue: 0,0:22:02.66,0:22:04.93,Default,Akiyoshi Yuka,0,0,60,,today too I'll give it my all, full of energy!
+Dialogue: 0,0:22:04.98,0:22:06.33,Default,Akiyoshi Yuka,0,0,60,,Please take care of me!
+Dialogue: 0,0:22:10.95,0:22:12.61,Default,Eura Yuka,0,0,60,,When I lend you my ear,
+Dialogue: 0,0:22:12.69,0:22:14.92,Default,Eura Yuka,0,0,60,,please say "Yuka," "Yuka," and "Yuka"!
+Dialogue: 0,0:22:15.63,0:22:17.33,Default,Eura Yuka,0,0,60,,Always cheerful—
+Dialogue: 0,0:22:17.41,0:22:18.07,Default,Crowd,0,0,60,,Yuka!
+Dialogue: 0,0:22:18.15,0:22:18.67,Default,Eura Yuka,0,0,60,,This is—
+Dialogue: 0,0:22:18.86,0:22:19.74,Default,Crowd,0,0,60,,Yuka!
+Dialogue: 0,0:22:20.12,0:22:20.72,Default,Eura Yuka,0,0,60,,And I am?
+Dialogue: 0,0:22:20.82,0:22:21.62,Default,Crowd,0,0,60,,Yuka!
+Dialogue: 0,0:22:22.07,0:22:23.07,Default,Eura Yuka,0,0,60,,Thank you!
+Dialogue: 0,0:22:23.19,0:22:26.30,Default,Eura Yuka,0,0,60,,I want to score a goal in everyone's heart!
+Dialogue: 0,0:22:26.35,0:22:29.94,Default,Eura Yuka,0,0,60,,From Fukuoka, third year of junior high, 15 years old—
+Dialogue: 0,0:22:30.02,0:22:30.77,Default,Eura Yuka,0,0,60,,I'm Eura Yuka!
+Dialogue: 0,0:22:30.82,0:22:31.55,Default,Eura Yuka,0,0,60,,Please take care of me!
+Dialogue: 0,0:22:31.60,0:22:32.01,Default,Eura Yuka,0,0,60,,Please.
+Dialogue: 0,0:22:37.50,0:22:43.03,Default,Eura Yuka,0,0,60,,My small happy thing lately: I'm in my third year of junior high, studying for entrance exams.
+Dialogue: 0,0:22:43.34,0:22:46.73,Default,Eura Yuka,0,0,60,,And recently I started going to cram school, and every day...
+Dialogue: 0,0:22:46.78,0:22:47.34,Default,Tanaka Iori,0,0,60,,Wow.
+Dialogue: 0,0:22:47.82,0:22:48.58,Default,Eura Yuka,0,0,60,,That's right.
+Dialogue: 0,0:22:48.96,0:22:54.84,Default,Eura Yuka,0,0,60,,I joined cram school and study hard every day. I've always liked math,
+Dialogue: 0,0:22:54.96,0:22:56.90,Default,Eura Yuka,0,0,60,,but I wasn't actually good at it.
+Dialogue: 0,0:22:57.04,0:23:03.22,Default,Eura Yuka,0,0,60,,I like math because there's one answer—work it out and you get the answer.
+Dialogue: 0,0:23:03.30,0:23:05.42,Default,Eura Yuka,0,0,60,,I like that there's just one answer,
+Dialogue: 0,0:23:05.82,0:23:07.69,Default,Eura Yuka,0,0,60,,and I wanted to get good at it, so
+Dialogue: 0,0:23:07.74,0:23:10.81,Default,Eura Yuka,0,0,60,,since joining cram school I've gotten pretty good at math,
+Dialogue: 0,0:23:10.86,0:23:11.85,Default,Eura Yuka,0,0,60,,and my scores are going up, so
+Dialogue: 0,0:23:11.90,0:23:13.98,Default,Eura Yuka,0,0,60,,I want to keep studying hard!
+Dialogue: 0,0:23:14.06,0:23:16.47,Default,Eura Yuka,0,0,60,,Okay, I'm counting on you today!
+Dialogue: 0,0:23:16.52,0:23:18.12,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:23:20.52,0:23:22.87,Default,Takemoto Kurumi,0,0,60,,I want to wrap your heart up as Kuru-mi!
+Dialogue: 0,0:23:23.97,0:23:24.77,Default,Takemoto Kurumi,0,0,60,,Thank you!
+Dialogue: 0,0:23:24.85,0:23:26.62,Default,Takemoto Kurumi,0,0,60,,I'm Kuru-tan, Takemoto Kurumi!
+Dialogue: 0,0:23:27.29,0:23:28.27,Default,Crowd,0,0,60,,Kuru-tan!
+Dialogue: 0,0:23:31.07,0:23:31.71,Default,Takemoto Kurumi,0,0,60,,Thank you!
+Dialogue: 0,0:23:32.53,0:23:35.23,Default,Takemoto Kurumi,0,0,60,,Okay, my small happy thing is...
+Dialogue: 0,0:23:35.31,0:23:36.77,Default,Takemoto Kurumi,0,0,60,,At yesterday's MC—
+Dialogue: 0,0:23:37.37,0:23:38.81,Default,Takemoto Kurumi,0,0,60,,the self-intro MC—
+Dialogue: 0,0:23:39.49,0:23:43.43,Default,Takemoto Kurumi,0,0,60,,I said I've been cooking for myself every day lately, but
+Dialogue: 0,0:23:44.19,0:23:47.45,Default,Takemoto Kurumi,0,0,60,,until now I'd been eating packaged rice.
+Dialogue: 0,0:23:47.53,0:23:49.50,Default,Takemoto Kurumi,0,0,60,,I ate the microwave-pack rice, but
+Dialogue: 0,0:23:49.55,0:23:51.15,Default,Takemoto Kurumi,0,0,60,,I love noodles,
+Dialogue: 0,0:23:51.23,0:23:54.45,Default,Takemoto Kurumi,0,0,60,,so it was always udon, soba, ramen, udon,
+Dialogue: 0,0:23:55.00,0:23:58.16,Default,Takemoto Kurumi,0,0,60,,soba, somen—that kind of life, but
+Dialogue: 0,0:23:58.24,0:24:00.26,Default,Takemoto Kurumi,0,0,60,,I realized how good rice is,
+Dialogue: 0,0:24:00.34,0:24:02.02,Default,Takemoto Kurumi,0,0,60,,and bought a rice cooker!
+Dialogue: 0,0:24:02.10,0:24:03.70,Default,Takemoto Kurumi,0,0,60,,Yes, really!
+Dialogue: 0,0:24:03.78,0:24:06.96,Default,Takemoto Kurumi,0,0,60,,And since I figured I'd use it forever,
+Dialogue: 0,0:24:07.04,0:24:08.22,Default,Takemoto Kurumi,0,0,60,,I splurged a little—
+Dialogue: 0,0:24:08.50,0:24:09.26,Default,Takemoto Kurumi,0,0,60,,an IH...
+Dialogue: 0,0:24:09.34,0:24:10.20,Default,Takemoto Kurumi,0,0,60,,um...
+Dialogue: 0,0:24:11.28,0:24:12.00,Default,Takemoto Kurumi,0,0,60,,what was it?
+Dialogue: 0,0:24:12.24,0:24:13.90,Default,Takemoto Kurumi,0,0,60,,A d-donabe?
+Dialogue: 0,0:24:14.28,0:24:17.22,Default,Takemoto Kurumi,0,0,60,,Pressure—I bought a pressure one, and
+Dialogue: 0,0:24:17.30,0:24:19.17,Default,Takemoto Kurumi,0,0,60,,it was so chewy and delicious, so
+Dialogue: 0,0:24:19.22,0:24:22.42,Default,Takemoto Kurumi,0,0,60,,today I'll work hard enough to make you all chewy too!
+Dialogue: 0,0:24:22.90,0:24:23.63,Default,Takemoto Kurumi,0,0,60,,Please take care of me!
+Dialogue: 0,0:24:23.68,0:24:25.03,Default,Takemoto Kurumi,0,0,60,,Please take care of me!
+Dialogue: 0,0:24:28.00,0:24:29.86,Default,Tanaka Iori,0,0,60,,Okay! My birthday is August 31—
+Dialogue: 0,0:24:29.94,0:24:31.95,Default,Tanaka Iori,0,0,60,,Vegetable Day! What I (dago) love is cucumber!
+Dialogue: 0,0:24:32.00,0:24:33.92,Default,Tanaka Iori,0,0,60,,From Kumamoto, I'm Tanaka Iori!
+Dialogue: 0,0:24:39.17,0:24:39.92,Default,Tanaka Iori,0,0,60,,Thank you!
+Dialogue: 0,0:24:40.00,0:24:41.18,Default,Tanaka Iori,0,0,60,,Thank you very much!
+Dialogue: 0,0:24:41.68,0:24:43.90,Default,Tanaka Iori,0,0,60,,So, my recent small happy thing is
+Dialogue: 0,0:24:43.98,0:24:45.99,Default,Tanaka Iori,0,0,60,,that I've made plans to go eat with my kouhai.
+Dialogue: 0,0:24:46.04,0:24:47.38,Default,Tanaka Iori,0,0,60,,That's what it is.
+Dialogue: 0,0:24:47.46,0:24:49.64,Default,Tanaka Iori,0,0,60,,Since last year—or a few years ago—
+Dialogue: 0,0:24:49.72,0:24:51.51,Default,Tanaka Iori,0,0,60,,Hina-tan and I kept saying we'd go,
+Dialogue: 0,0:24:51.56,0:24:53.83,Default,Tanaka Iori,0,0,60,,and this year, when I thought we'd go to the Hojoya festival,
+Dialogue: 0,0:24:53.88,0:24:54.97,Default,Tanaka Iori,0,0,60,,before I knew it, it was over.
+Dialogue: 0,0:24:55.02,0:24:58.09,Default,Tanaka Iori,0,0,60,,So that failed, so it's "we're really going this time," and
+Dialogue: 0,0:24:58.14,0:25:01.19,Default,Tanaka Iori,0,0,60,,I've also made promises with Zawa-chan and Karen-ren,
+Dialogue: 0,0:25:01.24,0:25:04.70,Default,Tanaka Iori,0,0,60,,and with Shibui Mina-chan from Team H too.
+Dialogue: 0,0:25:06.06,0:25:08.00,Default,Akiyoshi Yuka,0,0,60,,Have you actually gone with anyone?
+Dialogue: 0,0:25:08.22,0:25:10.03,Default,Tanaka Iori,0,0,60,,Well, I went with Zawa-chan, but
+Dialogue: 0,0:25:10.08,0:25:12.09,Default,Tanaka Iori,0,0,60,,I still haven't gone with the others, so
+Dialogue: 0,0:25:12.14,0:25:14.17,Default,Tanaka Iori,0,0,60,,once I do, I think it'll turn into a big happiness,
+Dialogue: 0,0:25:14.22,0:25:17.08,Default,Tanaka Iori,0,0,60,,so within this year—this year—I want to go!
+Dialogue: 0,0:25:17.16,0:25:19.05,Default,Tanaka Iori,0,0,60,,Okay, please look after me all day today!
+Dialogue: 0,0:25:19.10,0:25:20.32,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:25:22.31,0:25:24.31,Default,Tachibana Kokoro,0,0,60,,Okay! Always in everyone's hearts—
+Dialogue: 0,0:25:24.71,0:25:25.53,Default,Crowd,0,0,60,,Kokoro!
+Dialogue: 0,0:25:26.17,0:25:29.64,Default,Tachibana Kokoro,0,0,60,,With this smile, I'll charge everyone's hearts with energy!
+Dialogue: 0,0:25:29.79,0:25:31.04,Default,Tachibana Kokoro,0,0,60,,I'll deliver lots of smiles!
+Dialogue: 0,0:25:31.09,0:25:35.56,Default,Tachibana Kokoro,0,0,60,,From Fukuoka, second year of high school, 17—I'm Koko-ppe, Tachibana Kokoro!
+Dialogue: 0,0:25:36.83,0:25:38.23,Default,Tachibana Kokoro,0,0,60,,Thank you!
+Dialogue: 0,0:25:39.71,0:25:42.25,Default,Tachibana Kokoro,0,0,60,,My small happy thing lately:
+Dialogue: 0,0:25:42.35,0:25:46.87,Default,Tachibana Kokoro,0,0,60,,we recently had the Aichi tour, and on the bullet train there,
+Dialogue: 0,0:25:46.95,0:25:50.03,Default,Tachibana Kokoro,0,0,60,,I was sitting next to Eura Yuka-chan.
+Dialogue: 0,0:25:51.03,0:25:54.97,Default,Tachibana Kokoro,0,0,60,,I glanced over, and Yuka-chan started studying.
+Dialogue: 0,0:25:57.48,0:25:59.22,Default,Tachibana Kokoro,0,0,60,,I was sneaking glances at it,
+Dialogue: 0,0:25:59.30,0:26:02.32,Default,Tachibana Kokoro,0,0,60,,and there were tons of really hard equations,
+Dialogue: 0,0:26:02.40,0:26:04.61,Default,Tachibana Kokoro,0,0,60,,so I was calculating out of the corner of my eye,
+Dialogue: 0,0:26:04.66,0:26:06.74,Default,Tachibana Kokoro,0,0,60,,and I could actually solve it!
+Dialogue: 0,0:26:07.68,0:26:09.62,Default,Tachibana Kokoro,0,0,60,,That made me kind of happy,
+Dialogue: 0,0:26:09.70,0:26:11.69,Default,Tachibana Kokoro,0,0,60,,so I tried to teach Yuka-chan, but
+Dialogue: 0,0:26:11.74,0:26:13.69,Default,Tachibana Kokoro,0,0,60,,I didn't get anything past the first question,
+Dialogue: 0,0:26:13.74,0:26:15.51,Default,Tachibana Kokoro,0,0,60,,so I couldn't really teach her, but
+Dialogue: 0,0:26:15.56,0:26:17.31,Default,Tachibana Kokoro,0,0,60,,I'll work hard so I can teach her!
+Dialogue: 0,0:26:17.36,0:26:19.07,Default,Tachibana Kokoro,0,0,60,,Please take care of me today!
+Dialogue: 0,0:26:24.26,0:26:26.85,Default,Fukui Karen,0,0,60,,When it comes to an angel-like little devil—
+Dialogue: 0,0:26:28.40,0:26:29.83,Default,Fukui Karen,0,0,60,,I wanna be your angel!
+Dialogue: 0,0:26:31.57,0:26:35.36,Default,Fukui Karen,0,0,60,,Thank you! From Nagasaki, 19 years old—I'm Karen-ren, Fukui Karen!
+Dialogue: 0,0:26:35.41,0:26:37.13,Default,Fukui Karen,0,0,60,,Karen-ren!
+Dialogue: 0,0:26:39.37,0:26:41.27,Default,Fukui Karen,0,0,60,,Thank you!
+Dialogue: 0,0:26:42.13,0:26:44.41,Default,Fukui Karen,0,0,60,,My small happy thing is
+Dialogue: 0,0:26:44.53,0:26:49.69,Default,Fukui Karen,0,0,60,,that, surprisingly, I can do just about anything.
+Dialogue: 0,0:26:50.51,0:26:54.19,Default,Fukui Karen,0,0,60,,I often play sports with my family.
+Dialogue: 0,0:26:54.37,0:26:57.77,Default,Fukui Karen,0,0,60,,The other day we played badminton and table tennis,
+Dialogue: 0,0:26:58.71,0:27:01.13,Default,Fukui Karen,0,0,60,,and I beat my whole family!
+Dialogue: 0,0:27:01.75,0:27:04.53,Default,Fukui Karen,0,0,60,,Yeah, in table tennis I even tried smashes—
+Dialogue: 0,0:27:05.15,0:27:06.82,Default,Kuriyama Rina,0,0,60,,Nice! Do that again! Do that one again!
+Dialogue: 0,0:27:06.87,0:27:10.41,Default,Fukui Karen,0,0,60,,I can even pull off smashes, so
+Dialogue: 0,0:27:10.95,0:27:13.27,Default,Fukui Karen,0,0,60,,I think I'll hold back a little.
+Dialogue: 0,0:27:13.35,0:27:15.40,Default,Fukui Karen,0,0,60,,Okay, please take care of me today!
+Dialogue: 0,0:27:15.45,0:27:16.45,Default,Crowd,0,0,60,,Yeah!
+Dialogue: 0,0:27:19.01,0:27:21.78,Default,Ishibashi Ibuki,0,0,60,,Okay! When I point the mic at you, say "Ibuki!"
+Dialogue: 0,0:27:22.19,0:27:23.12,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:27:23.12,0:27:24.37,Default,Ishibashi Ibuki,0,0,60,,Ibu-ibu-ibu-ibu!
+Dialogue: 0,0:27:24.62,0:27:26.62,Default,Crowd,0,0,60,,Ibuki!
+Dialogue: 0,0:27:26.80,0:27:27.49,Default,Ishibashi Ibuki,0,0,60,,Thank you!
+Dialogue: 0,0:27:27.57,0:27:29.39,Default,Ishibashi Ibuki,0,0,60,,I'll blow a new wind into HKT!
+Dialogue: 0,0:27:29.47,0:27:32.76,Default,Ishibashi Ibuki,0,0,60,,I love kickboxing, I'm from Fukuoka—I'm Ishibashi Ibuki!
+Dialogue: 0,0:27:32.83,0:27:34.09,Default,Crowd,0,0,60,,Ibuki!
+Dialogue: 0,0:27:38.37,0:27:43.39,Default,Ishibashi Ibuki,0,0,60,,Okay, um, my small happy thing: the other day, by myself, um—
+Dialogue: 0,0:27:44.62,0:27:50.21,Default,Ishibashi Ibuki,0,0,60,,events like the hi-touch meet used to be with other members, but the other day I did one alone,
+Dialogue: 0,0:27:50.36,0:27:54.68,Default,Ishibashi Ibuki,0,0,60,,so I was wondering what food they'd give us,
+Dialogue: 0,0:27:55.00,0:28:00.00,Default,Ishibashi Ibuki,0,0,60,,and even though I hadn't said anything, for some reason—it had never come before—
+Dialogue: 0,0:28:00.08,0:28:03.84,Default,Ishibashi Ibuki,0,0,60,,hamburgers and fries showed up!
+Dialogue: 0,0:28:04.74,0:28:08.62,Default,Ishibashi Ibuki,0,0,60,,And for snacks, I really love strawberry chocolate,
+Dialogue: 0,0:28:09.16,0:28:12.92,Default,Ishibashi Ibuki,0,0,60,,I'd kept it secret, but maybe the manager knew,
+Dialogue: 0,0:28:13.00,0:28:14.99,Default,Ishibashi Ibuki,0,0,60,,or maybe it was a coincidence, I don't know,
+Dialogue: 0,0:28:15.04,0:28:19.80,Default,Ishibashi Ibuki,0,0,60,,I was like, "No way!" I was on a diet, but
+Dialogue: 0,0:28:20.20,0:28:23.81,Default,Ishibashi Ibuki,0,0,60,,I couldn't bring myself to say "I'm on a diet," so I just chowed down.
+Dialogue: 0,0:28:23.86,0:28:25.34,Default,Ishibashi Ibuki,0,0,60,,But I was really happy!
+Dialogue: 0,0:28:25.42,0:28:27.83,Default,Ishibashi Ibuki,0,0,60,,Thanks for having me today!
+Dialogue: 0,0:28:32.46,0:28:34.81,Default,Izawa Miyu,0,0,60,,When I point the mic at you, please say "Fuu!"
+Dialogue: 0,0:28:34.86,0:28:35.46,Default,Izawa Miyu,0,0,60,,Please!
+Dialogue: 0,0:28:37.67,0:28:39.08,Default,Izawa Miyu,0,0,60,,In charge of warm, gentle smiles!
+Dialogue: 0,0:28:39.13,0:28:42.05,Default,Izawa Miyu,0,0,60,,I'll turn today into an eternal day!
+Dialogue: 0,0:28:43.65,0:28:44.59,Default,Izawa Miyu,0,0,60,,Thank you!
+Dialogue: 0,0:28:44.67,0:28:47.06,Default,Izawa Miyu,0,0,60,,From Fukuoka, born in summer, twenty years old—
+Dialogue: 0,0:28:47.11,0:28:49.40,Default,Izawa Miyu,0,0,60,,I'm Izawa Miyu! Please take care of me!
+Dialogue: 0,0:28:54.15,0:28:54.91,Default,Izawa Miyu,0,0,60,,Thank you!
+Dialogue: 0,0:28:55.90,0:28:57.84,Default,Izawa Miyu,0,0,60,,My small happy thing
+Dialogue: 0,0:28:57.92,0:29:00.98,Default,Izawa Miyu,0,0,60,,is, of course, eating,
+Dialogue: 0,0:29:01.06,0:29:05.02,Default,Izawa Miyu,0,0,60,,but what's made me especially happy lately is that after shows
+Dialogue: 0,0:29:05.10,0:29:08.50,Default,Izawa Miyu,0,0,60,,I often go out to eat with Ibuki-san.
+Dialogue: 0,0:29:08.62,0:29:13.14,Default,Izawa Miyu,0,0,60,,Yeah, we always go to the same place, just the two of us,
+Dialogue: 0,0:29:13.22,0:29:16.88,Default,Izawa Miyu,0,0,60,,and their heaping plate of fries is super delicious.
+Dialogue: 0,0:29:16.96,0:29:20.82,Default,Izawa Miyu,0,0,60,,So we were chowing down together, and Ibuki-san said,
+Dialogue: 0,0:29:20.90,0:29:23.19,Default,Izawa Miyu,0,0,60,,"Zawachi, you can have the long fries."
+Dialogue: 0,0:29:23.84,0:29:24.68,Default,Izawa Miyu,0,0,60,,Yeah, and,
+Dialogue: 0,0:29:24.76,0:29:27.47,Default,Izawa Miyu,0,0,60,,"This one's got lots of pepper on it, you can have it,"
+Dialogue: 0,0:29:27.52,0:29:30.18,Default,Izawa Miyu,0,0,60,,she shows me so much kindness.
+Dialogue: 0,0:29:30.44,0:29:33.32,Default,Izawa Miyu,0,0,60,,That makes me happy, so, you know,
+Dialogue: 0,0:29:33.40,0:29:37.60,Default,Izawa Miyu,0,0,60,,I want to work hard to give lots of happiness back to Ibuki-san!
+Dialogue: 0,0:29:37.76,0:29:39.70,Default,Izawa Miyu,0,0,60,,Okay, I'll be in your care today!
+Dialogue: 0,0:29:42.81,0:29:46.87,Default,Matsumoto Moka,0,0,60,,Okay! When I lend you my ear, please say "Moka-pi" and "You're cute!"
+Dialogue: 0,0:29:47.53,0:29:49.30,Default,Matsumoto Moka,0,0,60,,Born from a strawberry field—
+Dialogue: 0,0:29:49.39,0:29:50.53,Default,Crowd,0,0,60,,Moka-pi!
+Dialogue: 0,0:29:51.33,0:29:53.48,Default,Matsumoto Moka,0,0,60,,Cute like a strawberry blossom today too?
+Dialogue: 0,0:29:53.53,0:29:54.43,Default,Crowd,0,0,60,,You're cute!
+Dialogue: 0,0:29:55.66,0:29:59.33,Default,Matsumoto Moka,0,0,60,,From Kumamoto, 17 years old, I'm Matsumoto Moka! Please take care of me!
+Dialogue: 0,0:29:59.38,0:30:00.08,Default,Crowd,0,0,60,,Moka-pi!
+Dialogue: 0,0:30:03.80,0:30:06.88,Default,Matsumoto Moka,0,0,60,,Okay, my small happy thing lately:
+Dialogue: 0,0:30:07.00,0:30:12.38,Default,Matsumoto Moka,0,0,60,,I may not look it, but I'm a student—a high school senior—and we had tests recently,
+Dialogue: 0,0:30:12.56,0:30:15.60,Default,Matsumoto Moka,0,0,60,,and one of them was a Japanese history test.
+Dialogue: 0,0:30:15.82,0:30:19.69,Default,Matsumoto Moka,0,0,60,,I always struggle with Japanese history tests and can hardly answer anything, but
+Dialogue: 0,0:30:19.74,0:30:22.88,Default,Matsumoto Moka,0,0,60,,somehow, without studying, I got a 90!
+Dialogue: 0,0:30:23.82,0:30:27.54,Default,Matsumoto Moka,0,0,60,,While I was answering, I had zero confidence, but
+Dialogue: 0,0:30:27.62,0:30:31.07,Default,Matsumoto Moka,0,0,60,,maybe I got lucky—even the multiple-choice ones were almost all right,
+Dialogue: 0,0:30:31.12,0:30:33.40,Default,Matsumoto Moka,0,0,60,,and that made me really happy.
+Dialogue: 0,0:30:33.48,0:30:35.20,Default,Matsumoto Moka,0,0,60,,Please look after me today!
+Dialogue: 0,0:30:38.83,0:30:42.67,Default,Imamura Maria,0,0,60,,From Gunma, 23 years old, Team KIV's Imamura Maria!
+Dialogue: 0,0:30:47.32,0:30:48.20,Default,Imamura Maria,0,0,60,,Thank you!
+Dialogue: 0,0:30:48.29,0:30:52.03,Default,Imamura Maria,0,0,60,,Mine isn't a small happiness but a really big one:
+Dialogue: 0,0:30:52.11,0:30:56.03,Default,Imamura Maria,0,0,60,,whenever I feel my kouhai growing,
+Dialogue: 0,0:30:56.11,0:30:59.79,Default,Imamura Maria,0,0,60,,I've come to feel happy. I've finally grown up too.
+Dialogue: 0,0:31:00.55,0:31:04.63,Default,Imamura Maria,0,0,60,,Recently we got to perform "Shounin Yokkyuu" on tour,
+Dialogue: 0,0:31:04.71,0:31:08.61,Default,Imamura Maria,0,0,60,,and seeing Koko-ppe and Eura able to dance it now
+Dialogue: 0,0:31:08.69,0:31:10.99,Default,Imamura Maria,0,0,60,,moved me. And at yesterday's
+Dialogue: 0,0:31:11.07,0:31:15.27,Default,Imamura Maria,0,0,60,,show, there's a song where we hold pom-poms, and
+Dialogue: 0,0:31:15.35,0:31:19.27,Default,Imamura Maria,0,0,60,,we were one pom-pom short. Moka-pi didn't have one,
+Dialogue: 0,0:31:19.35,0:31:21.73,Default,Imamura Maria,0,0,60,,and Hina-tan noticed instantly and
+Dialogue: 0,0:31:21.81,0:31:23.58,Default,Imamura Maria,0,0,60,,handed her pom-pom to Moka-pi—
+Dialogue: 0,0:31:23.89,0:31:25.07,Default,Matsumoto Moka,0,0,60,,Maybe it wasn't me.
+Dialogue: 0,0:31:25.15,0:31:26.33,Default,Imamura Maria,0,0,60,,It was Rii-ritan.
+Dialogue: 0,0:31:27.93,0:31:29.97,Default,Imamura Maria,0,0,60,,Rii-ritan didn't have one,
+Dialogue: 0,0:31:30.05,0:31:31.68,Default,Imamura Maria,0,0,60,,and Hina-tan noticed right away,
+Dialogue: 0,0:31:31.73,0:31:33.93,Default,Imamura Maria,0,0,60,,and seeing her go, "Here, take this,"
+Dialogue: 0,0:31:34.01,0:31:35.68,Default,Imamura Maria,0,0,60,,I thought, "Wow, she's really grown!" And so now,
+Dialogue: 0,0:31:35.73,0:31:37.13,Default,Imamura Maria,0,0,60,,if only Kurina-chan
+Dialogue: 0,0:31:37.21,0:31:38.57,Default,Imamura Maria,0,0,60,,could dance...
+Dialogue: 0,0:31:42.95,0:31:46.65,Default,Kuriyama Rina,0,0,60,,The moment she started, Eura's name came up—
+Dialogue: 0,0:31:46.74,0:31:48.16,Default,Kuriyama Rina,0,0,60,,Eura and
+Dialogue: 0,0:31:48.24,0:31:50.23,Default,Kuriyama Rina,0,0,60,,Richaki and I are the trio who always get scolded by the teacher,
+Dialogue: 0,0:31:50.28,0:31:52.41,Default,Kuriyama Rina,0,0,60,,so we were like, "Our names aren't in there, right?"
+Dialogue: 0,0:31:52.46,0:31:53.23,Default,Kuriyama Rina,0,0,60,,That's what we were saying.
+Dialogue: 0,0:31:53.28,0:31:54.95,Default,Oba Risaki,0,0,60,,Maria-san forgot to call just me!
+Dialogue: 0,0:31:55.00,0:31:58.29,Default,Imamura Maria,0,0,60,,Right, I've been thinking Richaki has gotten better too.
+Dialogue: 0,0:32:00.86,0:32:02.17,Default,Imamura Maria,0,0,60,,She can dance now, huh.
+Dialogue: 0,0:32:02.22,0:32:04.01,Default,Kuriyama Rina,0,0,60,,But wait, let me say one thing.
+Dialogue: 0,0:32:04.06,0:32:08.64,Default,Kuriyama Rina,0,0,60,,I'm the one who tossed the pom-pom to Hina-tan when she didn't have one!
+Dialogue: 0,0:32:08.72,0:32:11.60,Default,Yasui Hina,0,0,60,,But, but, but—did you see how she handed it over?
+Dialogue: 0,0:32:12.34,0:32:15.05,Default,Yasui Hina,0,0,60,,Normally you'd just toss it from above, right?
+Dialogue: 0,0:32:15.24,0:32:16.99,Default,Yasui Hina,0,0,60,,She plopped it down with a thud!
+Dialogue: 0,0:32:17.04,0:32:21.45,Default,Kuriyama Rina,0,0,60,,Wait, wait, my singing part was coming up, so I hurried and went like this!
+Dialogue: 0,0:32:22.01,0:32:23.31,Default,Imamura Maria,0,0,60,,I see.
+Dialogue: 0,0:32:23.39,0:32:26.47,Default,Morisaki Saaya,0,0,60,,But Kurina-san, there's the tour final.
+Dialogue: 0,0:32:27.43,0:32:31.37,Default,Imamura Maria,0,0,60,,Ahh, that's your chance to show it—enough to make me cry,
+Dialogue: 0,0:32:35.32,0:32:38.14,Default,Imamura Maria,0,0,60,,so I hope you'll do your best.
+Dialogue: 0,0:32:38.38,0:32:40.20,Default,Imamura Maria,0,0,60,,Please take care of me all day!
+Dialogue: 0,0:32:43.91,0:32:47.14,Default,Yasui Hina,0,0,60,,Born on February 9, Meat Day! Beef tongue, pork tongue—
+Dialogue: 0,0:32:50.00,0:32:51.28,Default,Yasui Hina,0,0,60,,From Fukuoka,
+Dialogue: 0,0:32:51.52,0:32:56.08,Default,Yasui Hina,0,0,60,,first year of high school, 15 years old—I'm Hina-tan, Yasui Hina!
+Dialogue: 0,0:32:59.40,0:33:01.16,Default,Yasui Hina,0,0,60,,Hina's small happy thing is...
+Dialogue: 0,0:33:01.50,0:33:07.30,Default,Yasui Hina,0,0,60,,everyone's been saying they got good scores,
+Dialogue: 0,0:33:07.38,0:33:12.78,Default,Yasui Hina,0,0,60,,and it's the same for Hina—math is my worst subject, but
+Dialogue: 0,0:33:12.86,0:33:16.80,Default,Yasui Hina,0,0,60,,when my math test score went up
+Dialogue: 0,0:33:16.88,0:33:20.24,Default,Yasui Hina,0,0,60,,from a single digit, I felt so happy.
+Dialogue: 0,0:33:20.32,0:33:21.42,Default,Unknown,0,0,60,,That's amazing.
+Dialogue: 0,0:33:21.50,0:33:23.62,Default,Ishibashi Ibuki,0,0,60,,It gains a whole digit, huh.
+Dialogue: 0,0:33:23.70,0:33:24.17,Default,Yasui Hina,0,0,60,,Exactly!
+Dialogue: 0,0:33:24.22,0:33:26.11,Default,Yasui Hina,0,0,60,,Because it becomes double digits!
+Dialogue: 0,0:33:26.16,0:33:29.42,Default,Yasui Hina,0,0,60,,So in junior high, the teachers would tell me
+Dialogue: 0,0:33:29.50,0:33:33.14,Default,Yasui Hina,0,0,60,,if I got out of single digits, I wouldn't need extra lessons,
+Dialogue: 0,0:33:33.54,0:33:35.12,Default,Yasui Hina,0,0,60,,so "work hard," they said.
+Dialogue: 0,0:33:35.20,0:33:37.05,Default,Yasui Hina,0,0,60,,Hina was working hard for that.
+Dialogue: 0,0:33:37.10,0:33:39.04,Default,Yasui Hina,0,0,60,,Okay, thanks for having me today!
+Dialogue: 0,0:33:44.43,0:33:45.74,Default,Ishii Ayane,0,0,60,,When I point the mic at you,
+Dialogue: 0,0:33:45.79,0:33:48.15,Default,Ishii Ayane,0,0,60,,please say "Ayane iro" and "Nineteen"!
+Dialogue: 0,0:33:50.46,0:33:51.18,Default,Ishii Ayane,0,0,60,,Here goes!
+Dialogue: 0,0:33:51.72,0:33:53.81,Default,Ishii Ayane,0,0,60,,This tone color is—
+Dialogue: 0,0:33:53.86,0:33:55.50,Default,Crowd,0,0,60,,Ayane iro!
+Dialogue: 0,0:33:55.56,0:33:57.30,Default,Ishii Ayane,0,0,60,,Your heart, too, is—
+Dialogue: 0,0:33:57.42,0:33:58.40,Default,Crowd,0,0,60,,Ayane iro!
+Dialogue: 0,0:33:59.45,0:34:00.30,Default,Ishii Ayane,0,0,60,,Thank you!
+Dialogue: 0,0:34:00.46,0:34:04.75,Default,Ishii Ayane,0,0,60,,From Fukuoka! So happy to do the Tenshi show with Ibuki-san one last time today—
+Dialogue: 0,0:34:04.80,0:34:06.20,Default,Crowd,0,0,60,,Nineteen!
+Dialogue: 0,0:34:06.60,0:34:09.95,Default,Ishii Ayane,0,0,60,,I'm Team KIV's Ishii Ayane! Please take care of me!
+Dialogue: 0,0:34:13.71,0:34:15.15,Default,Ishii Ayane,0,0,60,,Thank you!
+Dialogue: 0,0:34:15.80,0:34:21.06,Default,Ishii Ayane,0,0,60,,The small happiness I felt is about Morisaki Saaya-san.
+Dialogue: 0,0:34:22.12,0:34:27.90,Default,Ishii Ayane,0,0,60,,Lately, when we're together at rehearsals and such, there are often snacks provided,
+Dialogue: 0,0:34:28.32,0:34:31.02,Default,Ishii Ayane,0,0,60,,and when Saaya-san is eating them,
+Dialogue: 0,0:34:31.10,0:34:35.64,Default,Ishii Ayane,0,0,60,,she says to me, "Heart, want to split it?"
+Dialogue: 0,0:34:35.72,0:34:38.03,Default,Ishii Ayane,0,0,60,,That makes me so happy.
+Dialogue: 0,0:34:38.11,0:34:43.21,Default,Ishii Ayane,0,0,60,,The other day she split a Kumamoto cookie with me,
+Dialogue: 0,0:34:43.29,0:34:49.79,Default,Ishii Ayane,0,0,60,,and today she gave me a white-chocolate Koeda, but
+Dialogue: 0,0:34:52.15,0:34:57.31,Default,Ishii Ayane,0,0,60,,it's still sitting on top of my finished drink,
+Dialogue: 0,0:34:57.83,0:34:59.86,Default,Ishii Ayane,0,0,60,,so today after the show I'll properly...
+Dialogue: 0,0:34:59.91,0:35:01.50,Default,Morisaki Saaya,0,0,60,,You were in the middle of eating, right?
+Dialogue: 0,0:35:01.55,0:35:01.91,Default,Ishii Ayane,0,0,60,,Yes.
+Dialogue: 0,0:35:01.99,0:35:04.70,Default,Morisaki Saaya,0,0,60,,While she was eating, I tried to stick a Koeda
+Dialogue: 0,0:35:04.83,0:35:08.71,Default,Morisaki Saaya,0,0,60,,into Aa-tan's food, so...
+Dialogue: 0,0:35:08.79,0:35:09.91,Default,Ishii Ayane,0,0,60,,Right!
+Dialogue: 0,0:35:11.86,0:35:14.39,Default,Kuriyama Rina,0,0,60,,So it wasn't a gift—weren't they leftovers?
+Dialogue: 0,0:35:15.88,0:35:19.27,Default,Morisaki Saaya,0,0,60,,I wanted to share the flavor! I'll keep sharing from now on, so
+Dialogue: 0,0:35:19.32,0:35:20.55,Default,Ishii Ayane,0,0,60,,Thank you!
+Dialogue: 0,0:35:20.64,0:35:23.13,Default,Ishii Ayane,0,0,60,,Halloween's coming up, so I'm looking forward to it!
+Dialogue: 0,0:35:23.18,0:35:24.84,Default,Ishii Ayane,0,0,60,,I'm in your care today!
+Dialogue: 0,0:35:25.72,0:35:27.36,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:35:30.20,0:35:33.28,Default,Eguchi Kokoha,0,0,60,,Everyone, please look for Koko!
+Dialogue: 0,0:35:33.30,0:35:34.44,Default,Crowd,0,0,60,,Where are you?
+Dialogue: 0,0:35:34.52,0:35:35.92,Default,Eguchi Kokoha,0,0,60,,Right here!
+Dialogue: 0,0:35:36.96,0:35:37.64,Default,Eguchi Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:35:38.66,0:35:39.79,Default,Eguchi Kokoha,0,0,60,,I'm always waiting right here, so
+Dialogue: 0,0:35:39.84,0:35:41.07,Default,Eguchi Kokoha,0,0,60,,come meet me at this spot!
+Dialogue: 0,0:35:41.12,0:35:42.98,Default,Eguchi Kokoha,0,0,60,,From Nagasaki, 19 years old—
+Dialogue: 0,0:35:43.06,0:35:44.77,Default,Eguchi Kokoha,0,0,60,,I'm Koko-chan, Eguchi Kokoha!
+Dialogue: 0,0:35:48.00,0:35:49.02,Default,Eguchi Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:35:50.47,0:35:53.19,Default,Eguchi Kokoha,0,0,60,,What makes me happy is,
+Dialogue: 0,0:35:53.27,0:35:54.95,Default,Eguchi Kokoha,0,0,60,,of course, standing on stage—
+Dialogue: 0,0:35:55.00,0:36:00.28,Default,Eguchi Kokoha,0,0,60,,I think that's so happy. The fans all watch us with big smiles,
+Dialogue: 0,0:36:00.36,0:36:05.30,Default,Eguchi Kokoha,0,0,60,,and interacting with the members is so happy too, but today, in particular,
+Dialogue: 0,0:36:05.38,0:36:10.70,Default,Eguchi Kokoha,0,0,60,,something happy happened. How to put it... in the first song, "Aoi Tsuki ga Miteru kara,"
+Dialogue: 0,0:36:10.78,0:36:14.66,Default,Eguchi Kokoha,0,0,60,,at the end there's a move where Kurumi-san and I make a heart,
+Dialogue: 0,0:36:14.74,0:36:17.71,Default,Eguchi Kokoha,0,0,60,,like this, and then it was like we were about to kiss—
+Dialogue: 0,0:36:17.76,0:36:22.90,Default,Eguchi Kokoha,0,0,60,,our faces got so close, like really, a millimeter apart.
+Dialogue: 0,0:36:22.98,0:36:27.44,Default,Eguchi Kokoha,0,0,60,,And I just couldn't stop grinning, she was so cute,
+Dialogue: 0,0:36:27.82,0:36:31.32,Default,Eguchi Kokoha,0,0,60,,it was so happy—or rather, she was too cute, like,
+Dialogue: 0,0:36:31.40,0:36:36.24,Default,Eguchi Kokoha,0,0,60,,I was all happy, but maybe I got flustered,
+Dialogue: 0,0:36:36.68,0:36:42.18,Default,Eguchi Kokoha,0,0,60,,because in my fifth year, for the first time, I didn't make the quick jacket change in time.
+Dialogue: 0,0:36:42.26,0:36:44.46,Default,Kuriyama Rina,0,0,60,,Huh? What state were you in?
+Dialogue: 0,0:36:44.54,0:36:47.07,Default,Eguchi Kokoha,0,0,60,,Like, I really wasn't wearing it, right?
+Dialogue: 0,0:36:47.81,0:36:48.61,Default,Kuriyama Rina,0,0,60,,Up to here?
+Dialogue: 0,0:36:48.81,0:36:51.59,Default,Eguchi Kokoha,0,0,60,,Honestly, I, um, I'm reflecting on it, so
+Dialogue: 0,0:36:51.67,0:36:57.21,Default,Eguchi Kokoha,0,0,60,,it's true! The stage was really fun, but
+Dialogue: 0,0:36:57.29,0:37:00.07,Default,Eguchi Kokoha,0,0,60,,I messed up a bit today, so
+Dialogue: 0,0:37:00.15,0:37:01.96,Default,Eguchi Kokoha,0,0,60,,next time I'll make the quick change.
+Dialogue: 0,0:37:02.01,0:37:04.58,Default,Eguchi Kokoha,0,0,60,,And today is my last stage with Ibuki-san, so
+Dialogue: 0,0:37:04.63,0:37:07.17,Default,Eguchi Kokoha,0,0,60,,I want to make lots of memories,
+Dialogue: 0,0:37:07.25,0:37:09.64,Default,Eguchi Kokoha,0,0,60,,and I hope everyone watching has lots of fun
+Dialogue: 0,0:37:09.69,0:37:11.43,Default,Eguchi Kokoha,0,0,60,,before going home!
+Dialogue: 0,0:37:11.51,0:37:13.22,Default,Eguchi Kokoha,0,0,60,,Please take care of me today!
+Dialogue: 0,0:37:16.33,0:37:17.42,Default,Eguchi Kokoha,0,0,60,,Please take care of me!
+Dialogue: 0,0:37:17.47,0:37:20.35,Default,Oba Risaki,0,0,60,,When I point the mic at you, please say "Risaki"!
+Dialogue: 0,0:37:21.57,0:37:24.27,Default,Oba Risaki,0,0,60,,From morning till night, I want to fill it up with Risaki!
+Dialogue: 0,0:37:24.32,0:37:25.46,Default,Oba Risaki,0,0,60,,Good morning!
+Dialogue: 0,0:37:25.56,0:37:26.14,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:37:27.03,0:37:27.83,Default,Oba Risaki,0,0,60,,Good night!
+Dialogue: 0,0:37:27.88,0:37:28.78,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:37:28.90,0:37:30.56,Default,Oba Risaki,0,0,60,,I caught everyone's hearts!
+Dialogue: 0,0:37:30.58,0:37:31.95,Default,Crowd,0,0,60,,You caught us!
+Dialogue: 0,0:37:31.97,0:37:34.45,Default,Oba Risaki,0,0,60,,Thank you! 21 years old, I'm Oba Risaki!
+Dialogue: 0,0:37:34.79,0:37:35.63,Default,Crowd,0,0,60,,Risaki!
+Dialogue: 0,0:37:40.30,0:37:45.80,Default,Oba Risaki,0,0,60,,My small happy thing: earlier, when Maria-san was talking about "Shounin Yokkyuu,"
+Dialogue: 0,0:37:46.16,0:37:48.67,Default,Oba Risaki,0,0,60,,I was wondering if my name would be called, and
+Dialogue: 0,0:37:48.72,0:37:51.20,Default,Oba Risaki,0,0,60,,Kurina-san was staring right at me.
+Dialogue: 0,0:37:51.64,0:37:54.56,Default,Oba Risaki,0,0,60,,Like, "We're in the same boat." So I was
+Dialogue: 0,0:37:56.30,0:38:02.30,Default,Oba Risaki,0,0,60,,hoping it'd come, and at the very end she said "Richaki's gotten good too"—that was a lie to bring me down!
+Dialogue: 0,0:38:02.94,0:38:07.04,Default,Oba Risaki,0,0,60,,So Richaki's on that side too, but if you flip it,
+Dialogue: 0,0:38:07.12,0:38:12.68,Default,Oba Risaki,0,0,60,,getting to work hard alongside Kurina-san, whom I love, makes me happy.
+Dialogue: 0,0:38:13.04,0:38:15.32,Default,Oba Risaki,0,0,60,,Let's keep walking together!
+Dialogue: 0,0:38:15.32,0:38:17.04,Default,Kuriyama Rina,0,0,60,,Lets get scolded by the teacher a lot.
+Dialogue: 0,0:38:17.70,0:38:22.82,Default,Oba Risaki,0,0,60,,So, it's my first Tenshi show in a while today—I'll do my best! Please take care of me!
+Dialogue: 0,0:38:25.45,0:38:29.48,Default,Kuriyama Rina,0,0,60,,Okay! When it comes to Oita—hot springs, shiitake, pears, kabosu! From Oita, 25 years old, I'm Kuriyama Rina!
+Dialogue: 0,0:38:29.53,0:38:30.41,Default,Crowd,0,0,60,,Rina-chan!
+Dialogue: 0,0:38:33.48,0:38:34.72,Default,Kuriyama Rina,0,0,60,,I know! Thank you!
+Dialogue: 0,0:38:35.84,0:38:39.74,Default,Kuriyama Rina,0,0,60,,Mine is when I look at the penlights
+Dialogue: 0,0:38:39.82,0:38:41.25,Default,Kuriyama Rina,0,0,60,,and uchiwa fans you're all holding.
+Dialogue: 0,0:38:41.30,0:38:43.83,Default,Kuriyama Rina,0,0,60,,Of course, the ones with my name—
+Dialogue: 0,0:38:44.50,0:38:47.96,Default,Kuriyama Rina,0,0,60,,Well, rather than the so-called "love-everyone" DD types,
+Dialogue: 0,0:38:48.04,0:38:49.89,Default,Kuriyama Rina,0,0,60,,I have a lot of fans who are more like single-oshi,
+Dialogue: 0,0:38:49.94,0:38:53.50,Default,Kuriyama Rina,0,0,60,,like "Kuriyama Rina is a goddess."
+Dialogue: 0,0:38:54.01,0:38:57.94,Default,Kuriyama Rina,0,0,60,,Today, too, I was happy there were more of my fans than yesterday
+Dialogue: 0,0:38:58.02,0:38:59.43,Default,Kuriyama Rina,0,0,60,,while dancing the first-half songs.
+Dialogue: 0,0:38:59.48,0:39:04.29,Default,Kuriyama Rina,0,0,60,,And in the second song, "Radio Name," there's a move in the chorus where we point,
+Dialogue: 0,0:39:04.34,0:39:09.00,Default,Kuriyama Rina,0,0,60,,so I figured I'd point at one of my fans, and I did.
+Dialogue: 0,0:39:09.08,0:39:13.36,Default,Kuriyama Rina,0,0,60,,But though the penlight was my color, the uchiwa was another girl's!
+Dialogue: 0,0:39:15.10,0:39:21.32,Default,Kuriyama Rina,0,0,60,,And it wasn't the whole time—during other songs, it was my penlight and my uchiwa!
+Dialogue: 0,0:39:21.40,0:39:26.82,Default,Kuriyama Rina,0,0,60,,But only during "Radio Name," maybe they borrowed it from someone, it had a different name,
+Dialogue: 0,0:39:27.44,0:39:31.44,Default,Kuriyama Rina,0,0,60,,and when they noticed I'd pointed, they hurriedly flipped it around!
+Dialogue: 0,0:39:32.68,0:39:35.03,Default,Kuriyama Rina,0,0,60,,I'm watching you, you people over there!
+Dialogue: 0,0:39:36.50,0:39:37.85,Default,Kuriyama Rina,0,0,60,,Over there, over there!
+Dialogue: 0,0:39:40.32,0:39:43.34,Default,Kuriyama Rina,0,0,60,,So I got a little unhappy, but
+Dialogue: 0,0:39:43.85,0:39:46.68,Default,Kuriyama Rina,0,0,60,,from now on, without switching uchiwa,
+Dialogue: 0,0:39:46.76,0:39:48.76,Default,Kuriyama Rina,0,0,60,,please make Kurina-chan happy!
+Dialogue: 0,0:39:48.84,0:39:50.90,Default,Kuriyama Rina,0,0,60,,Please take care of me for the day!
+Dialogue: 0,0:39:55.11,0:39:58.19,Default,Morisaki Saaya,0,0,60,,Okay, everyone, please clap and call along with me!
+Dialogue: 0,0:39:59.65,0:40:02.24,Default,Morisaki Saaya,0,0,60,,Ready, set—okay!
+Dialogue: 0,0:40:03.74,0:40:04.94,Default,Morisaki Saaya,0,0,60,,Looking sharp today?
+Dialogue: 0,0:40:05.24,0:40:06.56,Default,Morisaki Saaya,0,0,60,,Coloring your mind?
+Dialogue: 0,0:40:06.96,0:40:08.83,Default,Morisaki Saaya,0,0,60,,Day two of the Tenshi show—take care of me!
+Dialogue: 0,0:40:08.88,0:40:10.57,Default,All,0,0,60,,Uu~ Saa-ya!
+Dialogue: 0,0:40:10.65,0:40:12.26,Default,Morisaki Saaya,0,0,60,,Thank you!
+Dialogue: 0,0:40:12.34,0:40:15.62,Default,Morisaki Saaya,0,0,60,,From Kumamoto, Team KIV's Morisaki Saaya!
+Dialogue: 0,0:40:21.87,0:40:23.13,Default,Morisaki Saaya,0,0,60,,Thank you!
+Dialogue: 0,0:40:23.21,0:40:28.37,Default,Morisaki Saaya,0,0,60,,Okay, my small happy thing is: we're on tour right now,
+Dialogue: 0,0:40:28.53,0:40:33.29,Default,Morisaki Saaya,0,0,60,,and on the day of the Aichi show, there were Piyorin as a gift!
+Dialogue: 0,0:40:33.87,0:40:38.61,Default,Morisaki Saaya,0,0,60,,Usually with gifts, it's one per person, right?
+Dialogue: 0,0:40:39.11,0:40:41.03,Default,Morisaki Saaya,0,0,60,,We each got one too,
+Dialogue: 0,0:40:41.11,0:40:46.05,Default,Morisaki Saaya,0,0,60,,but on the way out after the concert, there were about six Piyorin left,
+Dialogue: 0,0:40:46.13,0:40:47.29,Default,Ishii Ayane,0,0,60,,Six Piyorin!
+Dialogue: 0,0:40:47.37,0:40:53.49,Default,Morisaki Saaya,0,0,60,,about six Piyorin, and I got two Piyorin!
+Dialogue: 0,0:40:54.91,0:40:59.88,Default,Morisaki Saaya,0,0,60,,So I can fly with more peep-peep energy than everyone—today I'll fly more than everyone,
+Dialogue: 0,0:40:59.93,0:41:03.95,Default,Morisaki Saaya,0,0,60,,and everyone, the tour final, and the evening show,
+Dialogue: 0,0:41:04.03,0:41:07.15,Default,Morisaki Saaya,0,0,60,,the "Tour Saikou ka yo" show—
+Dialogue: 0,0:41:07.23,0:41:10.43,Default,Morisaki Saaya,0,0,60,,I'd be happy if you all came and enjoyed it!
+Dialogue: 0,0:41:10.51,0:41:13.16,Default,Morisaki Saaya,0,0,60,,Let's have fun today! Please take care of me!
+Dialogue: 0,0:41:16.63,0:41:18.03,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,0:41:18.50,0:41:22.49,Default,Oba Risaki,0,0,60,,Team KIV's "Koko ni Datte Tenshi wa Iru" show is brought to you by the members above!
+Dialogue: 0,0:41:22.54,0:41:24.52,Default,Oba Risaki,0,0,60,,Everyone, can you still cheer?
+Dialogue: 0,0:41:26.65,0:41:31.97,Default,Oba Risaki,0,0,60,,Can you make your voices ring out even louder through UNITEDLAB?
+Dialogue: 0,0:41:32.79,0:41:36.01,Default,Oba Risaki,0,0,60,,Next up, various units appear!
+Dialogue: 0,0:41:36.09,0:41:37.03,Default,Oba Risaki,0,0,60,,First, this one!
+
+; ===== announce =====
+Dialogue: 0,0:46:32.91,0:46:35.32,Default,Akiyoshi Yuka,0,0,60,,That was "Yume no Dead Body"!
+Dialogue: 0,0:46:38.32,0:46:41.44,Default,Akiyoshi Yuka,0,0,60,,The next unit song is this one. Here it is!
+
+; ===== nando =====
+Dialogue: 0,0:51:16.00,0:51:17.47,Default,Matsumoto Moka,0,0,60,,A one-shot gag like this?
+Dialogue: 0,0:51:18.44,0:51:19.39,Default,Matsumoto Moka,0,0,60,,Wait, this is bad!
+Dialogue: 0,0:51:19.44,0:51:23.10,Default,Matsumoto Moka,0,0,60,,I've got no material! I said no material!
+Dialogue: 0,0:51:23.58,0:51:25.64,Default,Matsumoto Moka,0,0,60,,Huh? No sushi toppings?
+
+; ===== mc2 =====
+Dialogue: 0,1:04:03.26,1:04:04.14,Default,All,0,0,60,,Yay!
+Dialogue: 0,1:04:09.54,1:04:13.47,Default,Tachibana Kokoro,0,0,60,,Um, "Yume no Dead Body," "Nando mo Nerae!," "ONEW no Uwabaki," "Kono Sekai ga
+Dialogue: 0,1:04:13.52,1:04:17.64,Default,Tachibana Kokoro,0,0,60,,Yuki no Naka ni Umoreru Mae ni," and "Zipper"—thank you for listening!
+Dialogue: 0,1:04:20.29,1:04:24.35,Default,Tachibana Kokoro,0,0,60,,Okay, here we'd like to chat. Ibuki-san!
+Dialogue: 0,1:04:25.83,1:04:29.54,Default,Ishibashi Ibuki,0,0,60,,Thank you! I came to the Tenshi show—pardon me for joining KIV!
+Dialogue: 0,1:04:33.36,1:04:36.66,Default,Tachibana Kokoro,0,0,60,,So, rumor has it that Aa-tan already
+Dialogue: 0,1:04:37.06,1:04:40.04,Default,Tachibana Kokoro,0,0,60,,shed tears.
+Dialogue: 0,1:04:40.12,1:04:42.30,Default,Tachibana Kokoro,0,0,60,,And really early, too.
+Dialogue: 0,1:04:42.38,1:04:44.15,Default,Ishibashi Ibuki,0,0,60,,And probably without even making eye contact—
+Dialogue: 0,1:04:44.20,1:04:47.00,Default,Ishibashi Ibuki,0,0,60,,not once in the opening did our eyes meet,
+Dialogue: 0,1:04:47.08,1:04:52.68,Default,Ishibashi Ibuki,0,0,60,,but they did meet in the first chorus of "Cattleya,"
+Dialogue: 0,1:04:54.08,1:04:57.19,Default,Ishibashi Ibuki,0,0,60,,at the end of the first chorus, and she was already crying,
+Dialogue: 0,1:04:57.24,1:04:59.89,Default,Ishibashi Ibuki,0,0,60,,so I wondered when she found a moment to cry.
+Dialogue: 0,1:05:00.34,1:05:03.48,Default,Ishii Ayane,0,0,60,,The lyrics are pretty deep, aren't they?
+Dialogue: 0,1:05:03.56,1:05:03.91,Default,Tachibana Kokoro,0,0,60,,True.
+Dialogue: 0,1:05:03.99,1:05:07.22,Default,Ishii Ayane,0,0,60,,They always hit me, like, "gwoon."
+Dialogue: 0,1:05:07.30,1:05:09.36,Default,Ishibashi Ibuki,0,0,60,,Isn't it "zuun"? Or "jiin"?
+Dialogue: 0,1:05:09.44,1:05:11.98,Default,Ishii Ayane,0,0,60,,It hits me "gwoon."
+Dialogue: 0,1:05:12.06,1:05:15.04,Default,Ishii Ayane,0,0,60,,Ever since Ibuki-san announced her graduation,
+Dialogue: 0,1:05:15.94,1:05:17.34,Default,Ishii Ayane,0,0,60,,at the events she's in—
+Dialogue: 0,1:05:17.42,1:05:20.26,Default,Ishii Ayane,0,0,60,,the events I get to appear in with her—
+Dialogue: 0,1:05:20.34,1:05:22.59,Default,Ishii Ayane,0,0,60,,I've probably cried at every single one, right?
+Dialogue: 0,1:05:22.64,1:05:24.90,Default,Ishibashi Ibuki,0,0,60,,It almost seems fake at this point.
+Dialogue: 0,1:05:26.68,1:05:29.66,Default,Ishii Ayane,0,0,60,,I did too, back at Summer Fes—
+Dialogue: 0,1:05:29.74,1:05:31.68,Default,Ishibashi Ibuki,0,0,60,,Yeah, she cried at Summer Fes!
+Dialogue: 0,1:05:32.24,1:05:33.03,Default,Tachibana Kokoro,0,0,60,,You were crying, weren't you?
+Dialogue: 0,1:05:34.28,1:05:35.44,Default,Ishibashi Ibuki,0,0,60,,Yeah, yeah, she was crying.
+Dialogue: 0,1:05:35.52,1:05:38.38,Default,Ishii Ayane,0,0,60,,I started crying while we were going around.
+Dialogue: 0,1:05:39.22,1:05:41.27,Default,Ishii Ayane,0,0,60,,I thought that would be the last time,
+Dialogue: 0,1:05:41.32,1:05:43.70,Default,Ishii Ayane,0,0,60,,and that right at the very end,
+Dialogue: 0,1:05:44.10,1:05:46.75,Default,Ishii Ayane,0,0,60,,the tears would surely come pouring out, but—
+Dialogue: 0,1:05:46.80,1:05:48.38,Default,Ishii Ayane,0,0,60,,You cry every time we meet, huh.
+Dialogue: 0,1:05:48.46,1:05:49.62,Default,Ishibashi Ibuki,0,0,60,,Crying every time we meet...
+Dialogue: 0,1:05:50.00,1:05:52.06,Default,Ishibashi Ibuki,0,0,60,,I'm happy, really happy, but
+Dialogue: 0,1:05:52.66,1:05:54.95,Default,Ishibashi Ibuki,0,0,60,,Aa-tan doesn't seem like someone who cries much,
+Dialogue: 0,1:05:55.00,1:05:58.82,Default,Ishibashi Ibuki,0,0,60,,right? True—she's always kind of giggly,
+Dialogue: 0,1:05:58.90,1:06:02.86,Default,Ishibashi Ibuki,0,0,60,,always kind of bouncy, right?
+Dialogue: 0,1:06:02.94,1:06:05.30,Default,Ishibashi Ibuki,0,0,60,,So I'm happy, but—
+Dialogue: 0,1:06:05.74,1:06:08.24,Default,Ishibashi Ibuki,0,0,60,,happy, but where did you cry in "Cattleya"?
+Dialogue: 0,1:06:08.32,1:06:12.18,Default,Ishii Ayane,0,0,60,,So, I guess I had a bit of a lonely feeling too.
+Dialogue: 0,1:06:12.60,1:06:16.46,Default,Ishii Ayane,0,0,60,,In the second chorus, I dance as a pair with Ibuki-chan.
+Dialogue: 0,1:06:16.54,1:06:20.98,Default,Ishii Ayane,0,0,60,,And I thought, "Here it comes," and jumped the gun and cried.
+Dialogue: 0,1:06:22.36,1:06:23.65,Default,Ishii Ayane,0,0,60,,What's with that face?
+Dialogue: 0,1:06:24.74,1:06:26.92,Default,Ishii Ayane,0,0,60,,I jumped the gun and cried.
+Dialogue: 0,1:06:29.46,1:06:33.64,Default,Oba Risaki,0,0,60,,I'd always wanted to take a photo with Ibuki-san,
+Dialogue: 0,1:06:34.08,1:06:36.53,Default,Oba Risaki,0,0,60,,and the other day, at the graduation ceremony at the Aichi show,
+Dialogue: 0,1:06:36.58,1:06:38.72,Default,Oba Risaki,0,0,60,,everyone was lining up for photos,
+Dialogue: 0,1:06:38.84,1:06:40.94,Default,Oba Risaki,0,0,60,,so I stood up to go too.
+Dialogue: 0,1:06:41.20,1:06:45.13,Default,Oba Risaki,0,0,60,,But when I saw Ibuki-san's face, I got way too nervous and couldn't go.
+Dialogue: 0,1:06:45.18,1:06:45.82,Default,Ishibashi Ibuki,0,0,60,,Why?
+Dialogue: 0,1:06:46.22,1:06:47.04,Default,Tachibana Kokoro,0,0,60,,That's not it.
+Dialogue: 0,1:06:47.76,1:06:48.29,Default,Multiple,0,0,60,,It's not?
+Dialogue: 0,1:06:48.44,1:06:50.93,Default,Tachibana Kokoro,0,0,60,,I want you to say you were just too tired from the Aichi show to move.
+Dialogue: 0,1:06:50.98,1:06:51.39,Default,Multiple,0,0,60,,Whaaat?
+Dialogue: 0,1:06:51.80,1:06:53.80,Default,Multiple,0,0,60,,That's such a lie!
+Dialogue: 0,1:06:53.88,1:06:57.08,Default,Oba Risaki,0,0,60,,I was going to take a photo with Ibuki-san,
+Dialogue: 0,1:06:57.16,1:06:58.32,Default,Oba Risaki,0,0,60,,so I stood up,
+Dialogue: 0,1:06:58.40,1:07:00.58,Default,Oba Risaki,0,0,60,,and then a huge line started forming.
+Dialogue: 0,1:07:01.06,1:07:02.15,Default,Oba Risaki,0,0,60,,When you go to a restaurant
+Dialogue: 0,1:07:02.20,1:07:04.11,Default,Oba Risaki,0,0,60,,and there's a line, you give up, right?
+Dialogue: 0,1:07:04.16,1:07:05.50,Default,Oba Risaki,0,0,60,,It was like that.
+Dialogue: 0,1:07:07.42,1:07:09.01,Default,Ishibashi Ibuki,0,0,60,,But what did Koko-ppe hear?
+Dialogue: 0,1:07:09.98,1:07:11.51,Default,Tachibana Kokoro,0,0,60,,"I was too tired to move."
+Dialogue: 0,1:07:12.10,1:07:12.74,Default,Ishibashi Ibuki,0,0,60,,Hold on—
+Dialogue: 0,1:07:12.82,1:07:15.23,Default,Ishibashi Ibuki,0,0,60,,the story changes depending on which one it is!
+Dialogue: 0,1:07:15.28,1:07:16.89,Default,Oba Risaki,0,0,60,,I really went right up to her.
+Dialogue: 0,1:07:16.94,1:07:19.53,Default,Oba Risaki,0,0,60,,But I was honestly so tired I couldn't move.
+Dialogue: 0,1:07:20.02,1:07:20.80,Default,Ishibashi Ibuki,0,0,60,,You were tired?
+Dialogue: 0,1:07:20.88,1:07:22.82,Default,Tachibana Kokoro,0,0,60,,If you're asking, yes, I said it.
+Dialogue: 0,1:07:22.94,1:07:26.29,Default,Oba Risaki,0,0,60,,I took one tissue that was right in front of me and went back.
+Dialogue: 0,1:07:26.34,1:07:26.91,Default,Oba Risaki,0,0,60,,Yes, that's right.
+Dialogue: 0,1:07:26.96,1:07:29.08,Default,Tachibana Kokoro,0,0,60,,I went with her to Ibuki-san's line.
+Dialogue: 0,1:07:29.42,1:07:30.89,Default,Tachibana Kokoro,0,0,60,,We started moving together, but
+Dialogue: 0,1:07:30.94,1:07:32.43,Default,Tachibana Kokoro,0,0,60,,before I knew it, Richaki wasn't next to me.
+Dialogue: 0,1:07:32.48,1:07:35.13,Default,Tachibana Kokoro,0,0,60,,I went "Huh?" and she was sitting in a chair.
+Dialogue: 0,1:07:35.48,1:07:37.31,Default,Oba Risaki,0,0,60,,Like, there was "Shounin Yokkyuu" and all,
+Dialogue: 0,1:07:37.36,1:07:38.29,Default,Oba Risaki,0,0,60,,I'd pushed too hard,
+Dialogue: 0,1:07:38.34,1:07:41.38,Default,Oba Risaki,0,0,60,,and I really, really wanted to take one.
+Dialogue: 0,1:07:41.46,1:07:42.27,Default,Tachibana Kokoro,0,0,60,,But you got one today, so—
+Dialogue: 0,1:07:42.32,1:07:43.88,Default,Oba Risaki,0,0,60,,I went first today too.
+Dialogue: 0,1:07:43.96,1:07:45.72,Default,Ishibashi Ibuki,0,0,60,,Yeah, the very first.
+Dialogue: 0,1:07:45.80,1:07:48.92,Default,Ishii Ayane,0,0,60,,You could've lied about all of it, right, Risaki-san?
+Dialogue: 0,1:07:49.52,1:07:51.50,Default,Oba Risaki,0,0,60,,I'm pretty honest with myself.
+Dialogue: 0,1:07:51.58,1:07:54.50,Default,Eura Yuka,0,0,60,,And the other day at rehearsal,
+Dialogue: 0,1:07:55.34,1:07:57.13,Default,Eura Yuka,0,0,60,,it was after the daytime part, so I went with a ponytail.
+Dialogue: 0,1:07:57.18,1:07:58.58,Default,Eura Yuka,0,0,60,,Then Mami-chan
+Dialogue: 0,1:07:58.66,1:08:00.98,Default,Eura Yuka,0,0,60,,told me, "Your ponytail's cute."
+Dialogue: 0,1:08:01.06,1:08:03.51,Default,Eura Yuka,0,0,60,,And that alone would've made me happy, but
+Dialogue: 0,1:08:03.56,1:08:05.47,Default,Eura Yuka,0,0,60,,then it was like, "It's cuter than when it's down,"
+Dialogue: 0,1:08:05.52,1:08:07.03,Default,Eura Yuka,0,0,60,,"it suits you better that way,"
+Dialogue: 0,1:08:07.08,1:08:07.53,Default,Tachibana Kokoro,0,0,60,,she said.
+Dialogue: 0,1:08:07.58,1:08:09.30,Default,Tachibana Kokoro,0,0,60,,One word too many, right?
+Dialogue: 0,1:08:09.38,1:08:11.56,Default,Oba Risaki,0,0,60,,And so today she has a ponytail.
+Dialogue: 0,1:08:11.64,1:08:12.58,Default,Eura Yuka,0,0,60,,Yeah, it's true.
+Dialogue: 0,1:08:13.74,1:08:15.19,Default,Eura Yuka,0,0,60,,I had complicated feelings.
+Dialogue: 0,1:08:15.94,1:08:17.10,Default,Eura Yuka,0,0,60,,Mami-chan—
+Dialogue: 0,1:08:17.78,1:08:19.68,Default,Oba Risaki,0,0,60,,I say the wrong things.
+Dialogue: 0,1:08:19.76,1:08:21.85,Default,Oba Risaki,0,0,60,,I really wanted a photo with Ibuki-chan,
+Dialogue: 0,1:08:21.90,1:08:24.02,Default,Ishibashi Ibuki,0,0,60,,You really wanted one, but was tired.
+Dialogue: 0,1:08:24.10,1:08:26.10,Default,Oba Risaki,0,0,60,,"Tired" to hide being embarrassed.
+Dialogue: 0,1:08:27.02,1:08:28.35,Default,Ishibashi Ibuki,0,0,60,,Well, well, I'll forgive you.
+Dialogue: 0,1:08:28.40,1:08:29.04,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:08:30.76,1:08:32.98,Default,Tachibana Kokoro,0,0,60,,And so, Ibuki-san...
+Dialogue: 0,1:08:34.72,1:08:35.84,Default,Tachibana Kokoro,0,0,60,,Wait, are you okay?
+Dialogue: 0,1:08:35.90,1:08:37.65,Default,Tachibana Kokoro,0,0,60,,Since today is Ibuki-san's last Tenshi show,
+Dialogue: 0,1:08:37.70,1:08:39.76,Default,Tachibana Kokoro,0,0,60,,we want to make even more memories!
+Dialogue: 0,1:08:40.22,1:08:42.98,Default,Tachibana Kokoro,0,0,60,,Everyone, are you ready to get even more hyped?
+Dialogue: 0,1:08:46.05,1:08:46.67,Default,Tachibana Kokoro,0,0,60,,Thank you!
+Dialogue: 0,1:08:46.75,1:08:48.28,Default,Tachibana Kokoro,0,0,60,,Next, starting with this song.
+Dialogue: 0,1:08:48.33,1:08:49.03,Default,Tachibana Kokoro,0,0,60,,Here it is!
+Dialogue: 0,1:18:12.94,1:18:16.44,Default,Kuriyama Rina,0,0,60,,Today is Ibuki's last Koko Ten!
+Dialogue: 0,1:18:17.15,1:18:19.15,Default,Kuriyama Rina,0,0,60,,Ibuki, let your voice out with everything!
+
+; ===== mc3 =====
+Dialogue: 0,1:21:25.41,1:21:28.12,Default,Imamura Maria,0,0,60,,"Hajimete no Hoshi," "100-nen Saki demo," and "Ribbon nante Niawanai"—
+Dialogue: 0,1:21:28.17,1:21:30.47,Default,Imamura Maria,0,0,60,,three songs in a row.
+Dialogue: 0,1:21:30.55,1:21:32.96,Default,Imamura Maria,0,0,60,,Here, we'd like to hear your impressions.
+Dialogue: 0,1:21:33.41,1:21:35.33,Default,Imamura Maria,0,0,60,,So first, Richaki, how was it?
+Dialogue: 0,1:21:35.51,1:21:37.71,Default,Oba Risaki,0,0,60,,Okay! Thank you for coming today!
+Dialogue: 0,1:21:42.53,1:21:44.60,Default,Oba Risaki,0,0,60,,Yes, I wasn't in yesterday's show, so
+Dialogue: 0,1:21:44.65,1:21:47.18,Default,Oba Risaki,0,0,60,,it was really my first show in a long time, but
+Dialogue: 0,1:21:47.23,1:21:49.33,Default,Oba Risaki,0,0,60,,borrowing UNITEDLAB like this
+Dialogue: 0,1:21:49.41,1:21:52.16,Default,Oba Risaki,0,0,60,,and getting to see all of you made me so happy—
+Dialogue: 0,1:21:52.21,1:21:53.42,Default,Oba Risaki,0,0,60,,I felt that all day today.
+Dialogue: 0,1:21:53.47,1:21:56.95,Default,Oba Risaki,0,0,60,,Your calls and seeing your faces really give me energy,
+Dialogue: 0,1:21:57.03,1:21:59.49,Default,Oba Risaki,0,0,60,,so I want to see lots more of you,
+Dialogue: 0,1:21:59.57,1:22:01.80,Default,Oba Risaki,0,0,60,,so will you come see us more and more?
+Dialogue: 0,1:22:04.07,1:22:04.80,Default,Oba Risaki,0,0,60,,Thank you!
+Dialogue: 0,1:22:04.88,1:22:06.53,Default,Oba Risaki,0,0,60,,Thank you so much for today!
+Dialogue: 0,1:22:10.51,1:22:14.14,Default,Imamura Maria,0,0,60,,Next, Ibuki, for whom this is her last Tenshi appearance—how was it?
+Dialogue: 0,1:22:14.19,1:22:16.49,Default,Ishibashi Ibuki,0,0,60,,Yes, today was my last Tenshi show—
+Dialogue: 0,1:22:16.57,1:22:18.09,Default,Ishibashi Ibuki,0,0,60,,did you all have fun?
+Dialogue: 0,1:22:20.90,1:22:22.60,Default,Ishibashi Ibuki,0,0,60,,Thank you!
+Dialogue: 0,1:22:22.86,1:22:28.45,Default,Ishibashi Ibuki,0,0,60,,Surprisingly, I feel like I've been in Tenshi quite a bit, a little here and there—
+Dialogue: 0,1:22:28.53,1:22:29.67,Default,Ishibashi Ibuki,0,0,60,,which is it?
+Dialogue: 0,1:22:30.33,1:22:31.88,Default,Imamura Maria,0,0,60,,Aren't you one of the ones who's been in it a lot?
+Dialogue: 0,1:22:31.93,1:22:38.13,Default,Ishibashi Ibuki,0,0,60,,From around the 5th gen and up, I think I've been in it fairly often, so
+Dialogue: 0,1:22:38.21,1:22:39.87,Default,Ishibashi Ibuki,0,0,60,,it was really fun, and
+Dialogue: 0,1:22:39.95,1:22:44.01,Default,Ishibashi Ibuki,0,0,60,,the songs are totally different in feel from "Mokugekisha,"
+Dialogue: 0,1:22:44.09,1:22:47.15,Default,Ishibashi Ibuki,0,0,60,,so it was super fun, and I'm glad I got to be in it!
+Dialogue: 0,1:22:47.25,1:22:48.00,Default,Ishibashi Ibuki,0,0,60,,Thank you!
+Dialogue: 0,1:22:53.44,1:22:57.10,Default,Imamura Maria,0,0,60,,Okay, it's gone by fast, but next is our last song.
+Dialogue: 0,1:22:59.40,1:23:00.90,Default,Imamura Maria,0,0,60,,Thank you!
+Dialogue: 0,1:23:01.38,1:23:03.50,Default,Imamura Maria,0,0,60,,Then please listen to our last song:
+Dialogue: 0,1:23:04.06,1:23:05.59,Default,Imamura Maria,0,0,60,,"Degas and the Ballerina."
+Dialogue: 0,1:33:23.30,1:33:26.30,Default,Takemoto Kurumi,0,0,60,,Encore! Let's race through to the very end together!
+Dialogue: 0,1:33:26.40,1:33:28.30,Default,Takemoto Kurumi,0,0,60,,Let's start!
+Dialogue: 0,1:33:35.56,1:33:37.56,Default,Takemoto Kurumi,0,0,60,,You can go even harder, right?!
+Dialogue: 0,1:33:40.31,1:33:42.31,Default,Takemoto Kurumi,0,0,60,,Encore, here we go!
+
+; ===== mc4 =====
+Dialogue: 0,1:38:00.68,1:38:02.74,Default,All,0,0,60,,Yaay!
+Dialogue: 0,1:38:03.34,1:38:05.78,Default,Morisaki Saaya,0,0,60,,That was "Jounetsu Highway"!
+Dialogue: 0,1:38:05.86,1:38:07.33,Default,Morisaki Saaya,0,0,60,,Thank you for the encore!
+Dialogue: 0,1:38:09.02,1:38:09.97,Default,All,0,0,60,,Thank you!
+Dialogue: 0,1:38:15.56,1:38:18.68,Default,Morisaki Saaya,0,0,60,,For the first half, we'll talk with these members.
+Dialogue: 0,1:38:19.16,1:38:19.58,Default,Morisaki Saaya,0,0,60,,So—
+Dialogue: 0,1:38:19.82,1:38:20.95,Default,Morisaki Saaya,0,0,60,,Matsumoto Moka-chan.
+Dialogue: 0,1:38:21.00,1:38:27.00,Default,Matsumoto Moka,0,0,60,,Today, actually, I did my first unit—I got to do "Nando mo Nerae!"
+Dialogue: 0,1:38:31.06,1:38:34.26,Default,Matsumoto Moka,0,0,60,,It was my second show since my promotion, so
+Dialogue: 0,1:38:34.34,1:38:36.39,Default,Matsumoto Moka,0,0,60,,I didn't think my unit would change.
+Dialogue: 0,1:38:36.44,1:38:38.37,Default,Matsumoto Moka,0,0,60,,So when it changed, I was surprised,
+Dialogue: 0,1:38:38.42,1:38:41.31,Default,Matsumoto Moka,0,0,60,,and I'd been watching "Nando mo Nerae!" at rehearsals the whole time,
+Dialogue: 0,1:38:41.36,1:38:43.19,Default,Matsumoto Moka,0,0,60,,always thinking it looked fun, so
+Dialogue: 0,1:38:43.24,1:38:45.24,Default,Matsumoto Moka,0,0,60,,I was really happy I got to do it!
+Dialogue: 0,1:38:46.24,1:38:48.27,Default,Eura Yuka,0,0,60,,You did the dice reading too, right?
+Dialogue: 0,1:38:48.32,1:38:54.32,Default,Matsumoto Moka,0,0,60,,Yeah, the dice—actually, I think a different number came up,
+Dialogue: 0,1:38:54.50,1:38:57.48,Default,Matsumoto Moka,0,0,60,,but Eura turned it into a one-shot gag.
+Dialogue: 0,1:38:57.90,1:38:59.64,Default,Ishii Ayane,0,0,60,,Huh, what did she say?
+Dialogue: 0,1:39:01.23,1:39:02.31,Default,Eura Yuka,0,0,60,,Wanna try it again?
+Dialogue: 0,1:39:03.11,1:39:05.21,Default,Matsumoto Moka,0,0,60,,"Rolling the dice!"
+Dialogue: 0,1:39:05.43,1:39:10.16,Default,Matsumoto Moka,0,0,60,,"Huh, a one-shot gag? I've got no material! No material!"
+Dialogue: 0,1:39:11.30,1:39:13.24,Default,Matsumoto Moka,0,0,60,,"Huh, what about sushi toppings?"
+Dialogue: 0,1:39:17.69,1:39:20.60,Default,Matsumoto Moka,0,0,60,,Their voices were small, but they actually laughed more than that.
+Dialogue: 0,1:39:20.82,1:39:21.95,Default,Fukui Karen,0,0,60,,They were laughing, huh.
+Dialogue: 0,1:39:22.00,1:39:23.07,Default,Ishii Ayane,0,0,60,,It's not just this much—
+Dialogue: 0,1:39:23.07,1:39:25.01,Default,Matsumoto Moka,0,0,60,,Way more than this!
+Dialogue: 0,1:39:25.09,1:39:27.44,Default,Matsumoto Moka,0,0,60,,I'm pretty satisfied with it myself, but
+Dialogue: 0,1:39:27.82,1:39:30.88,Default,Ishii Ayane,0,0,60,,Maria-san had a face like it wasn't very funny.
+Dialogue: 0,1:39:32.35,1:39:34.43,Default,Imamura Maria,0,0,60,,No, it was funny, right?
+Dialogue: 0,1:39:39.22,1:39:40.94,Default,Matsumoto Moka,0,0,60,,I've never done one before.
+Dialogue: 0,1:39:41.02,1:39:47.52,Default,Matsumoto Moka,0,0,60,,So I really panicked, and before it started I was thinking, "What do I do?"
+Dialogue: 0,1:39:48.41,1:39:54.39,Default,Matsumoto Moka,0,0,60,,Yesterday I heard Rara-pa got taught by the senpai,
+Dialogue: 0,1:39:54.47,1:39:55.89,Default,Matsumoto Moka,0,0,60,,so I tried asking too.
+Dialogue: 0,1:39:55.97,1:39:57.15,Default,Matsumoto Moka,0,0,60,,Zawa-san and others—
+Dialogue: 0,1:39:58.72,1:39:59.43,Default,Matsumoto Moka,0,0,60,,I asked them.
+Dialogue: 0,1:39:59.48,1:40:00.51,Default,Matsumoto Moka,0,0,60,,And Zawa-san was like,
+Dialogue: 0,1:40:00.56,1:40:02.68,Default,Matsumoto Moka,0,0,60,,"Oh, I've already used them all up."
+Dialogue: 0,1:40:04.02,1:40:05.37,Default,Matsumoto Moka,0,0,60,,So I wondered what to do,
+Dialogue: 0,1:40:05.42,1:40:07.17,Default,Matsumoto Moka,0,0,60,,and I asked Kokoha-san and others too, but
+Dialogue: 0,1:40:07.22,1:40:10.54,Default,Matsumoto Moka,0,0,60,,Kokoha-san had already given up thinking on the spot,
+Dialogue: 0,1:40:11.54,1:40:13.19,Default,Matsumoto Moka,0,0,60,,so I came up with it myself!
+Dialogue: 0,1:40:13.40,1:40:13.87,Default,Tachibana Kokoro,0,0,60,,Amazing.
+Dialogue: 0,1:40:14.70,1:40:15.60,Default,Matsumoto Moka,0,0,60,,Yep.
+Dialogue: 0,1:40:15.70,1:40:17.08,Default,Ishii Ayane,0,0,60,,She kept asking me,
+Dialogue: 0,1:40:17.16,1:40:20.56,Default,Ishii Ayane,0,0,60,,"Ishii, I think I'm going to be made to do a gag—
+Dialogue: 0,1:40:20.64,1:40:22.24,Default,Ishii Ayane,0,0,60,,got any material?"
+Dialogue: 0,1:40:22.62,1:40:25.26,Default,Ishii Ayane,0,0,60,,And I was kind of happy, like, "Ehh?"
+Dialogue: 0,1:40:25.36,1:40:26.33,Default,Ishii Ayane,0,0,60,,and while I was thinking it over,
+Dialogue: 0,1:40:26.38,1:40:29.80,Default,Ishii Ayane,0,0,60,,she came up with "Huh? No material? No material?"
+Dialogue: 0,1:40:29.88,1:40:30.82,Default,Ishii Ayane,0,0,60,,all on her own.
+Dialogue: 0,1:40:31.54,1:40:33.48,Default,Ishii Ayane,0,0,60,,It wasn't very funny, though.
+Dialogue: 0,1:40:35.52,1:40:37.33,Default,Matsumoto Moka,0,0,60,,So can you do it? Now that it's come to this—
+Dialogue: 0,1:40:37.38,1:40:38.04,Default,Ishii Ayane,0,0,60,,No, but—
+Dialogue: 0,1:40:38.96,1:40:40.34,Default,Ishii Ayane,0,0,60,,Wait, wait!
+Dialogue: 0,1:40:40.42,1:40:41.77,Default,Eura Yuka,0,0,60,,She came to the center!
+Dialogue: 0,1:40:42.76,1:40:43.85,Default,Matsumoto Moka,0,0,60,,Ishii, isn't your material good?
+Dialogue: 0,1:40:43.90,1:40:45.70,Default,Ishii Ayane,0,0,60,,I only have one go-to gag!
+Dialogue: 0,1:40:45.78,1:40:47.43,Default,Imamura Maria,0,0,60,,Then go to the center yourself!
+Dialogue: 0,1:40:54.33,1:40:54.78,Default,Eura Yuka,0,0,60,,Want to do it?
+Dialogue: 0,1:40:54.83,1:40:56.78,Default,Ishii Ayane,0,0,60,,I really only have one.
+Dialogue: 0,1:40:56.86,1:40:59.38,Default,Morisaki Saaya,0,0,60,,That's totally fine.
+Dialogue: 0,1:40:59.74,1:41:01.29,Default,Eura Yuka,0,0,60,,Wait, you actually have a go-to gag?
+Dialogue: 0,1:41:01.34,1:41:04.16,Default,Ishii Ayane,0,0,60,,Well, um, I only have my usual standard one, but
+Dialogue: 0,1:41:04.66,1:41:08.98,Default,Ishii Ayane,0,0,60,,then I'll do it for someone I've been teasing a little lately.
+Dialogue: 0,1:41:11.00,1:41:13.68,Default,Matsumoto Moka,0,0,60,,"Captain, I'm always making a racket—"
+Dialogue: 0,1:41:13.76,1:41:15.00,Default,Matsumoto Moka,0,0,60,,"Yes, I'm sorry!"
+Dialogue: 0,1:41:16.86,1:41:18.10,Default,Imamura Maria,0,0,60,,Could you step aside?
+Dialogue: 0,1:41:20.60,1:41:22.42,Default,Matsumoto Moka,0,0,60,,And didn't you totally flub it?
+Dialogue: 0,1:41:22.72,1:41:24.97,Default,Ishii Ayane,0,0,60,,I didn't flub it! My articulation's just bad.
+Dialogue: 0,1:41:25.02,1:41:25.90,Default,Matsumoto Moka,0,0,60,,Sorry, kind of—
+Dialogue: 0,1:41:26.65,1:41:28.37,Default,Imamura Maria,0,0,60,,It's getting fun, huh.
+Dialogue: 0,1:41:30.20,1:41:32.80,Default,Tachibana Kokoro,0,0,60,,I have a story about Moka-pi.
+Dialogue: 0,1:41:33.56,1:41:36.78,Default,Tachibana Kokoro,0,0,60,,Morisaki Saaya-chan never does high twintails,
+Dialogue: 0,1:41:36.86,1:41:38.16,Default,Tachibana Kokoro,0,0,60,,no matter what.
+Dialogue: 0,1:41:39.20,1:41:41.18,Default,Tachibana Kokoro,0,0,60,,So I asked why not, and
+Dialogue: 0,1:41:41.26,1:41:44.55,Default,Tachibana Kokoro,0,0,60,,she said she'd do them together for Moka-pi's promotion.
+Dialogue: 0,1:41:45.38,1:41:48.74,Default,Tachibana Kokoro,0,0,60,,Yesterday was her first show since being promoted, right?
+Dialogue: 0,1:41:48.82,1:41:51.19,Default,Tachibana Kokoro,0,0,60,,And she had a totally different hairstyle!
+Dialogue: 0,1:41:51.24,1:41:53.34,Default,Tachibana Kokoro,0,0,60,,I thought, "What a liar!"
+Dialogue: 0,1:41:53.42,1:41:56.04,Default,Morisaki Saaya,0,0,60,,I've been an idol for five years, but
+Dialogue: 0,1:41:56.12,1:41:57.47,Default,Morisaki Saaya,0,0,60,,not once have I done twintails here—
+Dialogue: 0,1:41:57.52,1:41:59.26,Default,Tachibana Kokoro,0,0,60,,That's never happened, right?
+Dialogue: 0,1:41:59.34,1:42:00.16,Default,Morisaki Saaya,0,0,60,,Right, that's—
+Dialogue: 0,1:42:00.51,1:42:04.39,Default,Morisaki Saaya,0,0,60,,well, I had the image of Moka-pi as originally a twintail girl, so
+Dialogue: 0,1:42:04.53,1:42:06.47,Default,Morisaki Saaya,0,0,60,,yeah, someday, so—
+Dialogue: 0,1:42:06.55,1:42:07.45,Default,Matsumoto Moka,0,0,60,,In a unit?
+Dialogue: 0,1:42:07.59,1:42:10.89,Default,Morisaki Saaya,0,0,60,,Yes, someday again—please look forward to it!
+Dialogue: 0,1:42:11.81,1:42:12.81,Default,Imamura Maria,0,0,60,,Can't wait!
+Dialogue: 0,1:42:14.49,1:42:15.53,Default,Morisaki Saaya,0,0,60,,Congrats!
+Dialogue: 0,1:42:17.56,1:42:20.85,Default,Morisaki Saaya,0,0,60,,Okay, with that, let's move on to the second-half group.
+Dialogue: 0,1:42:29.35,1:42:31.50,Default,Kuriyama Rina,0,0,60,,The first half kind of slid back in smoothly, so
+Dialogue: 0,1:42:31.55,1:42:32.68,Default,Kuriyama Rina,0,0,60,,I couldn't tell about the second half, but—
+Dialogue: 0,1:42:32.73,1:42:35.05,Default,Kuriyama Rina,0,0,60,,Okay, for the second half, we'll talk with these members.
+Dialogue: 0,1:42:35.10,1:42:36.15,Default,All,0,0,60,,Okay!
+Dialogue: 0,1:42:36.23,1:42:37.71,Default,Kuriyama Rina,0,0,60,,So first, Iori-chan.
+Dialogue: 0,1:42:37.79,1:42:41.73,Default,Tanaka Iori,0,0,60,,Today was Ibuki's last Tenshi show, right?
+Dialogue: 0,1:42:42.25,1:42:46.53,Default,Tanaka Iori,0,0,60,,So when I thought about which unit Ibuki would do,
+Dialogue: 0,1:42:46.61,1:42:49.05,Default,Tanaka Iori,0,0,60,,I knew she'd definitely be doing "ONEW."
+Dialogue: 0,1:42:49.13,1:42:52.03,Default,Tanaka Iori,0,0,60,,So among the KIV 5th gen,
+Dialogue: 0,1:42:52.11,1:42:56.69,Default,Tanaka Iori,0,0,60,,we were predicting who'd get to do "ONEW" with Ibuki.
+Dialogue: 0,1:42:56.77,1:42:57.54,Default,Tanaka Iori,0,0,60,,The three of us.
+Dialogue: 0,1:42:57.59,1:42:59.51,Default,Kuriyama Rina,0,0,60,,"ONEW" has three people, so
+Dialogue: 0,1:43:00.17,1:43:03.59,Default,Kuriyama Rina,0,0,60,,with Ibuki's character, "Kono Sekai" with four was out—
+Dialogue: 0,1:43:03.97,1:43:05.20,Default,Kuriyama Rina,0,0,60,,"ONEW," three people.
+Dialogue: 0,1:43:05.47,1:43:08.05,Default,Kuriyama Rina,0,0,60,,Which means someone gets dropped.
+Dialogue: 0,1:43:08.51,1:43:12.95,Default,Tanaka Iori,0,0,60,,Our prediction was that one of us would be dropped.
+Dialogue: 0,1:43:13.03,1:43:14.80,Default,Akiyoshi Yuka,0,0,60,,I was totally waiting, though!
+Dialogue: 0,1:43:15.27,1:43:15.92,Default,Kuriyama Rina,0,0,60,,Senpai too?
+Dialogue: 0,1:43:15.97,1:43:17.91,Default,Takemoto Kurumi,0,0,60,,That was a possibility too.
+Dialogue: 0,1:43:17.99,1:43:21.91,Default,Kuriyama Rina,0,0,60,,And Kuru-tan, Iori, and I were talking it over—
+Dialogue: 0,1:43:22.31,1:43:25.05,Default,Kuriyama Rina,0,0,60,,Kuru-tan went to talk to them, right?
+Dialogue: 0,1:43:25.13,1:43:30.31,Default,Takemoto Kurumi,0,0,60,,I said, "I absolutely should be chosen"—
+Dialogue: 0,1:43:30.39,1:43:31.73,Default,Takemoto Kurumi,0,0,60,,to the manager.
+Dialogue: 0,1:43:32.69,1:43:36.71,Default,Takemoto Kurumi,0,0,60,,To the manager: "I've hardly been in anything with Ibuki,
+Dialogue: 0,1:43:36.79,1:43:41.46,Default,Takemoto Kurumi,0,0,60,,not even 'Mokugekisha,' so I absolutely should be chosen"—I put the pressure on!
+Dialogue: 0,1:43:41.51,1:43:44.57,Default,Tanaka Iori,0,0,60,,Right, she went behind our backs without us knowing!
+Dialogue: 0,1:43:46.07,1:43:49.77,Default,Kuriyama Rina,0,0,60,,The two of us were like, "What's going to happen?"
+Dialogue: 0,1:43:49.85,1:43:52.53,Default,Kuriyama Rina,0,0,60,,We said one of us would be out,
+Dialogue: 0,1:43:52.61,1:43:54.98,Default,Kuriyama Rina,0,0,60,,and when the position chart was actually sent, neither of us was on it!
+Dialogue: 0,1:43:55.03,1:43:56.51,Default,Tanaka Iori,0,0,60,,Both rejected!
+Dialogue: 0,1:43:58.50,1:43:59.52,Default,Kuriyama Rina,0,0,60,,Two of them rejected, so...
+Dialogue: 0,1:43:59.52,1:44:00.56,Default,Takemoto Kurumi,0,0,60,,Look, a sign!
+Dialogue: 0,1:44:01.76,1:44:04.58,Default,Kuriyama Rina,0,0,60,,By the way, Ibuki, did you choose those members?
+Dialogue: 0,1:44:04.76,1:44:05.99,Default,Ishibashi Ibuki,0,0,60,,Seriously, I didn't choose.
+Dialogue: 0,1:44:06.04,1:44:06.36,Default,Multiple,0,0,60,,Huh?
+Dialogue: 0,1:44:06.50,1:44:08.42,Default,Ishibashi Ibuki,0,0,60,,I had nothing to do with it.
+Dialogue: 0,1:44:08.50,1:44:09.15,Default,Tanaka Iori,0,0,60,,Wait, what?
+Dialogue: 0,1:44:09.80,1:44:13.24,Default,Takemoto Kurumi,0,0,60,,So we just weren't chosen?
+Dialogue: 0,1:44:14.06,1:44:15.40,Default,Akiyoshi Yuka,0,0,60,,Ibu-chan chose, right?
+Dialogue: 0,1:44:15.48,1:44:16.20,Default,Ishibashi Ibuki,0,0,60,,"I chose!"
+Dialogue: 0,1:44:17.54,1:44:18.28,Default,Akiyoshi Yuka,0,0,60,,She chose?
+Dialogue: 0,1:44:19.68,1:44:23.62,Default,Ishibashi Ibuki,0,0,60,,I wanted to do it with those two—doing it with the 5th gen, I hear.
+Dialogue: 0,1:44:23.84,1:44:26.84,Default,Kuriyama Rina,0,0,60,,So if Ibuki chose, that means she didn't choose us?
+Dialogue: 0,1:44:27.38,1:44:32.46,Default,Ishibashi Ibuki,0,0,60,,Well, since leaving out just one of the close ones would be kind of mean,
+Dialogue: 0,1:44:32.54,1:44:37.84,Default,Ishibashi Ibuki,0,0,60,,I just left out two at once and put in one nearby instead—so, I did choose!
+Dialogue: 0,1:44:38.52,1:44:39.20,Default,Multiple,0,0,60,,She chose!
+Dialogue: 0,1:44:39.28,1:44:41.42,Default,Kuriyama Rina,0,0,60,,If that's so, then she chose!
+Dialogue: 0,1:44:41.50,1:44:43.33,Default,Takemoto Kurumi,0,0,60,,Right, that's how it turned out.
+Dialogue: 0,1:44:43.38,1:44:46.26,Default,Ishibashi Ibuki,0,0,60,,Yeah, me too—with my beloved Zawachi—
+Dialogue: 0,1:44:46.82,1:44:49.16,Default,Ishibashi Ibuki,0,0,60,,Zawachi and Kuru-chan, you know.
+Dialogue: 0,1:44:50.24,1:44:53.70,Default,Kuriyama Rina,0,0,60,,And Zawa had a new position just for this, right? In "ONEW."
+Dialogue: 0,1:44:53.78,1:44:54.14,Default,Ishibashi Ibuki,0,0,60,,Oh!
+Dialogue: 0,1:44:54.22,1:44:55.16,Default,Kuriyama Rina,0,0,60,,Wasn't it that?
+Dialogue: 0,1:44:55.24,1:44:55.90,Default,Izawa Miyu,0,0,60,,No.
+Dialogue: 0,1:44:55.98,1:44:56.66,Default,All,0,0,60,,Huh? What?
+Dialogue: 0,1:44:57.68,1:44:58.33,Default,Kuriyama Rina,0,0,60,,Wait a sec.
+Dialogue: 0,1:44:59.64,1:45:04.51,Default,Kuriyama Rina,0,0,60,,No—on the position chart, people in a position for the first time get their names in red,
+Dialogue: 0,1:45:04.56,1:45:06.22,Default,Kuriyama Rina,0,0,60,,and it was red at first!
+Dialogue: 0,1:45:06.30,1:45:08.22,Default,Izawa Miyu,0,0,60,,I've done it before!
+Dialogue: 0,1:45:09.16,1:45:10.22,Default,Kuriyama Rina,0,0,60,,Manager-san!
+Dialogue: 0,1:45:11.70,1:45:16.19,Default,Izawa Miyu,0,0,60,,But I thought, getting to do a unit together at Ibuki-san's last Tenshi show—
+Dialogue: 0,1:45:16.24,1:45:19.28,Default,Izawa Miyu,0,0,60,,maybe Ibuki-san picked me,
+Dialogue: 0,1:45:19.36,1:45:22.06,Default,Izawa Miyu,0,0,60,,and I got all excited, but nope.
+Dialogue: 0,1:45:22.14,1:45:23.49,Default,Takemoto Kurumi,0,0,60,,It's kind of different, but—
+Dialogue: 0,1:45:23.54,1:45:28.50,Default,Ishibashi Ibuki,0,0,60,,No, in my heart I probably wanted to, so the manager picked up on it.
+Dialogue: 0,1:45:28.58,1:45:29.47,Default,Takemoto Kurumi,0,0,60,,Telepathy, you mean?
+Dialogue: 0,1:45:29.52,1:45:30.60,Default,Ishibashi Ibuki,0,0,60,,Yes, yes, yes!
+Dialogue: 0,1:45:31.32,1:45:33.18,Default,Ishibashi Ibuki,0,0,60,,I think they sensed it.
+Dialogue: 0,1:45:33.26,1:45:36.26,Default,Kuriyama Rina,0,0,60,,So you didn't want to do it with us from the heart.
+Dialogue: 0,1:45:42.08,1:45:46.14,Default,Ishibashi Ibuki,0,0,60,,But it's fine—Ibuki graduates in a few days, so nothing scares me.
+Dialogue: 0,1:45:47.10,1:45:48.16,Default,Tanaka Iori,0,0,60,,The strongest.
+Dialogue: 0,1:45:48.54,1:45:51.30,Default,Kuriyama Rina,0,0,60,,Even after you graduate, I'll LINE you every day!
+Dialogue: 0,1:45:52.26,1:45:54.98,Default,Kuriyama Rina,0,0,60,,Well, like this, at the very end with Ibuki,
+Dialogue: 0,1:45:55.40,1:45:57.95,Default,Kuriyama Rina,0,0,60,,we got to do a unit and call out together—it was so fun!
+Dialogue: 0,1:45:58.00,1:46:02.74,Default,Kuriyama Rina,0,0,60,,And so, the second half continues—can you all get hyped?
+Dialogue: 0,1:46:05.50,1:46:07.85,Default,Kuriyama Rina,0,0,60,,Can you cheer louder than Ibuki?
+Dialogue: 0,1:46:10.40,1:46:11.33,Default,Kuriyama Rina,0,0,60,,Thank you!
+Dialogue: 0,1:46:11.41,1:46:13.87,Default,Kuriyama Rina,0,0,60,,Keep it up—let's get even louder!
+Dialogue: 0,1:46:14.03,1:46:16.03,Default,Kuriyama Rina,0,0,60,,Next is this song. Here it is!
+
+; ===== mc5 =====
+Dialogue: 0,1:54:27.88,1:54:32.96,Default,Takemoto Kurumi,0,0,60,,That was "Sukoshi Nigai Jinsei Soudan" and "Fumou no Tochi wo Mankai ni..." back to back!
+Dialogue: 0,1:54:33.01,1:54:35.65,Default,Takemoto Kurumi,0,0,60,,Everyone, are you hyped?
+Dialogue: 0,1:54:37.94,1:54:39.87,Default,Takemoto Kurumi,0,0,60,,The Ibuki calls were amazing, huh.
+Dialogue: 0,1:54:39.92,1:54:41.11,Default,Takemoto Kurumi,0,0,60,,I was so moved!
+Dialogue: 0,1:54:41.29,1:54:44.73,Default,Ishibashi Ibuki,0,0,60,,I was surprised. I didn't think you'd do that for me,
+Dialogue: 0,1:54:44.81,1:54:46.73,Default,Ishibashi Ibuki,0,0,60,,thank you! I'm so happy.
+Dialogue: 0,1:54:49.04,1:54:52.72,Default,Takemoto Kurumi,0,0,60,,Okay, so here we have a little surprise.
+Dialogue: 0,1:54:54.42,1:54:57.98,Default,Takemoto Kurumi,0,0,60,,Believe it or not, a seat lottery!
+Dialogue: 0,1:55:00.42,1:55:05.86,Default,Takemoto Kurumi,0,0,60,,For the seat lottery, the members will now draw one by one,
+Dialogue: 0,1:55:06.04,1:55:08.29,Default,Takemoto Kurumi,0,0,60,,and the person in that seat gets the cheki
+Dialogue: 0,1:55:08.34,1:55:11.62,Default,Takemoto Kurumi,0,0,60,,that member took before the show—
+Dialogue: 0,1:55:11.70,1:55:13.04,Default,Takemoto Kurumi,0,0,60,,it's self-sign—
+Dialogue: 0,1:55:13.64,1:55:14.23,Default,Kuriyama Rina,0,0,60,,You can do it!
+Dialogue: 0,1:55:14.28,1:55:14.60,Default,Unknown,0,0,60,,Huh?
+Dialogue: 0,1:55:14.88,1:55:17.28,Default,Takemoto Kurumi,0,0,60,,it's autographed by hand, so
+Dialogue: 0,1:55:17.66,1:55:18.53,Default,Takemoto Kurumi,0,0,60,,it's rare today, so
+Dialogue: 0,1:55:18.58,1:55:21.66,Default,Takemoto Kurumi,0,0,60,,everyone, check your seat numbers!
+Dialogue: 0,1:55:23.32,1:55:24.38,Default,Takemoto Kurumi,0,0,60,,Now, will you win?
+Dialogue: 0,1:55:25.48,1:55:26.39,Default,Eguchi Kokoha,0,0,60,,So nerve-racking.
+Dialogue: 0,1:55:26.44,1:55:27.73,Default,Takemoto Kurumi,0,0,60,,So nerve-racking, huh.
+Dialogue: 0,1:55:27.96,1:55:29.18,Default,Takemoto Kurumi,0,0,60,,No, it's rare!
+Dialogue: 0,1:55:29.68,1:55:30.36,Default,Multiple,0,0,60,,It's rare.
+Dialogue: 0,1:55:30.44,1:55:31.68,Default,Takemoto Kurumi,0,0,60,,Ibuki's, for example—
+Dialogue: 0,1:55:31.88,1:55:33.21,Default,Takemoto Kurumi,0,0,60,,it's a rare one everyone loves,
+Dialogue: 0,1:55:33.26,1:55:34.19,Default,Ishibashi Ibuki,0,0,60,,Since it's my last—
+Dialogue: 0,1:55:34.24,1:55:34.69,Default,Takemoto Kurumi,0,0,60,,That's right.
+Dialogue: 0,1:55:34.74,1:55:35.68,Default,Ishibashi Ibuki,0,0,60,,—wearing it here, too.
+Dialogue: 0,1:55:35.96,1:55:36.74,Default,Takemoto Kurumi,0,0,60,,Can't wait!
+Dialogue: 0,1:55:36.82,1:55:37.34,Default,Multiple,0,0,60,,Yeah.
+Dialogue: 0,1:55:38.12,1:55:38.50,Default,Takemoto Kurumi,0,0,60,,Well then—
+Dialogue: 0,1:55:38.55,1:55:39.96,Default,Takemoto Kurumi,0,0,60,,then from stage left—
+Dialogue: 0,1:55:40.15,1:55:43.97,Default,Takemoto Kurumi,0,0,60,,Okay, Karen-ren, you first, please. Okay!
+Dialogue: 0,1:55:44.05,1:55:48.07,Default,Fukui Karen,0,0,60,,Here goes! Fukui Karen's goes to standing row 3, number 10!
+Dialogue: 0,1:55:48.45,1:55:50.19,Default,Akiyoshi Yuka,0,0,60,,Standing!
+Dialogue: 0,1:55:55.22,1:55:58.84,Default,Imamura Maria,0,0,60,,Next, Imamura Maria's goes to row 7, number 8!
+Dialogue: 0,1:55:59.32,1:56:01.48,Default,Multiple,0,0,60,,Row 7!
+Dialogue: 0,1:56:03.00,1:56:06.85,Default,Yasui Hina,0,0,60,,Okay! Hina's goes to row 11, number 11!
+Dialogue: 0,1:56:11.30,1:56:15.40,Default,Eguchi Kokoha,0,0,60,,Okay! Eguchi Kokoha's goes to row 7, number 11!
+Dialogue: 0,1:56:19.38,1:56:22.68,Default,Takemoto Kurumi,0,0,60,,Takemoto's goes to row 2, number 21!
+Dialogue: 0,1:56:22.76,1:56:23.50,Default,Akiyoshi Yuka,0,0,60,,Row 2!
+Dialogue: 0,1:56:23.90,1:56:24.84,Default,All,0,0,60,,Congratulations!
+Dialogue: 0,1:56:27.52,1:56:28.99,Default,Akiyoshi Yuka,0,0,60,,Akiyoshi's goes to row 11,
+Dialogue: 0,1:56:29.04,1:56:31.46,Default,Akiyoshi Yuka,0,0,60,,number 13!
+Dialogue: 0,1:56:35.74,1:56:40.52,Default,Kuriyama Rina,0,0,60,,Ultra cute Kuriyama Rina's goes to row 6, number 12!
+Dialogue: 0,1:56:41.42,1:56:42.16,Default,Kuriyama Rina,0,0,60,,Not here?
+Dialogue: 0,1:56:47.18,1:56:51.36,Default,Tanaka Iori,0,0,60,,Tanaka Iori's goes to row 3, number 13!
+Dialogue: 0,1:56:51.90,1:56:52.84,Default,All,0,0,60,,Congratulations!
+Dialogue: 0,1:56:53.09,1:56:54.40,Default,All,0,0,60,,Congrats to you!
+Dialogue: 0,1:56:54.48,1:56:55.90,Default,Takemoto Kurumi,0,0,60,,Let's do row 2.
+Dialogue: 0,1:56:56.54,1:57:00.20,Default,Tachibana Kokoro,0,0,60,,Tachibana Kokoro's goes to row 1, number 12!
+Dialogue: 0,1:57:03.90,1:57:06.68,Default,Ishibashi Ibuki,0,0,60,,Mine goes to row 5, number 16!
+Dialogue: 0,1:57:12.40,1:57:16.00,Default,Morisaki Saaya,0,0,60,,Okay! Morisaki Saaya's goes to row 2, number 8!
+Dialogue: 0,1:57:21.50,1:57:25.70,Default,Ishii Ayane,0,0,60,,Okay! Ishii Ayane's goes to row 10, number 16!
+Dialogue: 0,1:57:27.76,1:57:29.40,Default,All,0,0,60,,Congratulations to you!
+Dialogue: 0,1:57:30.57,1:57:33.89,Default,Eura Yuka,0,0,60,,Okay! Eura Yuka's goes to row 9, number 3!
+Dialogue: 0,1:57:40.25,1:57:44.05,Default,Oba Risaki,0,0,60,,Oba Risaki's goes to standing row 1, number 14!
+Dialogue: 0,1:57:44.44,1:57:44.97,Default,Akiyoshi Yuka,0,0,60,,Standing!
+Dialogue: 0,1:57:48.32,1:57:51.86,Default,Izawa Miyu,0,0,60,,Izawa Miyu's goes to row 9, number 4!
+Dialogue: 0,1:57:56.85,1:58:00.39,Default,Matsumoto Moka,0,0,60,,Mine—Matsumoto Moka's goes to row 1, number 21!
+Dialogue: 0,1:58:00.47,1:58:01.21,Default,Akiyoshi Yuka,0,0,60,,Row 1!
+Dialogue: 0,1:58:01.90,1:58:03.45,Default,Imamura Maria,0,0,60,,Congrats on winning!
+Dialogue: 0,1:58:06.22,1:58:07.51,Default,Takemoto Kurumi,0,0,60,,Okay, so those who won,
+Dialogue: 0,1:58:07.56,1:58:09.97,Default,Takemoto Kurumi,0,0,60,,please speak to a staff member after this!
+Dialogue: 0,1:58:10.02,1:58:11.18,Default,Takemoto Kurumi,0,0,60,,Please do!
+Dialogue: 0,1:58:11.26,1:58:12.44,Default,All,0,0,60,,Thanks in advance!
+Dialogue: 0,1:58:15.01,1:58:21.01,Default,Takemoto Kurumi,0,0,60,,Okay, those who didn't win—are you feeling down? Are you feeling down?
+Dialogue: 0,1:58:21.09,1:58:24.80,Default,Takemoto Kurumi,0,0,60,,Then let's unleash that down-in-the-dumps energy into your calls!
+Dialogue: 0,1:58:26.22,1:58:29.60,Default,Takemoto Kurumi,0,0,60,,Everyone, can you stay loud to the very end?
+Dialogue: 0,1:58:30.50,1:58:31.40,Default,Crowd,0,0,60,,Yeah!
+Dialogue: 0,1:58:31.98,1:58:34.95,Default,Takemoto Kurumi,0,0,60,,Do you love KIV and Ibuki too?
+Dialogue: 0,1:58:35.30,1:58:36.15,Default,Crowd,0,0,60,,Yeah!
+Dialogue: 0,1:58:36.20,1:58:38.80,Default,Takemoto Kurumi,0,0,60,,Is Ibuki the strongest idol?
+Dialogue: 0,1:58:40.52,1:58:41.50,Default,Takemoto Kurumi,0,0,60,,Then please listen:
+Dialogue: 0,1:58:41.58,1:58:44.20,Default,All,0,0,60,,"Saikyou Idol Yoroshiku!"
+
+; ===== saikyou_call =====
+Dialogue: 0,1:59:55.36,1:59:57.86,Default,Takemoto Kurumi,0,0,60,,Now everyone, together, in a big voice!
+Dialogue: 0,2:00:00.32,2:00:02.62,Default,Takemoto Kurumi,0,0,60,,Do you love Ibuki?
+
+; ===== close =====
+Dialogue: 0,2:01:46.06,2:01:49.38,Default,Imamura Maria,0,0,60,,Thank you so much for coming today!
+Dialogue: 0,2:02:02.06,2:02:05.92,Default,Imamura Maria,0,0,60,,After the show, we'll see you off to express our gratitude.
+Dialogue: 0,2:02:06.00,2:02:09.06,Default,Imamura Maria,0,0,60,,Please wait where you are until the staff guide you.
+Dialogue: 0,2:02:09.50,2:02:12.36,Default,Imamura Maria,0,0,60,,And we wrote message cards, so please take one!
+Dialogue: 0,2:02:13.06,2:02:15.00,Default,Imamura Maria,0,0,60,,Now, let's do our final greeting.
+Dialogue: 0,2:02:20.00,2:02:21.38,Default,Imamura Maria,0,0,60,,Ready, set—
+Dialogue: 0,2:02:21.46,2:02:23.70,Default,All,0,0,60,,Thank you very much!
+Dialogue: 0,2:02:33.60,2:02:35.00,Default,All,0,0,60,,Thank you!
+Dialogue: 1,2:02:33.60,2:02:35.00,Default,All,0,0,130,,Thank you!
+Dialogue: 0,2:02:39.00,2:02:40.28,Default,All,0,0,60,,Thank you so much!
+
+; ===== outro =====
+Dialogue: 0,2:04:50.64,2:04:52.68,Default,Ishii Ayane,0,0,60,,Should't Ibuki-san be right here?
+Dialogue: 0,2:04:53.74,2:04:54.88,Default,Ishii Ayane,0,0,60,,Ibuki-san!
+Dialogue: 0,2:04:57.92,2:04:59.16,Default,Ishii Ayane,0,0,60,,That's a problem!
+Dialogue: 0,2:04:59.94,2:05:01.92,Default,Ishii Ayane,0,0,60,,It's not me—this is the last one!
+Dialogue: 0,2:05:10.10,2:05:12.16,Default,Ishii Ayane,0,0,60,,Well, in a way, it's a bear, so...
+Dialogue: 0,2:05:17.96,2:05:19.14,Default,Multiple,0,0,60,,Thank you for today!
+Dialogue: 0,2:05:19.84,2:05:21.70,Default,Multiple,0,0,60,,We love you, Ibuki-san!
+Dialogue: 0,2:05:46.94,2:05:48.36,Default,Kuriyama Rina,0,0,60,,The show's over!
+Dialogue: 0,2:05:52.04,2:05:55.65,Default,Kuriyama Rina,0,0,60,,Yuka-san, back on stage for the first time in a while—how was it?
+Dialogue: 0,2:05:55.70,2:05:58.43,Default,Akiyoshi Yuka,0,0,60,,I was surprised—it was super fun, but
+Dialogue: 0,2:05:58.51,2:06:04.75,Default,Akiyoshi Yuka,0,0,60,,at the send-off, seeing the fans taking drinks home was something new,
+Dialogue: 0,2:06:05.43,2:06:10.70,Default,Akiyoshi Yuka,0,0,60,,and the cheers were really loud, the way only UNITEDLAB can be—I felt this huge power!
+Dialogue: 0,2:06:13.11,2:06:15.82,Default,Kuriyama Rina,0,0,60,,Then, Richaki, also back for the first time in a while.
+Dialogue: 0,2:06:15.87,2:06:19.36,Default,Oba Risaki,0,0,60,,It was my first show in a long time too, and it was fun the whole way,
+Dialogue: 0,2:06:19.41,2:06:20.36,Default,Oba Risaki,0,0,60,,getting to see everyone,
+Dialogue: 0,2:06:20.41,2:06:22.84,Default,Oba Risaki,0,0,60,,and getting to be on stage with Ibuki-san at the end made me super happy!
+Dialogue: 0,2:06:22.89,2:06:24.54,Default,Oba Risaki,0,0,60,,Everyone, please come again!
+Dialogue: 0,2:06:26.29,2:06:28.44,Default,Kuriyama Rina,0,0,60,,Then, Ibuki, for whom this was the last Tenshi show.
+Dialogue: 0,2:06:28.49,2:06:33.61,Default,Ishibashi Ibuki,0,0,60,,Yes! With everyone in KIV—this is probably my last show with you, but
+Dialogue: 0,2:06:34.09,2:06:37.17,Default,Ishibashi Ibuki,0,0,60,,I'm so happy I made it in just in time.
+Dialogue: 0,2:06:37.25,2:06:39.93,Default,Ishibashi Ibuki,0,0,60,,You've all taught me so much up to now,
+Dialogue: 0,2:06:40.31,2:06:44.17,Default,Ishibashi Ibuki,0,0,60,,so I really enjoyed doing it—I'm totally satisfied!
+Dialogue: 0,2:06:44.40,2:06:45.15,Default,Ishibashi Ibuki,0,0,60,,Thank you!
+Dialogue: 0,2:06:46.40,2:06:47.45,Default,Ishii Ayane,0,0,60,,Thank you!
+Dialogue: 0,2:06:48.43,2:06:50.30,Default,Kuriyama Rina,0,0,60,,It's lonely that Ibuki's graduating, but
+Dialogue: 0,2:06:50.35,2:06:52.97,Default,Kuriyama Rina,0,0,60,,we'll keep working hard together as KIV!
+Dialogue: 0,2:06:53.31,2:06:54.21,Default,Kuriyama Rina,0,0,60,,Look forward to our next show!
+Dialogue: 0,2:06:54.39,2:07:00.89,Default,All,0,0,60,,See you again!
