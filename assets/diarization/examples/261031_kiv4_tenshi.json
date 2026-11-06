@@ -1,0 +1,14 @@
+{
+ "show_id": "261031",
+ "title": "HKT48 261031 KIV4 LOD 1230 Tenshi",
+ "ass": "versions/v01_pre_diar.ass",
+ "audio": "original.wav",
+ "ja_cues": "versions/v01_stitched_cues.json",
+ "cache": "pipeline/cache_r293/show_emb.json",
+ "out_dir": "diarization",
+ "expected_cues": 1037,
+ "exclude_bank_shows": ["261031"],
+ "cast": ["Akiyoshi Yuka","Izawa Miyu","Ishii Ayane","Ijima Riria","Ihara Hanna","Imamura Maria","Eura Yuka","Eguchi Kokoha","Oba Risaki","Kuriyama Rina","Takemoto Kurumi","Tachibana Kokoro","Tanaka Iori","Fukui Karen","Morisaki Saaya","Yasui Hina"],
+ "nicknames": {},
+ "params": {}
+}

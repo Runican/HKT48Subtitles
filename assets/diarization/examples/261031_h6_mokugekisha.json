@@ -1,0 +1,15 @@
+{
+ "show_id": "261031H",
+ "title": "HKT48 261031 H6 LOD 1700 Mokugekisha (Kurihara Sae graduation announcement)",
+ "ass": "versions/v01_pre_diar.ass",
+ "audio": "original.wav",
+ "ja_cues": "versions/v01_pre_diar_stitched_cues.json",
+ "cache": "pipeline/cache_r293/show_emb.json",
+ "out_dir": "diarization",
+ "expected_cues": 1121,
+ "exclude_bank_shows": ["261031"],
+ "cast": ["Ikuno Rina","Ishikawa Amiyu","Ishibashi Ibuki","Ishimatsu Yuina","Ichimura Airi","Kitagawa Hiiro","Kurihara Sae","Shibui Mina","Toyonaga Aki","Nakano Minami","Fujino Kokoha","Fuchigami Mai","Matsunaga Yui","Yanase Reia","Yamauchi Yuna","Ryuto Ayane"],
+ "nicknames": {"Ikuno":"Ikuno Rina","Amiyun":"Ishikawa Amiyu","Ibuki":"Ishibashi Ibuki","Yuina":"Ishimatsu Yuina","Aichi":"Ichimura Airi","Hiiro":"Kitagawa Hiiro","Sae":"Kurihara Sae","Shibui":"Shibui Mina","Aki":"Toyonaga Aki","Mii-na":"Nakano Minami","Kokoha":"Fujino Kokoha","Mai":"Fuchigami Mai","Yui":"Matsunaga Yui","Reia":"Yanase Reia","Yuuna":"Yamauchi Yuna","Aya-chan":"Ryuto Ayane"},
+ "unknown_spots": [],
+ "params": {}
+}

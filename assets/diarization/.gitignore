@@ -1,0 +1,6 @@
+# model is downloaded by scripts/fetch_model.py, never committed
+model/*.onnx
+model/*.part
+# per-show embedding caches / outputs stay in the job folder
+cache_*/
+show_emb.json

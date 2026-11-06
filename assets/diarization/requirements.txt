@@ -1,0 +1,5 @@
+# Tested with Python 3.13.5 (CPU only). Versions are the ones the published hints and bank were produced with.
+numpy==2.5.3
+onnxruntime==1.30.0
+kaldi-native-fbank==1.22.3
+soundfile==0.14.0

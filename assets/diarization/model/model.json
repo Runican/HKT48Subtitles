@@ -1,0 +1,16 @@
+{
+ "name": "wespeaker-voxceleb-resnet293-LM",
+ "filename": "voxceleb_resnet293_LM.onnx",
+ "url_pinned": "https://huggingface.co/Wespeaker/wespeaker-voxceleb-resnet293-LM/resolve/6e6bffe5bf3d772a1f143dc6dbfea58a0799ea83/voxceleb_resnet293_LM.onnx",
+ "url_main": "https://huggingface.co/Wespeaker/wespeaker-voxceleb-resnet293-LM/resolve/main/voxceleb_resnet293_LM.onnx",
+ "hf_repo": "https://huggingface.co/Wespeaker/wespeaker-voxceleb-resnet293-LM",
+ "hf_commit": "6e6bffe5bf3d772a1f143dc6dbfea58a0799ea83",
+ "upstream_list": "https://github.com/wenet-e2e/wespeaker/blob/master/docs/pretrained.md",
+ "size_bytes": 114336285,
+ "sha256": "dbb1ccc7754caff552ebc46347a51aaee2669bb24efc740e665d1a1133d20e98",
+ "embedding_dim": 256,
+ "input": "80-bin Kaldi fbank, 16 kHz, 25 ms window / 10 ms shift, hamming, no dither, per-utterance mean subtraction",
+ "license": "CC BY 4.0 (model card; WeSpeaker: VoxCeleb-trained models follow the VoxCeleb dataset license)",
+ "training_data": "VoxCeleb2 dev (5,994 speakers)",
+ "citation": "Wang et al., WeSpeaker: A Research and Production oriented Speaker Embedding Learning Toolkit, ICASSP 2023 (arXiv:2210.17016); Chung, Nagrani, Zisserman, VoxCeleb2, Interspeech 2018"
+}

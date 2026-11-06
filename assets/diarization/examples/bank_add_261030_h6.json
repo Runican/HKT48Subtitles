@@ -1,0 +1,14 @@
+{
+ "show_id": "261030",
+ "title": "HKT48 261030 H6 LOD 1830 Mokugekisha",
+ "published_ass": "shows/stages/2026/HKT48 261030 H6 LOD 1830 1080p DMM.ass",
+ "timeline": "full recording; mc3 (1:18:42-1:30:12) was rebuilt after hints - rows with rebuilt_span='mc3' were embedded from review times.",
+ "audio": "original.wav",
+ "cache": "pipeline/cache_r293/show_emb.json",
+ "review_jsonl": "review/speaker_confirm_user.jsonl",
+ "edit_ops_jsonl": "review/edit_ops_user.jsonl",
+ "hints_tsv": "diarization/speaker_hints_review_fullname.tsv",
+ "named_cues_tsv": "diarization/named_cues_loo.tsv",
+ "segments": "segments_def.json",
+ "rebuilt_spans": [["mc3", 4722.0, 5412.0]]
+}
