@@ -223,7 +223,7 @@
         "さやしさん",
         "鞘師さん"
       ],
-      "note": "Kurihara Sae (さえ). Whisper often writes さあやさん for さえさん. ≠ Morisaki Saaya. Lock from ear; Sae-san / Sae-chan as spoken. Whisper trap: Sayashi/鞘師さん ← さえさん; EN **Sae-san** when さえさん spoken. Sae≠Saaya. Team H on mobile profile/46 (3rd gen). No long theater catch stack — intros are often name-line only.",
+      "note": "Kurihara Sae (さえ). Whisper often writes さあやさん for さえさん. ≠ Morisaki Saaya. Lock from ear; Sae-san / Sae-chan as spoken. Whisper trap: Sayashi/鞘師さん ← さえさん; EN **Sae-san** when さえさん spoken. Sae≠Saaya. Team H on mobile profile/46 (3rd gen). No long theater catch stack — intros are often name-line only. Graduation announced 2026-10-31 at the Team H 目撃者 show (hkt48.jp/news/2026/10/11365); activity ends ~spring 2027, exact date TBD.",
       "confidence": "high",
       "locked": true,
       "updated": "2026-10-07T10:00:00+02:00",
@@ -5752,6 +5752,45 @@
       "confidence": "locked",
       "locked": true,
       "updated": "2026-11-04T00:55:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-yume-no-dead-body",
+      "ja": [
+        "夢のdead body",
+        "夢のデッドボディ",
+        "夢のDead Body"
+      ],
+      "en": "Yume no Dead Body",
+      "en_full": "Yume no Dead Body",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "夢の死体",
+        "Dream's Dead Body as title"
+      ],
+      "note": "Tenshi / KIV4 setlist song M05 (official 表記 夢のdead body; first unit slot, solo). EN title romanized: Yume no Dead Body. Song list: https://ja.wikipedia.org/wiki/チームN_3rd_Stage「ここにだって天使はいる」",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-05T12:30:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-zipper",
+      "ja": [
+        "ジッパー"
+      ],
+      "en": "Zipper",
+      "en_full": "Zipper",
+      "type": "song",
+      "team": null,
+      "reject": [
+        "ジンパー"
+      ],
+      "note": "Tenshi / KIV4 setlist song M09 (fifth unit slot, trio). EN title: Zipper. Song list: https://ja.wikipedia.org/wiki/チームN_3rd_Stage「ここにだって天使はいる」",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-05T12:30:00+01:00",
       "updated_by": "verifier"
     }
   ],

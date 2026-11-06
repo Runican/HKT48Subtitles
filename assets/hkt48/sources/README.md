@@ -33,3 +33,7 @@ Also: `q-20261031-kiv-tenshi-261028.md` (261028 Team KIV Tenshi 18:30 at UNITEDL
 Also: `q-20261103-kiv-tenshi-261029.md` (261029 Team KIV Tenshi 18:30 at UNITEDLAB, Ishibashi Ibuki's last Tenshi: official 16-member cast with Ishibashi (H) in; Ihara/Ijima/Nagano not cast; Ishibashi glossary update; draft lore answers: ONEW no Uwabaki, Zawachi, KBC Happy Hour, Hojoya, bear motif, encore lyric, Eguchi Kokoha checker fix).
 
 Also: `q-20261104-h6-mokugekisha-261030.md` (261030 Team H Mokugekisha 18:30 at UNITEDLAB: official 16-member cast, no setlist published, Ishibashi pre-graduation, Kurihara graduation announced at the 10/31 show not this one).
+
+Also: `q-20261105-kiv-tenshi-261031.md` (261031 Team KIV Tenshi 12:30 at UNITEDLAB: official 16-member all-KIV cast incl. Ijima and Ihara; Matsumoto, Nagano, Ishibashi not cast; no setlist published; Kurihara graduation news was the 17:00 目撃者, not this show).
+
+Also: `q-20261105-h6-mokugekisha-261031.md` (261031 Team H Mokugekisha 17:00 at UNITEDLAB — the Kurihara Sae graduation-announce show, not the 12:30 Tenshi: official 16-member cast incl. Ishimatsu and Ishibashi, Yoshida not cast; no setlist published; graduation ~spring 2027, date not fixed).
