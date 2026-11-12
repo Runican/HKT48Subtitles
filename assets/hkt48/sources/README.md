@@ -37,3 +37,5 @@ Also: `q-20261104-h6-mokugekisha-261030.md` (261030 Team H Mokugekisha 18:30 at 
 Also: `q-20261105-kiv-tenshi-261031.md` (261031 Team KIV Tenshi 12:30 at UNITEDLAB: official 16-member all-KIV cast incl. Ijima and Ihara; Matsumoto, Nagano, Ishibashi not cast; no setlist published; Kurihara graduation news was the 17:00 目撃者, not this show).
 
 Also: `q-20261105-h6-mokugekisha-261031.md` (261031 Team H Mokugekisha 17:00 at UNITEDLAB — the Kurihara Sae graduation-announce show, not the 12:30 Tenshi: official 16-member cast incl. Ishimatsu and Ishibashi, Yoshida not cast; no setlist published; graduation ~spring 2027, date not fixed).
+
+Also: `q-20261112-ibukon-261102.md` (261102 Ishibashi Ibuki Solo Event ~Ibu-con Final~ 18:30 at UNITEDLAB: official title, billed cast is Ibuki only, six unlisted guests match the user's list, fan setlist, no official after-report; 最終回 is the last installment, earlier count unknown).

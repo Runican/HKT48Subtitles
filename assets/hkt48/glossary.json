@@ -369,17 +369,17 @@
       "en": "Yuuna",
       "en_full": "Yamauchi Yuna",
       "type": "member",
-      "team": null,
+      "team": "H",
       "reject": [
         "Yuina",
         "Yuna as ambiguous default",
         "ゆいな"
       ],
-      "note": "Yamauchi Yuna / EN nick **Yuuna** (ゆうな/ゆーな). ≠ Ishimatsu Yuina. Same show may contain both; lock per beat from cast+ear. Reject collapsing to bare Yuna in ASS.",
+      "note": "Yamauchi Yuna / EN nick **Yuuna** (official ゆうな / ゆーな). 3rd gen (2013-11). Team TII 2016-03 to the 2022-10 class change, Team H from 2023-02 (hkt48.jp/profile/ and 48pedia). ≠ Ishimatsu Yuina. Same show may contain both; lock per beat from cast+ear. Reject collapsing to bare Yuna in ASS. No distinctive published catch found (48pedia only has a name-line, still citing TII; age floats).",
       "confidence": "high",
       "locked": true,
-      "updated": "2026-09-27T01:33:20+02:00",
-      "updated_by": "subtitler"
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
     },
     {
       "id": "akiyoshi-yuka",
@@ -468,10 +468,10 @@
         "Yamakawa Maria",
         "marshmallow catch as this member"
       ],
-      "note": "Team KIV. Gunma. ≠ Yamakawa Mari-tan (marshmallow/macaron catch is Yamakawa only — maritan-marshmallow-catch). Fried-chicken / karaage island talk is dialogue, not marshmallow. Team KIV captain; born 2003-09-14 in Gunma (hkt48.jp profile/56). Official nick まーさん. Published catch (48pedia, TII era): 群馬生まれの女の子、小さいけれど夢は大きい、その名も～？（ぐんまりあ～！）; current live use unconfirmed — do not insert it when not heard.",
-      "confidence": "confirmed",
-      "locked": false,
-      "updated": "2026-10-31T21:15:00+01:00",
+      "note": "Draft 2nd gen (2015-06); Team TII 2016-03 to the 2022-10 class change, Team KIV from then, KIV captain from 2024-09-29 (hkt48.jp profile/56). Official nick まーさん. Born 2003-09-14 in Gunma. ≠ Yamakawa Mari-tan (marshmallow/macaron catch is Yamakawa only — maritan-marshmallow-catch). Fried-chicken / karaage island talk is dialogue, not marshmallow. Published catch: gunmaria-catch. Current live use unconfirmed — do not insert it when not heard.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -1026,17 +1026,22 @@
         "龍頭綺音",
         "あやちゃん",
         "アヤチャン",
-        "龍ちゃん"
+        "龍ちゃん",
+        "りゅうと",
+        "リュウ",
+        "りゅうとう",
+        "リュウトウ",
+        "龍頭"
       ],
       "en": "Aya-chan",
       "en_full": "Ryuto Ayane",
       "type": "member",
       "team": "H",
       "reject": [],
-      "note": "Official nick あやちゃん (profile/133). 出身長崎県. Cheeks catch LOCKED: ayachan-cheeks-catch. Birthday Yuuka-cheeks overlay still provisional only. Bare あやね is ambiguous — see ayane-ishii-vs-ryuto-trap.",
+      "note": "Official nick あやちゃん (profile/133). Surname 龍頭 is read りゅうとう (48pedia); members and Ryuto herself may say リュウ / りゅうと as a spoken surname — keep as said, do not rewrite to あやちゃん. 出身長崎県. Cheeks catch LOCKED: ayachan-cheeks-catch. Birthday Yuuka-cheeks overlay still provisional only. Bare あやね is ambiguous — see ayane-ishii-vs-ryuto-trap.",
       "confidence": "locked",
       "locked": true,
-      "updated": "2026-10-08T12:30:00+02:00",
+      "updated": "2026-11-12T17:20:00+01:00",
       "updated_by": "verifier"
     },
     {
@@ -5792,7 +5797,349 @@
       "locked": true,
       "updated": "2026-11-05T12:30:00+01:00",
       "updated_by": "verifier"
+    },
+    {
+      "id": "ibukon",
+      "ja": [
+        "いぶコン",
+        "いぶコン最終回"
+      ],
+      "en": "Ibu-con",
+      "en_full": "Ibu-con (Ishibashi Ibuki solo event series)",
+      "type": "event",
+      "team": null,
+      "reject": [
+        "treating Ibu-con as the graduation show",
+        "inventing a prior installment count"
+      ],
+      "note": "Official short name for Ishibashi Ibuki's solo events, which began as her SHOWROOM streams after she joined at 13 (2018). The 2026-11-02 UNITEDLAB show was billed 「HKT48 石橋 颯 ソロイベント～いぶコン最終回～」 (hkt48.jp/schedule/2026/11/21334), the night before her 2026-11-03 graduation, and she said this stage 最終回 was the live version fans had asked for on SHOWROOM. 最終回 = final installment. EN title: HKT48 Ishibashi Ibuki Solo Event ~Ibu-con Final~. Earlier installment dates and count are not established. Not the 11/3 目撃者 graduation show.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T17:20:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "gunmaria-catch",
+      "ja": [
+        "ぐんまりあ",
+        "グンマリア",
+        "群馬生まれの女の子",
+        "小さいけれど夢は大きい",
+        "Gunmaria"
+      ],
+      "en": "Gunmaria",
+      "en_full": "Gunma-born girl, small but with a big dream — Gunmaria!",
+      "type": "catchphrase",
+      "team": "KIV",
+      "reject": [
+        "force Gunmaria into a show when it is not heard",
+        "locking the 二十歳 / Team TII full form as current"
+      ],
+      "note": "Imamura Maria published catch (48pedia, TII-era wording): 群馬生まれの女の子、小さいけれど夢は大きい、その名も～？（ぐんまりあ～！！）. Team TII and any age in a longer recitation are stale or floating (she is Team KIV captain). A 2023 birthday-show form used グングン成長中です and チームKIV・二十歳 — do not lock the age. Current live use unconfirmed; do not insert this catch when it is not heard.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-hatsukoi-butterfly",
+      "ja": [
+        "初恋バタフライ"
+      ],
+      "en": "Hatsukoi Butterfly",
+      "en_full": "Hatsukoi Butterfly",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 song; standard romaji Hatsukoi Butterfly.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-baby-baby-baby",
+      "ja": [
+        "Baby! Baby! Baby!",
+        "Baby!Baby!Baby!",
+        "ベイビー！ベイビー！ベイビー！"
+      ],
+      "en": "Baby! Baby! Baby!",
+      "en_full": "Baby! Baby! Baby!",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song; keep the punctuation in the EN title.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-hatsukoi-hills",
+      "ja": [
+        "初恋ヒルズ"
+      ],
+      "en": "Hatsukoi Hills",
+      "en_full": "Hatsukoi Hills",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 Team A 3rd Stage song; romaji Hatsukoi Hills (ヒルズ).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kondo-koso-ecstasy",
+      "ja": [
+        "今度こそエクスタシー"
+      ],
+      "en": "Kondo Koso Ecstasy",
+      "en_full": "Kondo Koso Ecstasy",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song; standard romaji Kondo Koso Ecstasy.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kurumi-to-dialogue",
+      "ja": [
+        "胡桃とダイアローグ"
+      ],
+      "en": "Kurumi to Dialogue",
+      "en_full": "Kurumi to Dialogue",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song; standard romaji Kurumi to Dialogue (48plus).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kimi-to-boku-no-kankei",
+      "ja": [
+        "君と僕の関係"
+      ],
+      "en": "Kimi to Boku no Kankei",
+      "en_full": "Kimi to Boku no Kankei",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song; standard romaji Kimi to Boku no Kankei.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-dakishimecha-ikenai",
+      "ja": [
+        "抱きしめちゃいけない"
+      ],
+      "en": "Dakishimecha Ikenai",
+      "en_full": "Dakishimecha Ikenai",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song. ≠ 抱きしめられたら (Dakishimeraretara).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-saikyou-twintail",
+      "ja": [
+        "最強ツインテール"
+      ],
+      "en": "Saikyou Twintail",
+      "en_full": "Saikyou Twintail",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 coupling (NO WAY MAN, U-16 senbatsu). Romaji Saikyou Twintail (48plus).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-juuryoku-sympathy",
+      "ja": [
+        "重力シンパシー"
+      ],
+      "en": "Juuryoku Sympathy",
+      "en_full": "Juuryoku Sympathy",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song; standard romaji Juuryoku Sympathy.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-first-rabbit",
+      "ja": [
+        "ファースト・ラビット",
+        "ファーストラビット",
+        "First Rabbit"
+      ],
+      "en": "First Rabbit",
+      "en_full": "First Rabbit",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song; official title often ファースト・ラビット. Fans may write ファーストラビット.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kataomoi-finally",
+      "ja": [
+        "片想いFinally",
+        "片思いFinally"
+      ],
+      "en": "Kataomoi Finally",
+      "en_full": "Kataomoi Finally",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song; standard romaji Kataomoi Finally. JA is commonly 片想いFinally.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-love-shugyou",
+      "ja": [
+        "LOVE修行",
+        "ラブ修行"
+      ],
+      "en": "LOVE Shugyou",
+      "en_full": "LOVE Shugyou",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song; standard romaji LOVE Shugyou.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-mizuiro-altair",
+      "ja": [
+        "水色アルタイル"
+      ],
+      "en": "Mizuiro Altair",
+      "en_full": "Mizuiro Altair",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 song; standard romaji Mizuiro Altair. Also the title/theme of HKT48's online play 「HKT48、劇団はじめます。」ミュン密『水色アルタイル』(2021-02-20–28, online theatre ZA), in which Ishibashi Ibuki starred as 針間るな (theatertainment.jp/japanese-play/75077).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T17:20:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-nagorizakura",
+      "ja": [
+        "名残り桜",
+        "名残桜"
+      ],
+      "en": "Nagorizakura",
+      "en_full": "Nagorizakura",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 67th single, released 2026-02-25. Official title is 名残り桜 (with り), reading なごりざくら (universal-music.co.jp/akb48/news/2026-01-15-6 ; akb48.co.jp discography media_id-417). Romaji Nagorizakura. 名残桜 is a shortened/ASR form, not the official spelling.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T17:20:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-sns-world",
+      "ja": [
+        "SNS WORLD",
+        "SNSワールド"
+      ],
+      "en": "SNS WORLD",
+      "en_full": "SNS WORLD",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "HKT48 coupling (栄光のラビリンス CM senbatsu and later uses). Keep the English title.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kibouteki-refrain",
+      "ja": [
+        "希望的リフレイン"
+      ],
+      "en": "Kibouteki Refrain",
+      "en_full": "Kibouteki Refrain",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 single; standard romaji Kibouteki Refrain.",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "song-kinou-yori-motto-suki",
+      "ja": [
+        "昨日よりもっと好き"
+      ],
+      "en": "Kinou Yori Motto Suki",
+      "en_full": "Kinou Yori Motto Suki",
+      "type": "song",
+      "team": null,
+      "reject": [],
+      "note": "AKB48 coupling (前しか向かねえ, Smiling Lions). Romaji Kinou Yori Motto Suki (48plus).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T16:45:00+01:00",
+      "updated_by": "verifier"
+    },
+    {
+      "id": "enjin-huddle",
+      "ja": [
+        "円陣",
+        "円陣を組む"
+      ],
+      "en": "pre-show huddle",
+      "en_full": "pre-show huddle (members' circle before going on stage)",
+      "type": "stage_jargon",
+      "team": null,
+      "reject": [
+        "engine"
+      ],
+      "note": "ASR trap: faster-whisper renders 円陣 (えんじん) as katakana エンジン. In backstage/before-the-show talk, read エンジン as 円陣. Standard idol stage term (円陣 = huddle).",
+      "confidence": "locked",
+      "locked": true,
+      "updated": "2026-11-12T22:55:00+01:00",
+      "updated_by": "verifier"
     }
   ],
-  "updated": "2026-11-03T19:30:00+01:00"
+  "updated": "2026-11-12T17:20:00+01:00"
 }

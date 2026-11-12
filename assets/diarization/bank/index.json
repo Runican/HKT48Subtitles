@@ -5,7 +5,7 @@
  "embedding_dim": 256,
  "normalisation": "L2 per row, float32",
  "policy": "append-only: one npz+json pair per show/batch, never rewritten; add new shows with scripts/bank_add.py",
- "total_rows": 5734,
+ "total_rows": 5856,
  "files": [
   {
    "id": "250405_legacy",
@@ -382,6 +382,19 @@
     "Yamauchi Yuna": 8,
     "Yanase Reia": 74
    }
+  },
+  {
+   "id": "261102_review",
+   "show": "261102",
+   "batch": "review",
+   "rows": 122,
+   "npz": "261102_review.npz",
+   "json": "261102_review.json",
+   "sha256_npz": "387efe98924aba1aa6c0a096cbf4d287c8f300ee5afd6e6be625e25d4c52cc2f",
+   "sha256_json": "2a5bab998396511ebeedc45ba17ab243689e02a67bb3e6e69d4c144f7272e85f",
+   "per_member": {
+    "Ishibashi Ibuki": 122
+   }
   }
  ],
  "per_member_total": {
@@ -396,7 +409,7 @@
   "Ijima Riria": 62,
   "Ikuno Rina": 78,
   "Imamura Maria": 173,
-  "Ishibashi Ibuki": 114,
+  "Ishibashi Ibuki": 236,
   "Ishii Ayane": 151,
   "Ishikawa Amiyu": 32,
   "Ishimatsu Yuina": 63,
@@ -517,7 +530,8 @@
    "250406_legacy",
    "261029_review",
    "261030_review",
-   "261031H_review"
+   "261031H_review",
+   "261102_review"
   ],
   "Ishii Ayane": [
    "250408_legacy",
