@@ -5,7 +5,7 @@
  "embedding_dim": 256,
  "normalisation": "L2 per row, float32",
  "policy": "append-only: one npz+json pair per show/batch, never rewritten; add new shows with scripts/bank_add.py",
- "total_rows": 5283,
+ "total_rows": 5734,
  "files": [
   {
    "id": "250405_legacy",
@@ -354,48 +354,76 @@
     "Tanaka Iori": 10,
     "Yasui Hina": 16
    }
+  },
+  {
+   "id": "261031H_review",
+   "show": "261031H",
+   "batch": "review",
+   "rows": 451,
+   "npz": "261031H_review.npz",
+   "json": "261031H_review.json",
+   "sha256_npz": "aacefc944d963cee718542b651d727d51a483f9c9c99d4c8fdcdc4f80b874554",
+   "sha256_json": "ef08ba3a038b395e9a417e9860bc55b6280f0bf26b5b5c259c6fd31885e660f9",
+   "per_member": {
+    "Fuchigami Mai": 17,
+    "Fujino Kokoha": 18,
+    "Ichimura Airi": 31,
+    "Ikuno Rina": 25,
+    "Ishibashi Ibuki": 44,
+    "Ishikawa Amiyu": 13,
+    "Ishimatsu Yuina": 18,
+    "Kitagawa Hiiro": 14,
+    "Kurihara Sae": 12,
+    "Matsunaga Yui": 18,
+    "Nakano Minami": 21,
+    "Ryuto Ayane": 22,
+    "Shibui Mina": 21,
+    "Toyonaga Aki": 95,
+    "Yamauchi Yuna": 8,
+    "Yanase Reia": 74
+   }
   }
  ],
  "per_member_total": {
   "Akiyoshi Yuka": 248,
   "Eguchi Kokoha": 153,
   "Eura Yuka": 48,
-  "Fuchigami Mai": 16,
-  "Fujino Kokoha": 136,
+  "Fuchigami Mai": 33,
+  "Fujino Kokoha": 154,
   "Fukui Karen": 135,
-  "Ichimura Airi": 348,
+  "Ichimura Airi": 379,
   "Ihara Hanna": 560,
   "Ijima Riria": 62,
-  "Ikuno Rina": 53,
+  "Ikuno Rina": 78,
   "Imamura Maria": 173,
-  "Ishibashi Ibuki": 70,
+  "Ishibashi Ibuki": 114,
   "Ishii Ayane": 151,
-  "Ishikawa Amiyu": 19,
-  "Ishimatsu Yuina": 45,
+  "Ishikawa Amiyu": 32,
+  "Ishimatsu Yuina": 63,
   "Izawa Miyu": 182,
   "Jitoe Nene": 111,
-  "Kitagawa Hiiro": 134,
+  "Kitagawa Hiiro": 148,
   "Kudo Riko": 7,
-  "Kurihara Sae": 138,
+  "Kurihara Sae": 150,
   "Kuriyama Rina": 401,
   "Matsumoto Moka": 33,
-  "Matsunaga Yui": 15,
+  "Matsunaga Yui": 33,
   "Morisaki Saaya": 136,
   "Nagano Rara": 29,
-  "Nakano Minami": 73,
+  "Nakano Minami": 94,
   "Oba Risaki": 85,
   "Ouchi Rinka": 214,
   "Ozaki Serika": 2,
-  "Ryuto Ayane": 95,
+  "Ryuto Ayane": 117,
   "Sakamoto Erena": 154,
   "Sakamoto Rino": 165,
-  "Shibui Mina": 86,
+  "Shibui Mina": 107,
   "Tachibana Kokoro": 109,
   "Takemoto Kurumi": 184,
   "Tanaka Iori": 107,
-  "Toyonaga Aki": 305,
-  "Yamauchi Yuna": 75,
-  "Yanase Reia": 85,
+  "Toyonaga Aki": 400,
+  "Yamauchi Yuna": 83,
+  "Yanase Reia": 159,
   "Yasui Hina": 127,
   "Yoshida Mei": 14
  },
@@ -422,7 +450,8 @@
    "261031K4_review"
   ],
   "Fuchigami Mai": [
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Fujino Kokoha": [
    "250408_legacy",
@@ -430,7 +459,8 @@
    "250411_legacyintro",
    "250416_legacy",
    "250416_legacyintro",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Fukui Karen": [
    "250405_legacy",
@@ -449,7 +479,8 @@
    "250411_legacyintro",
    "250416_legacy",
    "250416_legacyintro",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Ihara Hanna": [
    "250405_legacy",
@@ -471,7 +502,8 @@
    "250411_legacyintro",
    "250416_legacy",
    "250416_legacyintro",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Imamura Maria": [
    "250405_legacy",
@@ -484,7 +516,8 @@
   "Ishibashi Ibuki": [
    "250406_legacy",
    "261029_review",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Ishii Ayane": [
    "250408_legacy",
@@ -493,13 +526,15 @@
    "261031K4_review"
   ],
   "Ishikawa Amiyu": [
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Ishimatsu Yuina": [
    "250408_legacy",
    "250411_legacyintro",
    "250416_legacy",
-   "250416_legacyintro"
+   "250416_legacyintro",
+   "261031H_review"
   ],
   "Izawa Miyu": [
    "250405_legacy",
@@ -527,7 +562,8 @@
    "250413am_legacy",
    "250416_legacy",
    "250416_legacyintro",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Kudo Riko": [
    "250406_legacy"
@@ -538,7 +574,8 @@
    "250411_legacyintro",
    "250416_legacy",
    "250416_legacyintro",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Kuriyama Rina": [
    "250405_legacy",
@@ -553,7 +590,8 @@
    "261029_review"
   ],
   "Matsunaga Yui": [
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Morisaki Saaya": [
    "250405_legacy",
@@ -570,7 +608,8 @@
    "250408_legacy",
    "250411_legacy",
    "250411_legacyintro",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Oba Risaki": [
    "250405_legacy",
@@ -593,7 +632,8 @@
   "Ryuto Ayane": [
    "250406_legacy",
    "250408_legacy",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Sakamoto Erena": [
    "250405_legacy",
@@ -612,7 +652,8 @@
    "250406_legacy",
    "250411_legacy",
    "250411_legacyintro",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Tachibana Kokoro": [
    "250405_legacy",
@@ -645,21 +686,24 @@
    "250413am_legacy",
    "250416_legacy",
    "250416_legacyintro",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Yamauchi Yuna": [
    "250411_legacy",
    "250411_legacyintro",
    "250416_legacy",
    "250416_legacyintro",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Yanase Reia": [
    "250411_legacy",
    "250411_legacyintro",
    "250416_legacy",
    "250416_legacyintro",
-   "261030_review"
+   "261030_review",
+   "261031H_review"
   ],
   "Yasui Hina": [
    "250405_legacy",

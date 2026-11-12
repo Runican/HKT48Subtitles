@@ -1,0 +1,1273 @@
+[Script Info]
+Title: HKT48 261031 H6 LOD 1700 1080p DMM (Kurihara Sae Graduation Announcement)
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,56,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:17:43.46,0:17:48.51,Default,Ishibashi Ibuki,0,0,60,,Good evening, everyone! We're HKT48 Team H.
+Dialogue: 0,0:17:55.40,0:17:58.24,Default,Ishibashi Ibuki,0,0,60,,Our Team H Mokugekisha show is underway—
+Dialogue: 0,0:17:58.32,0:17:59.82,Default,Ishibashi Ibuki,0,0,60,,are you all having fun?
+Dialogue: 0,0:18:02.98,0:18:03.98,Default,Ishibashi Ibuki,0,0,60,,Thank you!
+Dialogue: 0,0:18:04.32,0:18:05.92,Default,Ishibashi Ibuki,0,0,60,,First up: "Mokugekisha,"
+Dialogue: 0,0:18:06.00,0:18:06.96,Default,Ishibashi Ibuki,0,0,60,,"Zenjin Mitou,"
+Dialogue: 0,0:18:07.04,0:18:08.06,Default,Ishibashi Ibuki,0,0,60,,"Ibitsu na Shinju,"
+Dialogue: 0,0:18:08.14,0:18:09.38,Default,Ishibashi Ibuki,0,0,60,,"Akogare no Popstar"—
+Dialogue: 0,0:18:09.46,0:18:11.52,Default,Ishibashi Ibuki,0,0,60,,four songs in a row.
+Dialogue: 0,0:18:11.92,0:18:14.10,Default,Ishibashi Ibuki,0,0,60,,Next we'd like to take some photos.
+Dialogue: 0,0:18:14.18,0:18:15.38,Default,Ishibashi Ibuki,0,0,60,,Photographer,
+Dialogue: 0,0:18:17.49,0:18:18.49,Default,All,0,0,60,,over to you!
+Dialogue: 0,0:18:24.52,0:18:25.17,Default,Toyonaga Aki,0,0,60,,Squeeze in!
+Dialogue: 0,0:18:31.75,0:18:33.57,Default,Toyonaga Aki,0,0,60,,Yuinya, what do you want? Bunny?
+Dialogue: 0,0:18:34.61,0:18:35.33,Default,Ishimatsu Yuina,0,0,60,,Cats, then.
+Dialogue: 0,0:18:37.58,0:18:38.93,Default,Toyonaga Aki,0,0,60,,I heard "Yuinya bunny."
+Dialogue: 0,0:18:49.84,0:18:50.94,Default,Toyonaga Aki,0,0,60,,Next—
+Dialogue: 0,0:18:54.25,0:18:55.19,Default,Ishibashi Ibuki,0,0,60,,How about a roar?
+Dialogue: 0,0:18:55.87,0:18:57.10,Default,Toyonaga Aki,0,0,60,,since it's Halloween.
+Dialogue: 0,0:19:09.40,0:19:10.99,Default,Toyonaga Aki,0,0,60,,You broke into a big smile.
+Dialogue: 0,0:19:12.40,0:19:13.42,Default,Toyonaga Aki,0,0,60,,And last—
+Dialogue: 0,0:19:16.64,0:19:17.20,Default,Multiple,0,0,60,,H!
+Dialogue: 0,0:19:18.02,0:19:19.58,Default,All,0,0,60,,Happy Halloween!
+Dialogue: 0,0:19:19.66,0:19:21.08,Default,All,0,0,60,,Happy Halloween, H!
+Dialogue: 0,0:19:27.48,0:19:28.66,Default,Shibui Mina,0,0,60,,Thank you very much.
+Dialogue: 0,0:19:33.77,0:19:34.65,Default,Ishibashi Ibuki,0,0,60,,Thanks so much.
+Dialogue: 0,0:19:35.29,0:19:38.67,Default,Ishibashi Ibuki,0,0,60,,This photo will be sold in the lobby after the show,
+Dialogue: 0,0:19:38.90,0:19:40.90,Default,Ishibashi Ibuki,0,0,60,,so please stop by on your way out.
+Dialogue: 0,0:19:41.12,0:19:41.94,Default,Ishibashi Ibuki,0,0,60,,Thank you all.
+Dialogue: 0,0:19:43.00,0:19:44.00,Default,All,0,0,60,,Thanks a lot.
+Dialogue: 0,0:19:47.60,0:19:48.60,Default,Ishibashi Ibuki,0,0,60,,Thank you!
+Dialogue: 0,0:19:49.28,0:19:52.78,Default,Ishibashi Ibuki,0,0,60,,Now we'll introduce ourselves with today's theme.
+Dialogue: 0,0:19:53.10,0:19:54.28,Default,Ishibashi Ibuki,0,0,60,,Today's theme is
+Dialogue: 0,0:19:54.56,0:19:58.40,Default,Ishibashi Ibuki,0,0,60,,Trick or Treat—
+Dialogue: 0,0:19:58.48,0:20:02.18,Default,Ishibashi Ibuki,0,0,60,,and "treat" means a little reward,
+Dialogue: 0,0:20:02.46,0:20:06.20,Default,Ishibashi Ibuki,0,0,60,,so: a little treat for yourself.
+Dialogue: 0,0:20:06.80,0:20:08.18,Default,Ishibashi Ibuki,0,0,60,,Aichi, please go first.
+Dialogue: 0,0:20:08.26,0:20:09.22,Default,Ishibashi Ibuki,0,0,60,,Please.
+Dialogue: 0,0:20:09.30,0:20:12.40,Default,Ichimura Airi,0,0,60,,Today too: safety first, health first — everyone's
+Dialogue: 0,0:20:12.48,0:20:13.40,Default,Crowd,0,0,60,,Aichi!
+Dialogue: 0,0:20:14.88,0:20:17.98,Default,Ichimura Airi,0,0,60,,Thank you! From Kanagawa Prefecture, I'm Ichimura Airi!
+Dialogue: 0,0:20:24.02,0:20:30.22,Default,Ichimura Airi,0,0,60,,My little treat is the food people bring us at work.
+Dialogue: 0,0:20:30.52,0:20:34.14,Default,Ichimura Airi,0,0,60,,Sometimes the other members
+Dialogue: 0,0:20:34.24,0:20:36.52,Default,Ichimura Airi,0,0,60,,bring us things too.
+Dialogue: 0,0:20:36.60,0:20:42.34,Default,Ichimura Airi,0,0,60,,Yesterday, Meimei brought Team H some sweets.
+Dialogue: 0,0:20:42.72,0:20:47.34,Default,Ichimura Airi,0,0,60,,And Amiyun said, "I'll bring something tomorrow."
+Dialogue: 0,0:20:48.08,0:20:50.50,Default,Ichimura Airi,0,0,60,,She brought us something to introduce herself.
+Dialogue: 0,0:20:50.58,0:20:52.90,Default,Ichimura Airi,0,0,60,,When she said she would bring something,
+Dialogue: 0,0:20:53.78,0:20:57.52,Default,Ichimura Airi,0,0,60,,I said, "You really don't have to bring sweets!"
+Dialogue: 0,0:20:57.60,0:21:01.50,Default,Ichimura Airi,0,0,60,,"No need to bring anything sweet!"
+Dialogue: 0,0:21:01.96,0:21:04.96,Default,Ichimura Airi,0,0,60,,Then today, she brought us sweets!
+Dialogue: 0,0:21:07.56,0:21:09.62,Default,Toyonaga Aki,0,0,60,,Don't sponge off a middle-schooler.
+Dialogue: 0,0:21:10.86,0:21:11.78,Default,Ichimura Airi,0,0,60,,Right?
+Dialogue: 0,0:21:11.86,0:21:15.12,Default,Ichimura Airi,0,0,60,,Normally, the senior members should be giving her things.
+Dialogue: 0,0:21:15.64,0:21:19.02,Default,Ichimura Airi,0,0,60,,She brought so much cake!
+Dialogue: 0,0:21:20.00,0:21:23.54,Default,Ichimura Airi,0,0,60,,Senior members usually say, "You juniors go first."
+Dialogue: 0,0:21:23.62,0:21:26.96,Default,Ichimura Airi,0,0,60,,HKT has lots of kind seniors like that.
+Dialogue: 0,0:21:27.04,0:21:28.08,Default,Ichimura Airi,0,0,60,,But,
+Dialogue: 0,0:21:28.88,0:21:30.22,Default,Ichimura Airi,0,0,60,,I ignore all that
+Dialogue: 0,0:21:31.00,0:21:32.54,Default,Ichimura Airi,0,0,60,,and get there before anyone else.
+Dialogue: 0,0:21:32.62,0:21:35.54,Default,Ichimura Airi,0,0,60,,She even hurries the rest of us along!
+Dialogue: 0,0:21:35.62,0:21:39.00,Default,Kurihara Sae,0,0,60,,"Mai-san, Sayu-chan, Yuna-chan, hurry — I can't go till you do!"
+Dialogue: 0,0:21:39.08,0:21:41.70,Default,Kurihara Sae,0,0,60,,"Aki-san, you too, hurry!" she says.
+Dialogue: 0,0:21:43.92,0:21:46.00,Default,Yanase Reia,0,0,60,,And I'm sixth generation, so —
+Dialogue: 0,0:21:46.10,0:21:49.78,Default,Yanase Reia,0,0,60,,We wait in order: third generation, then Aki-san in fourth.
+Dialogue: 0,0:21:50.14,0:21:53.18,Default,Yanase Reia,0,0,60,,Then it's fifth generation: "Aichi-san, your turn."
+Dialogue: 0,0:21:53.26,0:21:54.50,Default,Yanase Reia,0,0,60,,But she's already back!
+Dialogue: 0,0:21:55.64,0:21:57.24,Default,Ichimura Airi,0,0,60,,Yes, I'm quick!
+Dialogue: 0,0:21:57.32,0:22:00.28,Default,Ichimura Airi,0,0,60,,At HKT, the treats are first come, first served.
+Dialogue: 0,0:22:00.88,0:22:01.82,Default,Toyonaga Aki,0,0,60,,Rule of the jungle.
+Dialogue: 0,0:22:01.90,0:22:03.96,Default,Ichimura Airi,0,0,60,,That's how our fifth generation was raised.
+Dialogue: 0,0:22:04.30,0:22:05.70,Default,Ishibashi Ibuki,0,0,60,,We weren't raised that way!
+Dialogue: 0,0:22:05.84,0:22:10.18,Default,Ichimura Airi,0,0,60,,Anyway, I'll bring everyone something next time too.
+Dialogue: 0,0:22:10.26,0:22:10.76,Default,Crowd,0,0,60,,Ahh!
+Dialogue: 0,0:22:12.02,0:22:13.60,Default,Kurihara Sae,0,0,60,,Ehh! What'll you do?
+Dialogue: 0,0:22:13.74,0:22:16.38,Default,Ichimura Airi,0,0,60,,I'll win the money at the horse races!
+Dialogue: 0,0:22:17.12,0:22:19.12,Default,Ichimura Airi,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:22:19.20,0:22:20.18,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:22:23.23,0:22:25.71,Default,Toyonaga Aki,0,0,60,,The "A" in Aki is the "A" in Asura — but at heart I'm a Bodhisattva.
+Dialogue: 0,0:22:25.79,0:22:27.59,Default,Toyonaga Aki,0,0,60,,Still in training, age 27 —
+Dialogue: 0,0:22:27.67,0:22:29.03,Default,Toyonaga Aki,0,0,60,,I'm Toyonaga Aki, also known as Aki!
+Dialogue: 0,0:22:33.23,0:22:34.60,Default,Toyonaga Aki,0,0,60,,Thank you!
+Dialogue: 0,0:22:34.68,0:22:36.62,Default,Toyonaga Aki,0,0,60,,My little treat is,
+Dialogue: 0,0:22:37.10,0:22:39.02,Default,Toyonaga Aki,0,0,60,,when I get about three days off,
+Dialogue: 0,0:22:39.10,0:22:41.56,Default,Toyonaga Aki,0,0,60,,going on a solo trip.
+Dialogue: 0,0:22:41.64,0:22:42.74,Default,Toyonaga Aki,0,0,60,,Just recently,
+Dialogue: 0,0:22:42.82,0:22:44.32,Default,Toyonaga Aki,0,0,60,,two and three days ago,
+Dialogue: 0,0:22:44.40,0:22:47.10,Default,Toyonaga Aki,0,0,60,,I went to Beppu by myself for two days and one night.
+Dialogue: 0,0:22:47.98,0:22:51.40,Default,Toyonaga Aki,0,0,60,,I love solo trips with no plan,
+Dialogue: 0,0:22:51.74,0:22:55.12,Default,Toyonaga Aki,0,0,60,,and in two days I hit about five hot springs.
+Dialogue: 0,0:22:55.20,0:23:00.72,Default,Toyonaga Aki,0,0,60,,I rushed from bath to bath as if something were chasing me.
+Dialogue: 0,0:23:00.80,0:23:04.38,Default,Toyonaga Aki,0,0,60,,I wasn't sure I'd actually managed to relax!
+Dialogue: 0,0:23:04.46,0:23:07.10,Default,Toyonaga Aki,0,0,60,,I wanted to recharge
+Dialogue: 0,0:23:07.18,0:23:08.96,Default,Toyonaga Aki,0,0,60,,for our shows here.
+Dialogue: 0,0:23:09.04,0:23:10.32,Default,Toyonaga Aki,0,0,60,,then I went home,
+Dialogue: 0,0:23:10.40,0:23:12.20,Default,Toyonaga Aki,0,0,60,,I thought, "Now I can get a good night's sleep
+Dialogue: 0,0:23:12.28,0:23:13.76,Default,Toyonaga Aki,0,0,60,,and give a great performance tomorrow."
+Dialogue: 0,0:23:13.84,0:23:18.94,Default,Toyonaga Aki,0,0,60,,But as I was falling asleep, I felt like I was still in Beppu!
+Dialogue: 0,0:23:19.78,0:23:23.34,Default,Toyonaga Aki,0,0,60,,Then I realized I still smelled strongly of sulfur.
+Dialogue: 0,0:23:24.84,0:23:31.16,Default,Toyonaga Aki,0,0,60,,I panicked! That morning I showered to wash off the hot-spring smell.
+Dialogue: 0,0:23:31.88,0:23:36.00,Default,Toyonaga Aki,0,0,60,,But I still smelled a little of sulfur at yesterday's show. Oh no!
+Dialogue: 0,0:23:39.98,0:23:41.90,Default,Ichimura Airi,0,0,60,,Careful, careful!
+Dialogue: 0,0:23:44.70,0:23:46.66,Default,Ichimura Airi,0,0,60,,Careful, everyone!
+Dialogue: 0,0:23:46.74,0:23:48.20,Default,Kurihara Sae,0,0,60,,Mai-chan, don't sniff!
+Dialogue: 0,0:23:50.80,0:23:53.70,Default,Ichimura Airi,0,0,60,,A hot spring! There's a hot spring right here!
+Dialogue: 0,0:23:53.90,0:23:54.70,Default,Yamauchi Yuna,0,0,60,,There isn't!
+Dialogue: 0,0:23:56.00,0:23:57.48,Default,Toyonaga Aki,0,0,60,,Plus, Ibuki...
+Dialogue: 0,0:23:57.56,0:24:02.97,Default,Toyonaga Aki,0,0,60,,Ibuki's been living on boiled eggs lately, so the sulfur smell brings back bad memories!
+Dialogue: 0,0:24:03.05,0:24:07.43,Default,Toyonaga Aki,0,0,60,,That was harsh! But anyway, the trip really helped me unwind.
+Dialogue: 0,0:24:07.83,0:24:09.95,Default,Toyonaga Aki,0,0,60,,I'll give it my all today
+Dialogue: 0,0:24:10.03,0:24:12.89,Default,Toyonaga Aki,0,0,60,,and try to make this a treat for all of you!
+Dialogue: 0,0:24:12.97,0:24:14.77,Default,Toyonaga Aki,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:24:19.15,0:24:21.83,Default,Ishibashi Ibuki,0,0,60,,When I point the mic, say "Ibuki—!"
+Dialogue: 0,0:24:23.66,0:24:24.70,Default,Ishibashi Ibuki,0,0,60,,Ibu-ibu-ibu-ibu—!
+Dialogue: 0,0:24:24.78,0:24:25.70,Default,Crowd,0,0,60,,Ibuki!
+Dialogue: 0,0:24:26.99,0:24:29.93,Default,Ishibashi Ibuki,0,0,60,,Thank you! I'll bring a breath of fresh air to HKT.
+Dialogue: 0,0:24:30.01,0:24:33.37,Default,Ishibashi Ibuki,0,0,60,,I'm Ishibashi Ibuki from Fukuoka, and I love kickboxing!
+Dialogue: 0,0:24:38.74,0:24:44.60,Default,Ishibashi Ibuki,0,0,60,,My little treat is: after any concert or job,
+Dialogue: 0,0:24:44.68,0:24:49.78,Default,Ishibashi Ibuki,0,0,60,,I always go home and have grilled meat with my family.
+Dialogue: 0,0:24:49.86,0:24:55.60,Default,Ishibashi Ibuki,0,0,60,,With the other members, I go to affordable places,
+Dialogue: 0,0:24:55.68,0:25:01.82,Default,Ishibashi Ibuki,0,0,60,,the sort of restaurant even I can afford.
+Dialogue: 0,0:25:01.90,0:25:06.18,Default,Ishibashi Ibuki,0,0,60,,But with my family, I can go somewhere nicer
+Dialogue: 0,0:25:06.26,0:25:11.56,Default,Ishibashi Ibuki,0,0,60,,and ask for the expensive cuts that look delicious!
+Dialogue: 0,0:25:13.02,0:25:18.56,Default,Ishibashi Ibuki,0,0,60,,I want dessert too. They have things you could buy at FamilyMart,
+Dialogue: 0,0:25:18.64,0:25:21.32,Default,Ishibashi Ibuki,0,0,60,,like ice cream.
+Dialogue: 0,0:25:22.20,0:25:28.70,Default,Ishibashi Ibuki,0,0,60,,But I always get my dessert from FamilyMart after dinner.
+Dialogue: 0,0:25:30.34,0:25:31.06,Default,Ichimura Airi,0,0,60,,Seriously?
+Dialogue: 0,0:25:31.14,0:25:34.70,Default,Yamauchi Yuna,0,0,60,,Sounds like an advertisement!
+Dialogue: 0,0:25:37.00,0:25:40.94,Default,Ishibashi Ibuki,0,0,60,,No, no, that's not it at all.
+Dialogue: 0,0:25:41.02,0:25:45.08,Default,Ishibashi Ibuki,0,0,60,,I've always loved FamilyMart sweets,
+Dialogue: 0,0:25:45.50,0:25:47.30,Default,Ishibashi Ibuki,0,0,60,,so I eat them all the time.
+Dialogue: 0,0:25:47.38,0:25:51.64,Default,Ishibashi Ibuki,0,0,60,,and those FamilyMart sweets are my treat.
+Dialogue: 0,0:25:52.48,0:25:54.08,Default,Ichimura Airi,0,0,60,,You don't need to look straight into the camera!
+Dialogue: 0,0:25:54.16,0:25:55.18,Default,Ichimura Airi,0,0,60,,You don't.
+Dialogue: 0,0:25:55.26,0:25:57.64,Default,Ishibashi Ibuki,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:26:02.20,0:26:05.52,Default,Kurihara Sae,0,0,60,,I'm Kurihara Sae, Sae-chan, from HKT48 Team H!
+Dialogue: 0,0:26:10.09,0:26:13.27,Default,Kurihara Sae,0,0,60,,My little treat is Starbucks,
+Dialogue: 0,0:26:13.91,0:26:18.01,Default,Kurihara Sae,0,0,60,,I got quite a few Starbucks gift vouchers for my birthday,
+Dialogue: 0,0:26:18.09,0:26:21.53,Default,Kurihara Sae,0,0,60,,and they expire today.
+Dialogue: 0,0:26:22.07,0:26:25.23,Default,Kurihara Sae,0,0,60,,What am I going to do from tomorrow?
+Dialogue: 0,0:26:25.69,0:26:28.81,Default,Kurihara Sae,0,0,60,,I'll buy it myself, but is that still a little treat?
+Dialogue: 0,0:26:29.09,0:26:31.40,Default,Ichimura Airi,0,0,60,,Isn't that a lot of treats?
+Dialogue: 0,0:26:32.00,0:26:34.47,Default,Toyonaga Aki,0,0,60,,You always arrive with Starbucks!
+Dialogue: 0,0:26:34.55,0:26:40.57,Default,Kurihara Sae,0,0,60,,No, today's one-drink only, right? I wondered if there'd be Starbucks,
+Dialogue: 0,0:26:40.65,0:26:42.35,Default,Kurihara Sae,0,0,60,,but there isn't,
+Dialogue: 0,0:26:42.45,0:26:46.53,Default,Kurihara Sae,0,0,60,,So, for tomorrow onwards, I'm accepting Starbucks vouchers!
+Dialogue: 0,0:26:47.97,0:26:49.33,Default,Toyonaga Aki,0,0,60,,That's against the rules!
+Dialogue: 0,0:26:49.63,0:26:50.39,Default,Kurihara Sae,0,0,60,,You can't do that!
+Dialogue: 0,0:26:50.51,0:26:52.22,Default,Kurihara Sae,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:26:55.18,0:27:00.65,Default,Nakano Minami,0,0,60,,When I point the mic: south, south-facing, southwest — then after my name, "twinkle twinkle."
+Dialogue: 0,0:27:01.82,0:27:03.70,Default,Nakano Minami,0,0,60,,Of all the compass points, which do you like?
+Dialogue: 0,0:27:04.14,0:27:04.90,Default,Crowd,0,0,60,,South!
+Dialogue: 0,0:27:05.06,0:27:06.15,Default,Nakano Minami,0,0,60,,Apartment hunting?
+Dialogue: 0,0:27:06.24,0:27:07.40,Default,Crowd,0,0,60,,South-facing!
+Dialogue: 0,0:27:07.68,0:27:08.66,Default,Nakano Minami,0,0,60,,And when you're hunting for...?
+Dialogue: 0,0:27:08.74,0:27:09.70,Default,Crowd,0,0,60,,Southwest!
+Dialogue: 0,0:27:10.60,0:27:11.34,Default,Nakano Minami,0,0,60,,Thank you so much.
+Dialogue: 0,0:27:11.42,0:27:12.68,Default,Nakano Minami,0,0,60,,Hakata's Southern Cross —
+Dialogue: 0,0:27:12.76,0:27:14.10,Default,Nakano Minami,0,0,60,,Mii-na, Nakano Minami.
+Dialogue: 0,0:27:14.18,0:27:15.20,Default,Crowd,0,0,60,,Twinkle, twinkle!
+Dialogue: 0,0:27:16.27,0:27:17.27,Default,Nakano Minami,0,0,60,,Please support me!
+Dialogue: 0,0:27:21.62,0:27:22.44,Default,Nakano Minami,0,0,60,,Thank you all!
+Dialogue: 0,0:27:22.78,0:27:24.72,Default,Nakano Minami,0,0,60,,My little treat
+Dialogue: 0,0:27:24.80,0:27:27.86,Default,Nakano Minami,0,0,60,,is getting lots of compliments from you.
+Dialogue: 0,0:27:27.94,0:27:31.00,Default,Nakano Minami,0,0,60,,I'm the type who thrives on praise.
+Dialogue: 0,0:27:31.08,0:27:32.42,Default,Nakano Minami,0,0,60,,I've always thought so.
+Dialogue: 0,0:27:32.50,0:27:34.48,Default,Nakano Minami,0,0,60,,I'll work hard in today's show,
+Dialogue: 0,0:27:34.56,0:27:36.84,Default,Nakano Minami,0,0,60,,so I'd like you to praise me in advance!
+Dialogue: 0,0:27:37.20,0:27:38.50,Default,Toyonaga Aki,0,0,60,,Is that a thing?
+Dialogue: 0,0:27:38.60,0:27:39.40,Default,Yamauchi Yuna,0,0,60,,In advance?
+Dialogue: 0,0:27:41.26,0:27:42.40,Default,Nakano Minami,0,0,60,,It means I can do my best!
+Dialogue: 0,0:27:42.50,0:27:44.24,Default,Nakano Minami,0,0,60,,Your praise helps me do my best.
+Dialogue: 0,0:27:44.32,0:27:46.78,Default,Nakano Minami,0,0,60,,I'm going to ask, "Am I cute today?"
+Dialogue: 0,0:27:46.86,0:27:47.98,Default,Nakano Minami,0,0,60,,Please answer, "You're cute!"
+Dialogue: 0,0:27:48.06,0:27:49.04,Default,Nakano Minami,0,0,60,,Here we go!
+Dialogue: 0,0:27:49.12,0:27:51.30,Default,Nakano Minami,0,0,60,,Am I cute today?
+Dialogue: 0,0:27:51.72,0:27:52.86,Default,Crowd,0,0,60,,You're cute!
+Dialogue: 0,0:27:53.50,0:27:55.32,Default,Nakano Minami,0,0,60,,I'll do my best! Please enjoy the show!
+Dialogue: 0,0:27:58.44,0:27:59.74,Default,Nakano Minami,0,0,60,,Stop getting embarrassed!
+Dialogue: 0,0:28:02.35,0:28:05.13,Default,Kitagawa Hiiro,0,0,60,,When I say "super," please say "hero."
+Dialogue: 0,0:28:05.81,0:28:06.17,Default,Crowd,0,0,60,,Okay!
+Dialogue: 0,0:28:06.90,0:28:10.18,Default,Kitagawa Hiiro,0,0,60,,Bright like the sun — Hakata's super
+Dialogue: 0,0:28:10.26,0:28:11.40,Default,Crowd,0,0,60,,Hero!
+Dialogue: 0,0:28:11.72,0:28:12.72,Default,Kitagawa Hiiro,0,0,60,,Thanks, everyone.
+Dialogue: 0,0:28:12.82,0:28:16.32,Default,Kitagawa Hiiro,0,0,60,,I'm Kitagawa Hiiro, 22, from Fukuoka and Team H!
+Dialogue: 0,0:28:16.40,0:28:17.50,Default,Crowd,0,0,60,,Hero!
+Dialogue: 0,0:28:19.84,0:28:21.15,Default,Kitagawa Hiiro,0,0,60,,Thank you so much!
+Dialogue: 0,0:28:21.34,0:28:23.44,Default,Kitagawa Hiiro,0,0,60,,My little treat
+Dialogue: 0,0:28:23.54,0:28:27.40,Default,Kitagawa Hiiro,0,0,60,,is a hug from Ishimatsu Yuina-chan.
+Dialogue: 0,0:28:27.98,0:28:30.88,Default,Kitagawa Hiiro,0,0,60,,Usually, when I get close to Yuina,
+Dialogue: 0,0:28:30.96,0:28:33.48,Default,Kitagawa Hiiro,0,0,60,,she gives me a chilly look
+Dialogue: 0,0:28:33.56,0:28:35.56,Default,Kitagawa Hiiro,0,0,60,,and tells me to stop.
+Dialogue: 0,0:28:35.74,0:28:39.94,Default,Kitagawa Hiiro,0,0,60,,so today I tried asking, "Will you hug me as my treat?"
+Dialogue: 0,0:28:40.02,0:28:43.10,Default,Kitagawa Hiiro,0,0,60,,and she said, "Okay, later."
+Dialogue: 0,0:28:47.60,0:28:49.66,Default,Yamauchi Yuna,0,0,60,,What are we being shown here?
+Dialogue: 0,0:28:53.29,0:28:53.97,Default,Kitagawa Hiiro,0,0,60,,Really? Thanks.
+Dialogue: 0,0:28:54.05,0:28:56.39,Default,Yanase Reia,0,0,60,,Like today's an OK day?
+Dialogue: 0,0:28:56.61,0:28:58.20,Default,Yamauchi Yuna,0,0,60,,Reia's scary, Reia's scary—
+Dialogue: 0,0:28:59.09,0:29:00.65,Default,Kitagawa Hiiro,0,0,60,,Like, "I have to win today"—
+Dialogue: 0,0:29:00.73,0:29:01.25,Default,Yamauchi Yuna,0,0,60,,Calm down, Reia.
+Dialogue: 0,0:29:01.76,0:29:02.47,Default,Yanase Reia,0,0,60,,Oh — not OK?
+Dialogue: 0,0:29:02.65,0:29:04.14,Default,Ishimatsu Yuina,0,0,60,,No good, Reia-chan.
+Dialogue: 0,0:29:04.22,0:29:08.64,Default,Kitagawa Hiiro,0,0,60,,It makes me feel special. I can keep going for another year!
+Dialogue: 0,0:29:08.72,0:29:10.28,Default,Kitagawa Hiiro,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:29:14.34,0:29:16.88,Default,Fuchigami Mai,0,0,60,,I'm from Fukuoka. I'll visit you in your dreams again tonight!
+Dialogue: 0,0:29:16.96,0:29:20.10,Default,Fuchigami Mai,0,0,60,,Hakata's Sleeping Beauty, Team H's Mai-chan, Fuchigami Mai!
+Dialogue: 0,0:29:23.56,0:29:25.00,Default,Fuchigami Mai,0,0,60,,Thank you so much.
+Dialogue: 0,0:29:25.07,0:29:27.91,Default,Fuchigami Mai,0,0,60,,I have lots of little treats,
+Dialogue: 0,0:29:29.45,0:29:31.17,Default,Fuchigami Mai,0,0,60,,but on days I feel I worked hard,
+Dialogue: 0,0:29:31.25,0:29:35.31,Default,Fuchigami Mai,0,0,60,,I buy a slightly fancy cut of meat I usually skip,
+Dialogue: 0,0:29:35.39,0:29:36.86,Default,Fuchigami Mai,0,0,60,,and cook it at home.
+Dialogue: 0,0:29:38.38,0:29:40.74,Default,Fuchigami Mai,0,0,60,,I say grilled meat, but I just cook it in a frying pan!
+Dialogue: 0,0:29:41.88,0:29:44.35,Default,Fuchigami Mai,0,0,60,,I recently found a delicious sauce to go with it.
+Dialogue: 0,0:29:44.60,0:29:49.44,Default,Fuchigami Mai,0,0,60,,I wrap it in lettuce leaves called sanchu.
+Dialogue: 0,0:29:49.52,0:29:52.40,Default,Fuchigami Mai,0,0,60,,That makes it feel less indulgent.
+Dialogue: 0,0:29:52.72,0:29:55.20,Default,Fuchigami Mai,0,0,60,,I'm getting vegetables as well as meat!
+Dialogue: 0,0:29:55.28,0:29:57.96,Default,Fuchigami Mai,0,0,60,,so I often eat it after shows.
+Dialogue: 0,0:29:58.38,0:30:00.50,Default,Fuchigami Mai,0,0,60,,I hope the lettuce isn't sold out today!
+Dialogue: 0,0:30:00.58,0:30:01.68,Default,Fuchigami Mai,0,0,60,,I'll give the show my best.
+Dialogue: 0,0:30:01.76,0:30:03.30,Default,Fuchigami Mai,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:30:03.38,0:30:04.86,Default,Crowd,0,0,60,,Yay.
+Dialogue: 0,0:30:07.29,0:30:10.33,Default,Yanase Reia,0,0,60,,Pure, proper, beautiful — I play 30 instruments.
+Dialogue: 0,0:30:10.41,0:30:12.37,Default,Yanase Reia,0,0,60,,The versatile Princess Reia of the Reiwa era!
+Dialogue: 0,0:30:12.45,0:30:15.05,Default,Yanase Reia,0,0,60,,I'm Yanase Reia, 20, from Kanagawa.
+Dialogue: 0,0:30:21.08,0:30:24.48,Default,Yanase Reia,0,0,60,,My little treat is cola.
+Dialogue: 0,0:30:25.04,0:30:27.76,Default,Yanase Reia,0,0,60,,I really love cola,
+Dialogue: 0,0:30:28.44,0:30:31.46,Default,Yanase Reia,0,0,60,,People are often surprised when I tell them.
+Dialogue: 0,0:30:31.54,0:30:37.14,Default,Yanase Reia,0,0,60,,but I always keep six 2-liter bottles stocked at home.
+Dialogue: 0,0:30:37.22,0:30:39.18,Default,Yanase Reia,0,0,60,,Lots in the fridge too —
+Dialogue: 0,0:30:39.26,0:30:41.86,Default,Yanase Reia,0,0,60,,Cans, small bottles,
+Dialogue: 0,0:30:41.94,0:30:44.72,Default,Yanase Reia,0,0,60,,and big bottles—I keep every size!
+Dialogue: 0,0:30:44.84,0:30:49.14,Default,Yanase Reia,0,0,60,,So I can drink whatever cola I want whenever,
+Dialogue: 0,0:30:49.58,0:30:53.34,Default,Yanase Reia,0,0,60,,This venue has a one-drink system, and they serve Coca-Cola, right?
+Dialogue: 0,0:30:53.64,0:30:57.30,Default,Yanase Reia,0,0,60,,While we were dancing,
+Dialogue: 0,0:30:57.46,0:31:01.26,Default,Yanase Reia,0,0,60,,I spotted someone opening a bottle and drinking it as they watched!
+Dialogue: 0,0:31:01.34,0:31:02.30,Default,Yanase Reia,0,0,60,,Are you mad?
+Dialogue: 0,0:31:02.62,0:31:03.34,Default,Yanase Reia,0,0,60,,Oh, are you mad?
+Dialogue: 0,0:31:03.42,0:31:04.20,Default,Yanase Reia,0,0,60,,Huh? Huh?
+Dialogue: 0,0:31:04.38,0:31:06.40,Default,Yanase Reia,0,0,60,,"Whoa, they're really drinking!"
+Dialogue: 0,0:31:08.56,0:31:09.70,Default,Yanase Reia,0,0,60,,"You're drinking it right now, huh!"
+Dialogue: 0,0:31:11.00,0:31:14.87,Default,Yanase Reia,0,0,60,,I was watching, thinking it must be an insanely delicious cola!
+Dialogue: 0,0:31:14.95,0:31:17.47,Default,Yanase Reia,0,0,60,,I'm going to work up a sweat today
+Dialogue: 0,0:31:17.55,0:31:20.87,Default,Yanase Reia,0,0,60,,and enjoy a really delicious cola after the show!
+Dialogue: 0,0:31:20.95,0:31:22.37,Default,Yanase Reia,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:31:22.97,0:31:24.41,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:31:24.49,0:31:28.41,Default,Ryuto Ayane,0,0,60,,Who has sparkling eyes and round cheeks?
+Dialogue: 0,0:31:31.41,0:31:33.19,Default,Ryuto Ayane,0,0,60,,the right cheek is packed with charm,
+Dialogue: 0,0:31:33.27,0:31:35.15,Default,Ryuto Ayane,0,0,60,,the left with power.
+Dialogue: 0,0:31:35.23,0:31:37.46,Default,Ryuto Ayane,0,0,60,,Bringing power to everyone again today!
+Dialogue: 0,0:31:38.88,0:31:42.22,Default,Ryuto Ayane,0,0,60,,Thank you! I'm Ryuto Ayane, from Nagasaki, 16.
+Dialogue: 0,0:31:42.30,0:31:43.30,Default,Ryuto Ayane,0,0,60,,Please support me!
+Dialogue: 0,0:31:48.90,0:31:52.48,Default,Ryuto Ayane,0,0,60,,My little treat — I really love Japanese sweets,
+Dialogue: 0,0:31:52.56,0:31:54.34,Default,Ryuto Ayane,0,0,60,,so eating them is my little treat.
+Dialogue: 0,0:31:54.88,0:31:58.36,Default,Ryuto Ayane,0,0,60,,The day after our concert in Aichi,
+Dialogue: 0,0:31:58.44,0:32:01.32,Default,Ryuto Ayane,0,0,60,,I treated myself to breakfast at a cafe alone for the first time.
+Dialogue: 0,0:32:01.40,0:32:05.66,Default,Ryuto Ayane,0,0,60,,I ordered a set of dumplings you grill yourself.
+Dialogue: 0,0:32:05.74,0:32:10.60,Default,Ryuto Ayane,0,0,60,,Red bean paste, kinako, mitarashi glaze, and soy sauce — as a set,
+Dialogue: 0,0:32:10.68,0:32:13.56,Default,Ryuto Ayane,0,0,60,,so you could choose your own toppings.
+Dialogue: 0,0:32:13.64,0:32:15.74,Default,Ryuto Ayane,0,0,60,,It was so delicious
+Dialogue: 0,0:32:16.30,0:32:20.56,Default,Ryuto Ayane,0,0,60,,that I bought a dumpling grill online!
+Dialogue: 0,0:32:23.28,0:32:27.02,Default,Ryuto Ayane,0,0,60,,I put red bean paste,
+Dialogue: 0,0:32:27.10,0:32:30.00,Default,Ryuto Ayane,0,0,60,,sweet soy glaze, and soybean flour on plates at home
+Dialogue: 0,0:32:30.38,0:32:31.76,Default,Ryuto Ayane,0,0,60,,and had some the other day.
+Dialogue: 0,0:32:31.84,0:32:34.76,Default,Ryuto Ayane,0,0,60,,Eating them after a hard day's work
+Dialogue: 0,0:32:34.84,0:32:37.66,Default,Ryuto Ayane,0,0,60,,feels absolutely wonderful!
+Dialogue: 0,0:32:37.74,0:32:40.24,Default,Ryuto Ayane,0,0,60,,I really recommend it!
+Dialogue: 0,0:32:41.24,0:32:44.68,Default,Ryuto Ayane,0,0,60,,From now on I'll eat lots of dango and share lots with everyone!
+Dialogue: 0,0:32:44.76,0:32:46.05,Default,Ryuto Ayane,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:32:46.76,0:32:47.96,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:32:50.26,0:32:54.20,Default,Matsunaga Yui,0,0,60,,When I point the mic, please say "mentaiko French bread" and "Yui-pan"!
+Dialogue: 0,0:32:56.14,0:32:57.02,Default,Matsunaga Yui,0,0,60,,What's Yui's favorite bread?
+Dialogue: 0,0:32:57.38,0:32:58.94,Default,Crowd,0,0,60,,Mentaiko French bread!
+Dialogue: 0,0:32:59.02,0:33:01.14,Default,Matsunaga Yui,0,0,60,,And the bread that loves everyone?
+Dialogue: 0,0:33:01.22,0:33:01.85,Default,Crowd,0,0,60,,Yui-pan!
+Dialogue: 0,0:33:03.74,0:33:06.94,Default,Matsunaga Yui,0,0,60,,I'm Matsunaga Yui, 16, from Fukuoka.
+Dialogue: 0,0:33:07.06,0:33:08.46,Default,Matsunaga Yui,0,0,60,,Please support me!
+Dialogue: 0,0:33:08.54,0:33:09.01,Default,Crowd,0,0,60,,Yui-pan!
+Dialogue: 0,0:33:14.26,0:33:16.32,Default,Matsunaga Yui,0,0,60,,My little treat is
+Dialogue: 0,0:33:16.46,0:33:20.46,Default,Matsunaga Yui,0,0,60,,when we have concerts or travel for work,
+Dialogue: 0,0:33:20.54,0:33:23.22,Default,Matsunaga Yui,0,0,60,,we get catering!
+Dialogue: 0,0:33:23.30,0:33:25.62,Default,Matsunaga Yui,0,0,60,,I love catering so much
+Dialogue: 0,0:33:25.70,0:33:30.42,Default,Matsunaga Yui,0,0,60,,I love it so much I peek out of the dressing room while they set it up!
+Dialogue: 0,0:33:31.42,0:33:36.32,Default,Matsunaga Yui,0,0,60,,The people in charge arrange the catering for us,
+Dialogue: 0,0:33:36.40,0:33:38.20,Default,Matsunaga Yui,0,0,60,,so it's really great value!
+Dialogue: 0,0:33:40.34,0:33:41.60,Default,Yamauchi Yuna,0,0,60,,What are you about to say?
+Dialogue: 0,0:33:42.46,0:33:46.26,Default,Ryuto Ayane,0,0,60,,When the food arrives on tour, the staff say,
+Dialogue: 0,0:33:46.34,0:33:49.10,Default,Ryuto Ayane,0,0,60,,"Everyone, the catering's here!"
+Dialogue: 0,0:33:49.18,0:33:50.38,Default,Yamauchi Yuna,0,0,60,,Ryuto's MC has started!
+Dialogue: 0,0:33:50.46,0:33:55.06,Default,Ryuto Ayane,0,0,60,,The staff say it — like, "It's here!"
+Dialogue: 0,0:33:55.14,0:33:59.62,Default,Ryuto Ayane,0,0,60,,But lately it's always, "Ryuto! Ryuto! The catering's here!"
+Dialogue: 0,0:33:59.70,0:34:01.45,Default,Ryuto Ayane,0,0,60,,Yui tells me every time!
+Dialogue: 0,0:34:01.56,0:34:05.98,Default,Matsunaga Yui,0,0,60,,As publicity lead, I'll keep spreading the word about catering!
+Dialogue: 0,0:34:06.06,0:34:07.74,Default,Matsunaga Yui,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:34:11.77,0:34:14.69,Default,Yamauchi Yuna,0,0,60,,HKT48 Team H's Yuuna — Yamauchi Yuna.
+Dialogue: 0,0:34:19.00,0:34:24.66,Default,Yamauchi Yuna,0,0,60,,My little treat is binge-watching dramas and anime I like.
+Dialogue: 0,0:34:25.40,0:34:29.28,Default,Yamauchi Yuna,0,0,60,,Lately Ryuto and I talk anime a lot
+Dialogue: 0,0:34:29.36,0:34:31.90,Default,Yamauchi Yuna,0,0,60,,and recommend shows to each other,
+Dialogue: 0,0:34:31.98,0:34:35.16,Default,Yamauchi Yuna,0,0,60,,and she'll go "Yuuna-san, did you see that?"
+Dialogue: 0,0:34:35.24,0:34:36.60,Default,Ryuto Ayane,0,0,60,,Are you copying me?
+Dialogue: 0,0:34:37.44,0:34:42.83,Default,Yamauchi Yuna,0,0,60,,She asks me, and then almost gives away spoilers!
+Dialogue: 0,0:34:42.91,0:34:43.93,Default,Yanase Reia,0,0,60,,Yeah.
+Dialogue: 0,0:34:44.20,0:34:48.50,Default,Yamauchi Yuna,0,0,60,,Ryuto really does: "Have you watched that far? Oh, you haven't?"
+Dialogue: 0,0:34:49.36,0:34:51.95,Default,Yanase Reia,0,0,60,,Yeah, she gives away spoilers, this one!
+Dialogue: 0,0:34:53.00,0:34:55.92,Default,Matsunaga Yui,0,0,60,,Even back during Ramune, we told Ryuto, "No spoilers!"
+Dialogue: 0,0:34:56.62,0:34:57.95,Default,Yanase Reia,0,0,60,,Right? She does spoil things!
+Dialogue: 0,0:34:58.60,0:35:02.30,Default,Yamauchi Yuna,0,0,60,,I want to binge-watch before she spoils it for me!
+Dialogue: 0,0:35:02.38,0:35:04.20,Default,Yamauchi Yuna,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:35:10.64,0:35:13.88,Default,Ishikawa Amiyu,0,0,60,,From Fukuoka, age 14, Team H's Amiyun — Ishikawa Amiyu.
+Dialogue: 0,0:35:21.12,0:35:21.80,Default,Ishikawa Amiyu,0,0,60,,My treat is
+Dialogue: 0,0:35:21.88,0:35:26.42,Default,Ishikawa Amiyu,0,0,60,,spending time with the other members.
+Dialogue: 0,0:35:26.50,0:35:30.64,Default,Ishikawa Amiyu,0,0,60,,I used to spend a lot of time with Ijima Riria-chan,
+Dialogue: 0,0:35:30.72,0:35:34.92,Default,Ishikawa Amiyu,0,0,60,,but we're on different teams now, so she's not here.
+Dialogue: 0,0:35:35.02,0:35:38.95,Default,Ishikawa Amiyu,0,0,60,,We don't get to spend as much time together anymore,
+Dialogue: 0,0:35:39.42,0:35:42.20,Default,Ishikawa Amiyu,0,0,60,,so here on Team H, I want to find
+Dialogue: 0,0:35:42.28,0:35:46.08,Default,Ishikawa Amiyu,0,0,60,,someone who won't get tired of all my chatting!
+Dialogue: 0,0:35:46.52,0:35:47.40,Default,Shibui Mina,0,0,60,,I see.
+Dialogue: 0,0:35:53.30,0:35:57.70,Default,Shibui Mina,0,0,60,,No, wait — I could keep up with you, but I'd probably talk your ear off!
+Dialogue: 0,0:35:58.18,0:35:59.78,Default,Ishikawa Amiyu,0,0,60,,No, no, no — I won't lose!
+Dialogue: 0,0:35:59.86,0:36:01.42,Default,Ikuno Rina,0,0,60,,No, seriously, you two are evenly matched!
+Dialogue: 0,0:36:01.50,0:36:03.30,Default,Shibui Mina,0,0,60,,Really? Then let's have a contest sometime!
+Dialogue: 0,0:36:03.64,0:36:05.65,Default,Ishikawa Amiyu,0,0,60,,So today, with someone I click with —
+Dialogue: 0,0:36:05.80,0:36:08.95,Default,Ishikawa Amiyu,0,0,60,,Shibui-san and everyone else!
+Dialogue: 0,0:36:11.10,0:36:12.78,Default,Fujino Kokoha,0,0,60,,You won't even put me second?
+Dialogue: 0,0:36:14.38,0:36:17.06,Default,Ishikawa Amiyu,0,0,60,,Fujikoko-san was doing this, so I thought she didn't want to!
+Dialogue: 0,0:36:17.78,0:36:19.08,Default,Fujino Kokoha,0,0,60,,I can do it too.
+Dialogue: 0,0:36:19.16,0:36:22.30,Default,Ishikawa Amiyu,0,0,60,,During today's MCs,
+Dialogue: 0,0:36:23.48,0:36:27.76,Default,Ishikawa Amiyu,0,0,60,,I'll look for someone who can keep chatting with me!
+Dialogue: 0,0:36:28.02,0:36:29.43,Default,Ishikawa Amiyu,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:36:32.76,0:36:34.17,Default,Ikuno Rina,0,0,60,,Coming to see everyone—
+Dialogue: 0,0:36:34.42,0:36:37.29,Default,Ikuno Rina,0,0,60,,I love gymnastics, I love dance,
+Dialogue: 0,0:36:37.37,0:36:38.35,Default,Ikuno Rina,0,0,60,,I'll give it my all,
+Dialogue: 0,0:36:38.43,0:36:40.87,Default,Ikuno Rina,0,0,60,,first-year high school, age 16 —
+Dialogue: 0,0:36:40.95,0:36:42.23,Default,Ikuno Rina,0,0,60,,Ikuno Rina.
+Dialogue: 0,0:36:42.31,0:36:43.78,Default,Ikuno Rina,0,0,60,,Please support me!
+Dialogue: 0,0:36:48.35,0:36:49.95,Default,Ikuno Rina,0,0,60,,My personal treat is
+Dialogue: 0,0:36:50.03,0:36:51.63,Default,Ikuno Rina,0,0,60,,eating lots of fruit and
+Dialogue: 0,0:36:51.71,0:36:53.89,Default,Ikuno Rina,0,0,60,,watching lots of live footage.
+Dialogue: 0,0:36:54.43,0:36:56.65,Default,Ikuno Rina,0,0,60,,If there's fruit in the fridge
+Dialogue: 0,0:36:56.73,0:36:59.23,Default,Ikuno Rina,0,0,60,,I love it so much I could eat it all!
+Dialogue: 0,0:36:59.31,0:37:01.43,Default,Ikuno Rina,0,0,60,,and I especially love muscat grapes —
+Dialogue: 0,0:37:01.51,0:37:03.09,Default,Ikuno Rina,0,0,60,,Their season is almost over,
+Dialogue: 0,0:37:03.17,0:37:04.13,Default,Ikuno Rina,0,0,60,,so I want to eat plenty!
+Dialogue: 0,0:37:04.21,0:37:05.05,Default,Ikuno Rina,0,0,60,,As for concert videos,
+Dialogue: 0,0:37:05.13,0:37:10.77,Default,Ikuno Rina,0,0,60,,they give me ideas for my own performances.
+Dialogue: 0,0:37:11.61,0:37:14.09,Default,Ikuno Rina,0,0,60,,I find things I like in the performances
+Dialogue: 0,0:37:14.17,0:37:18.05,Default,Ikuno Rina,0,0,60,,and think, "I'll try that!"
+Dialogue: 0,0:37:18.13,0:37:19.63,Default,Ikuno Rina,0,0,60,,That makes them worthwhile.
+Dialogue: 0,0:37:19.71,0:37:24.07,Default,Ikuno Rina,0,0,60,,I'll keep treating myself to lots of videos and fruit!
+Dialogue: 0,0:37:24.15,0:37:25.55,Default,Ikuno Rina,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:37:29.28,0:37:31.23,Default,Ishimatsu Yuina,0,0,60,,Worried face and droopy eyes are my charm points!
+Dialogue: 0,0:37:31.31,0:37:32.40,Default,Ishimatsu Yuina,0,0,60,,Always smiling?
+Dialogue: 0,0:37:32.84,0:37:33.40,Default,Crowd,0,0,60,,Yuina!
+Dialogue: 0,0:37:33.51,0:37:34.82,Default,Ishimatsu Yuina,0,0,60,,It's Yuina!
+Dialogue: 0,0:37:34.90,0:37:37.22,Default,Ishimatsu Yuina,0,0,60,,I'm Ishimatsu Yuina, 14, a third-year in junior high.
+Dialogue: 0,0:37:37.30,0:37:38.30,Default,Ishimatsu Yuina,0,0,60,,Please support me!
+Dialogue: 0,0:37:41.02,0:37:43.31,Default,Ishimatsu Yuina,0,0,60,,Thank you!
+Dialogue: 0,0:37:44.34,0:37:45.78,Default,Ishimatsu Yuina,0,0,60,,My treat is
+Dialogue: 0,0:37:45.86,0:37:48.08,Default,Ishimatsu Yuina,0,0,60,,all the love
+Dialogue: 0,0:37:49.23,0:37:52.15,Default,Ishimatsu Yuina,0,0,60,,you give me!
+Dialogue: 0,0:37:52.55,0:37:56.81,Default,Ishimatsu Yuina,0,0,60,,I'll do my best today, so please send me lots of love!
+Dialogue: 0,0:37:57.07,0:37:58.43,Default,Ishimatsu Yuina,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:38:02.92,0:38:07.08,Default,Shibui Mina,0,0,60,,I love cherry tomatoes, smiles, and laughter — Mina will make everyone smile,
+Dialogue: 0,0:38:07.16,0:38:07.92,Default,Shibui Mina,0,0,60,,so keep watching.
+Dialogue: 0,0:38:08.00,0:38:11.16,Default,Shibui Mina,0,0,60,,From Tokyo, third-year high school, age 17, Shibui Mina.
+Dialogue: 0,0:38:11.24,0:38:12.42,Default,Shibui Mina,0,0,60,,Pleased to meet you!
+Dialogue: 0,0:38:15.86,0:38:17.58,Default,Shibui Mina,0,0,60,,Thank you! Yes —
+Dialogue: 0,0:38:17.64,0:38:22.70,Default,Shibui Mina,0,0,60,,My little treat is eating my favorite food on days I worked hard — every day,
+Dialogue: 0,0:38:22.78,0:38:24.70,Default,Shibui Mina,0,0,60,,So every day's a hard-work day, huh?
+Dialogue: 0,0:38:25.16,0:38:27.84,Default,Shibui Mina,0,0,60,,I eat my favorite foods every day!
+Dialogue: 0,0:38:28.00,0:38:30.88,Default,Shibui Mina,0,0,60,,and I like ice cream too,
+Dialogue: 0,0:38:30.96,0:38:36.94,Default,Shibui Mina,0,0,60,,I love the colorful chocolate sprinkles you put on ice cream and parfaits.
+Dialogue: 0,0:38:37.02,0:38:39.76,Default,Shibui Mina,0,0,60,,I love those.
+Dialogue: 0,0:38:39.84,0:38:42.68,Default,Shibui Mina,0,0,60,,Last night I put them on a spoon
+Dialogue: 0,0:38:43.08,0:38:45.52,Default,Shibui Mina,0,0,60,,and ate them on their own!
+Dialogue: 0,0:38:45.60,0:38:46.86,Default,Shibui Mina,0,0,60,,I've topped up my sugar levels,
+Dialogue: 0,0:38:46.94,0:38:49.18,Default,Shibui Mina,0,0,60,,so today, instead of sweets,
+Dialogue: 0,0:38:49.26,0:38:51.64,Default,Shibui Mina,0,0,60,,I'll give you a sweet performance!
+Dialogue: 0,0:38:52.94,0:38:55.73,Default,Shibui Mina,0,0,60,,I'll do my very best!
+Dialogue: 0,0:38:56.19,0:38:57.90,Default,Shibui Mina,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:39:02.43,0:39:04.61,Default,Fujino Kokoha,0,0,60,,When I say "Ready, set," please shout "Kokoha"!
+Dialogue: 0,0:39:06.22,0:39:07.20,Default,Fujino Kokoha,0,0,60,,Where is this place?
+Dialogue: 0,0:39:07.28,0:39:08.08,Default,Fujino Kokoha,0,0,60,,Who am I?
+Dialogue: 0,0:39:08.16,0:39:08.86,Default,Fujino Kokoha,0,0,60,,Ready, set—
+Dialogue: 0,0:39:08.94,0:39:09.90,Default,Crowd,0,0,60,,Kokoha!
+Dialogue: 0,0:39:11.90,0:39:15.44,Default,Fujino Kokoha,0,0,60,,A third-year high schooler, 18 years old — I'm Fujino Kokoha!
+Dialogue: 0,0:39:15.52,0:39:16.40,Default,Crowd,0,0,60,,Kokoha!
+Dialogue: 0,0:39:19.50,0:39:20.32,Default,Fujino Kokoha,0,0,60,,Thank you!
+Dialogue: 0,0:39:21.50,0:39:24.60,Default,Fujino Kokoha,0,0,60,,My treat is going to McDonald's.
+Dialogue: 0,0:39:24.92,0:39:27.00,Default,Fujino Kokoha,0,0,60,,I love it so, so much,
+Dialogue: 0,0:39:27.20,0:39:30.26,Default,Fujino Kokoha,0,0,60,,They have their triangular chocolate pies right now,
+Dialogue: 0,0:39:30.44,0:39:33.03,Default,Fujino Kokoha,0,0,60,,so I go a lot while they're available!
+Dialogue: 0,0:39:33.14,0:39:36.14,Default,Fujino Kokoha,0,0,60,,I wonder which toy I'll get in my Happy Meal,
+Dialogue: 0,0:39:37.00,0:39:40.10,Default,Fujino Kokoha,0,0,60,,or think, "The fries are perfectly salted today!"
+Dialogue: 0,0:39:41.60,0:39:43.04,Default,Fujino Kokoha,0,0,60,,Those little everyday discoveries—
+Dialogue: 0,0:39:43.12,0:39:46.66,Default,Fujino Kokoha,0,0,60,,I love noticing and enjoying them!
+Dialogue: 0,0:39:46.74,0:39:48.86,Default,Fujino Kokoha,0,0,60,,Please enjoy today's show!
+Dialogue: 0,0:39:48.94,0:39:50.38,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:39:52.77,0:39:57.65,Default,Fujino Kokoha,0,0,60,,That's the cast of Team H's Mokugekisha!
+Dialogue: 0,0:39:57.73,0:40:00.43,Default,Fujino Kokoha,0,0,60,,Are you ready to keep the energy up?
+Dialogue: 0,0:40:00.73,0:40:02.05,Default,Crowd,0,0,60,,Yay!
+Dialogue: 0,0:40:02.98,0:40:05.50,Default,Fujino Kokoha,0,0,60,,Can you cheer even louder?
+Dialogue: 0,0:40:08.19,0:40:09.99,Default,Fujino Kokoha,0,0,60,,Next up is this unit.
+Dialogue: 0,0:40:10.07,0:40:10.77,Default,Fujino Kokoha,0,0,60,,Go ahead!
+Dialogue: 0,1:00:20.40,1:00:22.90,Default,All,0,0,60,,Everyone! Cactus!
+Dialogue: 0,1:01:11.00,1:01:12.00,Default,All,0,0,60,,Yay!
+Dialogue: 0,1:01:14.28,1:01:19.92,Default,Ishimatsu Yuina,0,0,60,,"Ude wo Kunde," "Enjou Rosen," "Itoshisa no Accel," "Hoshi no Mukougawa," "Saboten to Gold Rush"—
+Dialogue: 0,1:01:20.00,1:01:23.52,Default,Ishimatsu Yuina,0,0,60,,five songs in a row. Everyone, having fun?
+Dialogue: 0,1:01:23.60,1:01:25.00,Default,Crowd,0,0,60,,Yeah!
+Dialogue: 0,1:01:26.86,1:01:27.80,Default,Ishimatsu Yuina,0,0,60,,Thank you!
+Dialogue: 0,1:01:29.04,1:01:32.40,Default,Ishimatsu Yuina,0,0,60,,We'll be chatting with this group now.
+Dialogue: 0,1:01:32.48,1:01:33.77,Default,Ishimatsu Yuina,0,0,60,,Amiyun, go ahead.
+Dialogue: 0,1:01:33.94,1:01:39.92,Default,Ishikawa Amiyu,0,0,60,,Earlier in the self-intro MC I said I wanted to find friends—
+Dialogue: 0,1:01:40.02,1:01:42.24,Default,Ishikawa Amiyu,0,0,60,,so I'm holding the first screening with the members here.
+Dialogue: 0,1:01:42.32,1:01:42.80,Default,Crowd,0,0,60,,Ooh!
+Dialogue: 0,1:01:42.94,1:01:44.98,Default,Fujino Kokoha,0,0,60,,The first screening, huh.
+Dialogue: 0,1:01:45.06,1:01:46.88,Default,Yamauchi Yuna,0,0,60,,You're holding auditions without asking us?
+Dialogue: 0,1:01:47.96,1:01:49.25,Default,Ishikawa Amiyu,0,0,60,,So… what should we do?
+Dialogue: 0,1:01:50.32,1:01:51.32,Default,Ishikawa Amiyu,0,0,60,,Hmm, I wonder.
+Dialogue: 0,1:01:51.40,1:01:53.48,Default,Ishikawa Amiyu,0,0,60,,Anyone who feels confident?
+Dialogue: 0,1:01:53.56,1:01:55.60,Default,Shibui Mina,0,0,60,,Confident? What are the requirements?
+Dialogue: 0,1:01:55.68,1:01:56.33,Default,Ishikawa Amiyu,0,0,60,,Conditions?
+Dialogue: 0,1:01:57.30,1:01:59.62,Default,Ishikawa Amiyu,0,0,60,,Someone who, even if I talk all day,
+Dialogue: 0,1:02:00.24,1:02:01.56,Default,Ishikawa Amiyu,0,0,60,,won't just go "yeah, yeah" near the end
+Dialogue: 0,1:02:01.64,1:02:02.94,Default,Ishikawa Amiyu,0,0,60,,and brush me off.
+Dialogue: 0,1:02:04.06,1:02:05.34,Default,Yamauchi Yuna,0,0,60,,Then I'm out.
+Dialogue: 0,1:02:09.02,1:02:10.94,Default,Shibui Mina,0,0,60,,I might be out too…
+Dialogue: 0,1:02:11.02,1:02:11.82,Default,Ishikawa Amiyu,0,0,60,,Why?
+Dialogue: 0,1:02:13.70,1:02:15.32,Default,Shibui Mina,0,0,60,,I can talk all day.
+Dialogue: 0,1:02:15.40,1:02:20.22,Default,Shibui Mina,0,0,60,,But I talk with the same energy, so I burn out faster than everyone else.
+Dialogue: 0,1:02:20.50,1:02:24.14,Default,Shibui Mina,0,0,60,,By the end, it's like, "Sorry if I've been ignoring you!"
+Dialogue: 0,1:02:24.38,1:02:29.10,Default,Ishikawa Amiyu,0,0,60,,Though I've been brushed off casually near the end before, so…
+Dialogue: 0,1:02:29.22,1:02:31.00,Default,Ishikawa Amiyu,0,0,60,,Well, that part's fine.
+Dialogue: 0,1:02:32.08,1:02:35.64,Default,Ikuno Rina,0,0,60,,On that note, the other day I spent from early morning—
+Dialogue: 0,1:02:35.76,1:02:39.32,Default,Ikuno Rina,0,0,60,,almost dawn until late at night—
+Dialogue: 0,1:02:39.40,1:02:41.62,Default,Ikuno Rina,0,0,60,,with Amiyun the whole day.
+Dialogue: 0,1:02:41.70,1:02:46.06,Default,Ikuno Rina,0,0,60,,There wasn't really a "I'm so done" moment, right?
+Dialogue: 0,1:02:46.54,1:02:47.34,Default,Fujino Kokoha,0,0,60,,See, that's fine then.
+Dialogue: 0,1:02:47.42,1:02:49.66,Default,Fujino Kokoha,0,0,60,,Ikuno-chan, you're done with this already!
+Dialogue: 0,1:02:49.74,1:02:51.84,Default,Ishikawa Amiyu,0,0,60,,No, no, that's not it.
+Dialogue: 0,1:02:51.92,1:02:53.28,Default,Ishikawa Amiyu,0,0,60,,Not just one — lots!
+Dialogue: 0,1:02:54.98,1:02:56.86,Default,Shibui Mina,0,0,60,,Yuina-senpai, what do you think?
+Dialogue: 0,1:02:58.46,1:03:01.68,Default,Shibui Mina,0,0,60,,We're the same age, right? Same age!
+Dialogue: 0,1:03:01.76,1:03:03.10,Default,Shibui Mina,0,0,60,,Come on, come on—
+Dialogue: 0,1:03:03.18,1:03:04.26,Default,Ishimatsu Yuina,0,0,60,,Then, please...
+Dialogue: 0,1:03:08.46,1:03:09.06,Default,Yamauchi Yuna,0,0,60,,Is that okay? Really?
+Dialogue: 0,1:03:09.14,1:03:10.24,Default,Yamauchi Yuna,0,0,60,,Reia'll get mad, you know.
+Dialogue: 0,1:03:10.32,1:03:11.14,Default,Shibui Mina,0,0,60,,True.
+Dialogue: 0,1:03:11.22,1:03:12.60,Default,Ishimatsu Yuina,0,0,60,,It's fine!
+Dialogue: 0,1:03:13.86,1:03:15.80,Default,Ishimatsu Yuina,0,0,60,,Let's get along from now on!
+Dialogue: 0,1:03:15.88,1:03:17.17,Default,All,0,0,60,,Let's get along!
+Dialogue: 0,1:03:18.28,1:03:20.48,Default,Ishimatsu Yuina,0,0,60,,Next we move into the second half—
+Dialogue: 0,1:03:20.56,1:03:23.02,Default,Ishimatsu Yuina,0,0,60,,Are you ready to get even more hyped?
+Dialogue: 0,1:03:25.64,1:03:26.82,Default,Ishimatsu Yuina,0,0,60,,Thanks very much.
+Dialogue: 0,1:03:26.86,1:03:28.76,Default,Ishimatsu Yuina,0,0,60,,The second half starts with this song.
+Dialogue: 0,1:03:28.84,1:03:29.49,Default,Ishimatsu Yuina,0,0,60,,Go ahead!
+Dialogue: 0,1:15:16.41,1:15:21.53,Default,Yanase Reia,0,0,60,,"Utsukushiki Mono," "Ai wo Kure," "Matenrou no Kyori" — three songs in a row.
+Dialogue: 0,1:15:21.61,1:15:23.29,Default,Yanase Reia,0,0,60,,Everyone—
+Dialogue: 0,1:15:24.73,1:15:26.07,Default,Yanase Reia,0,0,60,,Are you having fun?
+Dialogue: 0,1:15:33.76,1:15:35.06,Default,Yanase Reia,0,0,60,,Since today is Halloween,
+Dialogue: 0,1:15:35.62,1:15:41.42,Default,Yanase Reia,0,0,60,,We've all dressed up!
+Dialogue: 0,1:15:48.04,1:15:49.74,Default,Yanase Reia,0,0,60,,Let's swap!
+Dialogue: 0,1:15:50.58,1:15:52.20,Default,Kurihara Sae,0,0,60,,Pantz what happened?
+Dialogue: 0,1:15:53.46,1:15:55.42,Default,Matsunaga Yui,0,0,60,,No — I'm DJing.
+Dialogue: 0,1:15:56.46,1:15:58.23,Default,Toyonaga Aki,0,0,60,,What do you mean, "I'm DJing"?
+Dialogue: 0,1:15:58.52,1:15:59.52,Default,Yanase Reia,0,0,60,,I'm DJing.
+Dialogue: 0,1:15:59.60,1:16:01.84,Default,Toyonaga Aki,0,0,60,,And this one got grabbed first thing!
+Dialogue: 0,1:16:01.92,1:16:03.60,Default,Matsunaga Yui,0,0,60,,Yeah — I knew this would be good.
+Dialogue: 0,1:16:03.68,1:16:04.86,Default,Kitagawa Hiiro,0,0,60,,What were you doing?
+Dialogue: 0,1:16:05.54,1:16:06.54,Default,Toyonaga Aki,0,0,60,,Using the mic—
+Dialogue: 0,1:16:07.20,1:16:08.14,Default,Matsunaga Yui,0,0,60,,Oops, I got it wrong!
+Dialogue: 0,1:16:08.92,1:16:09.93,Default,Yanase Reia,0,0,60,,I can't tell who's who!
+Dialogue: 0,1:16:10.03,1:16:10.60,Default,Matsunaga Yui,0,0,60,,Hello, I'm Matsunaga.
+Dialogue: 0,1:16:10.99,1:16:14.77,Default,Yanase Reia,0,0,60,,Anyway, today's Halloween,
+Dialogue: 0,1:16:15.65,1:16:20.36,Default,Yanase Reia,0,0,60,,We have a special activity for this MC!
+Dialogue: 0,1:16:20.44,1:16:21.40,Default,Yanase Reia,0,0,60,,Presenting...
+Dialogue: 0,1:16:23.95,1:16:26.50,Default,Yanase Reia,0,0,60,,Cute-Line Contest — Halloween Edition!
+Dialogue: 0,1:16:31.08,1:16:33.66,Default,Yanase Reia,0,0,60,,Inside this box,
+Dialogue: 0,1:16:33.74,1:16:38.54,Default,Yanase Reia,0,0,60,,are cute lines you've asked us to say.
+Dialogue: 0,1:16:39.00,1:16:40.58,Default,Yanase Reia,0,0,60,,We've put them all in here.
+Dialogue: 0,1:16:41.28,1:16:43.14,Default,Yanase Reia,0,0,60,,so I'll draw them.
+Dialogue: 0,1:16:44.52,1:16:47.62,Default,Yanase Reia,0,0,60,,Each one has a member's name on it,
+Dialogue: 0,1:16:48.28,1:16:49.87,Default,Yanase Reia,0,0,60,,and that member will say the line.
+Dialogue: 0,1:16:54.70,1:16:56.55,Default,Yanase Reia,0,0,60,,Alright, here we go.
+Dialogue: 0,1:16:58.40,1:16:59.92,Default,Yanase Reia,0,0,60,,I'll read out the name of the member
+Dialogue: 0,1:17:00.00,1:17:00.76,Default,Yanase Reia,0,0,60,,who's been requested.
+Dialogue: 0,1:17:00.84,1:17:01.76,Default,Toyonaga Aki,0,0,60,,Which first?
+Dialogue: 0,1:17:02.94,1:17:03.82,Default,Ichimura Airi,0,0,60,,Say the prompt?
+Dialogue: 0,1:17:05.16,1:17:06.69,Default,Yanase Reia,0,0,60,,I'll say the prompt first.
+Dialogue: 0,1:17:07.94,1:17:08.92,Default,Yanase Reia,0,0,60,,From Numarin-san—
+Dialogue: 0,1:17:09.00,1:17:10.96,Default,Yanase Reia,0,0,60,,"Happy Halloween!
+Dialogue: 0,1:17:11.04,1:17:15.24,Default,Yanase Reia,0,0,60,,Tell me I'm pretty lots, or I'll play a trick on you!" — that's what I want to hear!
+Dialogue: 0,1:17:16.92,1:17:19.76,Default,Yanase Reia,0,0,60,,They'd like Kurihara Sae-sama to say it!
+Dialogue: 0,1:17:21.00,1:17:22.40,Default,Ichimura Airi,0,0,60,,I thought so.
+Dialogue: 0,1:17:23.04,1:17:23.96,Default,Kurihara Sae,0,0,60,,"Pretty," huh—
+Dialogue: 0,1:17:24.04,1:17:26.76,Default,Kurihara Sae,0,0,60,,well, I'm good at this kind of thing.
+Dialogue: 0,1:17:27.20,1:17:27.70,Default,Ichimura Airi,0,0,60,,Amazing!
+Dialogue: 0,1:17:27.70,1:17:28.49,Default,Kitagawa Hiiro,0,0,60,,As expected!
+Dialogue: 0,1:17:30.18,1:17:31.44,Default,Yanase Reia,0,0,60,,Are you ready?
+Dialogue: 0,1:17:31.88,1:17:32.23,Default,Kurihara Sae,0,0,60,,Ready?
+Dialogue: 0,1:17:33.26,1:17:34.96,Default,Kurihara Sae,0,0,60,,Yes, I'm mentally prepared!
+Dialogue: 0,1:17:35.04,1:17:38.14,Default,Yanase Reia,0,0,60,,Counting down to Sae-sama's cute line!
+Dialogue: 0,1:17:38.66,1:17:40.76,Default,Yanase Reia,0,0,60,,3, 2, 1!
+Dialogue: 0,1:17:42.11,1:17:43.47,Default,Kurihara Sae,0,0,60,,Happy Halloween—
+Dialogue: 0,1:17:44.10,1:17:46.36,Default,Kurihara Sae,0,0,60,,Tell me I'm pretty lots of times, or...
+Dialogue: 0,1:17:46.44,1:17:48.02,Default,Kurihara Sae,0,0,60,,I'll play a trick on you.
+Dialogue: 0,1:17:54.27,1:17:54.88,Default,Kurihara Sae,0,0,60,,Thanks.
+Dialogue: 0,1:17:55.82,1:17:58.16,Default,Kurihara Sae,0,0,60,,Yeah, that one was fine.
+Dialogue: 0,1:17:58.24,1:17:58.88,Default,Toyonaga Aki,0,0,60,,Right?!
+Dialogue: 0,1:17:58.96,1:18:00.46,Default,Ichimura Airi,0,0,60,,She was first up,
+Dialogue: 0,1:18:00.54,1:18:01.34,Default,Ichimura Airi,0,0,60,,and a perfect leadoff batter!
+Dialogue: 0,1:18:01.42,1:18:02.98,Default,Kurihara Sae,0,0,60,,That was totally fine!
+Dialogue: 0,1:18:03.06,1:18:03.76,Default,Kurihara Sae,0,0,60,,Thanks.
+Dialogue: 0,1:18:04.14,1:18:04.98,Default,Ichimura Airi,0,0,60,,Great start!
+Dialogue: 0,1:18:05.06,1:18:06.02,Default,Kurihara Sae,0,0,60,,Thank you.
+Dialogue: 0,1:18:06.10,1:18:07.22,Default,Yanase Reia,0,0,60,,That was wonderful.
+Dialogue: 0,1:18:07.30,1:18:07.92,Default,Ichimura Airi,0,0,60,,Wonderful.
+Dialogue: 0,1:18:08.00,1:18:08.78,Default,Yanase Reia,0,0,60,,Next—!
+Dialogue: 0,1:18:08.86,1:18:09.86,Default,Yanase Reia,0,0,60,,I'll draw one.
+Dialogue: 0,1:18:17.24,1:18:19.44,Default,Yanase Reia,0,0,60,,This one's a really long line,
+Dialogue: 0,1:18:19.46,1:18:21.46,Default,Yanase Reia,0,0,60,,so maybe have the member read it?
+Dialogue: 0,1:18:21.92,1:18:24.30,Default,Yanase Reia,0,0,60,,From Taiyo-san — the member to read is
+Dialogue: 0,1:18:24.38,1:18:25.62,Default,Yanase Reia,0,0,60,,Kitagawa Hiiro-chan.
+Dialogue: 0,1:18:28.80,1:18:30.64,Default,Kitagawa Hiiro,0,0,60,,Hearing it's long, I don't want to.
+Dialogue: 0,1:18:30.72,1:18:33.14,Default,Yanase Reia,0,0,60,,It's written in tiny tiny letters,
+Dialogue: 0,1:18:33.22,1:18:34.50,Default,Yanase Reia,0,0,60,,so please read this.
+Dialogue: 0,1:18:36.52,1:18:38.26,Default,Toyonaga Aki,0,0,60,,Read it through properly once, then
+Dialogue: 0,1:18:38.34,1:18:39.75,Default,Toyonaga Aki,0,0,60,,put some feeling into it!
+Dialogue: 0,1:18:42.78,1:18:45.43,Default,Yanase Reia,0,0,60,,It's packed — can't even tell how many lines.
+Dialogue: 0,1:18:45.60,1:18:46.66,Default,Kitagawa Hiiro,0,0,60,,Tiny handwriting.
+Dialogue: 0,1:18:48.34,1:18:49.80,Default,Toyonaga Aki,0,0,60,,Maybe a fan letter?
+Dialogue: 0,1:18:51.94,1:18:52.88,Default,Yanase Reia,0,0,60,,It's that long!
+Dialogue: 0,1:18:55.02,1:18:57.37,Default,Yanase Reia,0,0,60,,Counting down to Hiiro-chan's cute line!
+Dialogue: 0,1:18:57.56,1:18:59.58,Default,All,0,0,60,,3, 2, 1!
+Dialogue: 0,1:19:00.22,1:19:01.54,Default,Kitagawa Hiiro,0,0,60,,Trick or treat—
+Dialogue: 0,1:19:01.62,1:19:04.46,Default,Kitagawa Hiiro,0,0,60,,if you don't give me candy I'll play a trick.
+Dialogue: 0,1:19:04.94,1:19:06.70,Default,Kitagawa Hiiro,0,0,60,,Huh? You want me to play a trick on you?
+Dialogue: 0,1:19:07.30,1:19:09.22,Default,Kitagawa Hiiro,0,0,60,,That's how it is!
+Dialogue: 0,1:19:09.30,1:19:13.32,Default,Kitagawa Hiiro,0,0,60,,Saying stuff like that is why people get turned off!
+Dialogue: 0,1:19:14.70,1:19:17.72,Default,Kitagawa Hiiro,0,0,60,,Only say those things when you're with me, okay?
+Dialogue: 0,1:19:17.80,1:19:18.68,Default,Kitagawa Hiiro,0,0,60,,Got it?
+Dialogue: 0,1:19:19.83,1:19:21.29,Default,Kitagawa Hiiro,0,0,60,,Now give me some candy.
+Dialogue: 0,1:19:21.65,1:19:23.18,Default,Kitagawa Hiiro,0,0,60,,I'll play a trick on you!
+Dialogue: 0,1:19:31.05,1:19:34.23,Default,Kitagawa Hiiro,0,0,60,,It was so long I don't even know what I said.
+Dialogue: 0,1:19:35.69,1:19:37.95,Default,Yanase Reia,0,0,60,,I didn't quite get it either,
+Dialogue: 0,1:19:38.03,1:19:40.62,Default,Yanase Reia,0,0,60,,but basically he likes being teased.
+Dialogue: 0,1:19:41.74,1:19:42.46,Default,Ichimura Airi,0,0,60,,What do you mean?
+Dialogue: 0,1:19:43.87,1:19:44.46,Default,Yanase Reia,0,0,60,,That's it.
+Dialogue: 0,1:19:45.22,1:19:49.02,Default,Toyonaga Aki,0,0,60,,I wonder what they were feeling writing that surrounded by everyone.
+Dialogue: 0,1:19:49.10,1:19:50.10,Default,Kitagawa Hiiro,0,0,60,,Thank you.
+Dialogue: 0,1:19:50.50,1:19:52.50,Default,Yanase Reia,0,0,60,,Next I'll draw.
+Dialogue: 0,1:19:52.58,1:19:53.28,Default,Yanase Reia,0,0,60,,This one—
+Dialogue: 0,1:19:59.30,1:20:00.86,Default,Yanase Reia,0,0,60,,another long script.
+Dialogue: 0,1:20:00.94,1:20:02.10,Default,Ichimura Airi,0,0,60,,There's a script?
+Dialogue: 0,1:20:02.69,1:20:04.53,Default,Yanase Reia,0,0,60,,From Tadatantan-san—
+Dialogue: 0,1:20:04.61,1:20:06.33,Default,Yanase Reia,0,0,60,,the member they want is
+Dialogue: 0,1:20:07.10,1:20:08.26,Default,Yanase Reia,0,0,60,,Nakano Minami-chan.
+Dialogue: 0,1:20:10.33,1:20:11.11,Default,Kitagawa Hiiro,0,0,60,,Minami-chan!
+Dialogue: 0,1:20:11.19,1:20:14.03,Default,Toyonaga Aki,0,0,60,,She knows how to act cute!
+Dialogue: 0,1:20:15.11,1:20:16.46,Default,Yanase Reia,0,0,60,,Our flirty Minami-chan!
+Dialogue: 0,1:20:16.54,1:20:17.76,Default,Nakano Minami,0,0,60,,I do not!
+Dialogue: 0,1:20:17.84,1:20:18.66,Default,Nakano Minami,0,0,60,,No way.
+Dialogue: 0,1:20:18.74,1:20:19.70,Default,Nakano Minami,0,0,60,,No way.
+Dialogue: 0,1:20:19.78,1:20:22.36,Default,Nakano Minami,0,0,60,,Oh, I'll read it carefully.
+Dialogue: 0,1:20:25.25,1:20:27.65,Default,Toyonaga Aki,0,0,60,,It'll be streamed later,
+Dialogue: 0,1:20:27.73,1:20:28.95,Default,Toyonaga Aki,0,0,60,,so no hiding behind the paper.
+Dialogue: 0,1:20:29.03,1:20:31.29,Default,Yanase Reia,0,0,60,,Make sure we can see your cute face!
+Dialogue: 0,1:20:31.77,1:20:32.42,Default,Nakano Minami,0,0,60,,Okay, here we go!
+Dialogue: 0,1:20:32.63,1:20:34.43,Default,Yanase Reia,0,0,60,,Then Nakanomi-chan — Minami-chan's
+Dialogue: 0,1:20:34.51,1:20:35.11,Default,Ichimura Airi,0,0,60,,Mi-chan?
+Dialogue: 0,1:20:35.20,1:20:35.92,Default,Toyonaga Aki,0,0,60,,Nakanomi-chan?
+Dialogue: 0,1:20:36.00,1:20:37.10,Default,Kurihara Sae,0,0,60,,That's way too short!
+Dialogue: 0,1:20:37.69,1:20:39.13,Default,Toyonaga Aki,0,0,60,,You've got a new nickname!
+Dialogue: 0,1:20:39.21,1:20:40.73,Default,Yanase Reia,0,0,60,,Nakanomi-chan's
+Dialogue: 0,1:20:40.81,1:20:41.77,Default,Yanase Reia,0,0,60,,cute line in...
+Dialogue: 0,1:20:42.23,1:20:44.35,Default,All,0,0,60,,3, 2, 1!
+Dialogue: 0,1:20:45.18,1:20:46.42,Default,Nakano Minami,0,0,60,,If you don't give me candy,
+Dialogue: 0,1:20:46.50,1:20:47.60,Default,Nakano Minami,0,0,60,,I'll play a trick.
+Dialogue: 0,1:20:48.40,1:20:50.58,Default,Nakano Minami,0,0,60,,A heart aimed straight at your eyes—
+Dialogue: 0,1:20:50.66,1:20:51.88,Default,Nakano Minami,0,0,60,,a three-point shot!
+Dialogue: 0,1:20:52.86,1:20:54.34,Default,Nakano Minami,0,0,60,,Now my heart...
+Dialogue: 0,1:20:54.42,1:20:55.82,Default,Nakano Minami,0,0,60,,into the hoop of your heart...
+Dialogue: 0,1:20:55.90,1:20:57.76,Default,Nakano Minami,0,0,60,,has sunk right in, hasn't it?
+Dialogue: 0,1:21:01.00,1:21:02.38,Default,Matsunaga Yui,0,0,60,,Look at that blush!
+Dialogue: 0,1:21:04.71,1:21:06.05,Default,Toyonaga Aki,0,0,60,,I get the personality.
+Dialogue: 0,1:21:08.03,1:21:08.92,Default,Yanase Reia,0,0,60,,Basketball.
+Dialogue: 0,1:21:09.00,1:21:09.77,Default,Yanase Reia,0,0,60,,So that's it.
+Dialogue: 0,1:21:11.32,1:21:14.28,Default,Kitagawa Hiiro,0,0,60,,You said you grow when praised, so I'm glad.
+Dialogue: 0,1:21:14.62,1:21:16.20,Default,Toyonaga Aki,0,0,60,,Ask them if that was good!
+Dialogue: 0,1:21:16.28,1:21:17.63,Default,Nakano Minami,0,0,60,,Was that good just now?
+Dialogue: 0,1:21:20.29,1:21:21.35,Default,Kitagawa Hiiro,0,0,60,,So easy to please!
+Dialogue: 0,1:21:21.63,1:21:22.27,Default,Nakano Minami,0,0,60,,The best!
+Dialogue: 0,1:21:23.51,1:21:25.75,Default,Yanase Reia,0,0,60,,Next — we're still going.
+Dialogue: 0,1:21:30.50,1:21:31.49,Default,Toyonaga Aki,0,0,60,,You can't do that!
+Dialogue: 0,1:21:38.14,1:21:40.00,Default,Toyonaga Aki,0,0,60,,Such obvious cheating!
+Dialogue: 0,1:21:41.18,1:21:43.87,Default,Ichimura Airi,0,0,60,,You were quietly trying to get rid of it,
+Dialogue: 0,1:21:43.95,1:21:46.53,Default,Ichimura Airi,0,0,60,,but this one—
+Dialogue: 0,1:21:47.29,1:21:48.23,Default,Ichimura Airi,0,0,60,,Reia-san, maybe?
+Dialogue: 0,1:21:49.47,1:21:50.25,Default,Yanase Reia,0,0,60,,I see, I see.
+Dialogue: 0,1:21:51.61,1:21:53.27,Default,Toyonaga Aki,0,0,60,,By the way, may I ask who?
+Dialogue: 0,1:21:53.41,1:21:55.31,Default,Yanase Reia,0,0,60,,From Sugi-P-san.
+Dialogue: 0,1:21:55.81,1:21:56.81,Default,Toyonaga Aki,0,0,60,,To whom?
+Dialogue: 0,1:21:56.97,1:21:58.31,Default,Yanase Reia,0,0,60,,Um, me.
+Dialogue: 0,1:21:59.23,1:22:00.77,Default,Ichimura Airi,0,0,60,,You? I see.
+Dialogue: 0,1:22:00.97,1:22:02.35,Default,Ichimura Airi,0,0,60,,Please come to the middle.
+Dialogue: 0,1:22:03.40,1:22:05.00,Default,Toyonaga Aki,0,0,60,,The moment we've been waiting for?
+Dialogue: 0,1:22:08.36,1:22:10.40,Default,Ichimura Airi,0,0,60,,Counting down to Reia's cute line!
+Dialogue: 0,1:22:10.86,1:22:12.82,Default,All,0,0,60,,3, 2, 1!
+Dialogue: 0,1:22:12.90,1:22:16.30,Default,Yanase Reia,0,0,60,,If you don't give me candy, I'll turn into a cat
+Dialogue: 0,1:22:17.29,1:22:20.57,Default,Yanase Reia,0,0,60,,and give you a little nibble. Meow!
+Dialogue: 0,1:22:27.34,1:22:29.94,Default,All,0,0,60,,So cute!
+Dialogue: 0,1:22:30.02,1:22:33.70,Default,Kurihara Sae,0,0,60,,How? How? How would you nibble?
+Dialogue: 0,1:22:33.80,1:22:35.72,Default,Ichimura Airi,0,0,60,,How? How? Go ahead, go ahead!
+Dialogue: 0,1:22:35.72,1:22:37.50,Default,Ichimura Airi,0,0,60,,Go ahead, go ahead!
+Dialogue: 0,1:22:40.59,1:22:42.01,Default,Yanase Reia,0,0,60,,This is nerve-racking! Wait a sec—
+Dialogue: 0,1:22:42.09,1:22:45.20,Default,Toyonaga Aki,0,0,60,,But you even made a voice at the end!
+Dialogue: 0,1:22:45.82,1:22:48.07,Default,Yanase Reia,0,0,60,,Let's move on to the next member!
+Dialogue: 0,1:22:50.43,1:22:52.61,Default,Yanase Reia,0,0,60,,Next, from Kansuke-san.
+Dialogue: 0,1:22:53.01,1:22:56.13,Default,Yanase Reia,0,0,60,,This one also has a line to say — I'll hand it over as-is.
+Dialogue: 0,1:22:56.21,1:22:58.55,Default,Yanase Reia,0,0,60,,The member: Ikuno Rina-chan.
+Dialogue: 0,1:23:00.79,1:23:02.32,Default,Toyonaga Aki,0,0,60,,Yes — you've already been requested!
+Dialogue: 0,1:23:05.04,1:23:06.20,Default,Nakano Minami,0,0,60,,Yay! Nice!
+Dialogue: 0,1:23:06.38,1:23:08.92,Default,Ikuno Rina,0,0,60,,I've aged a bit,
+Dialogue: 0,1:23:09.00,1:23:09.70,Default,Kitagawa Hiiro,0,0,60,,Yeah!
+Dialogue: 0,1:23:11.20,1:23:11.84,Default,Yanase Reia,0,0,60,,Ready?
+Dialogue: 0,1:23:14.19,1:23:15.87,Default,Yanase Reia,0,0,60,,Please stand in the middle.
+Dialogue: 0,1:23:19.75,1:23:21.19,Default,Yanase Reia,0,0,60,,Ready?
+Dialogue: 0,1:23:22.26,1:23:23.02,Default,Ikuno Rina,0,0,60,,Wait, please.
+Dialogue: 0,1:23:27.55,1:23:29.49,Default,Yanase Reia,0,0,60,,Counting down to Rina-chan's cute line!
+Dialogue: 0,1:23:29.89,1:23:32.00,Default,All,0,0,60,,3, 2, 1!
+Dialogue: 0,1:23:32.08,1:23:33.34,Default,Ikuno Rina,0,0,60,,Trick or treat!
+Dialogue: 0,1:23:33.76,1:23:35.30,Default,Ikuno Rina,0,0,60,,even when the Halloween magic fades,
+Dialogue: 0,1:23:35.38,1:23:37.28,Default,Ikuno Rina,0,0,60,,will you still like me?
+Dialogue: 0,1:23:45.03,1:23:45.97,Default,Ichimura Airi,0,0,60,,Such a gap—
+Dialogue: 0,1:23:46.75,1:23:48.10,Default,Toyonaga Aki,0,0,60,,You've grown, haven't you?
+Dialogue: 0,1:23:48.45,1:23:49.05,Default,Ichimura Airi,0,0,60,,Cute.
+Dialogue: 0,1:23:49.13,1:23:50.31,Default,Yanase Reia,0,0,60,,So cute.
+Dialogue: 0,1:23:52.04,1:23:54.12,Default,Yanase Reia,0,0,60,,I liked how you stumbled over your words a little.
+Dialogue: 0,1:23:54.92,1:23:56.40,Default,Yanase Reia,0,0,60,,We'll keep going a bit.
+Dialogue: 0,1:23:57.45,1:23:58.71,Default,Toyonaga Aki,0,0,60,,Okay enough, wrap it—
+Dialogue: 0,1:24:00.15,1:24:03.95,Default,Yanase Reia,0,0,60,,Next is from Kadokado Max-san.
+Dialogue: 0,1:24:04.47,1:24:05.37,Default,Yanase Reia,0,0,60,,So,
+Dialogue: 0,1:24:06.43,1:24:08.15,Default,Yanase Reia,0,0,60,,this one also has
+Dialogue: 0,1:24:08.23,1:24:11.09,Default,Yanase Reia,0,0,60,,a proper script written,
+Dialogue: 0,1:24:16.47,1:24:18.55,Default,Yanase Reia,0,0,60,,but there are instructions.
+Dialogue: 0,1:24:18.63,1:24:19.41,Default,Ichimura Airi,0,0,60,,Huh, really?
+Dialogue: 0,1:24:19.49,1:24:19.84,Default,Yanase Reia,0,0,60,,Yes.
+Dialogue: 0,1:24:19.92,1:24:21.04,Default,Ichimura Airi,0,0,60,,Don't give me instructions!
+Dialogue: 0,1:24:23.13,1:24:24.11,Default,Yanase Reia,0,0,60,,I'll read them.
+Dialogue: 0,1:24:24.19,1:24:28.89,Default,Yanase Reia,0,0,60,,Act cold, then sweet. No getting shy, and no escaping into jokes!
+Dialogue: 0,1:24:29.51,1:24:30.15,Default,All,0,0,60,,Wow!
+Dialogue: 0,1:24:30.27,1:24:31.10,Default,Matsunaga Yui,0,0,60,,The conditions…
+Dialogue: 0,1:24:31.18,1:24:33.19,Default,Ichimura Airi,0,0,60,,I know, I know!
+Dialogue: 0,1:24:33.27,1:24:34.03,Default,Kitagawa Hiiro,0,0,60,,Amazing.
+Dialogue: 0,1:24:34.11,1:24:34.51,Default,Yanase Reia,0,0,60,,Here goes!
+Dialogue: 0,1:24:34.59,1:24:35.71,Default,Ichimura Airi,0,0,60,,Tough, tough.
+Dialogue: 0,1:24:35.79,1:24:37.03,Default,Toyonaga Aki,0,0,60,,So, no dodging it!
+Dialogue: 0,1:24:37.69,1:24:38.25,Default,Ichimura Airi,0,0,60,,Tough.
+Dialogue: 0,1:24:38.33,1:24:40.23,Default,Kurihara Sae,0,0,60,,Airi-chan hates dodging things the most, right?
+Dialogue: 0,1:24:40.31,1:24:40.75,Default,Ichimura Airi,0,0,60,,Yeah~
+Dialogue: 0,1:24:40.83,1:24:41.83,Default,Multiple,0,0,60,,Yeah.
+Dialogue: 0,1:24:42.73,1:24:43.87,Default,Ichimura Airi,0,0,60,,Quite a bit written.
+Dialogue: 0,1:24:43.95,1:24:45.19,Default,Ichimura Airi,0,0,60,,Stop saying "no dodging"!
+Dialogue: 0,1:24:45.49,1:24:47.26,Default,Ichimura Airi,0,0,60,,This isn't a racing tip sheet.
+Dialogue: 0,1:24:50.17,1:24:52.75,Default,Yanase Reia,0,0,60,,Counting down to Aichi-san's cute line!
+Dialogue: 0,1:24:52.83,1:24:54.73,Default,Crowd,0,0,60,,3, 2, 1!
+Dialogue: 0,1:24:56.10,1:24:58.64,Default,Ichimura Airi,0,0,60,,You were probably at the afternoon KIV show,
+Dialogue: 0,1:24:58.72,1:25:00.86,Default,Ichimura Airi,0,0,60,,drooling over the girls, weren't you?
+Dialogue: 0,1:25:01.82,1:25:04.10,Default,Ichimura Airi,0,0,60,,If you don't say, "Only Airi,"
+Dialogue: 0,1:25:04.64,1:25:07.06,Default,Ichimura Airi,0,0,60,,you're in for more than just a trick!
+Dialogue: 0,1:25:08.15,1:25:08.92,Default,Ichimura Airi,0,0,60,,I love you.
+Dialogue: 0,1:25:14.82,1:25:18.97,Default,Ichimura Airi,0,0,60,,By the way, I added that last "I love you" myself.
+Dialogue: 0,1:25:20.35,1:25:21.81,Default,Toyonaga Aki,0,0,60,,I knew it!
+Dialogue: 0,1:25:21.89,1:25:22.66,Default,Ichimura Airi,0,0,60,,Embarrassing.
+Dialogue: 0,1:25:24.20,1:25:25.62,Default,Ichimura Airi,0,0,60,,Embarrassing, huh.
+Dialogue: 0,1:25:26.52,1:25:28.72,Default,Yanase Reia,0,0,60,,She really showed us how it's done!
+Dialogue: 0,1:25:28.80,1:25:30.15,Default,Ichimura Airi,0,0,60,,who's left, who's left.
+Dialogue: 0,1:25:30.72,1:25:31.84,Default,Ichimura Airi,0,0,60,,If you haven't done it, come forward.
+Dialogue: 0,1:25:31.92,1:25:32.42,Default,Ichimura Airi,0,0,60,,Come forward.
+Dialogue: 0,1:25:32.50,1:25:33.16,Default,Yanase Reia,0,0,60,,Got it.
+Dialogue: 0,1:25:33.24,1:25:37.70,Default,Yanase Reia,0,0,60,,Next members: add your own sweet line at the end.
+Dialogue: 0,1:25:38.40,1:25:39.58,Default,All,0,0,60,,No no no no.
+Dialogue: 0,1:25:43.20,1:25:45.32,Default,Yanase Reia,0,0,60,,Aichi-san did it for us.
+Dialogue: 0,1:25:45.40,1:25:47.44,Default,Ichimura Airi,0,0,60,,Yeah — it starts feeling short,
+Dialogue: 0,1:25:47.52,1:25:51.64,Default,Yanase Reia,0,0,60,,so for the last word, each of you please add a cute line.
+Dialogue: 0,1:25:51.72,1:25:52.58,Default,Ichimura Airi,0,0,60,,Ad-lib there.
+Dialogue: 0,1:25:53.04,1:25:53.92,Default,Ichimura Airi,0,0,60,,Okay okay okay.
+Dialogue: 0,1:25:54.42,1:25:55.60,Default,Toyonaga Aki,0,0,60,,Reia, come out! Reia, come out!
+Dialogue: 0,1:25:55.68,1:25:58.58,Default,Yanase Reia,0,0,60,,Next, from Gatson-san.
+Dialogue: 0,1:26:02.79,1:26:05.87,Default,Ichimura Airi,0,0,60,,You can tell who it's for just from the fan's name!
+Dialogue: 0,1:26:05.95,1:26:06.91,Default,Kurihara Sae,0,0,60,,who could it be, who could it be.
+Dialogue: 0,1:26:06.99,1:26:08.31,Default,All,0,0,60,,Who, who.
+Dialogue: 0,1:26:08.39,1:26:09.22,Default,Yanase Reia,0,0,60,,Toyonaga Aki-san.
+Dialogue: 0,1:26:11.79,1:26:14.15,Default,Yanase Reia,0,0,60,,This one has instructions too.
+Dialogue: 0,1:26:14.85,1:26:17.67,Default,Yanase Reia,0,0,60,,"Act as cutesy as you possibly can!"
+Dialogue: 0,1:26:18.95,1:26:20.47,Default,Kurihara Sae,0,0,60,,Aki's specialty.
+Dialogue: 0,1:26:21.39,1:26:23.05,Default,Yanase Reia,0,0,60,,And add one line at the end.
+Dialogue: 0,1:26:23.13,1:26:24.73,Default,Toyonaga Aki,0,0,60,,I'm a stage actress, so
+Dialogue: 0,1:26:24.81,1:26:25.75,Default,Toyonaga Aki,0,0,60,,I'll do my best.
+Dialogue: 0,1:26:26.75,1:26:28.04,Default,Kurihara Sae,0,0,60,,Congratulations on your play!
+Dialogue: 0,1:26:30.41,1:26:32.78,Default,Toyonaga Aki,0,0,60,,I didn't think I'd be saying this in this outfit,
+Dialogue: 0,1:26:32.86,1:26:35.33,Default,Toyonaga Aki,0,0,60,,This isn't that kind of role!
+Dialogue: 0,1:26:36.07,1:26:36.65,Default,Toyonaga Aki,0,0,60,,Okay then—
+Dialogue: 0,1:26:36.73,1:26:37.73,Default,Yanase Reia,0,0,60,,Ready?!
+Dialogue: 0,1:26:37.81,1:26:40.31,Default,Yanase Reia,0,0,60,,Counting down to Aki-san's cute line!
+Dialogue: 0,1:26:40.98,1:26:42.67,Default,Crowd,0,0,60,,3, 2, 1!
+Dialogue: 0,1:26:42.75,1:26:45.57,Default,Toyonaga Aki,0,0,60,,Happy Halloween—
+Dialogue: 0,1:26:46.09,1:26:47.87,Default,Toyonaga Aki,0,0,60,,hey hey, you'll give me candy, right?
+Dialogue: 0,1:26:47.95,1:26:49.71,Default,Toyonaga Aki,0,0,60,,If you don't, what happens...
+Dialogue: 0,1:26:49.79,1:26:51.87,Default,Toyonaga Aki,0,0,60,,Oh—if you don't, whatever happens...
+Dialogue: 0,1:26:51.95,1:26:52.85,Default,Toyonaga Aki,0,0,60,,don't blame me!
+Dialogue: 0,1:26:52.93,1:26:55.93,Default,Toyonaga Aki,0,0,60,,Trick or treat — choose me.
+Dialogue: 0,1:27:01.14,1:27:02.50,Default,Toyonaga Aki,0,0,60,,Good work!
+Dialogue: 0,1:27:06.14,1:27:08.00,Default,Ichimura Airi,0,0,60,,That's not that kind of job!
+Dialogue: 0,1:27:09.27,1:27:11.27,Default,Yanase Reia,0,0,60,,As expected!
+Dialogue: 0,1:27:11.35,1:27:12.85,Default,Ichimura Airi,0,0,60,,Just what we'd expect!
+Dialogue: 0,1:27:13.20,1:27:14.36,Default,Yanase Reia,0,0,60,,And the end?
+Dialogue: 0,1:27:14.96,1:27:15.96,Default,Toyonaga Aki,0,0,60,,That's the end, right?
+Dialogue: 0,1:27:17.04,1:27:18.08,Default,Toyonaga Aki,0,0,60,,It doesn't have that attached.
+Dialogue: 0,1:27:18.16,1:27:21.24,Default,Toyonaga Aki,0,0,60,,You're Team H's resident flirt, after all!
+Dialogue: 0,1:27:21.32,1:27:21.73,Default,Ichimura Airi,0,0,60,,Right?
+Dialogue: 0,1:27:24.13,1:27:25.61,Default,Yanase Reia,0,0,60,,I'll read it.
+Dialogue: 0,1:27:26.27,1:27:27.21,Default,Toyonaga Aki,0,0,60,,Stop conducting!
+Dialogue: 0,1:27:27.29,1:27:30.19,Default,Yanase Reia,0,0,60,,From Takapi-san—
+Dialogue: 0,1:27:30.27,1:27:32.69,Default,Yanase Reia,0,0,60,,the member they want called is
+Dialogue: 0,1:27:33.41,1:27:34.35,Default,All,0,0,60,,Yui-pan!
+Dialogue: 0,1:27:37.96,1:27:39.46,Default,Yanase Reia,0,0,60,,Here's your line here,
+Dialogue: 0,1:27:39.54,1:27:41.60,Default,Yanase Reia,0,0,60,,and at the end your own cute
+Dialogue: 0,1:27:41.68,1:27:43.70,Default,Yanase Reia,0,0,60,,super-sweet one-liner, please.
+Dialogue: 0,1:27:44.86,1:27:49.06,Default,Ichimura Airi,0,0,60,,You're Team H's top specialist, after all.
+Dialogue: 0,1:27:49.14,1:27:52.66,Default,Kurihara Sae,0,0,60,,Yeah! It's no exaggeration to say this segment is made for that!
+Dialogue: 0,1:27:54.99,1:27:55.85,Default,Kurihara Sae,0,0,60,,Looking forward to it.
+Dialogue: 0,1:27:55.93,1:27:56.85,Default,Matsunaga Yui,0,0,60,,Should I think of it?
+Dialogue: 0,1:27:56.93,1:27:58.61,Default,Ichimura Airi,0,0,60,,And Yui-pan has just finished her play!
+Dialogue: 0,1:27:58.69,1:27:59.63,Default,Member,0,0,60,,Right.
+Dialogue: 0,1:27:59.71,1:28:01.12,Default,Ichimura Airi,0,0,60,,You've got the experience!
+Dialogue: 0,1:28:02.17,1:28:03.13,Default,Matsunaga Yui,0,0,60,,After Aki-san—
+Dialogue: 0,1:28:03.21,1:28:06.79,Default,Toyonaga Aki,0,0,60,,I didn't get much of a reaction either, so don't worry!
+Dialogue: 0,1:28:07.67,1:28:09.13,Default,Yanase Reia,0,0,60,,Are you ready?
+Dialogue: 0,1:28:09.21,1:28:13.75,Default,Yanase Reia,0,0,60,,Counting down to Yui-pan's super-cutesy line!
+Dialogue: 0,1:28:14.17,1:28:16.23,Default,All,0,0,60,,3, 2, 1!
+Dialogue: 0,1:28:16.74,1:28:21.06,Default,Matsunaga Yui,0,0,60,,It's Halloween night. I want to stay with you a little longer!
+Dialogue: 0,1:28:21.58,1:28:23.58,Default,Matsunaga Yui,0,0,60,,...was just Yui's little fantasy!
+Dialogue: 0,1:28:23.66,1:28:24.60,Default,Matsunaga Yui,0,0,60,,Tee-hee!
+Dialogue: 0,1:28:31.12,1:28:34.52,Default,Toyonaga Aki,0,0,60,,This is that one, right? It was a line from a stage play!
+Dialogue: 0,1:28:34.60,1:28:36.38,Default,Matsunaga Yui,0,0,60,,Yes, it's from my play.
+Dialogue: 0,1:28:36.90,1:28:40.48,Default,Matsunaga Yui,0,0,60,,The twist is that it was all my fantasy!
+Dialogue: 0,1:28:40.56,1:28:42.44,Default,Matsunaga Yui,0,0,60,,So that's what's written.
+Dialogue: 0,1:28:42.52,1:28:43.14,Default,Yanase Reia,0,0,60,,Wonderful!
+Dialogue: 0,1:28:43.84,1:28:44.31,Default,Toyonaga Aki,0,0,60,,"tee-hee"
+Dialogue: 0,1:28:45.28,1:28:46.62,Default,Matsunaga Yui,0,0,60,,The "tee-hee" was my ad-lib!
+Dialogue: 0,1:28:46.70,1:28:47.38,Default,Ichimura Airi,0,0,60,,Heeey—
+Dialogue: 0,1:28:47.94,1:28:49.97,Default,Yanase Reia,0,0,60,,Wait, wait.
+Dialogue: 0,1:28:50.05,1:28:50.40,Default,Matsunaga Yui,0,0,60,,Yes!
+Dialogue: 0,1:28:50.48,1:28:53.51,Default,Yanase Reia,0,0,60,,You said you wanted a cute ad-lib line at the end.
+Dialogue: 0,1:28:53.59,1:28:54.73,Default,Yanase Reia,0,0,60,,So "tee-hee" was your extra line?
+Dialogue: 0,1:28:54.81,1:28:55.63,Default,Ichimura Airi,0,0,60,,No no no no.
+Dialogue: 0,1:28:55.71,1:28:56.07,Default,Kurihara Sae,0,0,60,,Hey, Reia!
+Dialogue: 0,1:28:56.15,1:28:56.87,Default,Kurihara Sae,0,0,60,,So picky.
+Dialogue: 0,1:28:56.95,1:28:58.33,Default,Matsunaga Yui,0,0,60,,No no no—
+Dialogue: 0,1:29:02.87,1:29:04.39,Default,Ichimura Airi,0,0,60,,Right, that was Reia!
+Dialogue: 0,1:29:04.47,1:29:06.09,Default,Toyonaga Aki,0,0,60,,Yeah, we remember, we remember.
+Dialogue: 0,1:29:06.17,1:29:07.35,Default,Toyonaga Aki,0,0,60,,We'd remember even without this.
+Dialogue: 0,1:29:07.43,1:29:08.18,Default,Yanase Reia,0,0,60,,No, no, no.
+Dialogue: 0,1:29:08.26,1:29:11.20,Default,Toyonaga Aki,0,0,60,,"Something-something, I'll nibble you," right?
+Dialogue: 0,1:29:12.04,1:29:16.43,Default,Ichimura Airi,0,0,60,,Right — the part where we ask, "What would Reia have done?"
+Dialogue: 0,1:29:16.51,1:29:18.59,Default,Toyonaga Aki,0,0,60,,They said we can let this segment run over!
+Dialogue: 0,1:29:18.67,1:29:19.55,Default,Ichimura Airi,0,0,60,,yeah yeah yeah.
+Dialogue: 0,1:29:20.65,1:29:21.89,Default,Yanase Reia,0,0,60,,Wait, wait!
+Dialogue: 0,1:29:22.72,1:29:23.92,Default,Yanase Reia,0,0,60,,Wait.
+Dialogue: 0,1:29:24.00,1:29:28.24,Default,Kurihara Sae,0,0,60,,After that "I'll nibble you. Meow!" from earlier...
+Dialogue: 0,1:29:28.32,1:29:29.28,Default,Ichimura Airi,0,0,60,,Ah, true.
+Dialogue: 0,1:29:29.36,1:29:29.82,Default,Matsunaga Yui,0,0,60,,True.
+Dialogue: 0,1:29:29.90,1:29:30.84,Default,Ichimura Airi,0,0,60,,Let's do that, let's do that.
+Dialogue: 0,1:29:30.92,1:29:31.42,Default,Matsunaga Yui,0,0,60,,Let's go.
+Dialogue: 0,1:29:31.50,1:29:32.12,Default,Ichimura Airi,0,0,60,,Nice.
+Dialogue: 0,1:29:32.72,1:29:33.58,Default,Yanase Reia,0,0,60,,Eh, wait—
+Dialogue: 0,1:29:34.00,1:29:36.22,Default,Ichimura Airi,0,0,60,,Just the last part is fine, just the last part.
+Dialogue: 0,1:29:36.30,1:29:36.86,Default,Yanase Reia,0,0,60,,Like that?
+Dialogue: 0,1:29:36.94,1:29:38.34,Default,Toyonaga Aki,0,0,60,,You brought this on yourself!
+Dialogue: 0,1:29:38.42,1:29:41.38,Default,Matsunaga Yui,0,0,60,,You were tough on the juniors.
+Dialogue: 0,1:29:41.84,1:29:42.86,Default,Yanase Reia,0,0,60,,Dangit—
+Dialogue: 0,1:29:45.17,1:29:46.35,Default,Toyonaga Aki,0,0,60,,What goes around comes around!
+Dialogue: 0,1:29:47.25,1:29:48.02,Default,Yanase Reia,0,0,60,,Okay, got it.
+Dialogue: 0,1:29:49.09,1:29:50.18,Default,Ichimura Airi,0,0,60,,Then—
+Dialogue: 0,1:29:53.67,1:29:55.47,Default,Toyonaga Aki,0,0,60,,Reia's all-out
+Dialogue: 0,1:29:55.55,1:29:56.59,Default,Toyonaga Aki,0,0,60,,cute line in...
+Dialogue: 0,1:30:00.75,1:30:02.98,Default,Yanase Reia,0,0,60,,If you don't give me candy, I'll play a trick. Meow!
+Dialogue: 0,1:30:03.06,1:30:04.10,Default,Yanase Reia,0,0,60,,Ah, no — I got it wrong!
+Dialogue: 0,1:30:04.18,1:30:06.76,Default,Yanase Reia,0,0,60,,Oops — what was it, what was it?
+Dialogue: 0,1:30:06.84,1:30:08.40,Default,Yanase Reia,0,0,60,,Um, if you don't give me candy—
+Dialogue: 0,1:30:08.54,1:30:10.66,Default,Toyonaga Aki,0,0,60,,Anything's fine as long as you nibble!
+Dialogue: 0,1:30:11.39,1:30:13.87,Default,Kurihara Sae,0,0,60,,Or, Reia, could you do it with the second group?
+Dialogue: 0,1:30:15.31,1:30:17.48,Default,Yanase Reia,0,0,60,,I want to get offstage already!
+Dialogue: 0,1:30:18.16,1:30:19.04,Default,Yanase Reia,0,0,60,,Here we go!
+Dialogue: 0,1:30:21.23,1:30:22.46,Default,Yanase Reia,0,0,60,,Face forward, please.
+Dialogue: 0,1:30:24.05,1:30:27.39,Default,Yanase Reia,0,0,60,,If you don't give me candy I'll turn into a cat
+Dialogue: 0,1:30:27.47,1:30:31.94,Default,Yanase Reia,0,0,60,,and nibble you. Meow! Please keep me as your pet!
+Dialogue: 0,1:30:33.70,1:30:34.80,Default,Yanase Reia,0,0,60,,Thank you!
+Dialogue: 0,1:30:35.86,1:30:38.00,Default,Toyonaga Aki,0,0,60,,So, next up is the second group!
+Dialogue: 0,1:30:38.28,1:30:39.30,Default,Multiple,0,0,60,,Go ahead!
+Dialogue: 0,1:30:48.10,1:30:52.56,Default,Ryuto Ayane,0,0,60,,Okay, the second group's here too! Pumpkins, a prince... what, a pumpkin prince?
+Dialogue: 0,1:30:52.64,1:30:55.64,Default,Ryuto Ayane,0,0,60,,Everyone came in costume.
+Dialogue: 0,1:30:59.42,1:31:02.62,Default,Ryuto Ayane,0,0,60,,For the second half, we're continuing
+Dialogue: 0,1:31:02.70,1:31:06.36,Default,Ryuto Ayane,0,0,60,,the Cute-Line Contest—Halloween Edition!
+Dialogue: 0,1:31:09.40,1:31:13.38,Default,Ryuto Ayane,0,0,60,,Okay? The first person is pretty important.
+Dialogue: 0,1:31:14.76,1:31:16.46,Default,Ryuto Ayane,0,0,60,,Here we go now!
+Dialogue: 0,1:31:18.57,1:31:22.36,Default,Ryuto Ayane,0,0,60,,Fujino Kokoha-san, please.
+Dialogue: 0,1:31:22.96,1:31:24.58,Default,Ryuto Ayane,0,0,60,,Please come to the middle.
+Dialogue: 0,1:31:24.97,1:31:29.63,Default,Ryuto Ayane,0,0,60,,When I give the signal, everyone count down from three!
+Dialogue: 0,1:31:30.46,1:31:32.40,Default,Ryuto Ayane,0,0,60,,Okay — are you ready? Prepared yourself?
+Dialogue: 0,1:31:32.50,1:31:33.19,Default,Fujino Kokoha,0,0,60,,Yes, I'm ready!
+Dialogue: 0,1:31:33.27,1:31:37.17,Default,Ryuto Ayane,0,0,60,,Okay, ready — 3, 2, 1!
+Dialogue: 0,1:31:37.93,1:31:39.71,Default,Fujino Kokoha,0,0,60,,I hate you, you know.
+Dialogue: 0,1:31:39.79,1:31:40.27,Default,Fujino Kokoha,0,0,60,,Hmph.
+Dialogue: 0,1:31:43.14,1:31:45.51,Default,Ishibashi Ibuki,0,0,60,,Huh, what's that?
+Dialogue: 0,1:31:45.51,1:31:46.80,Default,Fujino Kokoha,0,0,60,,That's what it says!
+Dialogue: 0,1:31:51.30,1:31:55.80,Default,Fujino Kokoha,0,0,60,,It says, "Give a little snort of laughter."
+Dialogue: 0,1:31:55.88,1:32:00.50,Default,Ryuto Ayane,0,0,60,,This was written by a fan, so it's amazing —
+Dialogue: 0,1:32:00.60,1:32:01.82,Default,Ryuto Ayane,0,0,60,,they really get Fujikoko-san!
+Dialogue: 0,1:32:01.90,1:32:03.38,Default,Fujino Kokoha,0,0,60,,They get me — thank you.
+Dialogue: 0,1:32:03.46,1:32:06.46,Default,Ryuto Ayane,0,0,60,,Next person—
+Dialogue: 0,1:32:09.52,1:32:11.56,Default,Ryuto Ayane,0,0,60,,The top batter's amazing!
+Dialogue: 0,1:32:12.53,1:32:16.58,Default,Ryuto Ayane,0,0,60,,Shibui-chan — from Shu-san.
+Dialogue: 0,1:32:16.66,1:32:17.13,Default,Shibui Mina,0,0,60,,Yes!
+Dialogue: 0,1:32:18.28,1:32:19.04,Default,Fuchigami Mai,0,0,60,,Looking forward to it!
+Dialogue: 0,1:32:19.12,1:32:22.15,Default,Ryuto Ayane,0,0,60,,Ready?
+Dialogue: 0,1:32:24.58,1:32:25.33,Default,Fujino Kokoha,0,0,60,,What was that voice just now?
+Dialogue: 0,1:32:25.41,1:32:26.32,Default,Ryuto Ayane,0,0,60,,Here we go!
+Dialogue: 0,1:32:28.10,1:32:29.28,Default,Ishibashi Ibuki,0,0,60,,This is important!
+Dialogue: 0,1:32:29.44,1:32:30.80,Default,Ishibashi Ibuki,0,0,60,,Cuteness is what counts, they say!
+Dialogue: 0,1:32:31.34,1:32:31.90,Default,Fuchigami Mai,0,0,60,,Do your best.
+Dialogue: 0,1:32:31.98,1:32:33.54,Default,Ryuto Ayane,0,0,60,,Ready, set—
+Dialogue: 0,1:32:37.00,1:32:38.88,Default,Shibui Mina,0,0,60,,Do you love Mina?
+Dialogue: 0,1:32:39.18,1:32:41.62,Default,Shibui Mina,0,0,60,,If you don't say you love me, I'll pout!
+Dialogue: 0,1:32:41.70,1:32:42.90,Default,Shibui Mina,0,0,60,,I love you—!
+Dialogue: 0,1:32:43.38,1:32:43.92,Default,Crowd,0,0,60,,Ooh.
+Dialogue: 0,1:32:50.91,1:32:51.95,Default,Yamauchi Yuna,0,0,60,,She looks a little happy.
+Dialogue: 0,1:32:52.03,1:32:53.77,Default,Ryuto Ayane,0,0,60,,Yeah, a little happy.
+Dialogue: 0,1:32:53.85,1:32:54.97,Default,Ryuto Ayane,0,0,60,,Third person—
+Dialogue: 0,1:32:59.98,1:33:01.60,Default,Ryuto Ayane,0,0,60,,This is from "Kagoshima no Ojisan."
+Dialogue: 0,1:33:01.68,1:33:02.45,Default,Ryuto Ayane,0,0,60,,Go ahead, Ibu-san.
+Dialogue: 0,1:33:05.40,1:33:06.85,Default,Shibui Mina,0,0,60,,Prince—
+Dialogue: 0,1:33:06.96,1:33:07.98,Default,Shibui Mina,0,0,60,,Pumpkin prince.
+Dialogue: 0,1:33:09.00,1:33:10.60,Default,Ryuto Ayane,0,0,60,,Tell us when you're ready.
+Dialogue: 0,1:33:11.64,1:33:12.64,Default,Ishibashi Ibuki,0,0,60,,Okay.
+Dialogue: 0,1:33:13.18,1:33:15.34,Default,Ryuto Ayane,0,0,60,,Here we go — ready—
+Dialogue: 0,1:33:15.42,1:33:17.66,Default,All,0,0,60,,3, 2, 1!
+Dialogue: 0,1:33:18.14,1:33:18.82,Default,Ishibashi Ibuki,0,0,60,,Hey—
+Dialogue: 0,1:33:19.34,1:33:20.94,Default,Ishibashi Ibuki,0,0,60,,You were looking at another girl just now,
+Dialogue: 0,1:33:21.02,1:33:22.80,Default,Ishibashi Ibuki,0,0,60,,huh? You weren't?
+Dialogue: 0,1:33:23.28,1:33:25.06,Default,Ishibashi Ibuki,0,0,60,,Liar — you definitely were.
+Dialogue: 0,1:33:25.41,1:33:26.85,Default,Ishibashi Ibuki,0,0,60,,Look only at Ibuki.
+Dialogue: 0,1:33:27.89,1:33:28.30,Default,Ishibashi Ibuki,0,0,60,,Please!
+Dialogue: 0,1:33:31.04,1:33:31.70,Default,Fujino Kokoha,0,0,60,,So cute!
+Dialogue: 0,1:33:32.32,1:33:35.50,Default,Shibui Mina,0,0,60,,Wow! Impressive! Amazing!
+Dialogue: 0,1:33:37.19,1:33:40.02,Default,Yamauchi Yuna,0,0,60,,Excuse me — she's already done.
+Dialogue: 0,1:33:40.49,1:33:42.63,Default,Ishibashi Ibuki,0,0,60,,I thought I wouldn't get to do a cute line!
+Dialogue: 0,1:33:42.71,1:33:44.07,Default,Ishibashi Ibuki,0,0,60,,and it's over.
+Dialogue: 0,1:33:45.22,1:33:46.60,Default,Ryuto Ayane,0,0,60,,Next.
+Dialogue: 0,1:33:46.68,1:33:48.85,Default,Ryuto Ayane,0,0,60,,Next member!
+Dialogue: 0,1:33:48.93,1:33:50.87,Default,Ryuto Ayane,0,0,60,,Princess Fuchigami Mai!
+Dialogue: 0,1:33:51.63,1:33:55.13,Default,Ryuto Ayane,0,0,60,,From the person in a suit and tie.
+Dialogue: 0,1:33:55.29,1:33:56.29,Default,Ryuto Ayane,0,0,60,,Here goes!
+Dialogue: 0,1:33:59.46,1:34:00.46,Default,Ryuto Ayane,0,0,60,,Please do.
+Dialogue: 0,1:34:01.64,1:34:02.58,Default,Fuchigami Mai,0,0,60,,Here we go!
+Dialogue: 0,1:34:02.66,1:34:03.62,Default,Ryuto Ayane,0,0,60,,Here we go!
+Dialogue: 0,1:34:03.70,1:34:04.46,Default,Ryuto Ayane,0,0,60,,Ready, set—
+Dialogue: 0,1:34:07.81,1:34:09.41,Default,Fuchigami Mai,0,0,60,,Today's Halloween, isn't it.
+Dialogue: 0,1:34:09.49,1:34:12.31,Default,Fuchigami Mai,0,0,60,,Even a ghost would do — I want you to come out!
+Dialogue: 0,1:34:13.90,1:34:16.10,Default,All,0,0,60,,Wow! So cute!
+Dialogue: 0,1:34:17.02,1:34:18.70,Default,Fuchigami Mai,0,0,60,,They'll come out if you say that!
+Dialogue: 0,1:34:20.72,1:34:22.80,Default,Ryuto Ayane,0,0,60,,Now the rest — the ones who haven't gone yet.
+Dialogue: 0,1:34:23.07,1:34:23.51,Default,Shibui Mina,0,0,60,,True!
+Dialogue: 0,1:34:23.74,1:34:25.05,Default,Fuchigami Mai,0,0,60,,The bar keeps getting higher toward the end!
+Dialogue: 0,1:34:27.12,1:34:28.44,Default,Fujino Kokoha,0,0,60,,Huh, that's not allowed!
+Dialogue: 0,1:34:28.44,1:34:31.40,Default,Ishibashi Ibuki,0,0,60,,I've got the headpiece on and I'm even holding this wand!
+Dialogue: 0,1:34:31.66,1:34:33.20,Default,Yamauchi Yuna,0,0,60,,What even is that? What do you mean?
+Dialogue: 0,1:34:33.39,1:34:34.33,Default,Fuchigami Mai,0,0,60,,True, pretty fired up.
+Dialogue: 0,1:34:34.46,1:34:37.50,Default,Shibui Mina,0,0,60,,Like earlier in the first half, people added "nya" and stuff—
+Dialogue: 0,1:34:37.98,1:34:39.40,Default,Fujino Kokoha,0,0,60,,Oh, right — options and stuff!
+Dialogue: 0,1:34:39.54,1:34:41.10,Default,Shibui Mina,0,0,60,,Yeah, at the end of your lines—
+Dialogue: 0,1:34:41.52,1:34:42.50,Default,Fuchigami Mai,0,0,60,,Options?
+Dialogue: 0,1:34:42.66,1:34:45.78,Default,Shibui Mina,0,0,60,,We had "nya" and so on, so the remaining four—
+Dialogue: 0,1:34:45.86,1:34:48.00,Default,Shibui Mina,0,0,60,,half can add those options.
+Dialogue: 0,1:34:48.08,1:34:49.96,Default,Yamauchi Yuna,0,0,60,,That's a different story.
+Dialogue: 0,1:34:50.04,1:34:51.98,Default,Shibui Mina,0,0,60,,Hey, you only said that just now.
+Dialogue: 0,1:34:53.96,1:34:56.04,Default,Ryuto Ayane,0,0,60,,Then the very last member—
+Dialogue: 0,1:34:59.40,1:35:01.44,Default,Ryuto Ayane,0,0,60,,Let's go to the next member!
+Dialogue: 0,1:35:03.94,1:35:05.54,Default,Ryuto Ayane,0,0,60,,Yuna-san!
+Dialogue: 0,1:35:05.72,1:35:07.40,Default,Ryuto Ayane,0,0,60,,This is from a fan.
+Dialogue: 0,1:35:07.56,1:35:08.06,Default,Ryuto Ayane,0,0,60,,Go ahead.
+Dialogue: 0,1:35:08.14,1:35:08.86,Default,Member,0,0,60,,It's not the last one!
+Dialogue: 0,1:35:09.22,1:35:10.26,Default,Member,0,0,60,,I don't want to be last!
+Dialogue: 0,1:35:18.65,1:35:19.43,Default,Ryuto Ayane,0,0,60,,Shall we go?
+Dialogue: 0,1:35:20.04,1:35:21.10,Default,Yamauchi Yuna,0,0,60,,Yes, fine.
+Dialogue: 0,1:35:21.18,1:35:22.20,Default,Ryuto Ayane,0,0,60,,Ready, set—
+Dialogue: 0,1:35:22.64,1:35:22.90,Default,All,0,0,60,,3
+Dialogue: 0,1:35:23.42,1:35:23.86,Default,All,0,0,60,,2
+Dialogue: 0,1:35:23.94,1:35:24.48,Default,All,0,0,60,,1
+Dialogue: 0,1:35:24.56,1:35:28.08,Default,Yamauchi Yuna,0,0,60,,Give me candy, or I'll turn you into candy!
+Dialogue: 0,1:35:28.84,1:35:31.04,Default,Yamauchi Yuna,0,0,60,,Don't you ever say that!
+Dialogue: 0,1:35:38.02,1:35:40.62,Default,Ishibashi Ibuki,0,0,60,,What does that mean?
+Dialogue: 0,1:35:40.68,1:35:44.04,Default,Yamauchi Yuna,0,0,60,,Sorry — even reading it, what does it mean?
+Dialogue: 0,1:35:44.60,1:35:46.66,Default,Multiple,0,0,60,,It was Osaka dialect.
+Dialogue: 0,1:35:46.74,1:35:47.74,Default,Fujino Kokoha,0,0,60,,If you don't give me candy—
+Dialogue: 0,1:35:47.82,1:35:48.98,Default,Fuchigami Mai,0,0,60,,Maybe they're from Osaka.
+Dialogue: 0,1:35:49.06,1:35:51.56,Default,Ryuto Ayane,0,0,60,,Three left now,
+Dialogue: 0,1:35:51.64,1:35:52.96,Default,Ryuto Ayane,0,0,60,,here we go.
+Dialogue: 0,1:35:53.60,1:35:55.34,Default,Ryuto Ayane,0,0,60,,Next up!
+Dialogue: 0,1:35:55.42,1:36:00.43,Default,Ryuto Ayane,0,0,60,,Yes, it's me! This is from Melonpan-san.
+Dialogue: 0,1:36:00.85,1:36:03.43,Default,Ryuto Ayane,0,0,60,,Could someone give me a count-in?
+Dialogue: 0,1:36:04.38,1:36:05.52,Default,Multiple,0,0,60,,Ready, set—
+Dialogue: 0,1:36:08.79,1:36:09.93,Default,Ryuto Ayane,0,0,60,,Trick or treat!
+Dialogue: 0,1:36:10.15,1:36:13.58,Default,Ryuto Ayane,0,0,60,,Give me candy, or I'll bury you in Ayane's cheeks!
+Dialogue: 0,1:36:21.54,1:36:22.16,Default,Fuchigami Mai,0,0,60,,Whoever came up with this line—
+Dialogue: 0,1:36:25.14,1:36:26.37,Default,Ishibashi Ibuki,0,0,60,,Who's left?
+Dialogue: 0,1:36:27.59,1:36:28.39,Default,Yamauchi Yuna,0,0,60,,Wait—
+Dialogue: 0,1:36:30.36,1:36:31.50,Default,Ishibashi Ibuki,0,0,60,,Isn't that a bad attitude?
+Dialogue: 0,1:36:31.60,1:36:35.30,Default,Yamauchi Yuna,0,0,60,,Ishimatsu-san, please don't swing that around!
+Dialogue: 0,1:36:35.72,1:36:37.72,Default,Ryuto Ayane,0,0,60,,How are you feeling now?
+Dialogue: 0,1:36:39.46,1:36:41.24,Default,Ishimatsu Yuina,0,0,60,,I hope I get called next.
+Dialogue: 0,1:36:41.32,1:36:41.70,Default,All,0,0,60,,I see.
+Dialogue: 0,1:36:43.00,1:36:44.50,Default,Ryuto Ayane,0,0,60,,How do you feel now?
+Dialogue: 0,1:36:44.58,1:36:46.46,Default,Ishikawa Amiyu,0,0,60,,Ryuto, please hurry up and draw!
+Dialogue: 0,1:36:47.26,1:36:49.02,Default,Ryuto Ayane,0,0,60,,All right, I'll do my best.
+Dialogue: 0,1:36:49.10,1:36:51.02,Default,Fujino Kokoha,0,0,60,,This is nerve-racking!
+Dialogue: 0,1:36:51.10,1:36:52.40,Default,Shibui Mina,0,0,60,,So nerve-racking!
+Dialogue: 0,1:36:54.27,1:36:56.81,Default,Ryuto Ayane,0,0,60,,Here we go!
+Dialogue: 0,1:36:58.33,1:36:59.59,Default,Ryuto Ayane,0,0,60,,Amiyu-san!
+Dialogue: 0,1:37:05.58,1:37:08.20,Default,Ryuto Ayane,0,0,60,,Amiyu's line comes from Non-chan-san. Go ahead!
+Dialogue: 0,1:37:08.90,1:37:09.80,Default,Ishikawa Amiyu,0,0,60,,Wait a moment, please!
+Dialogue: 0,1:37:09.91,1:37:11.09,Default,Ishibashi Ibuki,0,0,60,,Okay — take it slow.
+Dialogue: 0,1:37:11.88,1:37:12.24,Default,Ishikawa Amiyu,0,0,60,,Yes!
+Dialogue: 0,1:37:14.14,1:37:15.12,Default,Ryuto Ayane,0,0,60,,Alright, here we go!
+Dialogue: 0,1:37:15.20,1:37:16.10,Default,Ryuto Ayane,0,0,60,,Ready—
+Dialogue: 0,1:37:16.22,1:37:18.25,Default,All,0,0,60,,3, 2, 1!
+Dialogue: 0,1:37:18.91,1:37:21.73,Default,Ishikawa Amiyu,0,0,60,,Today, I'll be your very own little devil!
+Dialogue: 0,1:37:23.07,1:37:28.87,Default,All,0,0,60,,So cute! A classic!
+Dialogue: 0,1:37:29.00,1:37:31.30,Default,Ryuto Ayane,0,0,60,,Next is the last one. Who's left?
+Dialogue: 0,1:37:31.46,1:37:32.50,Default,Shibui Mina,0,0,60,,Who's last?
+Dialogue: 0,1:37:33.30,1:37:34.40,Default,Yamauchi Yuna,0,0,60,,Ishimatsu-san!
+Dialogue: 0,1:37:37.95,1:37:38.95,Default,Yamauchi Yuna,0,0,60,,Please calm down!
+Dialogue: 0,1:37:39.06,1:37:41.50,Default,Ryuto Ayane,0,0,60,,So, the last one... who could it be?
+Dialogue: 0,1:37:43.52,1:37:44.26,Default,Ryuto Ayane,0,0,60,,Who could it be?
+Dialogue: 0,1:37:44.34,1:37:44.96,Default,Ishibashi Ibuki,0,0,60,,I don't know!
+Dialogue: 0,1:37:45.16,1:37:45.82,Default,Ryuto Ayane,0,0,60,,I can't tell anymore, huh?
+Dialogue: 0,1:37:46.04,1:37:47.10,Default,Yamauchi Yuna,0,0,60,,I don't know who.
+Dialogue: 0,1:37:47.26,1:37:47.76,Default,Ishibashi Ibuki,0,0,60,,Maybe Ibuki.
+Dialogue: 0,1:37:47.84,1:37:48.72,Default,Yamauchi Yuna,0,0,60,,Don't know — maybe Ibuki.
+Dialogue: 0,1:37:48.80,1:37:49.33,Default,Shibui Mina,0,0,60,,True.
+Dialogue: 0,1:37:50.00,1:37:51.40,Default,Ryuto Ayane,0,0,60,,Drumroll... ba-dum!
+Dialogue: 0,1:37:51.52,1:37:53.00,Default,Ryuto Ayane,0,0,60,,Ishimatsu Yuina-san.
+Dialogue: 0,1:37:53.14,1:37:54.20,Default,All,0,0,60,,Yay!
+Dialogue: 0,1:37:55.32,1:37:57.20,Default,Ryuto Ayane,0,0,60,,This one's from Hirotaro-san!
+Dialogue: 0,1:38:01.22,1:38:03.20,Default,Ishikawa Amiyu,0,0,60,,Look forward to it!
+Dialogue: 0,1:38:05.08,1:38:06.20,Default,Ishimatsu Yuina,0,0,60,,What is it?
+Dialogue: 0,1:38:06.60,1:38:07.60,Default,Ishikawa Amiyu,0,0,60,,I'm curious!
+Dialogue: 0,1:38:08.04,1:38:09.81,Default,Yamauchi Yuna,0,0,60,,It says something that elaborate?
+Dialogue: 0,1:38:09.89,1:38:14.69,Default,Ryuto Ayane,0,0,60,,The special last member gets to add "meow" to her lines!
+Dialogue: 0,1:38:15.00,1:38:16.55,Default,Fujino Kokoha,0,0,60,,Right, you've got the cat ears!
+Dialogue: 0,1:38:16.63,1:38:19.90,Default,Ishimatsu Yuina,0,0,60,,Will I be okay?
+Dialogue: 0,1:38:22.34,1:38:23.62,Default,Ryuto Ayane,0,0,60,,Shall we start?
+Dialogue: 0,1:38:24.61,1:38:25.43,Default,Ryuto Ayane,0,0,60,,Here we go!
+Dialogue: 0,1:38:25.51,1:38:26.44,Default,Ryuto Ayane,0,0,60,,Ready, set—
+Dialogue: 0,1:38:26.52,1:38:27.08,Default,All,0,0,60,,3
+Dialogue: 0,1:38:27.58,1:38:27.98,Default,All,0,0,60,,2
+Dialogue: 0,1:38:28.58,1:38:28.98,Default,All,0,0,60,,1
+Dialogue: 0,1:38:29.66,1:38:33.04,Default,Ishimatsu Yuina,0,0,60,,Hey! You were sending hearts to Rii-ritan at the Tenshi show, weren't you?
+Dialogue: 0,1:38:34.20,1:38:36.14,Default,Ishimatsu Yuina,0,0,60,,Now I'm not gonna play any tricks on you, nya!
+Dialogue: 0,1:38:36.22,1:38:37.06,Default,Ishimatsu Yuina,0,0,60,,Hmph!
+Dialogue: 0,1:38:38.60,1:38:39.60,Default,All,0,0,60,,So cute!
+Dialogue: 0,1:38:41.60,1:38:43.20,Default,Shibui Mina,0,0,60,,So cute!
+Dialogue: 0,1:38:45.20,1:38:46.80,Default,Ryuto Ayane,0,0,60,,Come on, everyone — wasn't that cute?
+Dialogue: 0,1:38:47.86,1:38:50.04,Default,Yamauchi Yuna,0,0,60,,You made it look like a total breeze!
+Dialogue: 0,1:38:50.12,1:38:51.28,Default,Shibui Mina,0,0,60,,That was great!
+Dialogue: 0,1:38:51.36,1:38:52.40,Default,Ryuto Ayane,0,0,60,,So cute!
+Dialogue: 0,1:38:53.98,1:38:57.40,Default,Ryuto Ayane,0,0,60,,And that's all for our Cute-Line Contest — Halloween Edition!
+Dialogue: 0,1:39:02.95,1:39:05.53,Default,Ryuto Ayane,0,0,60,,Well, I think everyone has transformed into pumpkins and such, so for a moment—
+Dialogue: 0,1:39:05.53,1:39:06.67,Default,Ryuto Ayane,0,0,60,,let's change back into humans.
+Dialogue: 0,1:39:06.67,1:39:07.75,Default,Shibui Mina,0,0,60,,Let's change back into humans.
+Dialogue: 0,1:39:09.37,1:39:09.97,Default,Shibui Mina,0,0,60,,I'll change back!
+Dialogue: 0,1:39:11.56,1:39:14.18,Default,Ryuto Ayane,0,0,60,,First-half group, please come out too.
+Dialogue: 0,1:39:15.82,1:39:19.02,Default,Toyonaga Aki,0,0,60,,Something dashed through the wings —
+Dialogue: 0,1:39:19.10,1:39:20.10,Default,Toyonaga Aki,0,0,60,,and it was Ibuki.
+Dialogue: 0,1:39:21.20,1:39:22.54,Default,Ikuno Rina,0,0,60,,Bright orange!
+Dialogue: 0,1:39:22.62,1:39:25.02,Default,Toyonaga Aki,0,0,60,,Out of the corner of my eye,
+Dialogue: 0,1:39:25.10,1:39:29.38,Default,Toyonaga Aki,0,0,60,,a big orange blur went racing across the stage!
+Dialogue: 0,1:39:30.14,1:39:32.22,Default,Ryuto Ayane,0,0,60,,Today, you all got to see us
+Dialogue: 0,1:39:32.30,1:39:35.06,Default,Ryuto Ayane,0,0,60,,in our adorable pumpkin costumes—
+Dialogue: 0,1:39:35.14,1:39:36.42,Default,Toyonaga Aki,0,0,60,,We're not all pumpkins!
+Dialogue: 0,1:39:36.50,1:39:39.66,Default,Ryuto Ayane,0,0,60,,Pumpkins and other Halloween-y outfits —
+Dialogue: 0,1:39:39.74,1:39:40.72,Default,Ryuto Ayane,0,0,60,,All looking lovely!
+Dialogue: 0,1:39:40.80,1:39:43.38,Default,Ryuto Ayane,0,0,60,,And you heard lots of cute lines,
+Dialogue: 0,1:39:43.46,1:39:44.48,Default,Ryuto Ayane,0,0,60,,so I hope
+Dialogue: 0,1:39:44.56,1:39:47.58,Default,Ryuto Ayane,0,0,60,,your ears are very happy!
+Dialogue: 0,1:39:47.66,1:39:48.62,Default,Ryuto Ayane,0,0,60,,Right?
+Dialogue: 0,1:39:51.36,1:39:52.54,Default,Ryuto Ayane,0,0,60,,Thank you so very much.
+Dialogue: 0,1:39:52.76,1:39:54.66,Default,Ryuto Ayane,0,0,60,,Now, on to the last song.
+Dialogue: 0,1:39:54.74,1:39:55.72,Default,Ryuto Ayane,0,0,60,,Please listen.
+Dialogue: 0,1:39:55.80,1:39:56.96,Default,Ryuto Ayane,0,0,60,,"Inochi no Imi."
+Dialogue: 0,1:47:02.10,1:47:04.54,Default,Crowd,0,0,60,,All right! Let's get that encore going!
+Dialogue: 0,1:47:07.28,1:47:08.90,Default,Crowd,0,0,60,,Encore!
+Dialogue: 0,1:47:25.00,1:47:29.00,Default,Crowd,0,0,60,,Encore! Encore!
+Dialogue: 0,1:47:51.00,1:47:55.00,Default,Crowd,0,0,60,,Encore! Encore!
+Dialogue: 0,1:49:09.00,1:49:13.00,Default,Crowd,0,0,60,,Encore! Encore!
+Dialogue: 0,1:50:27.00,1:50:31.00,Default,Crowd,0,0,60,,Encore! Encore!
+Dialogue: 0,1:53:03.00,1:53:07.00,Default,Crowd,0,0,60,,Encore! Encore!
+Dialogue: 0,1:57:48.00,1:57:50.42,Default,Toyonaga Aki,0,0,60,,Thank you for the encore!
+Dialogue: 0,1:57:50.50,1:57:53.20,Default,Toyonaga Aki,0,0,60,,Let's have fun with Team H right to the end!
+Dialogue: 0,2:01:09.39,2:01:10.85,Default,Toyonaga Aki,0,0,60,,Thank you for the encore!
+Dialogue: 0,2:01:11.60,2:01:13.40,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:01:18.18,2:01:21.86,Default,Toyonaga Aki,0,0,60,,"I'm Crying," "Zutto Zutto" — two songs in a row—
+Dialogue: 0,2:01:22.29,2:01:25.93,Default,Toyonaga Aki,0,0,60,,here I'd like to hear impressions of the show.
+Dialogue: 0,2:01:26.09,2:01:27.35,Default,Toyonaga Aki,0,0,60,,Hmm, who…
+Dialogue: 0,2:01:27.63,2:01:29.07,Default,Toyonaga Aki,0,0,60,,Today, Yunnya-chan.
+Dialogue: 0,2:01:30.65,2:01:31.67,Default,Toyonaga Aki,0,0,60,,Ah, Yunnya-chan.
+Dialogue: 0,2:01:31.85,2:01:32.51,Default,Toyonaga Aki,0,0,60,,Ah, sorry.
+Dialogue: 0,2:01:32.59,2:01:33.65,Default,Toyonaga Aki,0,0,60,,That wasn't Yuuna-chan.
+Dialogue: 0,2:01:33.73,2:01:34.08,Default,Toyonaga Aki,0,0,60,,Sorry.
+Dialogue: 0,2:01:34.16,2:01:34.51,Default,Yamauchi Yuna,0,0,60,,Yeah, I know.
+Dialogue: 0,2:01:34.59,2:01:36.90,Default,Ishimatsu Yuina,0,0,60,,Thank you so much for coming today.
+Dialogue: 0,2:01:42.06,2:01:48.50,Default,Ishimatsu Yuina,0,0,60,,Today was my first Mokugekisha in a while, and together with the members and fans,
+Dialogue: 0,2:01:48.94,2:01:51.16,Default,Ishimatsu Yuina,0,0,60,,It felt like we grew closer today.
+Dialogue: 0,2:01:51.24,2:01:53.96,Default,Ishimatsu Yuina,0,0,60,,I was happy I could enjoy it with everyone,
+Dialogue: 0,2:01:54.62,2:01:56.09,Default,Ishimatsu Yuina,0,0,60,,and since it's Halloween,
+Dialogue: 0,2:01:56.30,2:01:59.22,Default,Ishimatsu Yuina,0,0,60,,I did my best with the cute lines, too,
+Dialogue: 0,2:01:59.30,2:02:01.30,Default,Ishimatsu Yuina,0,0,60,,so please give me lots of love.
+Dialogue: 0,2:02:03.90,2:02:04.80,Default,Ishimatsu Yuina,0,0,60,,Thank you!
+Dialogue: 0,2:02:04.98,2:02:06.20,Default,Ishimatsu Yuina,0,0,60,,I had a lot of fun!
+Dialogue: 0,2:02:06.34,2:02:07.40,Default,Ishimatsu Yuina,0,0,60,,Thank you very much!
+Dialogue: 0,2:02:11.36,2:02:12.24,Default,Toyonaga Aki,0,0,60,,And one more person—
+Dialogue: 0,2:02:12.32,2:02:15.30,Default,Toyonaga Aki,0,0,60,,Yui-pan, you've played different positions these past two days!
+Dialogue: 0,2:02:15.38,2:02:16.02,Default,Matsunaga Yui,0,0,60,,Yes!
+Dialogue: 0,2:02:17.34,2:02:19.00,Default,Matsunaga Yui,0,0,60,,Thank you for coming today.
+Dialogue: 0,2:02:24.40,2:02:27.12,Default,Matsunaga Yui,0,0,60,,I performed yesterday and today,
+Dialogue: 0,2:02:27.20,2:02:30.44,Default,Matsunaga Yui,0,0,60,,Yesterday was a new position, and today was a different one,
+Dialogue: 0,2:02:31.54,2:02:34.02,Default,Matsunaga Yui,0,0,60,,so my head was all scrambled,
+Dialogue: 0,2:02:34.10,2:02:35.72,Default,Matsunaga Yui,0,0,60,,but with those cute lines, I managed to—
+Dialogue: 0,2:02:35.80,2:02:37.56,Default,Matsunaga Yui,0,0,60,,What was it — not "splurge"—
+Dialogue: 0,2:02:38.18,2:02:39.96,Default,Matsunaga Yui,0,0,60,,"Redeem"! I think I redeemed myself!
+Dialogue: 0,2:02:40.88,2:02:41.84,Default,Matsunaga Yui,0,0,60,,That's what I think.
+Dialogue: 0,2:02:41.92,2:02:44.54,Default,Matsunaga Yui,0,0,60,,Next is Ibuki-san's graduation show,
+Dialogue: 0,2:02:45.16,2:02:47.96,Default,Matsunaga Yui,0,0,60,,so I want to work hard to send her off properly.
+Dialogue: 0,2:02:48.04,2:02:49.60,Default,Matsunaga Yui,0,0,60,,Thank you for today.
+Dialogue: 0,2:02:55.30,2:02:57.24,Default,Toyonaga Aki,0,0,60,,Really, everyone in Team H,
+Dialogue: 0,2:02:57.32,2:03:00.88,Default,Toyonaga Aki,0,0,60,,and the juniors have become so reliable.
+Dialogue: 0,2:03:00.96,2:03:03.36,Default,Toyonaga Aki,0,0,60,,Standing in a show again after so long,
+Dialogue: 0,2:03:03.44,2:03:03.92,Default,Toyonaga Aki,0,0,60,,everyone—
+Dialogue: 0,2:03:04.00,2:03:07.62,Default,Toyonaga Aki,0,0,60,,how everyone grew on tour and over the summer,
+Dialogue: 0,2:03:07.70,2:03:10.66,Default,Toyonaga Aki,0,0,60,,and the bonds that deepened somewhere else,
+Dialogue: 0,2:03:10.74,2:03:13.38,Default,Toyonaga Aki,0,0,60,,getting to deliver that to you again
+Dialogue: 0,2:03:13.46,2:03:15.10,Default,Toyonaga Aki,0,0,60,,makes me so happy.
+Dialogue: 0,2:03:15.18,2:03:18.40,Default,Toyonaga Aki,0,0,60,,Please keep watching Team H going forward.
+Dialogue: 0,2:03:18.50,2:03:19.90,Default,All,0,0,60,,Please look after us!
+Dialogue: 0,2:03:20.68,2:03:21.80,Default,All,0,0,60,,Please look after us!
+Dialogue: 0,2:03:26.56,2:03:28.60,Default,Toyonaga Aki,0,0,60,,And now, here's a surprise!
+Dialogue: 0,2:03:32.07,2:03:35.20,Default,Toyonaga Aki,0,0,60,,Presenting: the seat lottery!
+Dialogue: 0,2:03:38.55,2:03:42.08,Default,Toyonaga Aki,0,0,60,,So let me explain this part.
+Dialogue: 0,2:03:42.16,2:03:45.08,Default,Toyonaga Aki,0,0,60,,Each member will drawn a seat number at random—
+Dialogue: 0,2:03:45.16,2:03:46.98,Default,Toyonaga Aki,0,0,60,,they've already drawn them—
+Dialogue: 0,2:03:47.06,2:03:50.36,Default,Toyonaga Aki,0,0,60,,and whoever has that seat
+Dialogue: 0,2:03:50.44,2:03:54.72,Default,Toyonaga Aki,0,0,60,,will win a signed instant photo of the member who drew it!
+Dialogue: 0,2:03:59.07,2:03:59.79,Default,Toyonaga Aki,0,0,60,,Yes, over here.
+Dialogue: 0,2:03:59.87,2:04:03.45,Default,Toyonaga Aki,0,0,60,,I'd like Ikuno Rina-chan to explain the rules.
+Dialogue: 0,2:04:04.03,2:04:05.97,Default,Ikuno Rina,0,0,60,,After what happened yesterday,
+Dialogue: 0,2:04:06.05,2:04:09.49,Default,Ikuno Rina,0,0,60,,please check carefully—really carefully!
+Dialogue: 0,2:04:09.57,2:04:11.21,Default,Ikuno Rina,0,0,60,,please check your seat number.
+Dialogue: 0,2:04:11.29,2:04:12.05,Default,Ikuno Rina,0,0,60,,First, right now—
+Dialogue: 0,2:04:12.13,2:04:13.21,Default,Ikuno Rina,0,0,60,,yes, right now, now, now, now—
+Dialogue: 0,2:04:13.29,2:04:15.46,Default,Toyonaga Aki,0,0,60,,if you don't, Ikuno-san will get mad at you later.
+Dialogue: 0,2:04:15.54,2:04:16.32,Default,Ikuno Rina,0,0,60,,I'll get mad, you know!
+Dialogue: 0,2:04:16.40,2:04:18.40,Default,Ikuno Rina,0,0,60,,I got mad yesterday!
+Dialogue: 0,2:04:19.22,2:04:20.13,Default,Toyonaga Aki,0,0,60,,That's right.
+Dialogue: 0,2:04:20.21,2:04:21.67,Default,Ikuno Rina,0,0,60,,Did you check?
+Dialogue: 0,2:04:22.29,2:04:25.37,Default,Ikuno Rina,0,0,60,,And when your seat number is called,
+Dialogue: 0,2:04:25.45,2:04:26.97,Default,Ikuno Rina,0,0,60,,please answer with a lively "Yes!"
+Dialogue: 0,2:04:27.05,2:04:28.49,Default,Ikuno Rina,0,0,60,,Make sure you do!
+Dialogue: 0,2:04:28.57,2:04:29.33,Default,Crowd,0,0,60,,Yes!
+Dialogue: 0,2:04:31.21,2:04:33.51,Default,Toyonaga Aki,0,0,60,,Alright, so today let's
+Dialogue: 0,2:04:34.15,2:04:35.81,Default,Toyonaga Aki,0,0,60,,start with Pan-chan.
+Dialogue: 0,2:04:35.89,2:04:36.24,Default,Matsunaga Yui,0,0,60,,Yes!
+Dialogue: 0,2:04:36.32,2:04:37.91,Default,Matsunaga Yui,0,0,60,,First person—
+Dialogue: 0,2:04:38.67,2:04:41.11,Default,Matsunaga Yui,0,0,60,,row 5, number 16.
+Dialogue: 0,2:04:48.65,2:04:51.16,Default,Toyonaga Aki,0,0,60,,If you don't answer loud,
+Dialogue: 0,2:04:51.24,2:04:53.20,Default,Toyonaga Aki,0,0,60,,Ikuno-san will get mad about this too.
+Dialogue: 0,2:04:53.28,2:04:54.00,Default,Matsunaga Yui,0,0,60,,That's right — answer.
+Dialogue: 0,2:04:54.08,2:04:55.43,Default,Ikuno Rina,0,0,60,,Please answer properly.
+Dialogue: 0,2:04:56.91,2:04:58.57,Default,Fuchigami Mai,0,0,60,,Fuchigami Mai's photo goes to—
+Dialogue: 0,2:04:58.65,2:05:02.91,Default,Fuchigami Mai,0,0,60,,Standing row 1, number 11! One-one-one!
+Dialogue: 0,2:05:08.84,2:05:10.70,Default,Toyonaga Aki,0,0,60,,That's how loud standing room gets!
+Dialogue: 0,2:05:10.99,2:05:11.74,Default,Member,0,0,60,,Amazing!
+Dialogue: 0,2:05:11.82,2:05:13.52,Default,Ikuno Rina,0,0,60,,Okay, my turn's here.
+Dialogue: 0,2:05:14.18,2:05:15.68,Default,Ikuno Rina,0,0,60,,Here goes! Ikuno Rina!
+Dialogue: 0,2:05:19.09,2:05:21.53,Default,Ikuno Rina,0,0,60,,Standing row 3, number 4.
+Dialogue: 0,2:05:23.82,2:05:25.20,Default,Ikuno Rina,0,0,60,,Congratulations!
+Dialogue: 0,2:05:27.92,2:05:29.15,Default,Toyonaga Aki,0,0,60,,So energetic!
+Dialogue: 0,2:05:29.32,2:05:31.72,Default,Ishibashi Ibuki,0,0,60,,Next, mine — Ishibashi Ibuki —
+Dialogue: 0,2:05:32.34,2:05:35.64,Default,Ishibashi Ibuki,0,0,60,,standing row 1, number 16.
+Dialogue: 0,2:05:43.55,2:05:44.91,Default,Toyonaga Aki,0,0,60,,Standing seats keep coming,
+Dialogue: 0,2:05:44.99,2:05:47.75,Default,Toyonaga Aki,0,0,60,,Toyonaga Aki's cheki goes to
+Dialogue: 0,2:05:48.81,2:05:50.83,Default,Toyonaga Aki,0,0,60,,row 13, number 20.
+Dialogue: 0,2:05:57.34,2:06:01.70,Default,Nakano Minami,0,0,60,,Nakano Minami's cheki goes to row 8, number 22!
+Dialogue: 0,2:06:09.18,2:06:14.20,Default,Ichimura Airi,0,0,60,,Ichimura Airi's cheki goes to row 14, number 14!
+Dialogue: 0,2:06:19.80,2:06:22.88,Default,Toyonaga Aki,0,0,60,,She's bowing like it's a graduation ceremony!
+Dialogue: 0,2:06:22.96,2:06:27.40,Default,Ishikawa Amiyu,0,0,60,,Ishikawa Amiyu's cheki goes to row 2, number 15!
+Dialogue: 0,2:06:31.76,2:06:33.12,Default,Toyonaga Aki,0,0,60,,Shall we swap rows?
+Dialogue: 0,2:06:33.20,2:06:37.43,Default,Ryuto Ayane,0,0,60,,Ryuto Ayane's cheki: row 12, number 9.
+Dialogue: 0,2:06:38.80,2:06:39.40,Default,Ryuto Ayane,0,0,60,,Huh?
+Dialogue: 0,2:06:41.76,2:06:43.30,Default,All,0,0,60,,Congratulations!
+Dialogue: 0,2:06:47.64,2:06:51.42,Default,Ishimatsu Yuina,0,0,60,,Ishimatsu Yuina's cheki goes to row 14, number 24!
+Dialogue: 0,2:06:56.78,2:07:01.10,Default,Fujino Kokoha,0,0,60,,Fujino Kokoha's cheki goes to row 15, number 25!
+Dialogue: 0,2:07:07.50,2:07:11.60,Default,Yamauchi Yuna,0,0,60,,My cheki — Yamauchi Yuna — row 1, number 14.
+Dialogue: 0,2:07:17.15,2:07:19.58,Default,Kitagawa Hiiro,0,0,60,,Okay, then — Kitagawa Hiiro's cheki goes to
+Dialogue: 0,2:07:19.66,2:07:22.15,Default,Kitagawa Hiiro,0,0,60,,row 6, number 23!
+Dialogue: 0,2:07:29.81,2:07:34.56,Default,Kurihara Sae,0,0,60,,Sae-chan's cheki goes to row 14, number 6!
+Dialogue: 0,2:07:40.92,2:07:46.34,Default,Shibui Mina,0,0,60,,Shibui Mina's cheki goes to row 10, number 18!
+Dialogue: 0,2:07:53.06,2:07:56.30,Default,Yanase Reia,0,0,60,,Yanase Reia's cheki goes to
+Dialogue: 0,2:07:56.40,2:07:59.40,Default,Yanase Reia,0,0,60,,row 13, number 15!
+Dialogue: 0,2:08:06.10,2:08:11.01,Default,Toyonaga Aki,0,0,60,,And those sixteen are today's winners.
+Dialogue: 0,2:08:11.09,2:08:14.85,Default,Toyonaga Aki,0,0,60,,Have you all enjoyed the show so far today?
+Dialogue: 0,2:08:18.37,2:08:19.55,Default,Toyonaga Aki,0,0,60,,Thank you!
+Dialogue: 0,2:08:19.69,2:08:25.03,Default,Toyonaga Aki,0,0,60,,Performing here at United Lab like this,
+Dialogue: 0,2:08:25.11,2:08:28.53,Default,Toyonaga Aki,0,0,60,,getting to spend this Halloween day together,
+Dialogue: 0,2:08:28.61,2:08:32.77,Default,Toyonaga Aki,0,0,60,,and making memories with you this autumn —
+Dialogue: 0,2:08:32.85,2:08:34.83,Default,Toyonaga Aki,0,0,60,,we're really happy too.
+Dialogue: 0,2:08:34.91,2:08:40.25,Default,Toyonaga Aki,0,0,60,,We want to make many more memories with you in the seasons ahead,
+Dialogue: 0,2:08:40.33,2:08:42.25,Default,Toyonaga Aki,0,0,60,,so please keep walking with us!
+Dialogue: 0,2:08:42.34,2:08:43.30,Default,All,0,0,60,,Please look after us!
+Dialogue: 0,2:08:44.36,2:08:45.40,Default,All,0,0,60,,Please look after us!
+Dialogue: 0,2:08:52.75,2:08:55.30,Default,Toyonaga Aki,0,0,60,,Next is the last song —
+Dialogue: 0,2:08:56.20,2:08:58.26,Default,Toyonaga Aki,0,0,60,,can you give today's loudest cheer?
+Dialogue: 0,2:09:00.62,2:09:03.00,Default,Toyonaga Aki,0,0,60,,You can go even louder, right? Can you?
+Dialogue: 0,2:09:05.50,2:09:06.80,Default,Toyonaga Aki,0,0,60,,Thank you!
+Dialogue: 0,2:09:07.44,2:09:09.18,Default,Toyonaga Aki,0,0,60,,Please listen to the last song.
+Dialogue: 0,2:09:09.26,2:09:09.80,Default,Toyonaga Aki,0,0,60,,Pioneer!
+Dialogue: 0,2:09:16.10,2:09:18.20,Default,Toyonaga Aki,0,0,60,,Team H, let's go!
+Dialogue: 0,2:13:03.44,2:13:05.62,Default,Ishibashi Ibuki,0,0,60,,Thank you very much for coming today.
+Dialogue: 0,2:13:15.84,2:13:19.84,Default,Ishibashi Ibuki,0,0,60,,After this, with gratitude, we will see you off.
+Dialogue: 0,2:13:20.16,2:13:22.98,Default,Ishibashi Ibuki,0,0,60,,Please wait where you are until staff guide you.
+Dialogue: 0,2:13:23.46,2:13:25.40,Default,Ishibashi Ibuki,0,0,60,,Now, let's do our final greeting.
+Dialogue: 0,2:13:25.94,2:13:31.15,Default,Kurihara Sae,0,0,60,,And here, there is something I want to tell everyone.
+Dialogue: 0,2:13:34.82,2:13:38.74,Default,Kurihara Sae,0,0,60,,I, Kurihara Sae, will graduate from HKT48.
+Dialogue: 0,2:13:44.97,2:13:49.42,Default,Kurihara Sae,0,0,60,,Since I was little I longed for this, and I got to be the idol I dreamed of being,
+Dialogue: 0,2:13:49.47,2:13:53.81,Default,Kurihara Sae,0,0,60,,and the about thirteen years I got to spend in HKT48
+Dialogue: 0,2:13:53.89,2:13:59.12,Default,Kurihara Sae,0,0,60,,were youth for me every day — truly happy days.
+Dialogue: 0,2:14:01.50,2:14:06.62,Default,Kurihara Sae,0,0,60,,To the members and staff I love and hold so dear,
+Dialogue: 0,2:14:06.90,2:14:07.98,Default,Kurihara Sae,0,0,60,,and
+Dialogue: 0,2:14:08.40,2:14:11.96,Default,Kurihara Sae,0,0,60,,to the fans who always support us
+Dialogue: 0,2:14:12.04,2:14:15.52,Default,Kurihara Sae,0,0,60,,with such great love — getting to meet you
+Dialogue: 0,2:14:15.60,2:14:18.58,Default,Kurihara Sae,0,0,60,,is an irreplaceable treasure to me.
+Dialogue: 0,2:14:20.56,2:14:25.16,Default,Kurihara Sae,0,0,60,,For thirteen years I thought about HKT48 every day,
+Dialogue: 0,2:14:25.68,2:14:29.66,Default,Kurihara Sae,0,0,60,,so of course I'm lonely and the tears come,
+Dialogue: 0,2:14:33.04,2:14:38.35,Default,Kurihara Sae,0,0,60,,but from here I want to step toward the next future.
+Dialogue: 0,2:14:42.10,2:14:45.18,Default,Kurihara Sae,0,0,60,,I plan for my graduation period to be around spring.
+Dialogue: 0,2:14:46.78,2:14:50.08,Default,Kurihara Sae,0,0,60,,I plan to graduate with the arrival of spring.
+Dialogue: 0,2:14:51.85,2:14:56.21,Default,Kurihara Sae,0,0,60,,Until the end, while making happy memories with everyone,
+Dialogue: 0,2:14:56.81,2:14:59.83,Default,Kurihara Sae,0,0,60,,I want to give my all as the idol I love so much.
+Dialogue: 0,2:15:00.00,2:15:01.06,Default,Kurihara Sae,0,0,60,,That's how I feel.
+Dialogue: 0,2:15:01.28,2:15:03.66,Default,Kurihara Sae,0,0,60,,Please keep supporting me until the end.
+Dialogue: 0,2:15:17.64,2:15:20.90,Default,Toyonaga Aki,0,0,60,,These past two days have been so much fun,
+Dialogue: 0,2:15:22.70,2:15:24.42,Default,Toyonaga Aki,0,0,60,,that getting this lonely
+Dialogue: 0,2:15:25.29,2:15:28.17,Default,Toyonaga Aki,0,0,60,,is something none of us had our hearts ready for,
+Dialogue: 0,2:15:28.33,2:15:29.37,Default,Toyonaga Aki,0,0,60,,I think.
+Dialogue: 0,2:15:30.56,2:15:33.20,Default,Toyonaga Aki,0,0,60,,Especially since we became Team H,
+Dialogue: 0,2:15:33.98,2:15:37.05,Default,Toyonaga Aki,0,0,60,,talking so much with Sae-chan,
+Dialogue: 0,2:15:37.53,2:15:40.57,Default,Toyonaga Aki,0,0,60,,looking back on the days she supported us,
+Dialogue: 0,2:15:42.83,2:15:48.80,Default,Toyonaga Aki,0,0,60,,now there aren't many of us left from when Team H was formed,
+Dialogue: 0,2:15:48.88,2:15:54.10,Default,Toyonaga Aki,0,0,60,,but even so, Team H's color has grown this
+Dialogue: 0,2:15:54.64,2:15:55.66,Default,Toyonaga Aki,0,0,60,,vivid,
+Dialogue: 0,2:15:56.55,2:16:00.75,Default,Toyonaga Aki,0,0,60,,and while we said we wanted this and that,
+Dialogue: 0,2:16:01.21,2:16:05.75,Default,Toyonaga Aki,0,0,60,,Sae-chan was always at the center of the time we built this team.
+Dialogue: 0,2:16:06.45,2:16:09.39,Default,Toyonaga Aki,0,0,60,,Sae-chan might say that's not true,
+Dialogue: 0,2:16:09.47,2:16:12.97,Default,Toyonaga Aki,0,0,60,,but everyone here has learned from Sae-chan's back —
+Dialogue: 0,2:16:14.27,2:16:15.50,Default,Toyonaga Aki,0,0,60,,well, not just her back.
+Dialogue: 0,2:16:15.55,2:16:18.71,Default,Toyonaga Aki,0,0,60,,Sae-chan is a senpai who's always been beside us,
+Dialogue: 0,2:16:20.61,2:16:23.99,Default,Toyonaga Aki,0,0,60,,and because of all we've learned from her warmth,
+Dialogue: 0,2:16:25.40,2:16:28.18,Default,Toyonaga Aki,0,0,60,,I know everyone feels uneasy now,
+Dialogue: 0,2:16:29.15,2:16:33.43,Default,Toyonaga Aki,0,0,60,,but for Sae-chan to decide to leave
+Dialogue: 0,2:16:33.99,2:16:35.74,Default,Toyonaga Aki,0,0,60,,the HKT48 she loves more than anything
+Dialogue: 0,2:16:35.79,2:16:40.08,Default,Toyonaga Aki,0,0,60,,must have been incredibly hard.
+Dialogue: 0,2:16:40.16,2:16:46.20,Default,Toyonaga Aki,0,0,60,,That's why, until the end, with Sae-chan's beloved HKT48
+Dialogue: 0,2:16:46.28,2:16:50.18,Default,Toyonaga Aki,0,0,60,,and her beloved Team H shining as bright as they can,
+Dialogue: 0,2:16:50.66,2:16:53.70,Default,Toyonaga Aki,0,0,60,,let's spend the time until spring together.
+Dialogue: 0,2:16:53.78,2:16:56.04,Default,Toyonaga Aki,0,0,60,,Please keep supporting us.
+Dialogue: 0,2:16:56.12,2:16:57.36,Default,Kurihara Sae,0,0,60,,Please look after us.
+Dialogue: 0,2:16:57.60,2:16:59.20,Default,Kurihara Sae,0,0,60,,You all take care too.
+Dialogue: 0,2:17:03.50,2:17:07.36,Default,Toyonaga Aki,0,0,60,,Everyone, please keep supporting Sae-chan and
+Dialogue: 0,2:17:07.44,2:17:10.44,Default,Toyonaga Aki,0,0,60,,us — HKT48.
+Dialogue: 0,2:17:11.82,2:17:13.06,Default,All,0,0,60,,Please look after us!
+Dialogue: 0,2:17:22.65,2:17:24.60,Default,Ishibashi Ibuki,0,0,60,,Now, let's do our final greeting!
+Dialogue: 0,2:17:26.68,2:17:27.90,Default,Ishibashi Ibuki,0,0,60,,Ready, set—
+Dialogue: 0,2:17:30.08,2:17:31.40,Default,Ishibashi Ibuki,0,0,60,,Ready, set—
+Dialogue: 0,2:17:33.84,2:17:34.90,Default,All,0,0,60,,Thank you very much!
+Dialogue: 0,2:17:51.32,2:17:52.32,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:18:04.37,2:18:05.37,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:18:22.12,2:18:23.47,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:18:30.02,2:18:32.40,Default,Fuchigami Mai,0,0,60,,Thank you to everyone in the back, too!
+Dialogue: 0,2:18:35.13,2:18:36.13,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:18:37.80,2:18:38.80,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:18:42.75,2:18:44.75,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:18:47.87,2:18:48.87,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:18:51.21,2:18:52.36,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:18:53.91,2:18:55.86,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:00.79,2:19:01.79,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:03.92,2:19:05.27,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:08.18,2:19:11.00,Default,Toyonaga Aki,0,0,60,,Thank you to everyone standing, too!
+Dialogue: 0,2:19:11.78,2:19:15.30,Default,Toyonaga Aki,0,0,60,,And thanks to everyone watching on DMM!
+Dialogue: 0,2:19:15.38,2:19:16.36,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:19.28,2:19:20.78,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:23.49,2:19:24.49,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:27.08,2:19:28.33,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:29.20,2:19:31.20,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:32.33,2:19:33.43,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:35.71,2:19:36.71,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:42.75,2:19:43.75,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:43.83,2:19:44.71,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:19:51.97,2:19:52.97,Default,All,0,0,60,,Thank you!
+Dialogue: 0,2:20:01.80,2:20:03.80,Default,Kurihara Sae,0,0,60,,Let's make lots of memories until spring!
+Dialogue: 0,2:20:03.88,2:20:05.65,Default,Kurihara Sae,0,0,60,,Thank you!
+Dialogue: 0,2:20:13.70,2:20:15.76,Default,Yamauchi Yuna,0,0,60,,We're done—!
+Dialogue: 0,2:20:18.55,2:20:20.50,Default,Kurihara Sae,0,0,60,,Today was fun too, wasn't it!
+Dialogue: 0,2:20:21.72,2:20:23.54,Default,Yamauchi Yuna,0,0,60,,And the one saying that is you in the middle.
+Dialogue: 0,2:20:23.62,2:20:25.48,Default,Yanase Reia,0,0,60,,Of course it was fun.
+Dialogue: 0,2:20:25.56,2:20:27.38,Default,All,0,0,60,,It was fun, of course!
+Dialogue: 0,2:20:27.66,2:20:28.90,Default,Kurihara Sae,0,0,60,,It was Halloween, after all!
+Dialogue: 0,2:20:27.82,2:20:28.52,Default,Ichimura Airi,0,0,60,,Halloween!
+Dialogue: 0,2:20:29.52,2:20:33.30,Default,Toyonaga Aki,0,0,60,,In the last ten minutes or so, you suddenly started talking!
+Dialogue: 0,2:20:33.48,2:20:35.12,Default,Toyonaga Aki,0,0,60,,Sae-chan, look off to the side!
+Dialogue: 0,2:20:35.62,2:20:36.30,Default,Member,0,0,60,,Huh?
+Dialogue: 0,2:20:37.09,2:20:38.25,Default,Member,0,0,60,,She's so mad!
+Dialogue: 0,2:20:38.34,2:20:39.20,Default,Kurihara Sae,0,0,60,,So mad!
+Dialogue: 0,2:20:40.48,2:20:42.50,Default,Toyonaga Aki,0,0,60,,That's a face you can't show on camera!
+Dialogue: 0,2:20:43.15,2:20:44.63,Default,Yamauchi Yuna,0,0,60,,Sae-chan, today
+Dialogue: 0,2:20:44.71,2:20:47.07,Default,Yamauchi Yuna,0,0,60,,you announced your graduation —
+Dialogue: 0,2:20:47.15,2:20:48.23,Default,Yamauchi Yuna,0,0,60,,how do you feel?
+Dialogue: 0,2:20:49.20,2:20:49.76,Default,Kurihara Sae,0,0,60,,Well...
+Dialogue: 0,2:20:49.84,2:20:50.80,Default,Yamauchi Yuna,0,0,60,,Were you nervous?
+Dialogue: 0,2:20:50.90,2:20:55.90,Default,Kurihara Sae,0,0,60,,No — until right before, it hadn't really sunk in,
+Dialogue: 0,2:20:56.48,2:20:58.96,Default,Kurihara Sae,0,0,60,,but once I started talking, the tears came,
+Dialogue: 0,2:20:59.16,2:21:03.96,Default,Kurihara Sae,0,0,60,,and that's because I feel so strongly about HKT48
+Dialogue: 0,2:21:04.04,2:21:06.54,Default,Kurihara Sae,0,0,60,,that I got a little choked up.
+Dialogue: 0,2:21:07.96,2:21:10.04,Default,Kurihara Sae,0,0,60,,But my graduation is in spring,
+Dialogue: 0,2:21:10.12,2:21:12.60,Default,Kurihara Sae,0,0,60,,and there are about five months left —
+Dialogue: 0,2:21:13.34,2:21:15.40,Default,Kurihara Sae,0,0,60,,Six months? Five? Something like that,
+Dialogue: 0,2:21:15.58,2:21:19.72,Default,Kurihara Sae,0,0,60,,so I want to make more memories with everyone in Team H,
+Dialogue: 0,2:21:19.80,2:21:23.96,Default,Kurihara Sae,0,0,60,,and I want to make lots of happy memories with all of you too.
+Dialogue: 0,2:21:24.95,2:21:26.36,Default,Yamauchi Yuna,0,0,60,,Look at Yuina behind us.
+Dialogue: 0,2:21:27.98,2:21:29.26,Default,Kurihara Sae,0,0,60,,Is Yuina mad too?
+Dialogue: 0,2:21:29.40,2:21:31.78,Default,Yamauchi Yuna,0,0,60,,She is — she's glaring hard.
+Dialogue: 0,2:21:32.52,2:21:36.04,Default,Yamauchi Yuna,0,0,60,,But there's still time until graduation.
+Dialogue: 0,2:21:36.12,2:21:36.58,Default,Kurihara Sae,0,0,60,,That's right.
+Dialogue: 0,2:21:36.66,2:21:40.36,Default,Kurihara Sae,0,0,60,,I want to make lots of memories with Team H,
+Dialogue: 0,2:21:40.44,2:21:43.22,Default,Yamauchi Yuna,0,0,60,,Next Mokugekisha is Ibuki's.
+Dialogue: 0,2:21:43.30,2:21:47.02,Default,Ishibashi Ibuki,0,0,60,,That's right. Next is my graduation show.
+Dialogue: 0,2:21:48.48,2:21:49.60,Default,Yamauchi Yuna,0,0,60,,It's so sad.
+Dialogue: 0,2:21:50.90,2:21:52.98,Default,Ishibashi Ibuki,0,0,60,,It hasn't sunk in.
+Dialogue: 0,2:21:54.32,2:21:56.26,Default,Toyonaga Aki,0,0,60,,And she's the one who's graduating!
+Dialogue: 0,2:21:57.00,2:21:59.78,Default,Yamauchi Yuna,0,0,60,,We'll all see Ibuki off.
+Dialogue: 0,2:22:02.21,2:22:05.37,Default,Yamauchi Yuna,0,0,60,,Look forward to the next show too.
